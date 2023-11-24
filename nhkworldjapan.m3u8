@@ -1,12 +1,13 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:65535
-#EXT-X-VERSION:2
-#EXTINF:65535,
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/Stream(02)/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/Stream(01)/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/Stream(03)/index.m3u8
+
 
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0491654,RESOLUTION=320x240,FRAME-RATE=25.000,AUDIO="audio1"
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/01.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0991654,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
