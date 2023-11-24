@@ -21,8 +21,13 @@ https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/i
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="English",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_11_0.m3u8"
 
 #EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/Stream(02)/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/Stream(01)/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/Stream(03)/index.m3u8
+
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
 #http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
