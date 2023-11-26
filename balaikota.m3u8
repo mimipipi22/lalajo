@@ -1,14 +1,10 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch73%29/Stream(02)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch73%29/Stream(01)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch73%29/Stream(03)/index.m3u8
+#EXT-X-VERSION:1
+#EXT-X-SESSION-KEY:METHOD=AES-128,URI="http://www.nagra.com/key=73&prm=eyJjb250ZW50SWQiOiI3MyIsImtleUlkIjoiY2IzNjk3ZGYtNjE5NC00YjM2LWI4MmEtZDliNmIwZDA4MTIzIn0"
 
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
-##http://edge.linknetott.swiftserve.com/channelgroup1/cg023production/ch73/02.m3u8
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=424559,RESOLUTION=320x240,FRAME-RATE=25.000,AUDIO="audio1"
-##http://edge.linknetott.swiftserve.com/channelgroup1/cg023production/ch73/01.m3u8
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2402472,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
-##http://edge.linknetott.swiftserve.com/channelgroup1/cg023production/ch73/03.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
+http://edge.linknetott.swiftserve.com/channelgroup1/cg023production/ch73/02.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=424559,RESOLUTION=320x240,FRAME-RATE=25.000,AUDIO="audio1"
+http://edge.linknetott.swiftserve.com/channelgroup1/cg023production/ch73/01.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2402472,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
+http://edge.linknetott.swiftserve.com/channelgroup1/cg023production/ch73/03.m3u8
