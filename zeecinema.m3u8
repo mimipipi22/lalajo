@@ -1,2 +1,20 @@
 #EXTM3U
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/playlist.m3u8
+#EXT-X-VERSION:1
+#EXT-X-SESSION-KEY:METHOD=AES-128,URI="Zeecinemahd.isml/aes128.key"
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=654000,AVERAGE-BANDWIDTH=595000,CODECS="mp4a.40.2,avc1.77.30",RESOLUTION=426x240,FRAME-RATE=25,VIDEO-RANGE=SDR
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=352400.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1511000,AVERAGE-BANDWIDTH=1374000,CODECS="mp4a.40.2,avc1.77.30",RESOLUTION=854x480,FRAME-RATE=25,VIDEO-RANGE=SDR
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=1087600.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2735000,AVERAGE-BANDWIDTH=2487000,CODECS="mp4a.40.2,avc1.100.31",RESOLUTION=1280x720,FRAME-RATE=25,VIDEO-RANGE=SDR
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5184000,AVERAGE-BANDWIDTH=4713000,CODECS="mp4a.40.2,avc1.100.40",RESOLUTION=1920x1080,FRAME-RATE=25,VIDEO-RANGE=SDR
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=4237600.m3u8
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=243000,AVERAGE-BANDWIDTH=221000,CODECS="mp4a.40.2"
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000.m3u8
+
+
+##https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/playlist.m3u8
