@@ -1,12 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2400567,RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO="audio1"
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-
-##EXTM3U
-##EXT-X-TARGETDURATION:65535
-##EXT-X-VERSION:2
-##EXTINF:65535,
-##http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/80292
-##http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf
+#EXT-X-TARGETDURATION:65535
+#EXT-X-VERSION:2
+#EXTINF:65535,
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/80292
