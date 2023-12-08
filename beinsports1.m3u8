@@ -1,7 +1,22 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:65535
-#EXT-X-VERSION:2
-#EXTINF:65535,
-http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/165105
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://ctrl.laotv.la/live/Bsport1/sc-gaFECQ/a0_index.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",URI="https://ctrl.laotv.la/live/Bsport1/sc-gaFECQ/a1_index.m3u8"
+
+# Variants
+#EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=2913000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
+https://ctrl.laotv.la/live/Bsport1/sc-gaFECQ/v0_index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2312000,AVERAGE-BANDWIDTH=2024000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
+https://ctrl.laotv.la/live/Bsport1/sc-gaFECQ/v1_index.m3u8
+
+
+##EXTM3U
+##EXT-X-TARGETDURATION:65535
+##EXT-X-VERSION:2
+##EXTINF:65535,
+##http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/165105
 ##http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165105
 ##http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/165105
