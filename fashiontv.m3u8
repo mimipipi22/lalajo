@@ -1,14 +1,10 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
-
-##EXTM3U
-##EXT-X-TARGETDURATION:65535
-##EXT-X-VERSION:2
-##EXTINF:65535,
-##http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298530
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch168%29/Stream(01)/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch168%29/Stream(02)/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+http://vod.linknetott.swiftcontent.com:80/Content/HLS/Live/Channel%28ch168%29/Stream(03)/index.m3u8
 
 ##EXTM3U
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,RESOLUTION=960x540
