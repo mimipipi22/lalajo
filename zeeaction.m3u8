@@ -1,20 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-SESSION-KEY:METHOD=AES-128,URI="Zeeaction.isml/aes128.key"
-
-# variants
-#EXT-X-STREAM-INF:BANDWIDTH=532000,AVERAGE-BANDWIDTH=483000,CODECS="mp4a.40.2,avc1.77.30",RESOLUTION=256x144,FRAME-RATE=25,VIDEO-RANGE=SDR
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=247600.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=899000,AVERAGE-BANDWIDTH=817000,CODECS="mp4a.40.2,avc1.77.30",RESOLUTION=426x240,FRAME-RATE=25,VIDEO-RANGE=SDR
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=562400.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1511000,AVERAGE-BANDWIDTH=1374000,CODECS="mp4a.40.2,avc1.77.30",RESOLUTION=640x360,FRAME-RATE=25,VIDEO-RANGE=SDR
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=1087600.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2735000,AVERAGE-BANDWIDTH=2487000,CODECS="mp4a.40.2,avc1.77.30",RESOLUTION=854x480,FRAME-RATE=25,VIDEO-RANGE=SDR
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=2137600.m3u8
-
-# variants
-#EXT-X-STREAM-INF:BANDWIDTH=243000,AVERAGE-BANDWIDTH=221000,CODECS="mp4a.40.2"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000.m3u8
-
-
-##https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=1511000,AVERAGE-BANDWIDTH=1374000,CODECS="mp4a.40.2,avc1.77.30",RESOLUTION=854x480,FRAME-RATE=25,VIDEO-RANGE=SDR
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=156139&extension=m3u8&play_token=LivhYGbK13
