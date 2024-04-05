@@ -1,13 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-INDEPENDENT-SEGMENTS
-
-# AUDIO groups
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://ctrl.laotv.la/live/StarMovie/sc-gaFECQ/a0_index.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",URI="https://ctrl.laotv.la/live/StarMovie/sc-gaFECQ/a1_index.m3u8"
-
-# Variants
-#EXT-X-STREAM-INF:BANDWIDTH=2312000,AVERAGE-BANDWIDTH=2143000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
-https://ctrl.laotv.la/live/StarMovie/sc-gaFECQ/v0_index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=2878000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
-https://ctrl.laotv.la/live/StarMovie/sc-gaFECQ/v1_index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7373146,RESOLUTION=1920x1080
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=155727&extension=m3u8
