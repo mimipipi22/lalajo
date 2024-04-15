@@ -562,6 +562,7 @@ https://servicebuss.transvision.co.id/live/master/4/4028c6856c3db2cc016cf0b533fe
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="https://hometv.pw/logo/movies/paramount.png" group-title="MOVIES",PARAMOUNT (Cord)
+http://170.254.18.106/PARAMOUNT/index.m3u8
 http://cord-cutter.net:8080/95549031/69361122/16201
 http://cord-cutter.net:8080/95549031/69361122/46694
 #https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
@@ -739,6 +740,19 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3274|User-Agent=OTT Navigator/ho
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3275|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Drama & Family" tvg-logo="" group-title="MOVIES",Bioskop Drama & Family (Htv)
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3276|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",TBS
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Star
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",BET
+http://170.254.18.106/BET/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",TNT
+http://170.254.18.106/TNT/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="BBCAmericaEast.us" group-title="MOVIES" tvg-logo="",BBC América East [Insp]
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/166.m3u8
@@ -1374,8 +1388,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="CNN INT Opt 1" tvg-logo="https://hometv.pw/logo/news/cnn_international.png" group-title="NEWS",CNN INT (F)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
+#EXTINF:-1 tvg-name="CNN INT Opt 1" tvg-logo="https://hometv.pw/logo/news/cnn_international.png" group-title="NEWS",CNN INT
+https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
+https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://hometv.pw/logo/news/cnbc_indonesia.png" group-title="NEWS",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
@@ -3905,23 +3920,23 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="BeIN Sport",BeIN Sports 4 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="BeIN Sport",BeIN Sports 5 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Sport",BeIN Sports 6 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="BeIN Sport",BeIN Sports 7 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 #EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR| BEIN SPORTS SD" tvg-logo="https://lo1.in/bs/bs.png" group-title="BeIN Sport",AR| BEIN SPORTS SD
