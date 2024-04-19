@@ -121,9 +121,6 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-name="ARIRANG" tvg-logo="https://hometv.pw/logo/entertainment/arirang.png" group-title="ENTERTAINMENT",ARIRANG (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment2/sbs_english.png" group-title="ENTERTAINMENT",SBS ENGLISH (Htv)
-http://103.127.209.247:8080/nvc247@home02/KznKIpJOV0/36.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png",Maxstream 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
@@ -252,9 +249,6 @@ https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 #EXTINF:-1 tvg-name="ANIPLUS" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="KIDS",ANIPLUS (D*)
 http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-name="ANIPLUS" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="KIDS",ANIPLUS (Htv)
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11803|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="KIDS",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
@@ -289,11 +283,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="KNOWLEDGE",DISCOVERY SCIENCE (L*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://hometv.pw/logo/knowledge/natgeo.png" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC (Htv)
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3281|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://hometv.pw/logo/knowledge/natgeo_wild.png" group-title="KNOWLEDGE",NAT GEO WILD (Htv)
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3282|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KNOWLEDGE" tvg-logo="https://www.autentic.com/images/curiositynow.jpg",Curiosity Now (L)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/curiositynow.m3u8
@@ -465,22 +454,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.png" group-title="MOVIES",Cinemax (cbm)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="MOVIES",HBO HD (Htv)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/2.ts
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="MOVIES",HBO SIGN HD (Htv)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/4.ts
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="MOVIES",HBO HITS HD (Htv)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/3.ts
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="MOVIES",HBO FAMILY HD (Htv)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/5.ts
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="MOVIES",CINEMAX HD (Htv)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/6.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -725,21 +698,6 @@ https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 
 ======================================================================================
-
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Action 1" tvg-logo="" group-title="MOVIES",Bioskop Action 1 (Htv)
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3273|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Action 2" tvg-logo="" group-title="MOVIES",Bioskop Action 2 (Htv)
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11785|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Thriller" tvg-logo="" group-title="MOVIES",Bioskop Thriller (Htv)
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11786|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Horror" tvg-logo="" group-title="MOVIES",Bioskop Horror (Htv)
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11787|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop China" tvg-logo="" group-title="MOVIES",Bioskop China (Htv)
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3274|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Bollywood" tvg-logo="" group-title="MOVIES",Bioskop Bollywood (Htv)
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3275|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Drama & Family" tvg-logo="" group-title="MOVIES",Bioskop Drama & Family (Htv)
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3276|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",TBS
 http://143.244.60.30/TBS/index.m3u8
@@ -1155,8 +1113,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="NATIONAL",TRANS TV (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (HTV)
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (D*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/indosiar
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (Startv)
@@ -1168,8 +1124,6 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg" group-title="NATIONAL", Indosiar (Cbm) 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (HTV)
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (D*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/sctv
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (Startv)
@@ -1181,9 +1135,6 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/9hqFKAj.png" group-title="NATIONAL", SCTV (Cbm) 
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL", MOJI (HTV)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL",MOJI (S*)
@@ -1586,10 +1537,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 #EXTINF:-1 tvg-name="USEE Sports 2" tvg-logo="https://i.ibb.co/sKtQGGW/Usee-sports-2-hometv.jpg" group-title="SPORTS ID",USEE Sports 2 (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
-#EXTINF:-1 tvg-name="MOJI" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="SPORTS ID",MOJI (Htv)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1803,6 +1750,26 @@ http://line.startv365.com:80/8521968645/9588171370/32329
 http://line.startv365.com:80/8521968645/9588171370/32328
 #EXTINF:-1 tvg-name="PT| Eleven Extra 4 HD" tvg-logo="https://lo1.in/por/port.png" group-title="SPORTS PREMIUM",PT| Eleven Extra 4 HD
 http://line.startv365.com:80/8521968645/9588171370/32327
+
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS PREMIUM",Astro Supersport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS PREMIUM",ASTRO Supersport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS PREMIUM",Astro Supersport 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS PREMIUM",Astro Supersport 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS PREMIUM", Astro Supersport 1
 http://195.26.87.217/live.ts?channelId=125429&uid=3453&deviceMac=00:1A:79:01:04:AC
@@ -3946,6 +3913,55 @@ https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 #https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+
+======================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Sport",BeIN Sports 1 Arabic HD 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="BeIN Sport",BeIN Sports 2 Arabic HD 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="BeIN Sport",BeIN Sports 3 Arabic HD 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="BeIN Sport",BeIN Sports 4 Arabic HD 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="BeIN Sport",BeIN Sports 5 Arabic HD 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BeIN Sport",BeIN Sports 6 Arabic HD 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="BeIN Sport",BeIN Sports 7 Arabic HD 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium97/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-8.png" group-title="BeIN Sport",BeIN Sports 8 Arabic HD 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-9.png" group-title="BeIN Sport",BeIN Sports 9 Arabic HD 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8|Origin=https://weblivehdplay.ru
+
+======================================================================================
 
 #EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR| BEIN SPORTS SD" tvg-logo="https://lo1.in/bs/bs.png" group-title="BeIN Sport",AR| BEIN SPORTS SD
 http://line.startv365.com:80/8521968645/9588171370/39323
