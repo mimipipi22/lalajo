@@ -1095,6 +1095,12 @@ https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarapop.m3u8
 
+#EXTINF:-1 tvg-id="Maleo Tv" tvg-name="Maleo Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e_wmjPTrnc3gimWefUzBc-Nl4jillgHvMj-o-aM1gw&s"  group-title="MUSIC",Maleo Tv
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pop Musik" tvg-name="Pop Musik" tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png"  group-title="MUSIC",Pop Musik
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="MUSIC",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
@@ -5835,14 +5841,205 @@ https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8|user-agent=okhttp/4.10.0
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
 
 
- =========================================== HBOGO VOD ===========================================
+ =========================================== VOD ===========================================
 
-#EXTINF:-1 type="" group-title="HBOGO ASIA 2023" tvg-logo="https://isv.m4uhd.tv/asset/2023/dec/the-marvel-2023-m4u.jpg",The Marvel 2023
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/04/film-godzilla-x-kong-the-new-empire-2024-lk21-d21.jpg",Godzilla x Kong: The New Empire 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/godzilla-x-kong-the-new-empire-2024-hdcam_X_bf3e60b3/21/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/01/film-i-s-s-2024-lk21-d21.jpg",I.S.S 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/i-s-s-2024-bluray_X_c76d4e87/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://isv.m4uhd.tv/asset/2024/jan/01/the-beekeeper-2024.jpg",The Beekeeper 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/the-beekeeper-2024-webdl_X_9aa0d5fe/20/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-the-phantom-warrior-2024-lk21-d21.jpg",The Phantom Warrior 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/the-phantom-warrior-2024-webdl_X_2833731d/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/03/film-she-came-from-the-woods-2023-lk21-d21.jpg",She came from the woods 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/she-came-from-the-woods-2023-bluray_X_92a4747c/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-bob-marley-one-love-2024-lk21-d21.jpg",Bob Marley - One Love 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/bob-marley-one-love-2024-webdl_X_cc5022ed/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/03/film-madame-web-2024-lk21-d21.jpg",Madame Web 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/madame-web-2024-webdl_X_2ed04b49/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Night_swim_poster.jpg/220px-Night_swim_poster.jpg",Night Swim 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://privatemaster.xyz/cdn/stream/master/dmlbL676xEwyGVeyPoWHKTZlOceO1W8pwynGwFOsy5N39CU2iJEJkp3IG5yxfBRW3rqO7RTpor3qJe1r7Kszm5SrVgUyIOjHHwjl7KQzbEY1EdO8tjEug42dWdOoUGvY/master.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/03/film-the-woods-are-real-2024-lk21-d21.jpg",The Wood Are Real 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/the-woods-are-real-2024-webdl_X_8f4fccd2/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/04/film-damaged-2024-lk21-d21.jpg",Damaged 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://yu0lzpillgev.enaak-cdn.com/hls2/01/01520/n3lfla4n5112_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=-fcS6YmST_GVoLEKnAK5uX26UQukzSdpzISid_Zd7q4&s=1713512551&e=129600&f=7601835&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=4788
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/04/film-la-madre-2024-lk21-d21.jpg",La Madre 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/la-madre-2024-webdl_X_492803dc/21/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/04/film-bag-of-lies-2024-lk21-d21.jpg",Bag Of Lies 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/bag-of-lies-2024-webdl_X_ccaae5d5/21/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/04/film-what-jennifer-did-2024-lk21-d21.jpg",What Jennifer Did 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/what-jennifer-did-2024-webdl_X_62919af0/21/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/02/film-code-8-part-ii-2024-lk21-d21.jpg",Code 8 Part 2 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/code-8-part-ii-2024-webdl_X_c7faf980/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/03/film-imaginary-2024-lk21-d21.jpg",Imaginary 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/imaginary-2024-webdl_X_8ac0dbdb/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/02/film-arctic-hollow-2024-lk21-d21.jpg",Artic Hollow 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/arctic-hollow-2024-webdl_X_0911f0d2/20/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/03/film-aftermath-2024-lk21-d21.jpg",Aftermath 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/aftermath-2024-webdl_X_3365d91c/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Lisa-frankenstein.jpeg/220px-Lisa-frankenstein.jpeg",Lisa Frankenstein 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/lisa-frankenstein-2024-webdl_X_bbe7160d/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/03/film-spaceman-2024-lk21-d21.jpg",Spaceman 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/spaceman-2024-webdl_X_1050ecaf/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://isv.m4uhd.tv/asset/2024/feb/01/five-blind-dates-2024.jpg",Five Blind Dates 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/five-blind-dates-2024-webdl_X_35ccfa45/20/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://isv.m4uhd.tv/asset/2024/jan/01/upgraded-2024.jpg",Upgraded 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/upgraded-2024-webdl_X_1293dd9c/20/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://isv.m4uhd.tv/asset/2023/dec/the-marvel-2023-m4u.jpg",The Marvel 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
 https://stream.hownetwork.xyz/yyy/the-marvels-2023-bluray_X_3976d65b/20/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://fhsphoenix.org/wp-content/uploads/2024/01/trolls.jpg",Trolls Band Together 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/trolls-band-together-2023-webdl_X_bb53dcd2/18/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM4NTk0NjktZDJhMi00MmFmLTliMzEtN2RkZDY2OTNiMDgzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",Wonka 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/wonka-2023-webdl_X_828b33e5/19/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/10/film-saw-x-2023-lk21-d21.jpg",Saw X 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/saw-x-2023-bluray_X_0c5fa68e/18/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdjY2E0OGYtNzc0Zi00YzkzLThiZDYtMmY4OWQ1NmNmNDZjXkEyXkFqcGdeQXVyNDA3MDgzOTQ@._V1_FMjpg_UX1000_.jpg",Gods of the Deep 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/gods-of-the-deep-2024-webdl_X_f24a3fd3/20/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/03/film-cyber-heist-2023-lk21-d21.jpg",Cyber Heist 2023 (HK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/cyber-heist-2023-webdl_X_2392cc27/1000/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/03/film-cyber-heist-2023-lk21-d21.jpg",The Brotherhood of Rebel 2023 (HK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/the-brotherhood-of-rebel-2023-bluray_X_4f293819/1000/480.m3u8
+
+======================================================================================
 
 #EXTINF:-1 type="" group-title="HBOGO ASIA 2023" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041607X0-portrait.jpg",Oprah And The Color Purple Journey 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
