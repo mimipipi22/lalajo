@@ -813,9 +813,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIFESTYLE",BBC Lifestyle
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71120
 
-EXTINF:-1 tvg-name="TV5 MONDE Style" tvg-logo="https://hometv.pw/logo/lifestyle/tv5_monde_style.png" group-title="LIFESTYLE",TV5 MONDE Style (Startv)
-http://startv365.com/8521968645/9588171370/156694
-
 #EXTINF:-1 tvg-name="FASHION TV" tvg-logo="https://hometv.pw/logo/lifestyle/fashiontv.png" group-title="LIFESTYLE",FASHION TV (Samsung)
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV Midnight" tvg-logo="https://hometv.pw/logo/lifestyle/ftv_midnight.png" group-title="LIFESTYLE",Fashion TV Midnight
@@ -854,24 +851,24 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.png" group-title="MOVIES",Cinemax (cbm)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="MOVIES" tvg-logo="https://assets.iptvsystem.my.id/img/hbo.png",HBO
-https://iptvsystem.my.id/index.mpd?cid=hbo&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YToyMDAzOjI4ZmU6N2QyYzozNDZlOmE0YzE6ODZkNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6ImJjNGNiNjg4ODQ1ODYxYjU1NmFlMTU0YjZkZjY5YmY0In0
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/hbo.png",HBO
+https://iptvsystem.my.id/index.mpd?cid=hbo&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjExMS45NS4xODUuMTg1IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJzaWduYXR1cmUiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJzZXNzaW9uX2lkIjoiOWZkYmViZTk5OTIxZDZiODI5MjY2N2RmZjFhM2E1MzMifQ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
-#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBOFamily1" group-title="MOVIES" tvg-logo="https://assets.iptvsystem.my.id/img/hbofamily.png",HBO Family
-https://iptvsystem.my.id/index.mpd?cid=hbofam&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YToyMDAzOjI4ZmU6N2QyYzozNDZlOmE0YzE6ODZkNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6ImJjNGNiNjg4ODQ1ODYxYjU1NmFlMTU0YjZkZjY5YmY0In0
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBOFamily1" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/hbofamily.png",HBO Family
+https://iptvsystem.my.id/index.mpd?cid=hbofam&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjExMS45NS4xODUuMTg1IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJzaWduYXR1cmUiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJzZXNzaW9uX2lkIjoiOWZkYmViZTk5OTIxZDZiODI5MjY2N2RmZjFhM2E1MzMifQ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
-#EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBOSignature1" group-title="MOVIES" tvg-logo="https://assets.iptvsystem.my.id/img/hbosig.png",HBO Signature
-https://iptvsystem.my.id/index.mpd?cid=hbosig&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YToyMDAzOjI4ZmU6N2QyYzozNDZlOmE0YzE6ODZkNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6ImJjNGNiNjg4ODQ1ODYxYjU1NmFlMTU0YjZkZjY5YmY0In0
+#EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBOSignature1" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/hbosig.png",HBO Signature
+https://iptvsystem.my.id/index.mpd?cid=hbosig&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjExMS45NS4xODUuMTg1IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJzaWduYXR1cmUiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJzZXNzaW9uX2lkIjoiOWZkYmViZTk5OTIxZDZiODI5MjY2N2RmZjFhM2E1MzMifQ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
-#EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBOHits1" group-title="MOVIES" tvg-logo="https://assets.iptvsystem.my.id/img/hbohits.png",HBO Hits
-https://iptvsystem.my.id/index.mpd?cid=hbohits&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YToyMDAzOjI4ZmU6N2QyYzozNDZlOmE0YzE6ODZkNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6ImJjNGNiNjg4ODQ1ODYxYjU1NmFlMTU0YjZkZjY5YmY0In0
+#EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBOHits1" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/hbohits.png",HBO Hits
+https://iptvsystem.my.id/index.mpd?cid=hbohits&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjExMS45NS4xODUuMTg1IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJzaWduYXR1cmUiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJzZXNzaW9uX2lkIjoiOWZkYmViZTk5OTIxZDZiODI5MjY2N2RmZjFhM2E1MzMifQ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" group-title="MOVIES" tvg-logo="https://assets.iptvsystem.my.id/img/cinemax.png",Cinemax
-https://iptvsystem.my.id/index.mpd?cid=cinemax&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIwMDE6NDQ4YToyMDAzOjI4ZmU6N2QyYzozNDZlOmE0YzE6ODZkNCIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwic2lnbmF0dXJlIjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09Iiwic2Vzc2lvbl9pZCI6ImJjNGNiNjg4ODQ1ODYxYjU1NmFlMTU0YjZkZjY5YmY0In0
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/cinemax.png",Cinemax
+https://iptvsystem.my.id/index.mpd?cid=cinemax&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjExMS45NS4xODUuMTg1IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJzaWduYXR1cmUiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJzZXNzaW9uX2lkIjoiOWZkYmViZTk5OTIxZDZiODI5MjY2N2RmZjFhM2E1Mz
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1092,11 +1089,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #EXTINF:-1 tvg-name="MCE" tvg-logo="https://hometv.pw/logo/movies/mce.png" group-title="MOVIES",MCE (Dens)
 http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-url="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO (STARTV)
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-url="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO (Gmlive)
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/108
-http://startv365.com:80/8521968645/9588171370/400200333
-#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-url="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase (STARTV)
-http://startv365.com:80/8521968645/9588171370/400251885
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1270,28 +1264,49 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="HBO GROUP",HBO (Thi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
+#https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="HBO GROUP",HBO Hits (Thi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="HBO GROUP",HBO Family (Thi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO GROUP",HBO Signature (Thi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="HBO GROUP",CINEMAX (Thi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
+https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
+
+#EXTINF:-0 group-title="HBO GROUP" tvg-id="hbo.th" tvg-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBO  3BBTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+#EXTINF:-0 group-title="HBO GROUP" tvg-id="hbosignature.th" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png", HBO Signature 3BBTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+#EXTINF:-0 group-title="HBO GROUP" tvg-id="HBOHits.th" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png", HBO Hits 3BBTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+#EXTINF:-0 group-title="HBO GROUP" tvg-id="HBOFamily.th" tvg-logo="https://i.postimg.cc/x8rbT9DC/lfdvs017.png",HBO FAMILY 3BBTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+#EXTINF:-1 group-title="HBO GROUP" tvg-id="cinemaxasia.sg" tvg-logo="https://cors-proxy.pulsesoftware.com/https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",CINEMAX 3BBTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
 ======================================================================================
 
@@ -1844,9 +1859,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNew
 #EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://hometv.pw/logo/news/fox_news.png" group-title="NEWS",FOX NEWS (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="",Sky News (Startv)
+#EXTINF:-1 group-title="NEWS" tvg-logo="",Sky News (Gmlive)
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/17
-http://startv365.com:80/8521968645/9588171370/191981
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -3833,10 +3847,6 @@ http://103.120.172.74:5500
 
 =========================================== KOREA ===========================================
 
-#EXTINF:-1 tvg-name="KP| SBS INTERNATIONAL HD" tvg-logo="https://lo1.in/kor/ss.png" group-title="KOREA",KP| SBS INTERNATIONAL HD (startv)
-http://line.startv365.com:80/8521968645/9588171370/191072
-#EXTINF:-1 tvg-id="sbsplus.kr" tvg-name="KP| SBS PLUS HD" tvg-logo="https://lo1.in/kor/sbp.png" group-title="KOREA",KP| SBS PLUS HD (startv)
-http://line.startv365.com:80/8521968645/9588171370/191073
 #EXTINF:-1 group-title="KOREA",TJB SBS
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="KOREA",CJB SBS
