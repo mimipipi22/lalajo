@@ -1,10 +1,25 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(02)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(01)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(03)/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="ENG_301_100",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ENG",URI="https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream106/streamPlaylist.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1140853,AVERAGE-BANDWIDTH=950711,CODECS="avc1.4D401F,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=50.000,SUBTITLES="subs"
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2100853,AVERAGE-BANDWIDTH=1750711,CODECS="avc1.4D401F,mp4a.40.2",RESOLUTION=712x400,FRAME-RATE=50.000,SUBTITLES="subs"
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3780853,AVERAGE-BANDWIDTH=3150711,CODECS="avc1.4D4020,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=50.000,SUBTITLES="subs"
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4780088,AVERAGE-BANDWIDTH=3983407,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=50.000,SUBTITLES="subs"
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6898557,AVERAGE-BANDWIDTH=5748798,CODECS="avc1.64002A,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=50.000,SUBTITLES="subs"
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(02)/index.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(01)/index.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/Stream(03)/index.m3u8
 
 
 ##EXTM3U
