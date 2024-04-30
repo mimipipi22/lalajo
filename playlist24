@@ -3510,29 +3510,29 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1051jtk0)/m
 
 =========================================== SINGAPORE ===========================================
 
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/cmWAYhj.png" group-title="SINGAPORE",Channel 5
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="SINGAPORE",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://i.imgur.com/7rrvBP9.png" group-title="SINGAPORE",Channel 8
+#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="SINGAPORE",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://i.imgur.com/FHso0Mp.png" group-title="SINGAPORE",Channel U
+#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="SINGAPORE",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="SINGAPORE",Suria
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="SINGAPORE",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhnVS3vNi7M2d2/hNtSPVw", "kid":"mXADjvbFSOOXaPOh/29QgQ" } ], "type":"temporary" }
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3546,9 +3546,10 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 ##https://aqfadtv.xyz/live/mewatch/animax/index.mpd
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 tvg-id="SGEM.id" group-title="SINGAPORE"  ch-number="471" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",GEM
+#EXTINF:-1 tvg-id="SGEM.id" group-title="SINGAPORE"  ch-number="471" tvg-logo="https://poster.starhubgo.com/Linear_channels2/814_1920x1080_HTV.png",GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
+https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 ##https://aqfadtv.xyz/live/mewatch/gem/index.mpd
 https://d2q3zea8ff7bj4.cloudfront.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
@@ -3573,7 +3574,7 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="SINGAPORE",HBO (Sg)
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png" group-title="SINGAPORE",HBO (Sg)
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3593,7 +3594,7 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="SINGAPORE",Cinemax (Sg)
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" group-title="SINGAPORE",Cinemax (Sg)
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4544,7 +4545,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="TV3" group-title="MALAYSIA TV" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+#https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 ch-number="147" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA TV",147 DIDIK TV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
@@ -4611,263 +4612,65 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122792
 #KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="471.unifi" ch-number="471" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png" group-logo="" group-title="MALAYSIA TV",Gem (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227869/3221227869.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tAj9noBYJ2skybq0Yc3wzUPfVVgVyDuUJP2cH3Vl1NgUtbNv16v%2BzieVWwImkNgeg1kTVq%2B8T3u5TGgBhmCcgUAyF9cjp90m2RAyA0sYZtgzq5XlKJ7JMabmxeM83fZv%3A20230921113509%3AUTC%2C1005926113%2C203.106.139.128%2C20230921113509%2Curn:Huawei:liveTV:XTV51882374%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1615850%2C0%2C521145%2C3533104136%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoYft4oVWKYVAcAtxuy0j6Voxka1UcgL9-8aNs52ZM5wlw9H-1QhtAaek87apYHWrqEJTC6usGkRTs0I_XTKKOcQ4zqFLfsW-jrtvKbjgSkmuNOvXu7eIsC2762QpG_nEjpRvoyPjy8BvKBwhZApYxjTzj4jfzxy3CaN-U5NNW2tR6falEoIta9qjnO8NO6Hs0nRBJn9I4R8wA2IhdoE7I1CHicx8jfHBvWd_t_kD2trVRPQAAAA&tenantId=6001
 
-#EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="MALAYSIA TV",MY001:TV 1 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1734
-#EXTINF:-1 tvg-id="" tvg-name="MY002:TV 2" tvg-logo="" group-title="MALAYSIA TV",MY002:TV 2 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1733
-#EXTINF:-1 tvg-id="" tvg-name="MY003:TV 3" tvg-logo="" group-title="MALAYSIA TV",MY003:TV 3 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1732
-#EXTINF:-1 tvg-id="" tvg-name="MY004:NTV 7" tvg-logo="" group-title="MALAYSIA TV",MY004:NTV 7 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1731
-#EXTINF:-1 tvg-id="" tvg-name="MY005:TV 8" tvg-logo="" group-title="MALAYSIA TV",MY005:TV 8 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1730
-#EXTINF:-1 tvg-id="" tvg-name="MY006:TV 9" tvg-logo="" group-title="MALAYSIA TV",MY006:TV 9 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1729
-#EXTINF:-1 tvg-id="" tvg-name="MY007:QUAN JIA" tvg-logo="" group-title="MALAYSIA TV",MY007:QUAN JIA (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1728
-#EXTINF:-1 tvg-id="" tvg-name="MY008:SHUANG XING" tvg-logo="" group-title="MALAYSIA TV",MY008:SHUANG XING (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1727
-#EXTINF:-1 tvg-id="" tvg-name="MY009:Wah Lai Toi" tvg-logo="" group-title="MALAYSIA TV",MY009:Wah Lai Toi (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1726
-#EXTINF:-1 tvg-id="" tvg-name="MY010:HUA HEE DAI" tvg-logo="" group-title="MALAYSIA TV",MY010:HUA HEE DAI (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1725
-#EXTINF:-1 tvg-id="" tvg-name="MY011:AOD" tvg-logo="" group-title="MALAYSIA TV",MY011:AOD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1724
-#EXTINF:-1 tvg-id="" tvg-name="MY012:AEC" tvg-logo="" group-title="MALAYSIA TV",MY012:AEC (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1723
-#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="MALAYSIA TV",MY013:Super Sport 1 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1722
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="MALAYSIA TV",MY014:Super Sport 2 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1721
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="MALAYSIA TV",MY015:Super Sport 3 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1720
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="MALAYSIA TV",MY016:Super Sport 4 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1719
-#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="" group-title="MALAYSIA TV",MY022:Super Sport 5 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1713
-#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="" group-title="MALAYSIA TV",MY043:ASTRO ASSP4 HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/59217
-#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="" group-title="MALAYSIA TV",MY042:ASTRO ASSP3 HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/59218
-#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="MALAYSIA TV",MY040:ASTRO ASSP HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/59220
-#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="" group-title="MALAYSIA TV",MY041:ASTRO ASSP2 HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/59219
-#EXTINF:-1 tvg-id="" tvg-name="MY107:Astro SuperSport Events 6" tvg-logo="" group-title="MALAYSIA TV",MY107:Astro SuperSport Events 6 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71079
-#EXTINF:-1 tvg-id="" tvg-name="MY133:Astro Premier 2" tvg-logo="" group-title="MALAYSIA TV",MY133:Astro Premier 2 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71105
-#EXTINF:-1 tvg-id="" tvg-name="MY136:ASTRO Rugby Pass" tvg-logo="" group-title="MALAYSIA TV",MY136:ASTRO Rugby Pass
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71108
-#EXTINF:-1 tvg-id="" tvg-name="MY137:ASTRO Cricket" tvg-logo="" group-title="MALAYSIA TV",MY137:ASTRO Cricket (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71109
-#EXTINF:-1 tvg-id="" tvg-name="MY177:Astro SuperSport Events 3" tvg-logo="" group-title="MALAYSIA TV",MY177:Astro SuperSport Events 3 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71146
-#EXTINF:-1 tvg-id="" tvg-name="MY108:ASTRO Ceria" tvg-logo="" group-title="MALAYSIA TV",MY108:ASTRO Ceria (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71080
-#EXTINF:-1 tvg-id="" tvg-name="MY057:ASTRO Colors Tamil" tvg-logo="" group-title="MALAYSIA TV",MY057:ASTRO Colors Tamil (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71035
-#EXTINF:-1 tvg-id="" tvg-name="MY056:ASTRO Star Vijay" tvg-logo="" group-title="MALAYSIA TV",MY056:ASTRO Star Vijay (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71034
-#EXTINF:-1 tvg-id="" tvg-name="MY054:ASTRO Zee Tamil" tvg-logo="" group-title="MALAYSIA TV",MY054:ASTRO Zee Tamil (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71032
-#EXTINF:-1 tvg-id="" tvg-name="MY053:ASTRO Adithya" tvg-logo="" group-title="MALAYSIA TV",MY053:ASTRO Adithya (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71031
-#EXTINF:-1 tvg-id="" tvg-name="MY017:CELESTIAL" tvg-logo="" group-title="MALAYSIA TV",MY017:CELESTIAL (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1718
-#EXTINF:-1 tvg-id="" tvg-name="MY018:BERNAMA" tvg-logo="" group-title="MALAYSIA TV",MY018:BERNAMA (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1717
-#EXTINF:-1 tvg-id="" tvg-name="MY020:Star Chinese Channel" tvg-logo="" group-title="MALAYSIA TV",MY020:Star Chinese Channel (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1715
-#EXTINF:-1 tvg-id="" tvg-name="MY021:XIAO TAI YANG" tvg-logo="" group-title="MALAYSIA TV",MY021:XIAO TAI YANG (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1714
-#EXTINF:-1 tvg-id="" tvg-name="MY023:TVB CLASSIC" tvg-logo="" group-title="MALAYSIA TV",MY023:TVB CLASSIC (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1712
-#EXTINF:-1 tvg-id="" tvg-name="MY029:WARNA" tvg-logo="" group-title="MALAYSIA TV",MY029:WARNA (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1706
-#EXTINF:-1 tvg-id="" tvg-name="MY030:RIA" tvg-logo="" group-title="MALAYSIA TV",MY030:RIA (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1705
-#EXTINF:-1 tvg-id="" tvg-name="MY031:AWANI" tvg-logo="" group-title="MALAYSIA TV",MY031:AWANI (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1704
-#EXTINF:-1 tvg-id="" tvg-name="MY034:OASIS" tvg-logo="" group-title="MALAYSIA TV",MY034:OASIS (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1701
-#EXTINF:-1 tvg-id="" tvg-name="MY082:Singapore Channel 8" tvg-logo="" group-title="MALAYSIA TV",MY082:Singapore Channel 8 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71054
-#EXTINF:-1 tvg-id="" tvg-name="MY035:Singapore Suria" tvg-logo="" group-title="MALAYSIA TV",MY035:Singapore Suria (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1700
-#EXTINF:-1 tvg-id="" tvg-name="MY036:Singapore Vasantham" tvg-logo="" group-title="MALAYSIA TV",MY036:Singapore Vasantham (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1699
-#EXTINF:-1 tvg-id="" tvg-name="MY151:sukan" tvg-logo="" group-title="MALAYSIA TV",MY151:sukan (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71123
-#EXTINF:-1 tvg-id="" tvg-name="MY037:WWE" tvg-logo="" group-title="MALAYSIA TV",MY037:WWE (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1698
-#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="" group-title="MALAYSIA TV",MY038:BOO (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1697
-#EXTINF:-1 tvg-id="" tvg-name="MY042:Ria" tvg-logo="" group-title="MALAYSIA TV",MY042:Ria (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71020
-#EXTINF:-1 tvg-id="" tvg-name="MY043:Awesome TV" tvg-logo="" group-title="MALAYSIA TV",MY043:Awesome TV (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71021
-#EXTINF:-1 tvg-id="" tvg-name="MY046:TV ALHIJRAH" tvg-logo="" group-title="MALAYSIA TV",MY046:TV ALHIJRAH (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71024
-#EXTINF:-1 tvg-id="" tvg-name="MY047:aura" tvg-logo="" group-title="MALAYSIA TV",MY047:aura (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71025
-#EXTINF:-1 tvg-id="" tvg-name="MY048:Astro Premier 1" tvg-logo="" group-title="MALAYSIA TV",MY048:Astro Premier 1 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71026
-#EXTINF:-1 tvg-id="" tvg-name="MY049:KBSW" tvg-logo="" group-title="MALAYSIA TV",MY049:KBSW (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71027
-#EXTINF:-1 tvg-id="" tvg-name="MY050:GO SHOP" tvg-logo="" group-title="MALAYSIA TV",MY050:GO SHOP (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71028
-#EXTINF:-1 tvg-id="" tvg-name="MY051:Sun Music" tvg-logo="" group-title="MALAYSIA TV",MY051:Sun Music (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71029
-#EXTINF:-1 tvg-id="" tvg-name="MY052:TUTOR TV SK" tvg-logo="" group-title="MALAYSIA TV",MY052:TUTOR TV SK (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71030
-#EXTINF:-1 tvg-id="" tvg-name="MY055:Star Vijay Super" tvg-logo="" group-title="MALAYSIA TV",MY055:Star Vijay Super (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71033
-#EXTINF:-1 tvg-id="" tvg-name="MY058:SUN TV HD" tvg-logo="" group-title="MALAYSIA TV",MY058:SUN TV HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71036
-#EXTINF:-1 tvg-id="" tvg-name="MY059:HBO Hits" tvg-logo="" group-title="MALAYSIA TV",MY059:HBO Hits (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71037
-#EXTINF:-1 tvg-id="" tvg-name="MY060:iQIYI HD" tvg-logo="" group-title="MALAYSIA TV",MY060:iQIYI HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71038
-#EXTINF:-1 tvg-id="" tvg-name="MY061:GO SHOP 2" tvg-logo="" group-title="MALAYSIA TV",MY061:GO SHOP 2 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71039
-#EXTINF:-1 tvg-id="" tvg-name="MY067:TVB JADE" tvg-logo="" group-title="MALAYSIA TV",MY067:TVB JADE (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71040
-#EXTINF:-1 tvg-id="" tvg-name="MY069:CTI Asia" tvg-logo="" group-title="MALAYSIA TV",MY069:CTI Asia (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71042
-#EXTINF:-1 tvg-id="" tvg-name="MY070:TVB E-NEWS" tvg-logo="" group-title="MALAYSIA TV",MY070:TVB E-NEWS (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71043
-#EXTINF:-1 tvg-id="" tvg-name="MY071:TVB XING HE HD" tvg-logo="" group-title="MALAYSIA TV",MY071:TVB XING HE HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71044
-#EXTINF:-1 tvg-id="" tvg-name="MY072:TVBS ASIA HD" tvg-logo="" group-title="MALAYSIA TV",MY072:TVBS ASIA HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71045
-#EXTINF:-1 tvg-id="" tvg-name="MY073:CCM" tvg-logo="" group-title="MALAYSIA TV",MY073:CCM (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71046
-#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="MALAYSIA TV",MY075:CCTV4 HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71047
-#EXTINF:-1 tvg-id="" tvg-name="MY076:AOD 352 HD" tvg-logo="" group-title="MALAYSIA TV",MY076:AOD 352 HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71048
-#EXTINF:-1 tvg-id="" tvg-name="MY077:AOD 353 HD" tvg-logo="" group-title="MALAYSIA TV",MY077:AOD 353 HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71049
-#EXTINF:-1 tvg-id="" tvg-name="MY078:AOD 354 HD" tvg-logo="" group-title="MALAYSIA TV",MY078:AOD 354 HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71050
-#EXTINF:-1 tvg-id="" tvg-name="MY079:AOD 355 HD" tvg-logo="" group-title="MALAYSIA TV",MY079:AOD 355 HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71051
-#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="" group-title="MALAYSIA TV",MY080:KBS World HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71052
-#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="" group-title="MALAYSIA TV",MY081:ONE HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71053
-#EXTINF:-1 tvg-id="" tvg-name="MY083:TVN HD" tvg-logo="" group-title="MALAYSIA TV",MY083:TVN HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71055
-#EXTINF:-1 tvg-id="" tvg-name="MY084:Hits Movies HD" tvg-logo="" group-title="MALAYSIA TV",MY084:Hits Movies HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71056
-#EXTINF:-1 tvg-id="" tvg-name="MY086:Cinemax HD" tvg-logo="" group-title="MALAYSIA TV",MY086:Cinemax HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71058
-#EXTINF:-1 tvg-id="" tvg-name="MY087:TVN Movies" tvg-logo="" group-title="MALAYSIA TV",MY087:TVN Movies (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71059
-#EXTINF:-1 tvg-id="" tvg-name="MY088:OKEY TV" tvg-logo="" group-title="MALAYSIA TV",MY088:OKEY TV (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71060
-#EXTINF:-1 tvg-id="" tvg-name="MY089:Moonbug Kids" tvg-logo="" group-title="MALAYSIA TV",MY089:Moonbug Kids (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71061
-#EXTINF:-1 tvg-id="" tvg-name="MY091:AL JAZEERA HD" tvg-logo="" group-title="MALAYSIA TV",MY091:AL JAZEERA HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71063
-#EXTINF:-1 tvg-id="" tvg-name="MY092:SKY NEWS HD" tvg-logo="" group-title="MALAYSIA TV",MY092:SKY NEWS HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71064
-#EXTINF:-1 tvg-id="" tvg-name="MY093:CNA HD" tvg-logo="" group-title="MALAYSIA TV",MY093:CNA HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71065
-#EXTINF:-1 tvg-id="" tvg-name="MY094:CNBC" tvg-logo="" group-title="MALAYSIA TV",MY094:CNBC (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71066
-#EXTINF:-1 tvg-id="" tvg-name="MY095:Bloomberg TV" tvg-logo="" group-title="MALAYSIA TV",MY095:Bloomberg TV (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71067
-#EXTINF:-1 tvg-id="" tvg-name="MY096:ABC AUSTRALIA" tvg-logo="" group-title="MALAYSIA TV",MY096:ABC AUSTRALIA (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71068
-#EXTINF:-1 tvg-id="" tvg-name="MY097:8TV" tvg-logo="" group-title="MALAYSIA TV",MY097:8TV (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71069
-#EXTINF:-1 tvg-id="" tvg-name="MY099:Discovery HD" tvg-logo="" group-title="MALAYSIA TV",MY099:Discovery HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71071
-#EXTINF:-1 tvg-id="" tvg-name="MY100:DISCOVERY ASIA" tvg-logo="" group-title="MALAYSIA TV",MY100:DISCOVERY ASIA (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71072
-#EXTINF:-1 tvg-id="" tvg-name="MY101:Discovery Science" tvg-logo="" group-title="MALAYSIA TV",MY101:Discovery Science (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71073
-#EXTINF:-1 tvg-id="" tvg-name="MY102:HISTORY HD" tvg-logo="" group-title="MALAYSIA TV",MY102:HISTORY HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71074
-#EXTINF:-1 tvg-id="" tvg-name="MY103:ANIMAL PLANET HD" tvg-logo="" group-title="MALAYSIA TV",MY103:ANIMAL PLANET HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71075
-#EXTINF:-1 tvg-id="" tvg-name="MY104:TUTOR TV UPSR" tvg-logo="" group-title="MALAYSIA TV",MY104:TUTOR TV UPSR (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71076
-#EXTINF:-1 tvg-id="" tvg-name="MY106:TUTOR TV SMK" tvg-logo="" group-title="MALAYSIA TV",MY106:TUTOR TV SMK (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71078
-#EXTINF:-1 tvg-id="" tvg-name="MY112:Cartoon Network" tvg-logo="" group-title="MALAYSIA TV",MY112:Cartoon Network (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71084
-#EXTINF:-1 tvg-id="" tvg-name="MY113:NICKELODEON HD" tvg-logo="" group-title="MALAYSIA TV",MY113:NICKELODEON HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71085
-#EXTINF:-1 tvg-id="" tvg-name="MY114:NICK JR" tvg-logo="" group-title="MALAYSIA TV",MY114:NICK JR (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71086
-#EXTINF:-1 tvg-id="" tvg-name="MY115:AXN HD" tvg-logo="" group-title="MALAYSIA TV",MY115:AXN HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71087
-#EXTINF:-1 tvg-id="" tvg-name="MY116:Phoenix" tvg-logo="" group-title="MALAYSIA TV",MY116:Phoenix (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71088
-#EXTINF:-1 tvg-id="" tvg-name="MY117:HITS HD" tvg-logo="" group-title="MALAYSIA TV",MY117:HITS HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71089
-#EXTINF:-1 tvg-id="" tvg-name="MY118:TLC HD" tvg-logo="" group-title="MALAYSIA TV",MY118:TLC HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71090
-#EXTINF:-1 tvg-id="" tvg-name="MY119:FOOD NTWK HD" tvg-logo="" group-title="MALAYSIA TV",MY119:FOOD NTWK HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71091
-#EXTINF:-1 tvg-id="" tvg-name="MY120:AFN HD" tvg-logo="" group-title="MALAYSIA TV",MY120:AFN HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71092
-#EXTINF:-1 tvg-id="" tvg-name="MY122:WARNER TV" tvg-logo="" group-title="MALAYSIA TV",MY122:WARNER TV (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71094
-#EXTINF:-1 tvg-id="" tvg-name="MY123:Crime Investigation" tvg-logo="" group-title="MALAYSIA TV",MY123:Crime Investigation (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71095
-#EXTINF:-1 tvg-id="" tvg-name="MY124:HGTV HD" tvg-logo="" group-title="MALAYSIA TV",MY124:HGTV HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71096
-#EXTINF:-1 tvg-id="" tvg-name="MY125:DMAX HD" tvg-logo="" group-title="MALAYSIA TV",MY125:DMAX HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71097
-#EXTINF:-1 tvg-id="" tvg-name="MY126:COMEDY CENTRAL" tvg-logo="" group-title="MALAYSIA TV",MY126:COMEDY CENTRAL (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71098
-#EXTINF:-1 tvg-id="" tvg-name="MY127:MTV" tvg-logo="" group-title="MALAYSIA TV",MY127:MTV (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71099
-#EXTINF:-1 tvg-id="" tvg-name="MY128:ANIMAX" tvg-logo="" group-title="MALAYSIA TV",MY128:ANIMAX (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71100
-#EXTINF:-1 tvg-id="" tvg-name="MY129:bEIN Sports 3" tvg-logo="" group-title="MALAYSIA TV",MY129:bEIN Sports 3 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71101
-#EXTINF:-1 tvg-id="" tvg-name="MY132:beIN SPORTS" tvg-logo="" group-title="MALAYSIA TV",MY132:beIN SPORTS (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71104
-#EXTINF:-1 tvg-id="" tvg-name="MY134:EUROSPORT HD" tvg-logo="" group-title="MALAYSIA TV",MY134:EUROSPORT HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71106
-#EXTINF:-1 tvg-id="" tvg-name="MY135:GOLF CHANNEL HD" tvg-logo="" group-title="MALAYSIA TV",MY135:GOLF CHANNEL HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71107
-#EXTINF:-1 tvg-id="" tvg-name="MY139:KPLUS HD" tvg-logo="" group-title="MALAYSIA TV",MY139:KPLUS HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71111
-#EXTINF:-1 tvg-id="" tvg-name="MY140:DW HD" tvg-logo="" group-title="MALAYSIA TV",MY140:DW HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71112
-#EXTINF:-1 tvg-id="" tvg-name="MY141:FRANCE24 HD" tvg-logo="" group-title="MALAYSIA TV",MY141:FRANCE24 HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71113
-#EXTINF:-1 tvg-id="" tvg-name="MY146:beIN Sports 2" tvg-logo="" group-title="MALAYSIA TV",MY146:beIN Sports 2 (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71118
-#EXTINF:-1 tvg-id="" tvg-name="MY147:BBC Earth HD" tvg-logo="" group-title="MALAYSIA TV",MY147:BBC Earth HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71119
-#EXTINF:-1 tvg-id="" tvg-name="MY148:BBC Lifestyle" tvg-logo="" group-title="MALAYSIA TV",MY148:BBC Lifestyle (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71120
-#EXTINF:-1 tvg-id="" tvg-name="MY150:BBC World News" tvg-logo="" group-title="MALAYSIA TV",MY150:BBC World News (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71122
-#EXTINF:-1 tvg-id="" tvg-name="MY164:Paramount Channel" tvg-logo="" group-title="MALAYSIA TV",MY164:Paramount Channel (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71135
-#EXTINF:-1 tvg-id="" tvg-name="MY166:Global Trekker" tvg-logo="" group-title="MALAYSIA TV",MY166:Global Trekker (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71137
-#EXTINF:-1 tvg-id="" tvg-name="MY168:SCM" tvg-logo="" group-title="MALAYSIA TV",MY168:SCM (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71138
-#EXTINF:-1 tvg-id="" tvg-name="MY169:SETi Chinese" tvg-logo="" group-title="MALAYSIA TV",MY169:SETi Chinese (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71139
-#EXTINF:-1 tvg-id="" tvg-name="MY178:SPOTV" tvg-logo="" group-title="MALAYSIA TV",MY178:SPOTV (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71147
-#EXTINF:-1 tvg-id="" tvg-name="MY179:TVS" tvg-logo="" group-title="MALAYSIA TV",MY179:TVS (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71148
-#EXTINF:-1 tvg-id="" tvg-name="MY180:Awesome TV" tvg-logo="" group-title="MALAYSIA TV",MY180:Awesome TV (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71149
-#EXTINF:-1 tvg-id="" tvg-name="MY019:Kix HD" tvg-logo="" group-title="MALAYSIA TV",MY019:Kix HD (wanicelife)
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1716
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-logo="" group-title="MALAYSIA TV",Degup (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="233.unifi" ch-number="233" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png" group-logo="" group-title="MALAYSIA TV",Now Jelli (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv846haXUJR5R32mBb1BUUaHHv17QezgK4lI66BNld%2BWvWSl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185240%3AUTC%2C1004320541%2C14.1.254.135%2C20230704185240%2Curn:Huawei:liveTV:iptv28981%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAA0XMQQvCIBiA4X-zo6jT4Q6eiqCLBKuu8amfIrhJugb9-1gE3d_nXSs4PB_1OAjFgCrrLAhJ-Sg9DxCkZEpwaoeu4dMU3XcOck5LNMXv7D4dHowSSjhnpJfddd-dMkTNv6V5zRbrn01Yt-RQ-xbIBo1AjBUjrKks5JLhfav5l3wAYjwnx5kAAAA&tenantId=6003
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="" group-title="MALAYSIA TV",Salam (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="239.unifi" ch-number="239" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png" group-logo="" group-title="MALAYSIA TV",SETI (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227529/3221227529.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixM7skkMcbNa9ZSweWCAIO9g0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84yjyfs9%2FU5xlEkKXfSpcw0b%2FVw%2BAVLY2IaG%2BJfr8AXAzl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185934%3AUTC%2C1004320541%2C14.1.254.132%2C20230704185934%2Curn:Huawei:liveTV:iptv8417%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAA0WMsQrCMBQA_yZjSNJU0iGTIrgUoeoqry8vIZA2mNSCf68VwemWu1sKIJ0O1nzQoTedpFajU8Z7Jx3uWmxgBC1YpUefbcMQUopz6LPbstuwv0vBBVdKcqnZZdsdEwSrvmb_nEYq_2ygskYk66rnK1QOIRQKsMQ883OC17Wkn_IGgSNJiJkAAAA&tenantId=6003
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="MALAYSIA TV",Siar (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="141.unifi" ch-number="141" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-logo="" group-title="MALAYSIA TV",Pesona (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO8SgkPnwzd4mMtcd%2Bh2%2B016nYGyKi6Pv7FEVqrmZ8NtvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080145%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080145%2Curn:Huawei:liveTV:iptv8997%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFKTULlhpTExMNWl1az7wi420KFQTb6_Vup2ZN3ljBIPbtdJaSuQlz7HkwkqhmUWx1IVpM11iLkjCexUUJwa87wZXBTthp3p1ZhnNKOeMMk6a6W7jwc3L6tFrjGrxx2qMz86gsqmlT0gUnIvoYOzCQA8eXsfo5wnBZlZjUpZ8KaSQRZaTcUobSNdPQy6QVqG_QUS7C-4LqBZ8QnIDcwWHFfSohof3P24f7cfmDRFIhEH0AAAA&tenantId=6001
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="288.unifi" ch-number="288" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210926/20210926030715748ltd.png" group-logo="" group-title="MALAYSIA TV",Celestial Movies (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227826/3221227826.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbBbVchu5bp4ldjPfr44H0c2pnIbyMSj8DafiaVMYbR8m%2Bbnw8552r5kwLIwaEGkzWBTg0bWB3G7dla%2Fj69CGsgCVFRTQiCcWXuFIeO21qkbF%3A20230404041732%3AUTC%2C10001002129788%2C115.135.197.59%2C20230404041732%2Curn:Huawei:liveTV:XTV51882317%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C1528804378%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSQCstXbDSmJiYamJ1a77wwaa0KFQTb6_Vup2ZN3ljBI2blcKKM6O5KIsqXwhr5UVXssACRaatFIYkvNdBZUSD9-3g6mAm7HRYnjmjjGYZp7wkzXS39uDmZf3oLxgV_2MHjM9WozLJ0ickCs5FdDC2YaB7D69j9POEYDOr8UIyUeWlzEu2IOOUNpC6T0OukJahv0FEsw3uCygLPiG5ge7AYQ09quHh_Y_bRfOxeQMeV___9AAAAA&tenantId=6003
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="474.unifi" ch-number="474" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-logo="" group-title="MALAYSIA TV",Rock Action (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbKOcX%2BP3Grqi2KkTyat%2BkYBRTE8BQtzQEk9tepGqmM8PvqR%2FW6%2FmAu25c2abohrK7O83m3EeQ0m%2BBo4btd%2BuniyVFRTQiCcWXuFIeO21qkbF%3A20230405093857%3AUTC%2C10001002129788%2C180.75.253.113%2C20230405093857%2Curn:Huawei:liveTV:SP000002372888%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C3484991609%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQYvCMBhE_02OIYlS7SEnRViQKlj3KpPka7aYNppUwX9vu9brzLzhDQmWfrZaCWelcQpwYknKQTZUEkxRmma1WBiW6V5FrZhFCG3vq-gm7Pe0uUjBBVdK8hWrp7ddgJ-H1aMzlLT8UidKz9aSdrnhT2QO7xN5DG3s-THgdU5hnjCqZzNZrEVRKjFaiIINU1ojX8eG_SFvYndDIreP_h_QDUImdoO9wlOFjnT_COHDHZIbbd55AAsT8wAAAA&tenantId=6003
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="473.unifi" ch-number="473" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png" group-logo="" group-title="MALAYSIA TV",Rock Entertainment (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbLh6LO9cwFJbX0ifkqBLs1eEm6R1BFTj%2F%2B5BveDnXMJVLMXaMDHd%2BOB7wHYKNx8pLeV3eB1im9yO2zVHwdc0cAWVFRTQiCcWXuFIeO21qkbF%3A20230413072448%3AUTC%2C10001002129842%2C115.135.197.250%2C20230413072448%2Curn:Huawei:liveTV:iptv42337%2C10001002129842%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C884179594%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjCjgCfOCUqlKlyo0Ut9dqDQ9qBZsEnEj9-8ate93dWc1S4OjlyTrT6tYFTYPa740boGVAE5SAkF6bhlW6dtlK5pDSOMcu-xX7OB0-xY7vuJSCG9avb88JcRt2t2mgYsU_daJyHx1ZXwO_o3LEWChiGfPMjwnf7yVtE0b9ZiaUEY1WrVJKN2xZ0x71_GjYF-ohTxcU8q85_gI2IFViF7gzInWYyM63lP64t-IfNj_9atHa8wAAAA&tenantId=6003
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="555.unifi" ch-number="555" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202307/20230727/20230727155824262s56.png" group-logo="" group-title="MALAYSIA TV",Cartoonito (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHORk%2F7o9ZSvEMcHdX5yljqg9BPtBbwcQhknqc39VUJpD%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094239%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094239%2Curn:Huawei:liveTV:SP0010059884%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOUQuCMBzEv80exzaHtoc9FUEQFmS9xt_5d4nT1aZC3z4tezq4u99xQwCDh50uJcs4T6DeGClnUSZLZFIyxoSCjEsS8ZV7LYgB55re5r5asNtle-eMMioEp1yQYpnbO7BrMx-7EoNO_tgFw9QY1FWs6QSRgrUBLQyN7-nZwfsa3FohWKzXeJoqoVjGUqUkGRa3gNjOCXlA3PruCQGro7dfQNfgIpInmBYs5tCh7kfnftwpVPObD9dw2Of0AAAA&tenantId=6001
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="701.unifi" ch-number="701" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-logo="" group-title="MALAYSIA TV",Unifi Sports (test)
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOyw6CMBRE_6bLhj4sYdEVxsTEoIno1lzaayUUqi2a-PeC4nZmzuSMEQxu11o0WZ4bIaTAlWTYFFgoMMIqKSyXuSEJH1XQnBjwvh1cFeyMnY_lhWU0o5wzyjip57uNB7csq2ffYNTijx0xvlqD2qYrfUGi4FxEB2MbBnrw8D5Fv0wI1osaU6rghVBcqoyTcU5rSN3UkBukMvR3iGh3wX0BfQWfkNzBdOCwgh718PT-x-2jnWw-IqajZvQAAAA&tenantId=6003
 
 
 =========================================== THAILAND ===========================================
@@ -6387,6 +6190,13 @@ https://stream.hownetwork.xyz/xxx/bag-of-lies-2024-webdl_X_ccaae5d5/21/480.m3u8
 #KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
 https://stream.hownetwork.xyz/xxx/what-jennifer-did-2024-webdl_X_62919af0/21/480.m3u8
 
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/04/film-kung-fu-panda-4-2024-lk21-d21.jpg",Kung Fu Panda 4 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/kung-fu-panda-4-2024-webdl_X_0ca86d0f/21/480.m3u8
+
 #EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/02/film-code-8-part-ii-2024-lk21-d21.jpg",Code 8 Part 2 2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6422,6 +6232,13 @@ https://stream.hownetwork.xyz/yyy/aftermath-2024-webdl_X_3365d91c/1000/480.m3u8
 #KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
 https://stream.hownetwork.xyz/yyy/lisa-frankenstein-2024-webdl_X_bbe7160d/1000/480.m3u8
 
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Damsel_2024_poster2.jpg/220px-Damsel_2024_poster2.jpg",Damsel 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/xxx/damsel-2024-webdl_X_b44c1cc8/1000/480.m3u8
+
 #EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/03/film-spaceman-2024-lk21-d21.jpg",Spaceman 2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6456,6 +6273,13 @@ https://stream.hownetwork.xyz/yyy/the-marvels-2023-bluray_X_3976d65b/20/480.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
 https://stream.hownetwork.xyz/xxx/trolls-band-together-2023-webdl_X_bb53dcd2/18/480.m3u8
+
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/John_Wick_-_Chapter_4_promotional_poster.jpg/220px-John_Wick_-_Chapter_4_promotional_poster.jpg",John Wick: Chapter 4 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/john-wick-chapter-4-2023-bluray/8/480.m3u8
 
 #EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM4NTk0NjktZDJhMi00MmFmLTliMzEtN2RkZDY2OTNiMDgzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",Wonka 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
