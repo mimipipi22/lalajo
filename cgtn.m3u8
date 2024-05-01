@@ -1,7 +1,20 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2816532
-https://live.cgtn.com/1000/prog_index.m3u8
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:606501
+#EXTINF:10,
+https://live.cgtn.com/1000/prog_index606501.ts
+#EXTINF:10,
+https://live.cgtn.com/1000/prog_index606502.ts
+#EXTINF:10,
+https://live.cgtn.com/1000/prog_index606503.ts
+#EXTINF:10,
+https://live.cgtn.com/1000/prog_index606504.ts
+#EXTINF:10,
+https://live.cgtn.com/1000/prog_index606505.ts
+#EXTINF:10,
+https://live.cgtn.com/1000/prog_index606506.ts
 
 
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
