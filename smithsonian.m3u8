@@ -1,14 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=1020800,AVERAGE-BANDWIDTH=985600,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,SUBTITLES="subs"
-https://smithsonianaus-samsungau.amagi.tv/playlist360p.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1249600,AVERAGE-BANDWIDTH=1205600,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=848x480,FRAME-RATE=25.000,SUBTITLES="subs"
-https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2657600,AVERAGE-BANDWIDTH=2560800,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,SUBTITLES="subs"
-https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4716800,AVERAGE-BANDWIDTH=4540800,CODECS="avc1.4d4032,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,SUBTITLES="subs"
-https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
-
-##https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-##http://iptvmedia.live:8080/streamnet/a8b92bb196/264767
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3063648,
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
