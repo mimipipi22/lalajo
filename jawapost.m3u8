@@ -1,15 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:3301
-#EXT-X-TARGETDURATION:2
-#EXTINF:2.000,
-https://e.siar.us/jawapostv/live/live-3301.ts
-#EXTINF:2.000,
-https://e.siar.us/jawapostv/live/live-3302.ts
-#EXTINF:2.000,
-https://e.siar.us/jawapostv/live/live-3303.ts
-#EXTINF:2.000,
-https://e.siar.us/jawapostv/live/live-3304.ts
-#EXTINF:2.000,
-https://e.siar.us/jawapostv/live/live-3305.ts
-#https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4403159,RESOLUTION=1280x720
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
