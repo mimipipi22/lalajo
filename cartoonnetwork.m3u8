@@ -1,10 +1,15 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/Stream(02)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/Stream(01)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/Stream(03)/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2816532
+http://dreamsmart.me:8080/live/1/0/306478.m3u8?mac=00:1A:79:20:34:1F
+
+
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/Stream(02)/index.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/Stream(01)/index.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/Stream(03)/index.m3u8
 
 
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0491654,RESOLUTION=320x240,FRAME-RATE=25.000,AUDIO="audio1"
