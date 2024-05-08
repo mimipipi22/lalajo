@@ -1,14 +1,12 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA:AUTOSELECT=NO,FORCED=NO,TYPE=SUBTITLES,URI="https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/44fbb677-1798-411e-9715-58096c18c9fe/4.m3u8",GROUP-ID="Source-USPhx-16k-1-s6lk2-SAMSUNG_01-P7wPs76H1il_sub",DEFAULT=NO,NAME="Source-USPhx-16k-1-s6lk2-SAMSUNG_01-P7wPs76H1il_SPLIT_1_sub"
-#EXT-X-STREAM-INF:CODECS="hev1.1.1.L153.00,mp4a.40.2",RESOLUTION=3840x2160,SUBTITLES="Source-USPhx-16k-1-s6lk2-SAMSUNG_01-P7wPs76H1il_sub",BANDWIDTH=10000000
-https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/44fbb677-1798-411e-9715-58096c18c9fe/0.m3u8
-#EXT-X-STREAM-INF:CODECS="hev1.1.1.L123.00,mp4a.40.2",RESOLUTION=1920x1080,SUBTITLES="Source-USPhx-16k-1-s6lk2-SAMSUNG_01-P7wPs76H1il_sub",BANDWIDTH=5000000
-https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/44fbb677-1798-411e-9715-58096c18c9fe/1.m3u8
-#EXT-X-STREAM-INF:CODECS="hev1.1.1.L123.00,mp4a.40.2",RESOLUTION=1920x1080,SUBTITLES="Source-USPhx-16k-1-s6lk2-SAMSUNG_01-P7wPs76H1il_sub",BANDWIDTH=2500000
-https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/44fbb677-1798-411e-9715-58096c18c9fe/2.m3u8
-#EXT-X-STREAM-INF:CODECS="hev1.1.1.L120.00,mp4a.40.2",RESOLUTION=1280x720,SUBTITLES="Source-USPhx-16k-1-s6lk2-SAMSUNG_01-P7wPs76H1il_sub",BANDWIDTH=1200000
-https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/44fbb677-1798-411e-9715-58096c18c9fe/3.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=960x540,CODECS="avc1.64001f,mp4a.40.2"
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-5-Y6282hwqf3C7_live.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=600000,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-6-2R3M3cgYT0F1_live.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=400000,RESOLUTION=480x272,CODECS="avc1.640015,mp4a.40.2"
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-7-586P6T28F4Hg_live.m3u8
 
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/Stream(02)/index.m3u8
