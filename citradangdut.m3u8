@@ -1,10 +1,16 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/Stream(02)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/Stream(01)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/Stream(03)/index.m3u8
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10,
+http://xtv.ooo:8080/live/RiyazMPT/433833/350924.ts
+
+##EXTM3U
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/Stream(02)/index.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/Stream(01)/index.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/Stream(03)/index.m3u8
 
 
 ##EXTM3U
