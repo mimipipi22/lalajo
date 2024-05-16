@@ -1,7 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-https://z88.ubtvfans.com/live/rx3/1429/d22385a2396f7d856f0b21f5b29c096a/index.m3u8
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10,
+http://xtv.ooo:8080/live/RiyazMPT/433833/350260.ts
 
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/Stream(02)/index.m3u8
