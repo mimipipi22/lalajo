@@ -1,5 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4403159
-http://livein1.com:2095/play/live.php?mac=00:1a:79:b1:85:5e&stream=186399&extension=m3u8
-http://dreamsmart.me:8080/live/1/0/306467.m3u8?mac=00:1A:79:20:34:1F
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10,
+http://xtv.ooo:8080/live/RiyazMPT/433833/350899.ts
+
+##http://livein1.com:2095/play/live.php?mac=00:1a:79:b1:85:5e&stream=186399&extension=m3u8
+##http://dreamsmart.me:8080/live/1/0/306467.m3u8?mac=00:1A:79:20:34:1F
