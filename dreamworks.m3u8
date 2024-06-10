@@ -1,8 +1,13 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:65535
-#EXT-X-VERSION:2
-#EXTINF:65535,
-http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683171&extension=ts&play_token=GVZS088tcf
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+https://z88.ubtvfans.com/live/rx1/48/5c5c9aa7907a8da4fe48f9933cf8089d/index.m3u8
+
+##EXTM3U
+##EXT-X-TARGETDURATION:65535
+##EXT-X-VERSION:2
+##EXTINF:65535,
+#http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=683171&extension=ts&play_token=GVZS088tcf
 
 ##EXTM3U
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
