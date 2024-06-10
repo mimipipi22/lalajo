@@ -1,10 +1,15 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(02)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(01)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(03)/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://iptv12k.com:35461/live/80236053010/645789/2053.m3u8
+
+##EXTM3U
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(02)/index.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(01)/index.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(03)/index.m3u8
 
 
 ##EXTM3U
