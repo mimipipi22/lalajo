@@ -665,6 +665,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png",OUTDOOR (V+)
 https://melon-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo-2016-present.jpg" group-title="KNOWLEDGE",National Geographic (iptv12k)
+http://iptv12k.com:35461/80236053010/645789/19827
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="KNOWLEDGE",DISCOVERY SCIENCE (L*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
@@ -806,6 +809,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/fashiontv.m3u8
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV Midnight" tvg-logo="https://hometv.pw/logo/lifestyle/ftv_midnight.png" group-title="LIFESTYLE",Fashion TV Midnight
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8?checkedby:iptvcat.com
 
 
@@ -1151,10 +1155,15 @@ http://epg.112114.xyz/douyu/20415
 
 ======================================================================================
 
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",HTB Movie HD
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",HTB 0 HD
 http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",HTB 2
 http://cdn2.ntv.ru/ntv2/index.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",Great Action
+http://185.19.191.2:8090/GreatAction/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",Great Movie
+https://i.mjh.nz/SamsungTVPlus/GBBC900007Q5.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="MOVIES",Lotus Macau HD (1080p) [Not 24/7]
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8?checkedby:iptvcat.com
@@ -2945,6 +2954,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-3 Chn
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-4 Chn
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226007/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-5 Chn
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-5+ Chn
@@ -2957,10 +2968,18 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-9 Chn
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-10 Chn
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-11 Chn
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-12 Chn
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-13 Chn
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-14 Chn
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8$4.0M_1080
+#EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-15 Chn
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8$1.6M_720
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-16 Chn
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",CCTV-17 Chn
@@ -2983,6 +3002,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",Kaku Kids Chn
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL TV",Viu 6
+https://z88.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
 
 
 
@@ -3878,6 +3899,8 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/comedy-central-hd/index.ts
 
 =========================================== KOREA ===========================================
 
+#EXTINF:0 tvg-id="SBSTV.kr" ch-number=" " tvg-name="SBS" tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="KOREA",SBS
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="KOREA",TJB SBS
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="KOREA",CJB SBS
@@ -6068,14 +6091,21 @@ https://i.mjh.nz/SamsungTVPlus/KR400005KB.m3u8
 
 =========================================== VOD ===========================================
 
-#EXTINF:-1 type="movie" group-title="MOVIES VOD" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-tarot-2024-lk21-d21.jpg",Tarot" 2024
+#EXTINF:-1 type="movie" group-title="MOVIES VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Kingdom_of_the_Planet_of_the_Apes_poster.jpg/220px-Kingdom_of_the_Planet_of_the_Apes_poster.jpg",Kingdom of the Planet of the Apes 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://z.pollllop.com/_v11/eb653fef7e523c20b2ac3809db802acb7d7283afad96523d768378bcc0fbfa8598fbabbc42f192d7bd80c3b6a1d083472a4141f8582133db77b9e9bfce65bd994d7d9af9dc0af7c924f21103137a88497732a73da633fc1fe496d384ff18b61a900088dbed6fc724fe355f5e764530012ab18da81cf4a9491bfe28d5aa3e0763/1080/index.m3u8
+
+#EXTINF:-1 type="movie" group-title="MOVIES VOD" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-tarot-2024-lk21-d21.jpg",Tarot 2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
 https://stream.hownetwork.xyz/xxx/tarot-2024-webdl_X_6b2ac293/22/480.m3u8
 
-#EXTINF:-1 type="movie" group-title="MOVIES VOD" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/04/film-asphalt-city-2024-lk21-d21.jpg",Asphalt City" 2024
+#EXTINF:-1 type="movie" group-title="MOVIES VOD" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/04/film-asphalt-city-2024-lk21-d21.jpg",Asphalt City 2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
