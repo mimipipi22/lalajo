@@ -1307,6 +1307,9 @@ https://mhdtv.co.in/jio/stream.m3u8?id=488
 http://185.19.191.2:8090/GreatAction/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Great Movie
 https://jmp2.uk/SamsungTVPlus/GBBC900007Q5.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20240520T214701SQUARE.png" group-title="MOVIES" , The Asylum
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_theasylum_003.m3u8
+https://jmp2.uk/SamsungTVPlus/USAJ17000014C.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="MOVIES",Lotus Macau HD (1080p) [Not 24/7]
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8?checkedby:iptvcat.com
@@ -1319,7 +1322,8 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/32
 #EXTGRP:MOVIES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+http://aflaxtv.xyz:8080/F21312/b9181c9b/49539
+#https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png", Star Movies HD (Xtv)
 #EXTGRP:MOVIES
@@ -5566,6 +5570,13 @@ https://jmp2.uk/SamsungTVPlus/KR400005KB.m3u8
 
 
 =========================================== VOD ===========================================
+
+#EXTINF:-1 type="movie" group-title="MOVIES VOD" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/07/film-good-boy-2022-lk21-d21.jpg.webp",Beverly Hills Cop: Axel F 2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
+https://stream.hownetwork.xyz/yyy/beverly-hills-cop-axel-f-2024-webdl_X_f2bcfc06/22/480.m3u8
 
 #EXTINF:-1 type="movie" group-title="MOVIES VOD" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-die-hart-2-die-harter-2024-lk21-d21.jpg",Die Hart 2: Die Harter 2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
