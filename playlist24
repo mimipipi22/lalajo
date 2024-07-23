@@ -92,6 +92,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="National",Indosiar (INDI)
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="National",Indosiar (DNS)
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -152,6 +157,11 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="National",Moji (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="National",Moji (DNS)
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="National",Net (INDI)
@@ -205,6 +215,15 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e6475
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="National",SCTV (FMXIPTV)
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="National",SCTV (INDI)
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="National",SCTV (DNS)
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -223,11 +242,19 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="National",Trans7 (V+)
 https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="National",Trans7 (INDI)
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://cdnindisg1.iptvsystem.my.id/atm/DASH/trans7/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="National",Transtv (V+)
 https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="National",Transtv (INDIIPTV)
+https://cdnindisg1.iptvsystem.my.id/atm/DASH/transtv/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -894,6 +921,9 @@ https://melon-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_warner_ver1.png" group-title="Entertainment",Warner TV (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/warner.png" group-title="Entertainment",Warner TV (INDIIPTV)
+https://cdnindisg1.iptvsystem.my.id/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
