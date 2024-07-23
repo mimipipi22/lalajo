@@ -539,7 +539,7 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies Int",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.moviefone.com/legacy/assets/moviefone-website-logo.png" group-title="Movies Int",Movie Fone TV 🇺🇸 [L]
+#EXTINF:-1 tvg-logo="https://cdn.moviefone.com/legacy/assets/moviefone-website-logo.png" group-title="Movies Int",MovieFone TV 🇺🇸 [L]
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/moviefonetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MovieDome.jpg" group-title="Movies Int",MovieDome 🇺🇸
@@ -824,7 +824,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe0
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/entertainment/kplus.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.moviefone.com/legacy/assets/moviefone-website-logo.png" group-title="Entertainment",Movie Fone TV [L]
+#EXTINF:-1 tvg-logo="https://cdn.moviefone.com/legacy/assets/moviefone-website-logo.png" group-title="Entertainment",MovieFone TV [L]
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/moviefonetv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2008,8 +2008,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a4243017317e3341
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png" group-title="International",Dragon TV (V+)
 https://melon-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JQL4v0H/duniasinema.png" group-title="International",DUNIA SINEMA 🇲🇾
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+https://web.hypp.tv:443/PLTV/88888888/224/3221227631/3221227631.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBQ4yQtjnn4TWNzyW6YccCDjsWmHnwWKRFImvveqEt18KC8H4Sh7IRNiCsyCDJtbcTvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240722100649%3AUTC%2C1005926113%2C118.100.198.102%2C20240722100649%2Curn:Huawei:liveTV:XTV100001461%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAzWMsQ7CIBQA_6Yj4SHVMjBpmrgQk6qrecArIcESoTbx77VGl5vubi7o6HjQwH0HLUjLHUm3U51V4gOP7VbBKFRT6WGy3jQOU4pTMNmv2XXY34AzzoQAJrvmvO76hEGLr2med0tFwz8bqCzRkfZ1ZAtWhiEUCjjHPLFTwtelpJ_yBipkP8SZAAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -2412,11 +2414,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="Malaysia" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227631/3221227631.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBQ4yQtjnn4TWNzyW6YccCDjsWmHnwWKRFImvveqEt18KC8H4Sh7IRNiCsyCDJtbcTvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240722100649%3AUTC%2C1005926113%2C118.100.198.102%2C20240722100649%2Curn:Huawei:liveTV:XTV100001461%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C144796741%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAzWMsQ7CIBQA_6Yj4SHVMjBpmrgQk6qrecArIcESoTbx77VGl5vubi7o6HjQwH0HLUjLHUm3U51V4gOP7VbBKFRT6WGy3jQOU4pTMNmv2XXY34AzzoQAJrvmvO76hEGLr2med0tFwz8bqCzRkfZ1ZAtWhiEUCjjHPLFTwtelpJ_yBipkP8SZAAAA&tenantId=6001
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
