@@ -674,6 +674,22 @@ https://ott.zapitv.com/live/eds_c2/tnt/dash_live_enc/tnt.mpd
 #KODIPROP:inputstream.adaptive.license_key=563e6e1367e0c8c0f6643cf0ae92c4e7:7a84ece91b690c5b717eeffd58a55b04
 https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo=" group-title="Movies Int",Asian Crush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo=" group-title="Movies Int",tvN1
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo=" group-title="Movies Int",tvN2
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo=" group-title="Movies Int",tvN3
+https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo=" group-title="Movies Int",tvN5
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
+
 
 //========================================================================
 //@Copyright by @mimipipi22 menampilkan playlist >>> HBO GROUP
@@ -1382,28 +1398,24 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379
 //@Copyright by @mimipipi22 menampilkan playlist >>> SPORT INT
 //========================================================================
 
-#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 1 🇲🇾 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 1 🇲🇾 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
 http://fm1077.serv00.net/Smart.php?id=go_assp1
 
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 2 🇲🇾 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 2 🇲🇾 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
 http://fm1077.serv00.net/Smart.php?id=go_assp2
 
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 3 🇲🇾 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 3 🇲🇾 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 http://fm1077.serv00.net/Smart.php?id=go_assp3
 
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 4 🇲🇾 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/440px-2024_Copa_Am%C3%A9rica_logo.svg.png" group-title="Sport Int",Astro Supersport 4 🇲🇾 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 http://fm1077.serv00.net/Smart.php?id=go_assp4
 
 #EXTINF:-1 group-title="Sport Int" ch-number="991" tvg-id="991" tvg-chno="991" ,Channel 1 Paris 2024 Olympics 🇲🇾 
@@ -1434,8 +1446,11 @@ http://fm1077.serv00.net/Smart.php?id=Arena
 #EXTINF:-1 tvg-logo="" group-title="Sport Int",Astro Arena 2 🇲🇾 
 http://fm1077.serv00.net/Smart.php?id=Arena2
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="Sport Int",Astro Bola 🇲🇾 
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",Astro Bola 1 🇲🇾 
 http://fm1077.serv00.net/Smart.php?id=Bolaarena1
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",Astro Bola 2 🇲🇾 
+http://fm1077.serv00.net/Smart.php?id=Bolaarena2
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2320,20 +2335,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo=" group-title="International",SBS KR (FM1077)
-https://fm1077.serv00.net/anbo/index.php?id=252
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo=" group-title="International",SBS Int
 http://extraott.com/7921751389/6097373662/191072
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo=" group-title="International",SBS Plus
 http://extraott.com/7921751389/6097373662/191073
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo=" group-title="International",SBS Sport (FM1077)
-https://fm1077.serv00.net/anbo/index.php?id=487
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo=" group-title="International",Mnet (FM1077)
-https://fm1077.serv00.net/anbo/index.php?id=1136
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo=" group-title="International",Kplus
 http://extraott.com/7921751389/6097373662/191063
@@ -3935,6 +3941,10 @@ https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/163.ts
 //@Copyright by @mimipipi22 menampilkan playlist >>> OLYMPIC LIVE
 //========================================================================
 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",CCTV 16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="Olympic Channel",Olympic Channel 1
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582448.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="Olympic Channel",Olympic Channel 2
@@ -3967,6 +3977,131 @@ http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582457.ts
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582460.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wzTTKkp/shareext-olympicparis2024.jpg" group-title="Olympic Channel",Olympic Channel 16
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582458.ts
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 801
+https://mytvsuper.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 802
+https://mytvsuper.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 803
+https://mytvsuper.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 804
+https://mytvsuper.btjson.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 805
+https://mytvsuper.btjson.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 806
+https://mytvsuper.btjson.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 807
+https://mytvsuper.btjson.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 808
+https://mytvsuper.btjson.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 809
+https://mytvsuper.btjson.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 810
+https://mytvsuper.btjson.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 811
+https://mytvsuper.btjson.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 812
+https://mytvsuper.btjson.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 813
+https://mytvsuper.btjson.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 814
+https://mytvsuper.btjson.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 815
+https://mytvsuper.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 816
+https://mytvsuper.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",TVB Olympics 817
+https://mytvsuper.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 1
+http://cdn.1678520.xyz/xsj.php?id=astro-oly1
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 2
+http://cdn.1678520.xyz/xsj.php?id=astro-oly2
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 3
+http://cdn.1678520.xyz/xsj.php?id=astro-oly3
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 4
+http://cdn.1678520.xyz/xsj.php?id=astro-oly4
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 5
+http://cdn.1678520.xyz/xsj.php?id=astro-oly5
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 6
+http://cdn.1678520.xyz/xsj.php?id=astro-oly6
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 7
+http://cdn.1678520.xyz/xsj.php?id=astro-oly7
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 8
+http://cdn.1678520.xyz/xsj.php?id=astro-oly8
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 9
+http://cdn.1678520.xyz/xsj.php?id=astro-oly9
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 10
+http://cdn.1678520.xyz/xsj.php?id=astro-oly10
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 11
+http://cdn.1678520.xyz/xsj.php?id=astro-oly11
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 12
+http://cdn.1678520.xyz/xsj.php?id=astro-oly12
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 13
+http://cdn.1678520.xyz/xsj.php?id=astro-oly13
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 14
+http://cdn.1678520.xyz/xsj.php?id=astro-oly14
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 15
+http://cdn.1678520.xyz/xsj.php?id=astro-oly15
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",Astro Olympic 16
+http://cdn.1678520.xyz/xsj.php?id=astro-oly16
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",ELTA Olympics 1
+http://cdn.1678520.xyz/xsj.php?id=elta-oly1
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",ELTA Olympics 2
+http://cdn.1678520.xyz/xsj.php?id=elta-oly2
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",ELTA Olympics 3
+http://cdn.1678520.xyz/xsj.php?id=elta-oly3
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",ELTA Olympics 4
+http://cdn.1678520.xyz/xsj.php?id=elta-oly4
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",ELTA Olympics 5
+http://cdn.1678520.xyz/xsj.php?id=elta-oly5
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",ELTA Olympics 6
+http://cdn.1678520.xyz/xsj.php?id=elta-oly6
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",ELTA Olympics 7
+http://cdn.1678520.xyz/xsj.php?id=elta-oly7
+
+
 
 
 #EXTM3U billed-msg="😎 Source Playlist Ini [Gratis] Jangan Diperjualbelikan 😎"
