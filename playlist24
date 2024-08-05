@@ -232,6 +232,11 @@ http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="National",Moji (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 7.1.1; 1fznmb8) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="National",Moji (THEDREAM)
+https://thedream.biz.id/live/ochannel.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="National",Net (INDI)
@@ -336,6 +341,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0b
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 https://cdnindisg1.iptvsystem.my.id/atm/DASH/trans7/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 7.1.1; 1fznmb8) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="National",Trans7 (THEDREAM)
+https://thedream.biz.id/live/transtujuh.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -358,7 +368,8 @@ https://cdnindisg1.iptvsystem.my.id/atm/DASH/transtv/manifest.mpd|user-agent=Moz
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="National",TVONE (V+)
-https://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+https://melon-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+#https://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -923,10 +934,10 @@ https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53b7da012ab34bd4a37e1190174015e2:498fb9e0165554a2de01fded75be092e
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13" group-title="Entertainment",Gem (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/GEMHD/mpd/GEMHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/GEMHD/mpd/GEMHD.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13" group-title="Entertainment",Gem (Indi)
-https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -2554,6 +2565,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" group-title="Kids",Indikids (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tJX1NDf/kidoodletv.png" group-title="Kids",KIDOODLE TV 🇺🇸
 https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
@@ -2766,8 +2778,10 @@ https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
+https://cdn09jtedge.indihometv.com/atm/hlsv3/indikids/indikids.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
+https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
 https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
@@ -2832,7 +2846,7 @@ https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
 https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK
-https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
+#
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
 https://cdn09jtedge.indihometv.com/joss/133/hg/index.m3u8?c
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
@@ -3886,16 +3900,27 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 
 #EXTINF:-1 group-title="Olympic Channel" ch-number="991" tvg-id="991" tvg-chno="991" ,Channel 1 Paris 2024 Olympics 🇲🇾 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
 #EXTINF:-1 group-title="Olympic Channel" ch-number="992" tvg-id="992" tvg-chno="992" ,Channel 2 Paris 2024 Olympics 🇲🇾 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
 #EXTINF:-1 group-title="Olympic Channel" ch-number="993" tvg-id="993" tvg-chno="993" ,Channel 3 Paris 2024 Olympics 🇲🇾 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
 #EXTINF:-1 group-title="Olympic Channel" ch-number="994" tvg-id="994" tvg-chno="994" ,Channel 4 Paris 2024 Olympics 🇲🇾 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
 #EXTINF:-1 group-title="Olympic Channel" ch-number="995" tvg-id="995" tvg-chno="995" ,Channel 5 Paris 2024 Olympics 🇲🇾 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
 #EXTINF:-1 group-title="Olympic Channel" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel 6 Paris 2024 Olympics 🇲🇾 
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
+#EXTINF:-1 group-title="Olympic Channel" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel Okey Paris 2024 Olympics 🇲🇾 
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 group-title="Olympic Channel" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel Sukan Paris 2024 Olympics 🇲🇾 
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH1 🇸🇬
 #EXTGRP: Olympic Channel
@@ -4149,8 +4174,20 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi",Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi",Zee Action
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi",Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi",Zee Cinemalu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi",And Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 
 
