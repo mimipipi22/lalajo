@@ -361,8 +361,8 @@ https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="National",Transtv (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="National",Transtv (INDIIPTV)
-https://cdnindisg1.iptvsystem.my.id/atm/DASH/transtv/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="National",Transtv (INDI)
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -449,11 +449,6 @@ https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 https://melon-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax (FMX)
-https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KXyXli/42emfHaF46gCD7A", "kid":"lHiLyTcFQJCyFtwQHl+l3A" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtctbjnECdTrPKZPWZn5biQDHlqONSTYEDpI7YkLt&s" group-title="Movies",Citra Bioskop (FMX)
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
@@ -477,20 +472,31 @@ https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png" group-title="Movies",Galaxy Premium (V+)
 https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="Movies",HBO (FMX)
-https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjcwZWI6ZWE4ZTozMjgxOmM3ODYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT0ZhbWlseUhEIiwic2lnbmF0dXJlS2V5IjoiNDUwZWQ5NWIyNWViNDBhOTU1ZjA0MTI0NWM1YjMyZTgiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjI1ODQ1MDd9
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="Movies",HBO Family (FMXIPTV))
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjcwZWI6ZWE4ZTozMjgxOmM3ODYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT0hpdHNIRCIsInNpZ25hdHVyZUtleSI6ImU5ZDliNzYwMzZlYzBiMDU5YmFlOWNhN2MwMzBlNWRkIiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIyNTg0NTA3fQ
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="Movies",HBO Hits (FMXIPTV)
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="Movies",HBO (CBM)
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="Movies",HBO Hits (CBM)
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="Movies",HBO Family (CBM)
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="Movies",HBO Signature (CBM)
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="Movies",Cinemax (CBM)
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjcwZWI6ZWE4ZTozMjgxOmM3ODYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT1NpZ25hdHVyZUhEIiwic2lnbmF0dXJlS2V5IjoiOWRmOWI5MTFjNTQ2OTA1NTMwNGU5YTFhN2EwNTFiNjQiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjI1ODQ1MDd9
@@ -723,38 +729,24 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 //Copyright by @mimipipi22 menampilkan playlist >>> HBO GROUP
 //========================================================================
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmM4NzQ6YThlYjpiZmI4OmRlODkiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImhibyIsInNpZ25hdHVyZUtleSI6Ijk1NzcyMTUwZjE5YzM2MmZiMDQ2OTkwYmNmZjA4NTIxIiwicHJvdmlkZXIiOiJtYXhzdHJlYW0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMzE5MDY2Mn0
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="HBO Group",HBO (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmM4NzQ6YThlYjpiZmI4OmRlODkiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Imhib2hpdHMiLCJzaWduYXR1cmVLZXkiOiI5OWU1NWYyMDU4YWY3MjdjYmRhMjg4MmVlMzFjOGE4NCIsInByb3ZpZGVyIjoibWF4c3RyZWFtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjMxOTA2NjJ9
 #EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="HBO Group",HBO HITS (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmM4NzQ6YThlYjpiZmI4OmRlODkiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Imhib3NpZyIsInNpZ25hdHVyZUtleSI6IjNlNjJhNDk2OGNjNTRkNWVjZDE2NWQ1YzdhYWI1OTM5IiwicHJvdmlkZXIiOiJtYXhzdHJlYW0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMzE5MDY2Mn0
 #EXTINF:-1 tvg-name="HBO SIGN" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="HBO Group",HBO SIGN (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmM4NzQ6YThlYjpiZmI4OmRlODkiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Imhib2ZhbSIsInNpZ25hdHVyZUtleSI6IjllNzY5ZjhmZDFmMTAxMTM1YTg2MzFjY2I2YWZjMTZlIiwicHJvdmlkZXIiOiJtYXhzdHJlYW0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMzE5MDY2Mn0
 #EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="HBO Group",HBO FAMILY (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmM4NzQ6YThlYjpiZmI4OmRlODkiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImNpbmVtYXgiLCJzaWduYXR1cmVLZXkiOiI2MjMyZjcyMTlkOGQwZDY1YTM2YzI4ZDk1ZGNhNTY2NCIsInByb3ZpZGVyIjoibWF4c3RyZWFtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjMxOTA2NjJ9
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="HBO Group",CINEMAX (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
@@ -1091,8 +1083,8 @@ https://melon-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_warner_ver1.png" group-title="Entertainment",Warner TV (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/warner.png" group-title="Entertainment",Warner TV (INDIIPTV)
-https://cdnindisg1.iptvsystem.my.id/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/warner.png" group-title="Entertainment",Warner TV (INDI)
+https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1636,6 +1628,41 @@ http://103.120.172.74:4700
 //========================================================================
 //Copyright by @mimipipi22 menampilkan playlist >>> SPORT MPD
 //========================================================================
+
+#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="Sport MPD", Event MolaTV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="Sport MPD", Event MolaTV 2
+https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="Sport MPD", Event MolaTV 3
+https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="Sport MPD", Event MolaTV 4
+https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="Sport MPD", Event MolaTV 5
+https://live.mocdn.tv/out/v1/728c541035c34cc598cef262c95f7b43/manifest_L1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="Sport MPD", Event MolaTV 6
+https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="Sport MPD", Event MolaTV 7
+https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 #EXTINF:-1  group-title="Sport MPD",TNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2446,6 +2473,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png" group-title="International",Zhejiang (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://data8.fixtv.xyz/LOGO/ENTERTAINMENT/DONE/WBTV.png" group-title="International",Warner TV 🇻🇳
+http://antm.dynu.net:14285/rtp/232.84.3.114:10517
 
 
 //========================================================================
@@ -3894,187 +3924,112 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> SOCCER LIVE
-//========================================================================
-
-
-
-
-//========================================================================
 //Copyright by @mimipipi22 menampilkan playlist >>> OLYMPIC LIVE
 //========================================================================
 
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="Olympic Channel",CCTV 16
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-
-#EXTINF:-1 group-title="Olympic Channel" ch-number="991" tvg-id="991" tvg-chno="991" ,Channel 1 Paris 2024 Olympics 🇲🇾 (VPN)
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/ddc17d38edcb44c82f39a.png",RTM Olympic CH01
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12595
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
-#EXTINF:-1 group-title="Olympic Channel" ch-number="992" tvg-id="992" tvg-chno="992" ,Channel 2 Paris 2024 Olympics 🇲🇾 (VPN)
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/103e18317c31a12e045a7.png",RTM Olympic CH02
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12596
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
-#EXTINF:-1 group-title="Olympic Channel" ch-number="993" tvg-id="993" tvg-chno="993" ,Channel 3 Paris 2024 Olympics 🇲🇾 (VPN)
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/80df55b2ed30a86c259ec.png",RTM Olympic CH03
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12597
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
-#EXTINF:-1 group-title="Olympic Channel" ch-number="994" tvg-id="994" tvg-chno="994" ,Channel 4 Paris 2024 Olympics 🇲🇾 (VPN)
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/dcfce051d9aa96baa1287.png",RTM Olympic CH04
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12598
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
-#EXTINF:-1 group-title="Olympic Channel" ch-number="995" tvg-id="995" tvg-chno="995" ,Channel 5 Paris 2024 Olympics 🇲🇾 (VPN)
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/70a180252b73f8f439e5f.png",RTM Olympic CH05
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12599
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
-#EXTINF:-1 group-title="Olympic Channel" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel 6 Paris 2024 Olympics 🇲🇾 
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/2786040af37c0668707cb.png",RTM Olympic CH06
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12601
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
-#EXTINF:-1 group-title="Olympic Channel" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel Okey Paris 2024 Olympics 🇲🇾 
+#EXTINF:-1 tvg-id="" tvg-logo="",Okey TV Olympic CH
+#EXTGRP: Olympic Channel
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-#EXTINF:-1 group-title="Olympic Channel" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel Sukan Paris 2024 Olympics 🇲🇾 
+#EXTINF:-1 tvg-id="" tvg-logo="",Sukan Olympic CH
+#EXTGRP: Olympic Channel
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH1 🇸🇬 (VPN)
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/51a4ff622909aa829d885.png",Mediacorp Olympic CH01
 #EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586981/assetType/media/assetFileId/20061401/contextType/PLAYBACK/isAltUrl/False/a.mpd
+http://fixtv.shop:888/long/long/12561
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/16b2335be4657f4491d87.png",Mediacorp Olympic CH02
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12562
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/970f36f1be11f772e142f.png",Mediacorp Olympic CH03
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12563
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/9af3d080917e4f20f1a9d.png",Mediacorp Olympic CH04
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12564
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/ac6e976a74642468db0fe.png",Mediacorp Olympic CH05
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12565
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/6e04276d5ed143ea6bc87.png",Mediacorp Olympic CH06
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12566
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/f83e09102911affac2f49.png",Mediacorp Olympic CH07
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12567
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/88f3cf8178b59610f9f06.png",Mediacorp Olympic CH08
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12568
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/f72ef7e543071a6409845.png",Mediacorp Olympic CH09
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12570
+#EXTINF:-1 tvg-id="" tvg-logo="https://telegra.ph/file/39844fa5d5208300521b0.png",Mediacorp Olympic CH010
+#EXTGRP: Olympic Channel
+http://fixtv.shop:888/long/long/12571
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH2 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586982/assetType/media/assetFileId/20061571/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH3 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=142a3c07ea6742bf99f7ae5eaa8db32f:d1ec541224d76fb8d8938f9d1d58d209
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586983/assetType/media/assetFileId/20064752/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 1
+http://fixtv.shop:888/long/long/12556
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 2
+http://fixtv.shop:888/long/long/12557
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 3
+http://fixtv.shop:888/long/long/12558
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 4
+http://fixtv.shop:888/long/long/12559
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 5
+http://fixtv.shop:888/long/long/12560
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 6
+http://fixtv.shop:888/long/long/12586
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 7
+http://fixtv.shop:888/long/long/12587
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 8
+http://fixtv.shop:888/long/long/12588
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 9
+http://fixtv.shop:888/long/long/12589
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 10
+http://fixtv.shop:888/long/long/12590
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 11
+http://fixtv.shop:888/long/long/12591
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 12
+http://fixtv.shop:888/long/long/12601
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 13
+http://fixtv.shop:888/long/long/12602
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 14
+http://fixtv.shop:888/long/long/12603
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 15
+http://fixtv.shop:888/long/long/12604
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a24be6617262664ec6dff.png" group-title="Olympic Channel",Astro Olympic Games Paris 16
+http://fixtv.shop:888/long/long/12605
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH4 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30b253cc3c164a2496aa1c937070efc2:5f923a53361bdfa477df89bd9d0f2ac2
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586984/assetType/media/assetFileId/20070548/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH5 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9a5ac35c7084fe7b636805b7bde58dc:046fadba2c1cd2cf184b33ae6e1fc495
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586985/assetType/media/assetFileId/20074438/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH6 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94435d90aa5043aea3901de619747a3d:af3f0047f71346c127dfb9be139df37a
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586986/assetType/media/assetFileId/20074544/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH7 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e371a0b27db64256b4b43dafcb04b759:34b573374930646e97b4009de29b7058
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586987/assetType/media/assetFileId/20074556/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH8 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e78fde7e99d246f8a511587de98ebdaa:98cc62c131a81705c74b405e51b059cb
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586988/assetType/media/assetFileId/20105496/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH9 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=347e553679ac416c89724a73f11a7e0e:e03eac0f426ae6a94b02351b2c046f58
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586989/assetType/media/assetFileId/20106124/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH10 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b73ecf9b3afd4dbe9f3497129af930e4:d8210580581eb63ecc8aa41207196190
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586990/assetType/media/assetFileId/20106232/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH11 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd4222aecfd44ddcb7e9fdd8d76f0c6b:48411f638e543360b5e8b721a1f51264
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586991/assetType/media/assetFileId/20106485/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH12 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5b8a1552dc447c0a58143ded9ea4965:7f629adaf2c7d010674a12ac1f5e6d99
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586992/assetType/media/assetFileId/20106521/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH13 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ddb4ca731cb4586a7269b29defa452b:fdb9619df86a47faea1145f607be5c2d
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586993/assetType/media/assetFileId/20109466/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH14 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f78239c7163b4b17873d005f80b850bf:dfb3d1533e62397f696dd49ae136b8c7
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586994/assetType/media/assetFileId/20109819/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH15 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e21ca3ae80cc40548c51dbeb8ce8b9d7:a36b19182f848e2dad1ea76a5a4e3bda
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586995/assetType/media/assetFileId/20109831/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH16 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e75d23cdbbf4fefa09f106a71ec8c18:8cf2a0ab6990b5091dd95dac3288789c
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586996/assetType/media/assetFileId/20109883/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH17 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ef636158fd6489da0a63ab426587308:6c1a22550758100c4a2b95e4b0dfad8d
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586997/assetType/media/assetFileId/20110952/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH18 🇸🇬 (VPN)
-#EXTGRP: Olympic Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=019f6e480f774cae8539901c9edd2a60:6bd5db15b704e4f3dfa9a25a9cda6b79
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586998/assetType/media/assetFileId/20110964/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/422px-2024_Summer_Olympics_logo.svg.png",CH1 🇪🇸
