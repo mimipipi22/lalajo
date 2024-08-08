@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-08-07 13:04:00 GMT+7 "
+# (●) Last Update: 2024-08-08 13:04:00 GMT+7 "
 # (●) Service: Playlist24
 # (●) Total Channels: Null
 
@@ -19,7 +19,7 @@
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="National",Antara TV
-#
+https://nonton.site:8443/live/ekos/748344x/32586.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1448,23 +1448,6 @@ http://fm1077.serv00.net/Smart.php?id=go_assp3
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp4
 
-#EXTINF:-1 group-title="Sport Int" ch-number="991" tvg-id="991" tvg-chno="991" ,Channel 1 Paris 2024 Olympics 🇲🇾 
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
-
-#EXTINF:-1 group-title="Sport Int" ch-number="992" tvg-id="992" tvg-chno="992" ,Channel 2 Paris 2024 Olympics 🇲🇾 
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
-
-#EXTINF:-1 group-title="Sport Int" ch-number="993" tvg-id="993" tvg-chno="993" ,Channel 3 Paris 2024 Olympics 🇲🇾 
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
-
-#EXTINF:-1 group-title="Sport Int" ch-number="994" tvg-id="994" tvg-chno="994" ,Channel 4 Paris 2024 Olympics 🇲🇾 
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
-
-#EXTINF:-1 group-title="Sport Int" ch-number="995" tvg-id="995" tvg-chno="995" ,Channel 5 Paris 2024 Olympics 🇲🇾 
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
-
-#EXTINF:-1 group-title="Sport Int" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel 6 Paris 2024 Olympics 🇲🇾 
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo="" group-title="Sport Int",RTM Sports 🇲🇾 
@@ -1481,6 +1464,14 @@ http://fm1077.serv00.net/Smart.php?id=Bolaarena1
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo="" group-title="Sport Int",Astro Bola 2 🇲🇾 
 http://fm1077.serv00.net/Smart.php?id=Bolaarena2
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Bein Sport 1 🇹🇭
+#EXTGRP: Sport Int
+http://livein1.com:8080/play/live.php?mac=00:1A:79:4B:DD:FF&stream=186614&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Bein Sport 2 🇹🇭
+#EXTGRP: Sport Int
+http://livein1.com:8080/play/live.php?mac=00:1A:79:4B:DD:FF&stream=186615&extension=m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
