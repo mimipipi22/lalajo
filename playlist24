@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-08-15 15:04:00 GMT+7 "
+# (●) Last Update: 2024-08-16 15:04:00 GMT+7 "
 # (●) Service: Playlist24
 # (●) Total Channels: Null
 
@@ -1256,11 +1256,14 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/wion.m3u
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="Sport",Champion 5
-http://fm1077.serv00.net/Smart.php?id=Champion5epl
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/3ce2727ddf99b7dda9944f418076d370.png" group-title="Sport",Bein Sport 1
+http://metatvpro.xyz:25461/W1045/4329/151
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="Sport",Champion 6
-http://fm1077.serv00.net/Smart.php?id=Champion6epl
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/ab82364ae81896cee4e2fad3979119db.png" group-title="Sport",Bein Sport 2
+http://metatvpro.xyz:25461/W1045/4329/13766
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/78433f7181a5d9b20caf860455908db7.png" group-title="Sport",Bein Sport 3
+http://metatvpro.xyz:25461/W1045/4329/152
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
@@ -1792,11 +1795,43 @@ https://webhdrunns.mizhls.ru/lb/premium620/index.m3u8|referer=https://lewblivehd
 #EXTINF:-1 tvg-name="SSC Sport Extra 3" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",SSC Sport Extra 3
 https://webhdrunns.mizhls.ru/lb/premium621/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
+#EXTINF:-1 tvg-name="TV2 Bornholm Denmark" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",TV2 Bornholm Denmark
+https://webhdrunns.mizhls.ru/lb/premium807/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="TV2 Sport X Denmark" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",TV2 Sport X Denmark
+https://webhdrunns.mizhls.ru/lb/premium808/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="TV3 Sport Denmark" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",TV3 Sport Denmark
+https://webhdrunns.mizhls.ru/lb/premium809/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="TV2 Sport Denmark" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",TV2 Sport Denmark
+https://webhdrunns.mizhls.ru/lb/premium810/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Viaplay Sports 1 UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",Viaplay Sports 1 UK
+https://webhdrunns.mizhls.ru/lb/premium451/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Viaplay Sports 2 UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",Viaplay Sports 2 UK
+https://webhdrunns.mizhls.ru/lb/premium550/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Viaplay Xtra UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",Viaplay Xtra UK
+https://webhdrunns.mizhls.ru/lb/premium597/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Ziggo Sport Docu NL" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",Ziggo Sport Docu NL
+https://webhdrunns.mizhls.ru/lb/premium383/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Ziggo Sport Select NL" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",Ziggo Sport Select NL
+https://webhdrunns.mizhls.ru/lb/premium393/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Ziggo Sport Racing NL" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",Ziggo Sport Racing NL
+https://webhdrunns.mizhls.ru/lb/premium396/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Ziggo Sport Voetbal NL" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",Ziggo Sport Voetbal NL
+https://webhdrunns.mizhls.ru/lb/premium398/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="TVA Sports" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",TVA Sports
+https://webhdrunns.mizhls.ru/lb/premium833/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="TVA Sports 2" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sport Europe",TVA Sports 2
+https://webhdrunns.mizhls.ru/lb/premium834/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
 
 //========================================================================
 //Copyright by @mimipipi22 menampilkan playlist >>> SPORT INT
 //========================================================================
 
+
+#EXTINF:-1 tvg-logo="" group-title="Sport Int", Tennis Channel
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Sport Int" tvg-id="TennisChannel.us" tvg-name="TennisChannel.us", Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
@@ -2284,6 +2319,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846169a38c3e61/1901a230a6204d44b4d51f176df0d20c.jpg" group-title="Lifestyle",Wai Lana (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018456047dc34366/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle",MyZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 
 //========================================================================
@@ -4279,6 +4317,26 @@ https://webhdrunns.mizhls.ru/lb/premium866/index.m3u8|referer=https://lewblivehd
 https://webhdrunns.mizhls.ru/lb/premium867/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="8Sky Cinema Suspense Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",8Sky Cinema Suspense Italy
 https://webhdrunns.mizhls.ru/lb/premium868/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+//========================================================================
+//Copyright by @mimipipi22 menampilkan playlist >>> BEIN MOVIE
+//========================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Box Office 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/a1785416ae7e6dbb932232bb1ad4e6cd.jpg" group-title="beIN Movie",QA: beIN Box Office 1
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/225322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Box Office 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/426ffd6c8884d86ebf2eab9424aec0c8.png" group-title="beIN Movie",QA: beIN Box Office 2
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/225321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Drama 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/752642b37938786f6aa7c4a541a4d88a.jpg" group-title="beIN Movie",QA: beIN Drama 1
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Action 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f53fed0173cd3832fe7cda3ff10e106e.png" group-title="beIN Movie",QA: beIN Movies Action 2
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Drama 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/14fdcdb04d6dedc02d4c5da6b8799ac9.png" group-title="beIN Movie",QA: beIN Movies Drama 3
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Family 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3ea0e8888e4246635f275548efadf3fa.png" group-title="beIN Movie",QA: beIN Movies Family 4
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Premiere 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/5e38160e63541c3247432ad7cd12e674.jpg" group-title="beIN Movie",QA: beIN Movies Premiere 1
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/267063.m3u8
 
 
 //========================================================================
