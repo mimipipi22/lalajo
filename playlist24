@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-08-16 15:04:00 GMT+7 "
+# (●) Last Update: 2024-08-21 10:04:00 GMT+7 "
 # (●) Service: Playlist24
 # (●) Total Channels: Null
 
@@ -609,6 +609,13 @@ https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 //Copyright by @mimipipi22 menampilkan playlist >>> MOVIES INT
 //========================================================================
 
+#EXTINF:-1 tvg-id="1322" tvg-name="&Flix HD" tvg-type="Movies" group-title="Movies Int" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",&Flix HD
+https://reductions-pleased-affiliated-alberta.trycloudflare.com/app/live.php?id=1322&e=.m3u
+#EXTINF:-1 tvg-id="1349" tvg-name="And Prive HD" tvg-type="Movies" group-title="Movies Int" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png",And Prive HD
+https://reductions-pleased-affiliated-alberta.trycloudflare.com/app/live.php?id=1349&e=.m3u
+#EXTINF:-1 tvg-id="1839" tvg-name="And Pictures" tvg-type="Movies" group-title="Movies Int" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png",And Pictures
+https://reductions-pleased-affiliated-alberta.trycloudflare.com/app/live.php?id=1839&e=.m3u
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpr6QEZ6_5uEN1tEkmK3jCTKEQdpBLYZi3g&usqp=CAU" group-title="Movies Int", Action Movies 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -719,23 +726,23 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjY5NWU6ZTlhZTo2YWU2OjY4OTAiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImhibyIsInNpZ25hdHVyZUtleSI6Ijk1NzcyMTUwZjE5YzM2MmZiMDQ2OTkwYmNmZjA4NTIxIiwicHJvdmlkZXIiOiJtYXhzdHJlYW0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyNDM5Mzc0OH0
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjI0OWU6N2Q4NDo5MzU6N2M5IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJoYm8iLCJzaWduYXR1cmVLZXkiOiI5NTc3MjE1MGYxOWMzNjJmYjA0Njk5MGJjZmYwODUyMSIsInByb3ZpZGVyIjoibWF4c3RyZWFtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjQ0NzMyOTd9
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="HBO Group",HBO (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjY5NWU6ZTlhZTo2YWU2OjY4OTAiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Imhib2hpdHMiLCJzaWduYXR1cmVLZXkiOiI5OWU1NWYyMDU4YWY3MjdjYmRhMjg4MmVlMzFjOGE4NCIsInByb3ZpZGVyIjoibWF4c3RyZWFtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjQzOTM3NDh9
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjI0OWU6N2Q4NDo5MzU6N2M5IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJoYm9oaXRzIiwic2lnbmF0dXJlS2V5IjoiOTllNTVmMjA1OGFmNzI3Y2JkYTI4ODJlZTMxYzhhODQiLCJwcm92aWRlciI6Im1heHN0cmVhbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzI0NDczMjk3fQ
 #EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="HBO Group",HBO HITS (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjY5NWU6ZTlhZTo2YWU2OjY4OTAiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Imhib3NpZyIsInNpZ25hdHVyZUtleSI6IjNlNjJhNDk2OGNjNTRkNWVjZDE2NWQ1YzdhYWI1OTM5IiwicHJvdmlkZXIiOiJjdWJtdSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzI0MzkzNzQ4fQ
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjI0OWU6N2Q4NDo5MzU6N2M5IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJoYm9zaWciLCJzaWduYXR1cmVLZXkiOiIzZTYyYTQ5NjhjYzU0ZDVlY2QxNjVkNWM3YWFiNTkzOSIsInByb3ZpZGVyIjoiY3VibXUiLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyNDQ3MzI5N30
 #EXTINF:-1 tvg-name="HBO SIGN" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="HBO Group",HBO SIGN (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjY5NWU6ZTlhZTo2YWU2OjY4OTAiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Imhib2ZhbSIsInNpZ25hdHVyZUtleSI6IjllNzY5ZjhmZDFmMTAxMTM1YTg2MzFjY2I2YWZjMTZlIiwicHJvdmlkZXIiOiJjdWJtdSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzI0MzkzNzQ4fQ
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjI0OWU6N2Q4NDo5MzU6N2M5IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJoYm9mYW0iLCJzaWduYXR1cmVLZXkiOiI5ZTc2OWY4ZmQxZjEwMTEzNWE4NjMxY2NiNmFmYzE2ZSIsInByb3ZpZGVyIjoiY3VibXUiLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyNDQ3MzI5N30
 #EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="HBO Group",HBO FAMILY (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjY5NWU6ZTlhZTo2YWU2OjY4OTAiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImNpbmVtYXgiLCJzaWduYXR1cmVLZXkiOiI2MjMyZjcyMTlkOGQwZDY1YTM2YzI4ZDk1ZGNhNTY2NCIsInByb3ZpZGVyIjoibWF4c3RyZWFtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjQzOTM3NDh9
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjI0OWU6N2Q4NDo5MzU6N2M5IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJjaW5lbWF4Iiwic2lnbmF0dXJlS2V5IjoiNjIzMmY3MjE5ZDhkMGQ2NWEzNmMyOGQ5NWRjYTU2NjQiLCJwcm92aWRlciI6Im1heHN0cmVhbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzI0NDczMjk4fQ
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="HBO Group",CINEMAX (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
@@ -1506,7 +1513,18 @@ http://103.120.172.74:4700
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae45e9ae2f2244c18f804195213a495c:00421dca102c69f8432b48626348a989
 #EXTINF:-1 tvg-id="TvNSports" tvg-name="TvNSports" group-title="Sport Asia" tvg-logo="https://iptvsystem.my.id/img/tvnsports.png",TvN Sports
-https://iptvsystem.my.id/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjQxNzY6ZmM5YzpiYmVjOjQxM2YiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6InR2bnNwb3J0cyIsInNpZ25hdHVyZUtleSI6ImE1MDEzYjg5ZDk5ZTJkYjc3NWM2MDJjMGUzNzlmOWNiIiwicHJvdmlkZXIiOiJoeXBlcmEiLCJ0eXBlIjoiaGxzIiwiZXhwIjoxNzIzODcwNTg1fQ
+https://iptvsystem.my.id/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjI0OWU6N2Q4NDo5MzU6N2M5IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJ0dm5zcG9ydHMiLCJzaWduYXR1cmVLZXkiOiJhNTAxM2I4OWQ5OWUyZGI3NzVjNjAyYzBlMzc5ZjljYiIsInByb3ZpZGVyIjoiaHlwZXJhIiwidHlwZSI6ImhscyIsImV4cCI6MTcyNDQ3MzMwOH0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport Asia",[JP]GAORA SPORTS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport Asia",[JP]J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport Asia",[JP]J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport Asia",[JP]J Sport 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport Asia",[JP]J Sport 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
 
 
 //========================================================================
