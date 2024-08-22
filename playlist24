@@ -731,24 +731,38 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 //Copyright by @mimipipi22 menampilkan playlist >>> HBO GROUP
 //========================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjI0OWU6N2Q4NDo5MzU6N2M5IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJoYm8iLCJzaWduYXR1cmVLZXkiOiI5NTc3MjE1MGYxOWMzNjJmYjA0Njk5MGJjZmYwODUyMSIsInByb3ZpZGVyIjoibWF4c3RyZWFtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjQ0NzMyOTd9
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="HBO Group",HBO (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjI0OWU6N2Q4NDo5MzU6N2M5IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJoYm9oaXRzIiwic2lnbmF0dXJlS2V5IjoiOTllNTVmMjA1OGFmNzI3Y2JkYTI4ODJlZTMxYzhhODQiLCJwcm92aWRlciI6Im1heHN0cmVhbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzI0NDczMjk3fQ
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="HBO Group",HBO HITS (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjI0OWU6N2Q4NDo5MzU6N2M5IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJoYm9zaWciLCJzaWduYXR1cmVLZXkiOiIzZTYyYTQ5NjhjYzU0ZDVlY2QxNjVkNWM3YWFiNTkzOSIsInByb3ZpZGVyIjoiY3VibXUiLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyNDQ3MzI5N30
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="HBO SIGN" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="HBO Group",HBO SIGN (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjI0OWU6N2Q4NDo5MzU6N2M5IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJoYm9mYW0iLCJzaWduYXR1cmVLZXkiOiI5ZTc2OWY4ZmQxZjEwMTEzNWE4NjMxY2NiNmFmYzE2ZSIsInByb3ZpZGVyIjoiY3VibXUiLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyNDQ3MzI5N30
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="HBO Group",HBO FAMILY (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjI0OWU6N2Q4NDo5MzU6N2M5IiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJjaW5lbWF4Iiwic2lnbmF0dXJlS2V5IjoiNjIzMmY3MjE5ZDhkMGQ2NWEzNmMyOGQ5NWRjYTU2NjQiLCJwcm92aWRlciI6Im1heHN0cmVhbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzI0NDczMjk4fQ
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="HBO Group",CINEMAX (MAX)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
@@ -3228,19 +3242,19 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot Malaysia
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://telegra.ph/file/d58fe99a006c3ad4b9e24.png",Drama Hotpot Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
 
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap Malaysia
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://telegra.ph/file/6c1ea8ba4e4fd18681306.png",Filem Mantap Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
 
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral Malaysia
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://telegra.ph/file/1621221a6795938224b62.png",Lawak Sentral Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
 
-#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat Malaysia
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://telegra.ph/file/0c4afb9624d691ef282a4.png",Drama Hebat Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
@@ -4438,6 +4452,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi1/default/zeemarathi1.m3u
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="Hindi",Zee Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
+
 
 
 
