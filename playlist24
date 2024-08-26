@@ -42,8 +42,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c59
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_balitv_small1.png?v=2.0.0.13" group-title="National",Bali TV (V+)
 https://melon-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="National",BN Channel (INTECH)
-https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="National",BN Channel (P)
+http://103.237.32.213:9981/stream/channelid/695468932?profile=pass
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_beritasatu_ver4.png" group-title="National",BTV (L)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/indonesia/btv.m3u8
@@ -394,6 +394,11 @@ https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1
 
 #EXTINF:-1 tvg-logo="https://iili.io/JZIoj94.png" group-title="National",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="National",TV1O(P)
+http://103.237.32.213:9981/stream/channelid/606094233?profile=pass
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",E CHANNEL(P)
+http://103.237.32.213:9981/stream/channelid/562129238?profile=pass
 
 
 //========================================================================
@@ -1847,11 +1852,20 @@ https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/
 //Copyright by @mimipipi22 menampilkan playlist >>> SPORT INT
 //========================================================================
 
-
-#EXTINF:-1 tvg-logo="" group-title="Sport Int", Tennis Channel
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Sport Int" tvg-id="TennisChannel.us" tvg-name="TennisChannel.us", Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport Int,sportstv 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport Int",WWE.network
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport Int",MUtv
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport Int",RealMadrid tv
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 
 //========================================================================
@@ -4226,16 +4240,30 @@ https://webhdrunns.mizhls.ru/lb/premium868/index.m3u8|referer=https://lewblivehd
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/225322.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="QA: beIN Box Office 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/426ffd6c8884d86ebf2eab9424aec0c8.png" group-title="beIN Movie",QA: beIN Box Office 2
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/225321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Drama 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/752642b37938786f6aa7c4a541a4d88a.jpg" group-title="beIN Movie",QA: beIN Drama 1
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Action 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f53fed0173cd3832fe7cda3ff10e106e.png" group-title="beIN Movie",QA: beIN Movies Action 2
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR027:BEIN BOX OFFICE 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR027NUMBER1HD.png" group-title="beIN Movie",QA: beIN Box Office 3
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33042.ts
 #EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Drama 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/14fdcdb04d6dedc02d4c5da6b8799ac9.png" group-title="beIN Movie",QA: beIN Movies Drama 3
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3735.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Family 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3ea0e8888e4246635f275548efadf3fa.png" group-title="beIN Movie",QA: beIN Movies Family 4
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Drama 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/752642b37938786f6aa7c4a541a4d88a.jpg" group-title="beIN Movie",QA: beIN Drama
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2835.m3u8
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="TR038:BEIN SERIES DRAMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR038MoviesmartGold.png" group-title="beIN Movie",QA: beIN Series Drama
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33031
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Action 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR028DMAX1080P.png" group-title="beIN Movie",beIN Box Office Turk
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1270.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Premiere 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/5e38160e63541c3247432ad7cd12e674.jpg" group-title="beIN Movie",QA: beIN Movies Premiere 1
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/267063.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33035.ts
+#EXTINF:-1 tvg-id="moviesmart.premium.tr" tvg-name="TR035:BEIN MOVIES PREMIERE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR035MoviesmartPremium.png" group-title="beIN Movie",QA: beIN Movies Premiere 2
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33034.ts
+#EXTINF:-1 tvg-id="national.geographic.tr" tvg-name="TR031:BEIN MOVIES ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR031NATIONALGEOGRAPHICHD.png" group-title="beIN Movie",QA: beIN Movies Action
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33038.ts
+#EXTINF:-1 tvg-id="national.geographic.wild.tr" tvg-name="TR032:BEIN MOVIES ACTION 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR032NATINOALGEOWILD.png" group-title="beIN Movie",QA: beIN Movies Action 2
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33037.ts
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="TR036:BEIN MOVIES STARS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR036MoviesmartPlatin2.png" group-title="group-title="beIN Movie",QA: beIN Movies Stars
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33033.ts
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="TR037:BEIN SERIES COMEDY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR037MoviesmartPlatin.png" group-title="group-title="beIN Movie",QA: beIN Movies Comedy
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33032.ts
 
 
 //========================================================================
