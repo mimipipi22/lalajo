@@ -377,6 +377,9 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd|user-agent=Mozill
 https://melon-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #https://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="National",TVONE (INDI)
+https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -394,11 +397,6 @@ https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1
 
 #EXTINF:-1 tvg-logo="https://iili.io/JZIoj94.png" group-title="National",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="National",TV1O(P)
-http://103.237.32.213:9981/stream/channelid/606094233?profile=pass
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID",E CHANNEL(P)
-http://103.237.32.213:9981/stream/channelid/562129238?profile=pass
 
 
 //========================================================================
@@ -2570,7 +2568,8 @@ https://d3sy3u4ap6305a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20231024T231916SQUARE.png_20231024231917.png" group-title="Music",XITE Only Love
 https://d3djdu8hxjprse.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3m6pysw8u03bf/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/USBD3300008DG.m3u8
+#https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240401T235853SQUARE.png" group-title="Music",XITE Rock On
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
@@ -3168,6 +3167,8 @@ https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
+#EXTINF:-1 group-title="Indihome"  tvg-logo="",TVOne
+https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
 
 //========================================================================
 //Copyright by @mimipipi22 menampilkan playlist >>> MALAYSIA
@@ -4440,46 +4441,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
 
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> CCTV
-//========================================================================
 
-#EXTINF:-1 tvg-name="CCTV 1 FHD CN"  tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv1.jpg" group-title="China TV",CCTV 1
-http://[2409:8087:1a0a:df::4017]/wh7f454c46tw3244187759_-456131985/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226514/index.m3u8$1.6M_720?icpid=88888888&RTS=1724660246&from=4&hms_devid=990&vqe=3
-#EXTINF:-1 tvg-name="CCTV 2 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv2.jpg" group-title="China TV",CCTV 2
-http://[2409:8087:1a0a:df::4033]/wh7f454c46tw3205697762_1373360439/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$1.6M_720?icpid=88888888&RTS=1724660208&from=4&hms_devid=1145&vqe=3
-#EXTINF:-1 tvg-name="CCTV 3 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv3.jpg" group-title="China TV",CCTV 3
-http://[2409:8087:1a0a:df::402d]/wh7f454c46tw3172822694_2037496276/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$4.0M_1080?icpid=88888888&RTS=1724660175&from=4&hms_devid=1103&vqe=3
-#EXTINF:-1 tvg-name="CCTV 4 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv4.jpg" group-title="China TV",CCTV 4
-http://[2409:8087:1a0a:df::400c]/wh7f454c46tw3139679130_1520232177/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226007/index.m3u8$1.6M_720?icpid=88888888&RTS=1724660142&from=4&hms_devid=770&vqe=3
-#EXTINF:-1 tvg-name="CCTV 5 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv5.jpg" group-title="China TV",CCTV 5
-http://[2409:8087:1a0a:df::402d]/wh7f454c46tw3101406937_1978671864/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8$4.0M_1080?icpid=88888888&RTS=1724660104&from=4&hms_devid=1103&vqe=3
-#EXTINF:-1 tvg-name="CCTV 5plus FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv5plus.jpg" group-title="China TV",CCTV 5 PLUS
-http://[2409:8087:1a0a:df::402f]/wh7f454c46tw3070001572_-494461864/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$4.0M_1080?icpid=88888888&RTS=1724660072&from=4&hms_devid=1144&vqe=3
-#EXTINF:-1 tvg-name="CCTV 6 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv6.jpg" group-title="China TV",CCTV 6
-http://[2409:8087:1a0a:df::4035]/wh7f454c46tw3034549239_-2135719062/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8$4.0M_1080?icpid=88888888&RTS=1724660037&from=4&hms_devid=1209&vqe=3
-#EXTINF:-1 tvg-name="CCTV 7 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv7.jpg" group-title="China TV",CCTV 7
-http://[2409:8087:1a0a:df::402a]/wh7f454c46tw2998785916_-272563292/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8$4.1M_1080?icpid=88888888&RTS=1724660001&from=4&hms_devid=991&vqe=3
-#EXTINF:-1 tvg-name="CCTV 8 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv8.jpg" group-title="China TV",CCTV 8
-http://[2409:8087:1a0a:df::4037]/wh7f454c46tw2963632561_34266187/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$4.0M_1080?icpid=88888888&RTS=1724659966&from=4&hms_devid=1211&vqe=3
-#EXTINF:-1 tvg-name="CCTV 9 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv9.jpg" group-title="China TV",CCTV 9
-http://[2409:8087:1a0a:df::402c]/wh7f454c46tw2924266370_1783675769/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8$4.0M_1080?icpid=88888888&RTS=1724659926&from=4&hms_devid=989&vqe=3
-#EXTINF:-1 tvg-name="CCTV 10 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv10.jpg" group-title="China TV",CCTV 10 
-http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2886891964_-996629797/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8$4.0M_1080?icpid=88888888&RTS=1724659889&from=4&hms_devid=992&vqe=3
-#EXTINF:-1 tvg-name="CCTV 11 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv11.jpg" group-title="China TV",CCTV 11 
-http://[2409:8087:1a0a:df::402f]/wh7f454c46tw2848831473_1220851763/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8$1.6M_720?icpid=88888888&RTS=1724659851&from=4&hms_devid=1144&vqe=3
-#EXTINF:-1 tvg-name="CCTV 12 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv12.jpg" group-title="China TV",CCTV 12 
-http://[2409:8087:1a0a:df::4035]/wh7f454c46tw2330831682_-1367191749/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8$4.0M_1080?icpid=88888888&RTS=1724659333&from=4&hms_devid=1209&vqe=3
-#EXTINF:-1 tvg-name="CCTV 13 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv13.jpg" group-title="China TV",CCTV 13
-http://[2409:8087:1a0a:df::4031]/wh7f454c46tw2280940130_1825035827/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8$1.6M_720?icpid=88888888&RTS=1724659283&from=4&hms_devid=1143&vqe=3
-#EXTINF:-1 tvg-name="CCTV 14 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv14.jpg" group-title="China TV",CCTV 14 
-http://[2409:8087:1a0a:df::4015]/wh7f454c46tw2236044266_857271603/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8$4.0M_1080?icpid=88888888&RTS=1724659238&from=4&hms_devid=992&vqe=3
-#EXTINF:-1 tvg-name="CCTV 15 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv15.jpg" group-title="China TV",CCTV 15 
-http://[2409:8087:1a0a:df::402d]/wh7f454c46tw2179787322_-336927071/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8$1.6M_720?icpid=88888888&RTS=1724659182&from=4&hms_devid=1103&vqe=3
-#EXTINF:-1 tvg-name="CCTV 16 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv16.jpg" group-title="China TV",CCTV 16
-http://[2409:8087:1a0a:df::4039]:80/wh7f454c46tw1592368566_-519040064/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$4.0M_1080?icpid=88888888&RTS=1724658594&from=4&hms_devid=1212&vqe=3
-#EXTINF:-1 tvg-name="CCTV 17 FHD CN" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv17.jpg" group-title="China TV",CCTV 17
-http://[2409:8087:1a0a:df::4030]/wh7f454c46tw2121021800_2042224961/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$4.0M_1080?icpid=88888888&RTS=1724659123&from=4&hms_devid=1144&vqe=3
 
 
 
