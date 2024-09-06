@@ -10,24 +10,27 @@
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> NATIONAL
+//Collected by @mimipipi22 menampilkan playlist >>> NATIONAL
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="National",RCTI (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="National",GTV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="National",MNCTV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
@@ -106,11 +109,16 @@ http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="National",Trans7 (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
+#EXTINF:-1 group-title="National" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans7 (DT)
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=CubMu/1.5.8 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="National",Trans7 (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
@@ -121,11 +129,19 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0b
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="National",Transtv (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
+#EXTINF:-1 group-title="National" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Transtv (DT)
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="National",Metro TV (V+) 
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#EXTINF:-1 group-title="National" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV (YT)
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ythls.kekikakademi.org/youtube/video/nfgnpM28xDA.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
@@ -133,11 +149,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="National",TVONE (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="National",TVONE (YT)
+https://ythls.kekikakademi.org/youtube/video/yNKvkPJl-tg.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="National",Kompas TV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1 group-title="National" tvg-id="KompasTV.id" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV (YT)
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ythls.kekikakademi.org/youtube/video/DOOrIxw5xOw.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="National",CNN Indonesia
@@ -165,11 +188,21 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/596/596-LOGO-m.png" group-title="National",Net (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
+#EXTINF:-1 group-title="National" tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",Net (YT)
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ythls.kekikakademi.org/youtube/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="National",Antv (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 group-title="National" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
+#EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
@@ -177,9 +210,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="National",RTV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
+#EXTINF:-1 group-title="National" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV (DNS)
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://i.ibb.co/TBGpbpn/garudatv.png" group-title="National",GARUDA TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 group-title="National" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch107.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
@@ -281,7 +323,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> MOVIES
+//Collected by @mimipipi22 menampilkan playlist >>> MOVIES
 //========================================================================
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -468,7 +510,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> ENTERTAINMENT
+//Collected by @mimipipi22 menampilkan playlist >>> ENTERTAINMENT
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -697,7 +739,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> NEWS
+//Collected by @mimipipi22 menampilkan playlist >>> NEWS
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -834,7 +876,7 @@ http://mytv-extra.com:900/live/t12mgxyb335/9832948789/5499.ts
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> SPORTS
+//Collected by @mimipipi22 menampilkan playlist >>> SPORTS
 //========================================================================
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="Sports",Indosiar BRI Liga Live
@@ -1050,7 +1092,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> KNOWLEDGE
+//Collected by @mimipipi22 menampilkan playlist >>> KNOWLEDGE
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1235,7 +1277,7 @@ https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> LIFESTYLE
+//Collected by @mimipipi22 menampilkan playlist >>> LIFESTYLE
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1412,7 +1454,7 @@ https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> MUSIC
+//Collected by @mimipipi22 menampilkan playlist >>> MUSIC
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1612,7 +1654,7 @@ https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> INTERNATIONAL
+//Collected by @mimipipi22 menampilkan playlist >>> INTERNATIONAL
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1743,7 +1785,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> KIDS
+//Collected by @mimipipi22 menampilkan playlist >>> KIDS
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1943,7 +1985,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> RELIGION
+//Collected by @mimipipi22 menampilkan playlist >>> RELIGION
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2055,7 +2097,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> HBO GROUP
+//Collected by @mimipipi22 menampilkan playlist >>> HBO GROUP
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2212,7 +2254,7 @@ http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/240
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> MOVIES INT
+//Collected by @mimipipi22 menampilkan playlist >>> MOVIES INT
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Movies Int", Pluto TV Action 1
@@ -2287,7 +2329,7 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> DOUYU MOVIE
+//Collected by @mimipipi22 menampilkan playlist >>> DOUYU MOVIE
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="Douyu Movies",Douyu Movies 01
@@ -2317,7 +2359,7 @@ http://epg.112114.xyz/douyu/20415
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> INDIHOME
+//Collected by @mimipipi22 menampilkan playlist >>> INDIHOME
 //========================================================================
 
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
@@ -2431,7 +2473,7 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> MALAYSIA
+//Collected by @mimipipi22 menampilkan playlist >>> MALAYSIA
 //========================================================================
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1
@@ -2667,7 +2709,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/32
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> SINGAPORE
+//Collected by @mimipipi22 menampilkan playlist >>> SINGAPORE
 //========================================================================
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
@@ -2793,7 +2835,7 @@ https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> JAPAN
+//Collected by @mimipipi22 menampilkan playlist >>> JAPAN
 //========================================================================
 
 #EXTINF:-1 group-title="Japan" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
@@ -2980,7 +3022,7 @@ https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> SPORT EUROPE
+//Collected by @mimipipi22 menampilkan playlist >>> SPORT EUROPE
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Sport Europe",TNT Sports 1 UK
@@ -3319,7 +3361,7 @@ https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> SPORT ASIA
+//Collected by @mimipipi22 menampilkan playlist >>> SPORT ASIA
 //========================================================================
 
 #EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Sport Asia",Astro SuperSport 1
@@ -3425,7 +3467,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&b
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> SPORT INT
+//Collected by @mimipipi22 menampilkan playlist >>> SPORT INT
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Sport Int" tvg-id="TennisChannel.us" tvg-name="TennisChannel.us", Tennis Channel
@@ -3445,7 +3487,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> BEIN SPORT
+//Collected by @mimipipi22 menampilkan playlist >>> BEIN SPORT
 //========================================================================
 
 #EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Bein Sport",beIN Sports MENA English 1
@@ -3517,7 +3559,7 @@ https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehd
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> DAZN SPORT
+//Collected by @mimipipi22 menampilkan playlist >>> DAZN SPORT
 //========================================================================
 
 #EXTINF:-1 tvg-name="DAZN 1 Bar DE" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Dazn Sport",DAZN 1 Bar DE
@@ -3557,7 +3599,7 @@ https://webhdrunns.mizhls.ru/lb/premium43/index.m3u8|referer=https://lewblivehdp
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> ELEVEN SPORT
+//Collected by @mimipipi22 menampilkan playlist >>> ELEVEN SPORT
 //========================================================================
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -3610,7 +3652,7 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/29368.ts
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> SKY SPORT
+//Collected by @mimipipi22 menampilkan playlist >>> SKY SPORT
 //========================================================================
 
 #EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky Sports Football UK
@@ -3684,7 +3726,7 @@ https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|referer=https://lewblivehd
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> FOX SPORT
+//Collected by @mimipipi22 menampilkan playlist >>> FOX SPORT
 //========================================================================
 
 #EXTINF:-1 tvg-name="Fox Sports 1 USA" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Fox Sport",Fox Sports 1 USA
@@ -3720,7 +3762,7 @@ https://webhdrunns.mizhls.ru/lb/premium830/index.m3u8|referer=https://lewblivehd
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> USA TV
+//Collected by @mimipipi22 menampilkan playlist >>> USA TV
 //========================================================================
 
 #EXTINF:-1 tvg-name="ABC USA" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="USA TV",ABC USA
@@ -3988,7 +4030,7 @@ https://webhdrunns.mizhls.ru/lb/premium360/index.m3u8|referer=https://lewblivehd
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> SUPERSPORT
+//Collected by @mimipipi22 menampilkan playlist >>> SUPERSPORT
 //========================================================================
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="Supersport",SS PSL
@@ -4025,7 +4067,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|referer=https://weblive
 https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> SKY CINEMA
+//Collected by @mimipipi22 menampilkan playlist >>> SKY CINEMA
 //========================================================================
 
 #EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Premiere UK
@@ -4069,7 +4111,7 @@ https://webhdrunns.mizhls.ru/lb/premium868/index.m3u8|referer=https://lewblivehd
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> BEIN MOVIE
+//Collected by @mimipipi22 menampilkan playlist >>> BEIN MOVIE
 //========================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="QA: beIN Box Office 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/a1785416ae7e6dbb932232bb1ad4e6cd.jpg" group-title="beIN Movie",QA: beIN Box Office 1
@@ -4103,7 +4145,7 @@ http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33032.ts
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> SAMSUNG TV
+//Collected by @mimipipi22 menampilkan playlist >>> SAMSUNG TV
 //========================================================================
 
 #EXTINF:-1 tvg-id="KRBD1400001ED" tvg-chno="501" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" group-title="Samsung TV KR" , Yonhap News TV
@@ -4235,7 +4277,7 @@ https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> INDIA TV
+//Collected by @mimipipi22 menampilkan playlist >>> INDIA TV
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G5TKDgC/20240727-185919.jpg" group-title="Hindi",@bdixiptvhub
