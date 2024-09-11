@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-09-09 10:04:00 GMT+7 "
+# (●) Last Update: 2024-09-09 11:04:00 GMT+7 "
 # (●) Service: Playlist24
 # (●) Total Channels: Null
 
@@ -761,8 +761,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png" group-title="Movies",Cinemaworld (V+🟦)
 #https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png" group-title="Movies",Cinemaworld (GC)
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX035bPO6815phPVSrQZbYlEc
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png" group-title="Movies",Cinemaworld (INDI)
+https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -1415,7 +1415,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="Sports",Sportstars 3 (V+🟦)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
@@ -1427,7 +1427,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png" group-title="Sports",Sportstars 4 (V+🟦)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -1707,14 +1707,24 @@ https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg008
 #https://jmp2.uk/SamsungTVPlus/GBBA220000751.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300023G8_20240520T214553SQUARE.png" group-title="Knowledge",InWonder
+https://amg00861-terninternation-inwonder-samsungch-ovbew.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungch/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800001IQ_20230809T005033SQUARE.png_20230809005034.png" group-title="Knowledge",Infast
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+https://amg00861-terninternation-lifestyle-samsungch-rw9zr.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungch/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7yMVRQG/samsgwildlife.png" group-title="Knowledge",Samsung Wild Life 🇬🇧
 https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8
 #https://jmp2.uk/SamsungTVPlus/USBA3000043LH.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tW1gBx/wildearth.png" group-title="Knowledge",WildEarth 🇬🇧
+https://wildearth-roku.amagi.tv/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-#https://jmp2.uk/SamsungTVPlus/GBBC4300002RW.m3u8
+#https://jmp2.uk/SamsungTVPlus/GBBC4300002RW.m3u8|user-agent=okhttp/4.10.0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bHFmc1M/waterbear.png" group-title="Knowledge",WaterBear 🇬🇧
@@ -1736,14 +1746,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",Outdoor
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300023G8_20240520T214553SQUARE.png" group-title="Knowledge",InWonder
-https://amg00861-terninternation-inwonder-samsungch-ovbew.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungch/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800001IQ_20230809T005033SQUARE.png_20230809005034.png" group-title="Knowledge",Infast
-https://amg00861-terninternation-lifestyle-samsungch-rw9zr.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungch/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20230426T015613SQUARE.png_20230426015614.png" group-title="Knowledge",History Hit
@@ -2352,6 +2354,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Moonbug/sa_dash_vmx/Moonbug.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png" group-title="Kids",Cartoon Network (V+) 🔴
 #https://cempedak-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png" group-title="Kids",Cartoon Network (INDI)
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
