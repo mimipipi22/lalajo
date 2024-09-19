@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-09-17 10:04:00 GMT+7 "
+# (●) Last Update: 2024-09-19 10:04:00 GMT+7 "
 # (●) Service: Playlist24
 # (●) Total Channels: Null
 
@@ -511,6 +511,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="Movies",Cinemax (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="Movies",Cinemax (FMX)
+https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -1343,11 +1348,12 @@ http://mytv-extra.com:900/live/t12mgxyb335/9832948789/5499.ts
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="Sports",Indosiar BRI Liga Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=205&type=hls
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/SAhIPX5A-hnhWzGWzUh937X95AY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="Sports",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=206&type=hls
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="Sports",Premier League TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2369,6 +2375,13 @@ https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nRsr47w/tv6.png" group-title="International",TV6 🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/c31.png" group-title="International",Channel 31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="International",ABC 3 Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="International",One TV Australia
+https://digimix.vgcdn.net/vglive-sk-513167/australia/ngrp:angelaustralia_all/playlist.m3u8
+
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> KIDS
@@ -2831,6 +2844,43 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1
 
 //$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\\
 
+#EXTINF:-1 group-title="HBO Group" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg", HBO (CBM2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 group-title="HBO Group" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg", HBO Signature (CBM2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 group-title="HBO Group" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg", HBO Hits (CBM2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 group-title="HBO Group" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg", HBO Family (CBM2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 group-title="HBO Group" group-logo="" tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg", Cinemax (CBM2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+//$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\\
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="HBO Group",HBO 🇸🇬
@@ -2922,6 +2972,12 @@ http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/240
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> MOVIES INT
 //========================================================================
+
+#EXTINF:-1 tvg-id="5e8254118601b80007b4b7ae" tvg-name="" group-title="Movies Int" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/amc1.webp",AMC 🇺🇸 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-name="" group-title="Movies Int" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/amcthrillers.webp",AMC Thrillers 🇺🇸
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Movies Int", Pluto TV Action 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -4140,6 +4196,13 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="Sport Asia",Arena 1
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILr6tYu3go-RXr5T_o0fXDQQ
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="Sport Asia",Arena 2
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILjvbheYF3I2eVQrQvw2irpA
+
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YpQ86Qk/kass1.png" group-title="Sport Asia",AL KASS 1 🇶🇦
 https://webhdrunns.mizhls.ru/lb/premium781/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -4183,6 +4246,19 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport Asia",[JP]J Sport 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-logo="" group-title="Sport Asia",Eleven Sport 1 AU
+http://p1.cvtv.xyz/E1?token=live
+#EXTINF:-1 tvg-logo="" group-title="Sport Asia",Eleven Sport 2 AU
+http://p1.cvtv.xyz/E2?token=live
+
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h02sG.png" group-title="Sport Asia",CCTV5
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+http://120.77.28.4:8648/mgu.php?id=cctv5
+
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/11/02/h04lL.png" group-title="Sport Asia",CCTV5+
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://iptv.stcwl.xyz/udp/239.20.0.203:2204
 
 
 //========================================================================
@@ -4398,21 +4474,21 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/29368.ts
 //Collected by @mimipipi22 menampilkan playlist >>> SKY SPORT
 //========================================================================
 
-#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky Sports Football UK
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="https://www.guki.my.id/logo/sports/skyfoot.png" group-title="Sky Sport",Sky Sports Football UK
 https://webhdrunns.mizhls.ru/lb/premium35/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports Arena UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky Sports Arena UK
+#EXTINF:-1 tvg-name="Sky Sports Arena UK" tvg-logo="https://www.guki.my.id/logo/sports/skyarena.png" group-title="Sky Sport",Sky Sports Arena UK
 https://webhdrunns.mizhls.ru/lb/premium36/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky Sports Action UK
+#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-logo="https://www.guki.my.id/logo/sports/skyact.png" group-title="Sky Sport",Sky Sports Action UK
 https://webhdrunns.mizhls.ru/lb/premium37/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky Sports Main Event
 https://webhdrunns.mizhls.ru/lb/premium38/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky sports Premier League
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://www.guki.my.id/logo/sports/skyepl.png" group-title="Sky Sport",Sky sports Premier League
 https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky Sports F1 UK
 https://webhdrunns.mizhls.ru/lb/premium60/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky Sports Cricket
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://www.guki.my.id/logo/sports/skycri.png" group-title="Sky Sport",Sky Sports Cricket
 https://webhdrunns.mizhls.ru/lb/premium65/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky Sports Golf UK
+#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="https://www.guki.my.id/logo/sports/skygolf.png" group-title="Sky Sport",Sky Sports Golf UK
 https://webhdrunns.mizhls.ru/lb/premium70/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Sky Sports Golf Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Sport",Sky Sports Golf Italy
 https://webhdrunns.mizhls.ru/lb/premium574/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -5061,6 +5137,205 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
 
 
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> RADIO
+//========================================================================
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/i0RuHSJuikyZYUxJsdd4LaDEyt0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/i-radio-d04974.jpg" group-title="Radio",i-Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7057&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/93kB65Q8SF3S0FStf7ktN6M7flQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-b3cb5a.jpg" group-title="Radio",Prambors On Air
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7004&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/5tzvmrQdbA-SXIFqZKos38Nipi0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7443/gen-fm-jakarta-dc9ca6.jpg" group-title="Radio",Gen FM Jakarta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7443&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/YV-jEkG__y67RcChhsXUDK99VM4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg" group-title="Radio",Hard Rock FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7053&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/8xCICG-EDMjZwL5oKNzUILxrKpw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="Radio",Elshinta 90 FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7166&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/xuXY5HKXC2SnrsFndIVcddP2vSA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg" group-title="Radio",Delta FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7092&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/Asqq8zinNlcP3iv4vzyqggBKOTg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7445/kis-fm-421d0d.jpg" group-title="Radio",Kis FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7445&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/91QfIyfRjUu0J47RkjvKS-mEZyk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7449/jak-fm-b210a4.jpg" group-title="Radio",Jak FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7449&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/7Wcpfg43IV9VRei_pOBaPQC9W4A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="Radio",Ardan Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7184&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/C4XRM0f71fQ2TOtnvliqg1z-C4k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="Radio",Bahana FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7091&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/mWKsYcW1t6axKfZhBeydNRLYoPk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7684/rama-bandung-4d3e5a.jpg" group-title="Radio",Rama FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7684&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/j5iL8kqeHixvC72L6Orlk61f5Mc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7450/most-fm-6fe9b9.jpg" group-title="Radio",Most FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7450&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/8usx95AOsZ0POriTOsdSHHI__L0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="Radio",Radio Cakra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7297&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/dJo5PONM3DRF25nLwJsLbrjSTuQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="Radio",Dahlia FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7242&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/fmqESC8uljOlgFZz6JxmjtYoVk0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="Radio",MGTRADIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7188&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/b9YvrEUG-WpUygCrKvlXNpNbSG0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7685/paramuda-fm-5a8478.jpg" group-title="Radio",Paramuda FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7685&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/U7Xo84EbttkL65QnYN2YFh-m3eg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12237/sonora-radio-7144a1.jpg" group-title="Radio",Sonora Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=12237&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/NIuoPKwHFGtNGEc715_Ww3P4_5g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg" group-title="Radio",SWARAGAMA FM Jogja !
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=7248&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/lyRb5XBA1Eupknzyo8ALVJ45iHo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12238/motion-radio-97997e.jpg" group-title="Radio",Motion Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=12238&type=hls
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/hK_dgTtAq9-up1WGIjaEq-y18rE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/15670/elfara-fm-malang-5464f0.jpg" group-title="Radio",Elfara FM Malang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://chiva.my.id/sc/avid/play.m3u8?id=15670&type=hls
+
+
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> Murrotal Al-Quran
+//========================================================================
+
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2b8SiNO
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2b8RJmQ
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bFSrtF
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2b8SXi3
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2b8RZm3
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/28MBohs
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bFRIZC
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bufF7o
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2byr1bu
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bHfyUH
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bHf80y
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bWnTby
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bFTiKQ
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2b8SUTA
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bFRQIM
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2b8SegG
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2brHsFz
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2b8SCfc
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bFSq95
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2brI1zc
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2b8VcBO
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bFRxNP
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2brItxm
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2brHKw5
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2brImlf
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bFRHF2
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bFRXno
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2brI3ai
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bFRyBF
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2bFREcc
 
 
 
