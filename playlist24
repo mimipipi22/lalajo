@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-09-26 10:04:00 GMT+7 "
+# (●) Last Update: 2024-09-27 10:04:00 GMT+7 "
 # (●) Service: Playlist24
 # (●) Total Channels: Null
 
@@ -10,7 +10,7 @@
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> NATIONAL
+//Collected by @mimipipi22 menampilkan playlist >>> INDONESIA TV
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -108,13 +108,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Indonesia TV",Indosiar
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="Indonesia TV",Indosiar(@)
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
+http://103.86.116.96:9981/stream/channelid/430458082?ticket=56CAEE31D9AC8494C7400524F3693A83F880186D&profile=pass
+http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -126,6 +122,10 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="Indonesia TV",SCTV (CBM
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="Indonesia TV",SCTV (@)
+http://103.86.116.96:9981/stream/channelid/68757506?ticket=31B720677E7594833C3EB63749975EC5E822FFB7&profile=pass
+http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -232,10 +232,12 @@ https://ythls.kekikakademi.org/youtube/video/DOOrIxw5xOw.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="Indonesia TV",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="Indonesia TV",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -416,6 +418,7 @@ https://pull.daaiplus.com/live-DAAITV/livestream-DAAITV.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia TV",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="Indonesia TV",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
@@ -493,6 +496,10 @@ https://ythls.kekikakademi.org/youtube/channel/UCn-Ex0zXXTVElhMr12o0zwA.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Indonesia TV" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png",Jowo Channel
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia TV",TV Kesehatan
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
 
 //========================================================================
@@ -845,19 +852,30 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/615/615-LOGO-m.png" group-title="Movies",Zee Bioskop (V+🟦)
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN014:BeIN Movies 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN014 BeIN Movies 1.png" group-title="Movies",BeIN Movies 1
+http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/2128.ts
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN015:BeIN Movies 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN015 BeIN Movies 2.png" group-title="Movies",BeIN Movies 2
+http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/2127.ts
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN016:BeIN Movies 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN016 BeIN Movies 3.png" group-title="Movies",BeIN Movies 3
+http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/2126.ts
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN017:BeIN Movies 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN017 BeIN Movies 4.png" group-title="Movies",BeIN Movies 4
+http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/2125.ts
 
 #EXTINF:-1 tvg-id="mnet.za" tvg-name="DSTV| M-NET HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",DSTV| M-NET HD
+http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/60785.ts
 http://mytv-extra.com:900/t12mgxyb335/9832948789/14582
 #EXTINF:-1 tvg-id="mmovies1.za" tvg-name="DSTV| M-NET MOVIES 1 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",DSTV| M-NET MOVIES 1 HD
+http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/60787.ts
 http://mytv-extra.com:900/t12mgxyb335/9832948789/14583
 #EXTINF:-1 tvg-id="mmovies2.za" tvg-name="DSTV| M-NET MOVIES 2 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",DSTV| M-NET MOVIES 2 HD
+http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/60788.ts
 http://mytv-extra.com:900/t12mgxyb335/9832948789/14580
 #EXTINF:-1 tvg-id="mmovies3.za" tvg-name="DSTV| M-NET MOVIES 3 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",DSTV| M-NET MOVIES 3 HD
+http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/60789.ts
 http://mytv-extra.com:900/t12mgxyb335/9832948789/186854
 #EXTINF:-1 tvg-id="mmovies4.za" tvg-name="DSTV| M-NET MOVIES 4 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",DSTV| M-NET MOVIES 4 HD
+http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/60790.ts
 http://mytv-extra.com:900/t12mgxyb335/9832948789/186853
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| M-NET EAST HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",DSTV| M-NET EAST HD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/353443
 
 
 //========================================================================
@@ -5403,38 +5421,6 @@ https://webhdrunns.mizhls.ru/lb/premium866/index.m3u8|referer=https://lewblivehd
 https://webhdrunns.mizhls.ru/lb/premium867/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="8Sky Cinema Suspense Italy" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="Sky Cinema",8Sky Cinema Suspense Italy
 https://webhdrunns.mizhls.ru/lb/premium868/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> BEIN MOVIE
-//========================================================================
-
-#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="BEIN| BEIN MOVIES 1 FHD" tvg-logo="https://lo1.in/beinn/beinm1pre0.png" group-title=" Bein Movies",BEIN| BEIN MOVIES 1 FHD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/122037
-#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 1 HD" tvg-logo="https://lo1.in/beinn/beinm1pre0.png" group-title=" Bein Movies",BEIN| BEIN MOVIES 1 HD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/63866
-#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="BEIN| BEIN MOVIES 2 FHD" tvg-logo="https://lo1.in/beinn/beinm2act0.png" group-title=" Bein Movies",BEIN| BEIN MOVIES 2 FHD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/122038
-#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 2 HD" tvg-logo="https://lo1.in/beinn/beinm2act0.png" group-title=" Bein Movies",BEIN| BEIN MOVIES 2 HD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/63865
-#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="BEIN| BEIN MOVIES 3 FHD" tvg-logo="https://lo1.in/beinn/bm3.png" group-title=" Bein Movies",BEIN| BEIN MOVIES 3 FHD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/122039
-#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 3 HD" tvg-logo="https://lo1.in/beinn/bm3.png" group-title=" Bein Movies",BEIN| BEIN MOVIES 3 HD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/63864
-#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="BEIN| BEIN MOVIES 4 FHD" tvg-logo="https://lo1.in/beinn/beinm4famm.png" group-title=" Bein Movies",BEIN| BEIN MOVIES 4 FHD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/122040
-#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN MOVIES 4 HD" tvg-logo="https://lo1.in/beinn/beinm4famm.png" group-title=" Bein Movies",BEIN| BEIN MOVIES 4 HD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/63863
-#EXTINF:-1 tvg-id="boxoffice.qa" tvg-name="BEIN| BEIN BOX OFFICE 1 FHD" tvg-logo="https://lo1.in/beinn/beinbo10.png" group-title=" Bein Movies",BEIN| BEIN BOX OFFICE 1 FHD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/400212972
-#EXTINF:-1 tvg-id="" tvg-name="BEIN| BEIN BOX OFFICE 2 FHD" tvg-logo="https://lo1.in/beinn/beinbo20.png" group-title=" Bein Movies",BEIN| BEIN BOX OFFICE 2 FHD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/400212973
-#EXTINF:-1 tvg-id="foxmovies.qa" tvg-name="BEIN| BEIN FOX MOVIES HD" tvg-logo="https://lo1.in/beinn/fxrewa0.png" group-title=" Bein Movies",BEIN| BEIN FOX MOVIES HD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/6375
-#EXTINF:-1 tvg-id="foxmoviesaction.qa" tvg-name="BEIN| BEIN FOX MOVIES ACTION HD" tvg-logo="https://lo1.in/FCB/fxacm.png" group-title=" Bein Movies",BEIN| BEIN FOX MOVIES ACTION HD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/122046
-#EXTINF:-1 tvg-id="" tvg-name="BEIN|  BEIN CINEMA HD" tvg-logo="https://lo1.in/FCB/beinet1.png" group-title=" Bein Movies",BEIN|  BEIN CINEMA HD
-http://mytv-extra.com:900/t12mgxyb335/9832948789/39683
 
 
 //========================================================================
