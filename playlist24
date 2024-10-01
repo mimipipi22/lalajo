@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-09-27 10:04:00 GMT+7 "
+# (●) Last Update: 2024-10-01 10:04:00 GMT+7 "
 # (●) Service: Playlist24
 # (●) Total Channels: Null
 
@@ -2143,6 +2143,26 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_musikindo_small.png" group-title="Music",Musik Indonesia (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg",STINGRAY NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf305592e53d42a1b7dc876af9914a4e:335c297e482fef1cc2dfcd73b93b3672
+https://atemecdnbalancer-voe.sysln.id/live/eds/StingrayNowHD/mpd/StingrayNowHD.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg",STINGRAY FESTIVAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e038b63a6d7e423797aa0f8991984d98:cb3060662f6c3997a8d3404419cdf048
+https://atemecdnbalancer-voe.sysln.id/live/eds/StingrayFestivalHD/mpd/StingrayFestivalHD.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg",STINGRAY JAZZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2227f4b4252d40d5ae642511d71ef818:b90f5564e2bb37227b4636b5a8643ce2
+https://atemecdnbalancer-voe.sysln.id/live/eds/StingrayDjazzHD/mpd/StingrayDjazzHD.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg",STINGRAY NATURE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85459a4820bd4da3b58766b2196e2d2e:898bd3256cc9652c84a9a575caf81cb5
+https://atemecdnbalancer-voe.sysln.id/live/eds/StingrayNaturescapeHD/mpd/StingrayNaturescapeHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5595,111 +5615,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi1/default/zeemarathi1.m3u
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png" group-title="Hindi",Zee Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
-
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> RADIO
-//========================================================================
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/i0RuHSJuikyZYUxJsdd4LaDEyt0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/i-radio-d04974.jpg" group-title="Radio",i-Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7057&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/93kB65Q8SF3S0FStf7ktN6M7flQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-b3cb5a.jpg" group-title="Radio",Prambors On Air
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7004&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/5tzvmrQdbA-SXIFqZKos38Nipi0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7443/gen-fm-jakarta-dc9ca6.jpg" group-title="Radio",Gen FM Jakarta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7443&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/YV-jEkG__y67RcChhsXUDK99VM4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg" group-title="Radio",Hard Rock FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7053&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/8xCICG-EDMjZwL5oKNzUILxrKpw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="Radio",Elshinta 90 FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7166&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/xuXY5HKXC2SnrsFndIVcddP2vSA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg" group-title="Radio",Delta FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7092&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/Asqq8zinNlcP3iv4vzyqggBKOTg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7445/kis-fm-421d0d.jpg" group-title="Radio",Kis FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7445&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/91QfIyfRjUu0J47RkjvKS-mEZyk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7449/jak-fm-b210a4.jpg" group-title="Radio",Jak FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7449&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/7Wcpfg43IV9VRei_pOBaPQC9W4A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="Radio",Ardan Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7184&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/C4XRM0f71fQ2TOtnvliqg1z-C4k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="Radio",Bahana FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7091&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/mWKsYcW1t6axKfZhBeydNRLYoPk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7684/rama-bandung-4d3e5a.jpg" group-title="Radio",Rama FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7684&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/j5iL8kqeHixvC72L6Orlk61f5Mc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7450/most-fm-6fe9b9.jpg" group-title="Radio",Most FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7450&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/8usx95AOsZ0POriTOsdSHHI__L0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="Radio",Radio Cakra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7297&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/dJo5PONM3DRF25nLwJsLbrjSTuQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="Radio",Dahlia FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7242&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/fmqESC8uljOlgFZz6JxmjtYoVk0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="Radio",MGTRADIO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7188&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/b9YvrEUG-WpUygCrKvlXNpNbSG0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7685/paramuda-fm-5a8478.jpg" group-title="Radio",Paramuda FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7685&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/U7Xo84EbttkL65QnYN2YFh-m3eg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12237/sonora-radio-7144a1.jpg" group-title="Radio",Sonora Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=12237&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/NIuoPKwHFGtNGEc715_Ww3P4_5g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg" group-title="Radio",SWARAGAMA FM Jogja !
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=7248&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/lyRb5XBA1Eupknzyo8ALVJ45iHo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12238/motion-radio-97997e.jpg" group-title="Radio",Motion Radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=12238&type=hls
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/hK_dgTtAq9-up1WGIjaEq-y18rE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/15670/elfara-fm-malang-5464f0.jpg" group-title="Radio",Elfara FM Malang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://chiva.my.id/sc/avid/play.m3u8?id=15670&type=hls
 
 
 //========================================================================
