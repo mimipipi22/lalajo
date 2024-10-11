@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-10-10 10:04:00 GMT+7 "
+# (●) Last Update: 2024-10-11 10:04:00 GMT+7 "
 # (●) Service: Playlist24
 # (●) Total Channels: Null
 
@@ -110,6 +110,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="Indonesia TV",Indosiar(@)
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
+https://cdn14jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar.m3u8?c
 #https://play-gachor.online/live/tv_948372/73tG5fyUkK/5.ts
 #http://103.86.116.96:9981/stream/channelid/430458082?ticket=56CAEE31D9AC8494C7400524F3693A83F880186D&profile=pass
 http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
@@ -127,6 +128,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c68587f789fe018804f4b
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="Indonesia TV",SCTV (@)
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162141
+https://cdn14jtedge.indihometv.com/atm/hlsv3/sctv/sctv.m3u8?c
 #https://play-gachor.online/live/tv_948372/73tG5fyUkK/6.ts
 #http://103.86.116.96:9981/stream/channelid/68757506?ticket=31B720677E7594833C3EB63749975EC5E822FFB7&profile=pass
 http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
@@ -217,7 +219,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="Indonesia TV",TVONE (V+🟦)
 https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="Indonesia TV",TVONE (YT)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="Indonesia TV",TVONE (INDI)
+https://cdngb196.indihometv.com/atm/hlsv3/tvone/tvone.m3u8?c
 https://ythls.kekikakademi.org/youtube/video/yNKvkPJl-tg.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -307,6 +310,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 #EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
+
+https://cdngb196.indihometv.com/atm/hlsv3/ANTV/ANTV.m3u8?c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -435,8 +440,8 @@ https://v5.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 group-title="Indonesia TV",Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rri_small1.png?v=2.0.0.13" group-title="Indonesia TV",RRI Net
-https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rri_small1.png?v=2.0.0.13" group-title="Indonesia TV",RRI Net (INDI)
+https://cdn09jtedge.indihometv.com/atm/hlsv3/RRI_NET_HD/RRI_NET_HD.m3u8?c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -451,7 +456,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ForIDX/sa_dash_scte35/ForIDX.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/ForIDX/sa_dash_scte35/ForIDX.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png" group-title="Indonesia TV",Jawapost
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png" group-title="Indonesia TV",Jawapost (INDI)
+https://cdn11jtedge.indihometv.com/atm/hlsv3/jawapos/jawapos.m3u8
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="Indonesia TV",JITV Jogja
@@ -462,13 +468,8 @@ http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="Indonesia TV",Allplay Ent
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="Indonesia TV",Antara TV
-https://nonton.site:8443/live/ekos/748344x/32586.ts
+https://cdn13jtedge.indihometv.com/atm/hlsv3/antara/antara.m3u8?c
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -479,7 +480,8 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indonesiana_ver1.png" group-title="Indonesia TV",Indonesiana
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+https://cdn12jtedge.indihometv.com/atm/hlsv3/indonesiana/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png" group-title="Indonesia TV",Musik & Folklor
 https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/playlist.m3u8
@@ -506,6 +508,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia TV",TV Kesehatan
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_atv_small.png" group-title="Indonesia TV",ATV (INDI)
+https://cdn14jtedge.indihometv.com/atm/hlsv3/atv/atv.m3u8?c
 
 
 //========================================================================
@@ -837,6 +842,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" group-title="Movies",Maxstream (INDI)
+https://cdngb196.indihometv.com/joss/194/maxstream/chunklist.m3u8?c
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -857,6 +863,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/615/615-LOGO-m.png" group-title="Movies",Zee Bioskop (V+🟦)
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+https://cdn13jtedge.indihometv.com/atm/hlsv3/zbioskop/zbioskop.m3u8
 
 #EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN014:BeIN Movies 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN014 BeIN Movies 1.png" group-title="Movies",BeIN Movies 1
 http://vo01.mohdtv.com:8880/live/ALLChannels580cde003e8c/31680791/2128.ts
@@ -987,6 +995,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13" group-title="Entertainment",Chinese Drama (INDI)
+https://cdn14jtedge.indihometv.com/joss/130/chinesedrama/chunklist.m3u8
 https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -2193,7 +2202,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_musikindo_small.png" group-title="Music",Musik Indonesia (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_pramborstv_small1.png?v=2.0.0.13" group-title="Music",Prambors
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_pramborstv_small1.png?v=2.0.0.13" group-title="Music",Prambors (INDI)
+https://cdn14jtedge.indihometv.com/atm/hlsv3/PRAMBORS_TV/PRAMBORS_TV.m3u8?c
 http://51.79.229.239/live.ts?channelId=129309&uid=14505&deviceMac=00:1A:79:A7:53:75&id=prambors
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2766,6 +2776,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" group-title="Kids",Indikids (INDI)
+https://cdn10jtedge.indihometv.com/atm/hlsv3/indikids/indikids.m3u8?c
 https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
@@ -2883,6 +2894,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.m
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/602/602-LOGO-m.png" group-title="Religion",Tawaf TV (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_small.png" group-title="Religion",Tawaf TV (INDI)
+https://cdn12jtedge.indihometv.com/atm/hlsv3/tawaftv/tawaftv.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -2930,16 +2944,21 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Religion",Rodja TV (DNS)
 https://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/78.jpg" group-title="Religion",TBN (DNS)
 https://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_uchannel_small1.png?v=2.0.0.13" group-title="Religion",U Channel (INDI)
+https://cdn13jtedge.indihometv.com/atm/hlsv3/uchannel/uchannel.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13" group-title="Religion",TV Mui (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
+https://cdn12jtedge.indihometv.com/atm/hlsv3/muitv/muitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/88WVNkd/alwafatarim.png" group-title="Religion",AL WAFA TARIM 🇮🇩 ☪
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
@@ -2947,12 +2966,14 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TYc7ypJ/brtv.png" group-title="Religion",BRTV 🇮🇩 ☪
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zSgt2KP/mqtv.png" group-title="Religion",MQTV 🇮🇩 ☪
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zSgt2KP/mqtv.png" group-title="Religion",MQTV (INDI)
+https://cdn14jtedge.indihometv.com/atm/hlsv3/MQTV_HD/MQTV_HD.m3u8
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png" group-title="Religion",MTA TV (YT)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mtatv_small1.png?v=2.0.0.13" group-title="Religion",MTA TV (YT)
 https://ythls.kekikakademi.org/youtube/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
+https://cdn09jtedge.indihometv.com/atm/hlsv3/mtatv/mtatv.m3u8?c
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSetddUka5liup5zayc6NIzitqcv1Ty7TPGw&usqp=CAU" group-title="Religion",Dzikir Pagi
 https://www.googleapis.com/drive/v3/files/10diBSkO5Z730INaiSK2m0yqV0NduTzK5?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
@@ -3452,7 +3473,8 @@ https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="",TVOne
+#EXTINF:-1 group-title="Indihome" tvg-logo="",TVOne
+https://cdngb196.indihometv.com/atm/hlsv3/tvone/tvone.m3u8?c
 https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
 
 
