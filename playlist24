@@ -3487,6 +3487,10 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 #EXTINF:-1 group-title="Indihome" tvg-logo="",TVOne
 https://cdngb196.indihometv.com/atm/hlsv3/tvone/tvone.m3u8?c
 https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thril" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCj2K_yF0V8V6pYqIi8PZvYrPbEWS1zffHFw&usqp=CAU" group-title="Indihome", Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 
 //========================================================================
@@ -4789,6 +4793,26 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport Int",US: YES NETWORK
 http://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",SETANTA 1 laliga
+https://25axin5tbn8.a.trbcdn.net/Setanta1_La_Liga/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",SETANTA 2 laliga
+https://25axin5tbn8.a.trbcdn.net/Setanta2_La_Liga/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",SETANTA ua
+https://s44gx6hkds2.a.trbcdn.net/SetantaUA/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",SporTV
+https://f77zvuxbr89.a.trbcdn.net/reserv9/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",SporTV 1
+https://8r1fp7ro6am.a.trbcdn.net/SportTV1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",SporTV 2
+https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",SporTV 3
+https://8r1fp7ro6am.a.trbcdn.net/SportTV3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",SporTV 4
+https://8r1fp7ro6am.a.trbcdn.net/SportTV4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",SporTV 6
+https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fightnetwork_logo_dark.png" group-title="Sport Int",AXS TV Fight Network (PLEX)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
@@ -5768,6 +5792,96 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031109/index.m
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CCTV",CCTV 17 
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
+
+
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> RDS Movies
+//========================================================================
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2024/10/skyshowtimelaunch_1_small.jpg.webp" group-title="RDS Movies",Sky Showtime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/SkyShowTime/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/AXN.png.webp" group-title="RDS Movies",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/axnsd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HBO.png.webp" group-title="RDS Movies",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/hbohd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HBO2.png.webp" group-title="RDS Movies",HBO2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/hbo2sd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/HBO3.png.webp" group-title="RDS Movies",HBO3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/hbo3sd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CINEMAXHD.png.webp" group-title="RDS Movies",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/cinemaxhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CINEMAX2HD.png.webp" group-title="RDS Movies",Cinemax2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/cinemax2sd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EPICDRAMA.png.webp" group-title="RDS Movies",Epic Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/epicdramasd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/COMEDYCENTRAL.png.webp" group-title="RDS Movies",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/comedycentralsd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PROCINEMA.png.webp" group-title="RDS Movies",Pro Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/procinemasd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DIVA.png.webp" group-title="RDS Movies",Diva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/diva/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CINEMARATON.png.webp" group-title="RDS Movies",Cine Maraton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/cinemaratonsd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/BOLLYWOOD.png.webp" group-title="RDS Movies",Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/bollywoodtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/WARNERTV.png.webp" group-title="RDS Movies",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/warner/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/PRIMACOMEDY.png.webp" group-title="RDS Movies",Prima Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/primacomedysd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/FILMCAFE.png.webp" group-title="RDS Movies",Film Cafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/filmcafesd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://rds.live/wp-content/uploads/2023/01/AMC.png.webp" group-title="RDS Movies",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://p10.stirilepe.net/amcsd/tracks-v1a1/mono.m3u8
 
 
 //========================================================================
