@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-10-17 10:04:00 GMT+7 "
+# (●) Last Update: 2024-10-18 10:04:00 GMT+7 "
 # (●) Service: Playlist24
 # (●) Total Channels: Null
 
@@ -108,12 +108,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Indonesia TV",Indosiar
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="Indonesia TV",Indosiar(@)
+http://xtv.ooo:8080/live/0966717777/0966717777/350972.ts
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
-https://cdn14jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar.m3u8?c
-#https://play-gachor.online/live/tv_948372/73tG5fyUkK/5.ts
-#http://103.86.116.96:9981/stream/channelid/430458082?ticket=56CAEE31D9AC8494C7400524F3693A83F880186D&profile=pass
-http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
@@ -126,12 +128,14 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="Indonesia TV",SCTV (CBM
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="Indonesia TV",SCTV (@)
+http://xtv.ooo:8080/live/0966717777/0966717777/351030.ts
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162141
-https://cdn14jtedge.indihometv.com/atm/hlsv3/sctv/sctv.m3u8?c
-#https://play-gachor.online/live/tv_948372/73tG5fyUkK/6.ts
-#http://103.86.116.96:9981/stream/channelid/68757506?ticket=31B720677E7594833C3EB63749975EC5E822FFB7&profile=pass
-http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -145,6 +149,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="Indonesia TV",Moji (@)
+http://xtv.ooo:8080/live/0966717777/0966717777/350997.ts
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298550
 #http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
 
@@ -430,6 +435,10 @@ https://pull.daaiplus.com/live-DAAITV/livestream-DAAITV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia TV",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV" tvg-id="bnchannel.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch112.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="Indonesia TV",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
@@ -1807,7 +1816,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp" group-title="Knowledge", | RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0051dffef6555ae2d69b59e63b301b3b.webp" group-title="TV DOCUMENTALES", | Love The Planet
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0051dffef6555ae2d69b59e63b301b3b.webp" group-title="Knowledge", | Love The Planet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/720p/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="6298bd10d88ef000073f16b7" group-title="Knowledge",Smithsonian Channel Select
@@ -2553,78 +2562,123 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-id="TVBS-Asia",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",Mubeat
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV1 | Mubeat
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/entertainment/mubeat.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV1
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/electric-now.png",OtteraTV2 | Electric Now
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=70
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV3 | K-Movies 1
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV2
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV4 | K-Movies 2
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV3
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV5 | New Kpop
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV4
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV6 | Korea
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV5
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV7 | K-Movies 3
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV6
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV8 | Korea
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV7
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV9 | Canela News
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=118
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=185
 
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV8
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV10 | Kid
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV9
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV11 | Kid
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV10
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV12 | Kid
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV11
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV13 | Kid
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV12
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV14 | ZooMoo
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV13
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV15 | Kid
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV14
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=55
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV15
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV16 | Kid
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=142
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV16
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=157
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV17
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV17 | ChefClub Kid
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
 
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV18
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV18 | Party Time Karaoke
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=146
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV19
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=161
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV20
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=165
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV21
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=180
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV22
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=185
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV23
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV24
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=48
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV25
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV19 | Cooking Panda
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=165
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=180
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV20 | Movies
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV21 | Retro
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=74
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV26
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV22
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=76
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV28
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=154
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV29
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV23 | Movies
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV30
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV24 | Movies
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV30
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV25 | Kids
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=827
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV31
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=634
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV32
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV26 | Sports
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="OtteraTV" tvg-logo="",TV33
+
+#EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV27
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
 
@@ -3784,35 +3838,35 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/32
 //Collected by @mimipipi22 menampilkan playlist >>> SINGAPORE
 //========================================================================
 
-#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
+#EXTINF:-1 group-title="Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Singapore",Channel 8
+#EXTINF:-1 group-title="Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 8 (HD).sg" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/8/84/Mediacorp_Channel_8_2023.png",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
+https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="Singapore",Channel U
+#EXTINF:-1 group-title="Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://namwahpai.sg/wp-content/uploads/2021/04/Lark20210405-184740.png",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
+https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
 
-#EXTINF:-1 tvg-id="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="Singapore",Suria
+#EXTINF:-1 group-title="Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhnVS3vNi7M2d2/hNtSPVw", "kid":"mXADjvbFSOOXaPOh/29QgQ" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Singapore" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham
-https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
+https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
-#EXTINF:-1 group-title="Singapore" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
-https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1 group-title="Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Vasantham (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/1200px-Mediacorp_Vasantham_2023.svg.png",Vasantham
+#
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+#EXTINF:-1 group-title="Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/M/mediacorp-okto-2023-logo-603C4D3F1F-seeklogo.com.png",Okto Holidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
 #EXTINF:-1 tvg-id="Animax" group-title="Singapore" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
