@@ -2565,7 +2565,7 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 #EXTINF:-1 group-title="OtteraTV" tvg-logo="",OtteraTV1 | Mubeat
-https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/entertainment/mubeat.m3u8
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 
 #EXTINF:-1 group-title="OtteraTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/electric-now.png",OtteraTV2 | Electric Now
