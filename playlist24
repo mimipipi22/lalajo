@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-10-21 10:04:00 GMT+7 "
+# (●) Last Update: 2024-10-22 10:04:00 GMT+7 "
 # (●) Service: Playlist24
 # (●) Total Channels: Null
 
@@ -1232,6 +1232,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/
 https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News",Aljazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News",Aljazeera Arabic
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
@@ -1413,6 +1414,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/wion.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51JsdJR/africanews.png" group-title="News",Africanews 🌍
 https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1966,6 +1968,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png" group-title="Lifestyle",HGTV (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1710370016016/20240314T115242_hgtvlogo.png" group-title="Lifestyle",HGTV (NZ)
+https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -2561,6 +2566,8 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-id="TVBS-Asia",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="NBTWorld.th" tvg-logo="https://imgur.com/NRO6AtW.png" group-title="International",NBT World (720p)
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/playlist.m3u8
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
@@ -5974,6 +5981,56 @@ https://p10.stirilepe.net/filmcafesd/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rds.live/
 https://p10.stirilepe.net/amcsd/tracks-v1a1/mono.m3u8
+
+
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> NZTV
+//========================================================================
+
+#EXTINF:-1 channel-id="mjh-discovery-hgtv" tvg-id="mjh-discovery-hgtv" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1710370016016/20240314T115242_hgtvlogo.png" tvg-chno="19" group-title="NzAu TV" , HGTV
+https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-discovery-ptcn" tvg-id="mjh-discovery-ptcn" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1715808491150/20240516T093155_cnnfast_logo_750x500.png" group-title="NzAu TV" , CNN Fast
+https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1711490737342/20240327T110809_moviespherelogo.png" group-title="NzAu TV" , MovieSphere
+https://mediapackage-ms-source.fullscreen.nz/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-discovery-ptgn" tvg-id="mjh-discovery-ptgn" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1715808217223/20240516T092707_graham_norton_logo_small_750x500.png" group-title="NzAu TV" , The Graham Norton Show
+https://mediapackage-ptgn-source.fullscreen.nz/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-discovery-fast4" tvg-id="mjh-discovery-fast4" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521491288/20231121T121011_truecrimelogo.png" group-title="NzAu TV" , Warner Bros TV True Crime
+https://mediapackage-azf4-source.fullscreen.nz/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-discovery-fast5" tvg-id="mjh-discovery-fast5" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521701602/20231121T120842_paranormallogo.png" group-title="NzAu TV" , Warner Bros TV Paranormal
+https://mediapackage-azf5-source.fullscreen.nz/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-discovery-fast1" tvg-id="mjh-discovery-fast1" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701633988394/20231204T090843_motorheadslogo.png" group-title="NzAu TV" , Warner Bros TV Motorheads
+https://mediapackage-azf1-source.fullscreen.nz/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-discovery-fast7" tvg-id="mjh-discovery-fast7" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701634634905/20231204T091943_westfamilylogo.png" group-title="NzAu TV" , West Family Sagas
+https://mediapackage-azf7-source.fullscreen.nz/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-discovery-fast2" tvg-id="mjh-discovery-fast2" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701634318032/20231204T091616_deadliestcatchlogo.png" group-title="NzAu TV" , Warner Bros TV Deadliest Catch
+https://mediapackage-azf2-source.fullscreen.nz/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-discovery-fast6" tvg-id="mjh-discovery-fast6" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521489922/20231121T120747_househunterslogo.png" group-title="NzAu TV" , Warner Bros TV House Hunters
+https://mediapackage-azf6-source.fullscreen.nz/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-discovery-fast1" tvg-id="mjh-discovery-fast1" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701633988394/20231204T090843_motorheadslogo.png" group-title="NzAu TV" , Warner Bros TV Motorheads
+https://mediapackage-azf1-source.fullscreen.nz/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-redbull-tv" tvg-id="mjh-redbull-tv" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="NzAu TV", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="NzAu TV" , Channel News Asia (CNA)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="NzAu TV" , Sky News Now
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-bloomberg-tv" tvg-id="mjh-bloomberg-tv" tvg-logo="https://i.mjh.nz/.images/bloomberg-tv.png" group-title="NzAu TV", Bloomberg TV
+https://bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 
 //========================================================================
