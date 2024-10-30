@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-10-29 10:04:00 GMT+7 "
+# (●) Last Update: 2024-10-30 10:04:00 GMT+7 "
 # (●) Service: Playlist24
 # (●) Total Channels: Null
 
@@ -2518,6 +2518,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/international
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-
 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="International", KBS 2 Korea
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1730442973&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzA0NDI5NzN9fX1dfQ__&Signature=Wta1bVxeU3gGJpyjYlkfwfbfz198Z1VT13No2F4r0n3EYhlDRi1jQoCxdufImhxkU9paDz3NQ89qMrkquwl6-bA2wdGGSqpq2kGpzpbNHpb3Bz~l5p5cKOYCjKw4yjZPfaHQ4SICbpbl7JNGvIKPKugSsHNEJO1XxQAP9JKtDfa2EfiDWkUSgrLTcRuuBWK0sC7vKxKQbPP8lsGhupf5MAwEjk-RE~Gk3QvMALFiloO2FbauFNI-wAtsedtFupOngIEZx4G0tEmjXLbSb14bzAsSPpCC3dLAPpWzzkZIceNAc1kOrGPy1WJXxAJzfFRG4-149rS7Wd0-ku5iUrwsGw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png" group-title="International",Kungfu TV (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
 
@@ -2938,6 +2941,7 @@ https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="Kids",Mentari (INDI)
+https://cdn09jtedge.indihometv.com/joss/134/mentaritv/chunklist.m3u8
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
@@ -4945,6 +4949,13 @@ https://rzkgtzlsvbb.a.trbcdn.net/Setanta2_La_Liga/index.m3u8
 http://82.215.111.227/1264/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport Int",Trace Sport Star
 http://82.215.111.227/1274/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",Sport A
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",Sport B
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport Int",Sport C
+http://37.27.111.214:8080/live/15/hls.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport Int",Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
