@@ -9697,20 +9697,29 @@ http://xciptv.8888play.one:80/228463308/r576049x/18778
 //Collected by @mimipipi22 menampilkan playlist >>> IPTV
 //========================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",JTBC
-https://api.mp4.to/static/downloads/d3a06e1b-3ca6-42df-a21f-ecaea7370491/w.m3u8
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://iili.io/JmoPytR.png" group-title="KOREA",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+ 
+#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://iili.io/JmoiKSn.png" group-title="KOREA",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+ 
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="KOREA",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://iili.io/Jmoi3Ft.png" group-title="KOREA",MBC
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NHKG
-https://api3.mp4.to/static/downloads/60d49d2f-3ceb-48de-a005-beba95ba58df/hjfg.m3u8
+#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://iili.io/2UfPhb9.png" group-title="KOREA",JTBC
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
+ 
+#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="KOREA",MNet
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",KBS
-https://api.mp4.to/static/downloads/7097bb9a-56b8-4b6f-8897-32ba201db40b/p9.m3u8
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="KOREA",tvN
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",KBS II
-https://api.mp4.to/static/downloads/e10b5f44-cd61-4d1a-87d8-b9e0d96b0593/th1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",JTBC
-https://api3.mp4.to/static/downloads/121f6956-145b-44be-8125-016b84e81a97/111.m3u8 
+#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://iili.io/2UfQUEg.png" group-title="KOREA",tvN Show
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ESPN5
 http://super-cdn.link/espn5/index.m3u8
