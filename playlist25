@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-03-17 10:04:00 GMT+7 "
+# (●) Last Update: 2025-03-19 10:04:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -958,6 +958,41 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies HD" tvg-logo="https://iili.io/JmoHtne.png" group-title="Movies", TVN Movies
 https://d1abp075u76pbq.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|Referer=https://www.visionplus.id
 http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
+
+
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> HBO
+//========================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://iili.io/Jmo9Eg4.png" group-title="HBO Group",HBO
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBOHits1" tvg-logo="https://iili.io/Jmo90qG.png" group-title="HBO Group",HBO Hits
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBOFamily1" tvg-logo="https://iili.io/Jmo9css.png" group-title="HBO Group",HBO Family
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBOSignature1" tvg-logo="https://iili.io/Jmo911f.png" group-title="HBO Group",HBO Signature
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://iili.io/Jmo95bt.png" group-title="HBO Group",Cinemax
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 //========================================================================
