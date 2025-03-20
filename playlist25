@@ -1477,6 +1477,54 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTB" tvg-name="RTB Sukmaindera HD" tvg-logo="https://cdn4.mbahnunungonline.net/img/gfw5BaC.png?v=1.1.1.1" group-title="Brunai", RTB Sukmaindera HD
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Brunei" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Brunei" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Brunei" tvg-logo="https://i.imgur.com/CGlzsD5.png", RTB Go Live
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/harmoni-title.png",RTB Harmoni
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pilihan-title.png",RTB Pilihan
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://d2kziuzkf9oizb.cloudfront.net/rd003/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Brunei" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Korea
@@ -1577,8 +1625,13 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
-#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="https://cdn4.mbahnunungonline.net/img/0IJ66aW.png?v=1.1.1.1" group-title="Singapore", Suria
+#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="https://cdn4.mbahnunungonline.net/img/0IJ66aW.png?v=1.1.1.1" group-title="Singapore", Channel Suria
 https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
+#EXTINF:-1 tvg-id="Vasantham" group-title="Singapore" tvg-logo="https://pictr.com/images/2024/11/07/xiRMRQ.png", Channel Vasantham
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 
 //========================================================================
