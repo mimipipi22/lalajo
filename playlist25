@@ -266,7 +266,12 @@ http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="Biznet Kids" tvg-logo="https://warningfm.github.io/v3/img/dsQokrY.png?v=1.0.0.1" group-title="Kids", B Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 https://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-id="Biznet Kids" tvg-logo="https://warningfm.github.io/v3/img/dsQokrY.png?v=1.0.0.1" group-title="Kids", B Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
@@ -287,6 +292,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b65fa882be2/1aa82a2c32ca49698d23ddeec560c48c.jpg" group-title="Kids",Cartoon TV
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="Kids",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -3418,6 +3430,31 @@ https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/play
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/17rc425/voa.png" group-title="News",VOA TV
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e390ce10-fb8a-11ed-bc37-ad85dfabfb01_webp_original.png" group-title="Entertainment",(THAI) Rock Entertainment
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/rockentertainmentred.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/df51c4d0-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="Entertainment",(THAI) AXN
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueAXN.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="Entertainment",(THAI) Explore Life
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueexplorelife.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="Entertainment",(THAI) Explore SCI
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/trueexploresci.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/2043f300-d79f-11ee-b9a6-6d06a62b7aad_webp_original.webp" group-title="Entertainment",(THAI) Xzyte
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truexzyte.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/39a504d2ab695c922867f4083ad90506.jpeg" group-title="Music",Thai Chaiyo
+https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",Astro Arena 1
+http://www.geocities.ws/wahyuiptv/AstroArena.m3u8
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",Astro Arena 2
+http://www.geocities.ws/wahyuiptv/AstroArena2.m3u8
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",Astro Arena Bola 1
+http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2025/04/01/piala-asia-u-17-2025-1743505856024_169.jpeg?w=1200" group-title="AFC U-17",Astro Arena Bola 2
+http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
+
+
 
 
 
