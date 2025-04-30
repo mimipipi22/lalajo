@@ -1800,9 +1800,11 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
 #EXTINF:-1 tvg-id="101.astro" tvg-name="TV1" tvg-logo="https://cdn4.mbahnunungonline.net/img/sh6oadV.png?v=1.1.1.1" group-title="Malaysia", TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
 #EXTINF:-1 tvg-id="102.astro tvg-name=" tvg-name="TV2" tvg-logo="https://cdn4.mbahnunungonline.net/img/1Vlmsos.png?v=1.0.0.1" group-title="Malaysia", TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
 
 #EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://cdn4.mbahnunungonline.net/img/0c5WJlU.png?v=1.1.1.1" group-title="Malaysia", TV3
@@ -3639,6 +3641,30 @@ https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8|referer=https://pkpakiplay.xyz/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-movies340x160@3x@3x.jpg" group-title="Movies",We Do Tv Movie
 https://op-group1-swiftservehd-1.dens.tv/h/h70/wedotv_movie.m3u8|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/41da66359b2b294ee6c713d58cff7216.png" group-title="Movies",USA Cinemax Moviemax
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/Ivica5274/juric4005/176019.ts
+
+#EXTINF:-1 tvg-logo="http://23.227.147.172:80/images/c71287c43d551d32173a280111ea60b0.png" group-title="Movies",USA FMX
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/Ivica5274/juric4005/176036.ts
+
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/e3a8d4a9140e2e2ae6677a38bacb949a.png" group-title="Movies",USA Epix
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/Ivica5274/juric4005/176026.ts
+
+#EXTINF:-1 tvg-logo="http://181.233.124.64:80/images/0e6e1b00589f6861fe60fc452de012a5.png" group-title="Movies",USA Epix 2
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://line.lemotv.cc:80/Ivica5274/juric4005/176030.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
