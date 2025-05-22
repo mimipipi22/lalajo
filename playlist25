@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-05-19 15:04:00 GMT+7 "
+# (●) Last Update: 2025-05-22 15:04:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -521,8 +521,10 @@ https://fta1-cdn-flr.visionplus.id/out/v1/1880fc1b32d3449196e80345f6cd5918/index
 #EXTINF:-1 tvg-id="Maxstream" tvg-name="Maxstream" tvg-logo="https://iili.io/2P45iIn.png" group-title="Entertainment", Maxstream
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://img.logo-cdn.cc/paramountchannel.png" group-title="Entertainment",Paramount Network
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="Entertainment",Paramount Network
 https://josh9456-myproxy.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium334/mono.m3u8
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="Entertainment",Paramount Network
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/96929.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=93
@@ -3674,6 +3676,34 @@ http://line.lemotv.cc:80/Ivica5274/juric4005/176026.ts
 #KODIPROP:inputstream=inputstream.adaptive
 http://line.lemotv.cc:80/Ivica5274/juric4005/176030.ts
 
+===========================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="Entertainment",Dens Play
+https://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",ABC East
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/77487.ts
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",CBS East
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/77486.ts
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Fox East
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/77484.ts
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",NBC East
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/77485.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",ABC West
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/77483.ts
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",CBS West
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/77481.ts
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Fox West
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/77480.ts
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",NBC West
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/77482.ts
+
+===========================================================
+
+#EXTINF:-1 tvg-logo="" group-title="News",CNN Max
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/119314.ts
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News", RTL HD
@@ -3694,15 +3724,14 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",i24NEWS (English)
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="Entertainment",Dens Play
-https://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-
+===========================================================
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/KISS_HD.png?raw=true" group-title="Music",KISS TV
 https://livestream.siliconweb.com/live/kissfm/index.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/39a504d2ab695c922867f4083ad90506.jpeg" group-title="Music",Thai Chaiyo
-https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="" group-title="Music",Nick Music
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/109191.ts
+#EXTINF:-1 tvg-logo="" group-title="Music",Hits List MV
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/109298.ts
 
 #EXTINF:-1 group-title="Music" tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" ,Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
@@ -3751,21 +3780,41 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 group-title="Music" tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" ,Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1  tvg-name="" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/CARTOON_CLASSICS.png?raw=true" group-title="Kids",Cartoon Classics
-https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st=1716944483~exp=1716948083~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/payload/yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/*~hmac=a06f52adb102561f049ef1e699ba1146af13ddbaf0d52574327c257f504b2c8a&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=ENT&ads.channel=6591&ads.channel_name=CARTOONTVCLASSICS&ads.network_name=yupptv&ads.user=0
+===========================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/hboxing.png" group-title="Sports", HBO Boxing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="Sports",CBSSN
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/119316.ts
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fox Sports 1
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118499.ts
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fox Sports 2
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/109152.ts
 
-#EXTINF:-1 tvg-id="MNCSports3.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sky Sport 4
-https://master.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8|Referer=https://ceria.nontonx.com/
-https://master2.idxplayer.com/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzAvc3RyZWFtLm0zdTg=.m3u8|Referer=https://ceria.nontonx.com/
-https://convps.hdtvs1.top/aHR0cHM6Ly9vZTIuczRzdHJlYW0uY2ZkL3N0cmVhbW9yL2hscy8xL3N0cmVhbS5tM3U4.m3u8|Referer=https://ceria.nontonx.com/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 1" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 1
+https://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 2" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 2
+https://fl5.moveonjoy.com/NBA_2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 3" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 3
+https://fl5.moveonjoy.com/NBA_3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 4" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 4
+https://fl5.moveonjoy.com/NBA_4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 5" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 5
+https://fl5.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 6" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 6
+https://fl5.moveonjoy.com/NBA_6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 7" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 7
+https://fl5.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 8" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 8
+https://fl5.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 9" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 9
+https://fl5.moveonjoy.com/NBA_9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 10" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 10
+https://fl5.moveonjoy.com/NBA_10/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 11" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 11
+https://fl5.moveonjoy.com/NBA_11/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 12" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 12
+https://fl5.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 13" tvg-logo="https://images.seeklogo.com/logo-png/32/2/nba-logo-png_seeklogo-327223.png" group-title="NBA",NBA 13
+https://fl5.moveonjoy.com/NBA_13/index.m3u8
 
 
 
