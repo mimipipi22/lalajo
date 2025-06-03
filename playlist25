@@ -91,7 +91,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-http://xtv.ooo:8080/live/387546/200900/350972.ts
+https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
@@ -257,7 +257,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=li
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-##
+https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=17
@@ -2557,6 +2557,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-name="K-Plus HD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg" group-title="Korea", KPlus ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD
 
+#EXTINF:-1 tvg-id="KPlus.sg" tvg-name="K-Plus HD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg" group-title="Korea", KPlus
+https://smart.pendy.dpdns.org/Smart.php?id=Kplus
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="ONE HD" tvg-logo="https://iili.io/Jmo2Gn9.png" group-title="Korea", ONE 🔵
@@ -4652,6 +4655,11 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/39
 
 
 ===========================================================
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Astro Arena Bola 1
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
+#EXTINF:-1 tvg-logo="" group-title="Sports",Astro Arena Bola 2
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
 
 
 
