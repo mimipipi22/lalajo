@@ -298,8 +298,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=17
 #EXTINF:-1 tvg-id="SEAToday.id" tvg-name="SEA Today" tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-m.png" group-title="Nasional", SEA Today 🔵
-https://av-ch-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/9cebfb76975f470d8d3dff0b3d27bdd9/index.mpd
+https://av-ch-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
+https://legacy-global-cdn.visionplus.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
 
 #EXTINF:-1 tvg-id="SEAToday.id" tvg-name="SEA Today" tvg-logo="https://iili.io/JV3xLAl.png" group-title="Nasional", SEA Today
 https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/source/seatoday
@@ -1295,6 +1296,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=1008&type=drm
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1008
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1302,6 +1304,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=1011&type=drm
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1011
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -5255,6 +5258,17 @@ https://smt.1789.dpdns.org/smt3.2.1.php?id=Quanjia
 https://smt.1789.dpdns.org/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-logo="" group-title="China",Celestial Movies
 https://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial
+#EXTINF:-1 tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/xinwenzh.jpg" group-title="China",Xinwenzh
+http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
+#EXTINF:-1 tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/gonggon.jpg" group-title="China",Gonggon
+http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
+#EXTINF:-1 tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/sztv.png" group-title="China",SZTV
+http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
+#EXTINF:-1 tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/zhuhai.jpg" group-title="China",Zhuhai
+http://publive.zhrct.com/zhtv1/zhtv1.m3u8?auth_key=1697183630-0-0-237458bc86c8bc697f92b9525a090953
+#EXTINF:-1 tvg-logo="" group-title="China",Zonghes
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PHOENIX INFONEWS" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_INFO.png" group-title="china",PHOENIX INFONEWS
