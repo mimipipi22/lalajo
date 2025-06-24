@@ -785,12 +785,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-chno="" group-logo="https://i.ibb.co/BzXszsr/flag-singapore-round-frame-1308-71152.jpg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",Animax (SG)
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1  tvg-name="Anime x Hidive" tvg-id="plex.tv.ANIME.x.HIDIVE.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="Entertainment",Anime x Hidive
-https://ott.udptv.net/stream/iptv/animexhidive/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
-
-#EXTINF:-1  tvg-name="Aniplus" tvg-id="Aniplus.id" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="Entertainment",Aniplus 🟠
-https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
-
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502022_tvchannels_v1.jpg" group-title="Entertainment", Aniplus ⚪
@@ -968,11 +962,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/1880fc1b32d3449196e80345f6cd5918/index
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-id="Maxstream" tvg-name="Maxstream" tvg-logo="https://iili.io/2P45iIn.png" group-title="Entertainment", Maxstream 🟠
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="Entertainment",Paramount Network
-https://nijineh-lalajo.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium334/mono.m3u8
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="Entertainment",Paramount Network
-http://primestreams.tv:826/live/SF11/vulwBvtfo9/96929.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
@@ -1475,8 +1464,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd|user-ag
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="https://warningfm.github.io/v3/img/38THVeh.png?v=1.1.1.1" group-title="Sports", Eurosport 🟢
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 11) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Sports", NBA TV
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
+#EXTINF:-1  tvg-name="NBA TV HDTV" tvg-id="NBA.TV.USA.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/NBA_TV_HDTV._SL170_FMpng_.png" group-title="Sports",NBA TV HDTV
+https://ott.udptv.com/stream/udptv/nbatvhdtv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1881,7 +1870,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co.com/0GrGjbk/investdisco.png" group-title="Knowledge",Investigation Discovery (ID USA)
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium324/mono.m3u8
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://windnew.newkso.ru/wind/premium324/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
@@ -1935,11 +1927,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 https://fta4-cdn-flr.visionplus.id/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 https://av-ch-cdn.mncnow.id/live/eds/lovenature/sa_dash/lovenature.mpd
 
-#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/national-geographic.png" group-title="Knowledge",National Geographic (NGC)
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
+#EXTINF:-1  tvg-name="National Geographic Channel US" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="Knowledge",National Geographic Channel US
+https://ott.udptv.org/stream/udptvus/nationalgeographic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/nat-geo-wild-usa.png" group-title="Knowledge",Nat Geo Wild USA
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NDUvbW9uby5tM3U4.m3u8
+#EXTINF:-1  tvg-name="Nat Geo Wild US" tvg-id="sling/natgeowild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png" group-title="Knowledge",Nat Geo Wild US
+https://ott.udptv.org/stream/udptvus/natgeowild/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
@@ -1956,8 +1948,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp" group-title="Knowledge", RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Science.us" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/science-channel.png" group-title="Knowledge",Science Channel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjk0L21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="Science.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-icon-shade-us.png?raw=true" group-title="Knowledge",Science Channel
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://nfsnew.newkso.ru/nfs/premium294/mono.m3u8
 
 #EXTINF:-1 tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects" tvg-logo="https://iili.io/JmoCDmJ.png" group-title="Knowledge", Smithsonian Channel
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
@@ -2487,13 +2482,13 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 
 #EXTINF:-1  tvg-name="HBO Comedy" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="HBO Group",HBO Comedy
-https://ott.udptv.net/stream/iptv/hbocomedy/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/hbocomedy/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="HBO West" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="HBO Group",HBO West
-https://ott.udptv.net/stream/iptv/hbowest/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/hbowest/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="HBO Zone" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="HBO Group",HBO Zone
-https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="HBO2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="HBO Group",HBO2
-https://ott.udptv.net/stream/iptv/hbo2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/hbo2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 
 
@@ -3557,377 +3552,6 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Sport Asia
-//========================================================================
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/astro-supersport-1.png" group-title="Sport Asia",Astro SuperSport 1
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMjMvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/astro-supersport-2.png" group-title="Sport Asia",Astro SuperSport 2
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjQvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/astro-supersport-3.png" group-title="Sport Asia",Astro SuperSport 3
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMjUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/astro-supersport-4.png" group-title="Sport Asia",Astro SuperSport 4
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMjYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="Astro.Cricket.my" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/astro-cricket.png" group-title="Sport Asia",Astro Cricket
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/alkass-four.png" group-title="Sport Asia",Alkass Four
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzg0L21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/alkass-two.png" group-title="Sport Asia",Alkass Two
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzgyL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/alkass-three.png" group-title="Sport Asia",Alkass Three
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzgzL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/alkass-four.png" group-title="Sport Asia",Alkass Four
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzg0L21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Sport Asia",Abu Dhabi Sports 1 UAE
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium600/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Sport Asia",Abu Dhabi Sports 2 UAE
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium601/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Sport Asia",Abu Dhabi Sports 1 Premium
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="Sport Asia",Abu Dhabi Sports 2 Premium
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium610/mono.m3u8
-
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/fox-sports-502.png" group-title="Sport Asia",FOX Sports 502 AU
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/fox-sports-503.png" group-title="Sport Asia",FOX Sports 503 AU
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjEvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/fox-sports-504.png" group-title="Sport Asia",FOX Sports 504 AU
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/fox-sports-505.png" group-title="Sport Asia",FOX Sports 505 AU
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjMvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/fox-sports-506.png" group-title="Sport Asia",FOX Sports 506 AU
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjQvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/fox-sports-507.png" group-title="Sport Asia",FOX Sports 507 AU
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjUvbW9uby5tM3U4.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC1
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC2
-https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC3
-https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC4
-https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC5
-https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC Extra 1
-https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC Extra 2
-https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC Extra 3
-https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC News
-https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
-
-#EXTINF:-1 tvg-id="Sport.1.HD.il" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-1-israel.png" group-title="Sport Asia",Sport 1 Israel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="Sport.2.HD.il" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-2-israel.png" group-title="Sport Asia",Sport 2 Israel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="Sport.3.HD.il" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-3-israel.png" group-title="Sport Asia",Sport 3 Israel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="Sport.4.HD.il" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-4-israel.png" group-title="Sport Asia",Sport 4 Israel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDMvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="Sport.5.Gold.(57).il" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-5-gold-israel.png" group-title="Sport Asia",Sport 5 Gold Israel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNDgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="Sport.5.HD.(55).il" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-5-israel.png" group-title="Sport Asia",Sport 5 Israel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDQvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="Sport.5.Live.HD.(58).il" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-5-live-israel.png" group-title="Sport Asia",Sport 5 Live Israel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="Sport.5+.HD.(56).il" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-5-plus-israel.png" group-title="Sport Asia",Sport 5 PLUS Israel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="Sport.5.Stars.HD.(59).il" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/sport-5-stars-israel.png" group-title="Sport Asia",Sport 5 Star Israel
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDcvbW9uby5tM3U4.m3u8
-
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> beIN Sports
-//========================================================================
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-1.png" group-title="beIN Sports",beIN Sports MENA English 1
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MS9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-2.png" group-title="beIN Sports",beIN Sports MENA English 2
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MC9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-3.png" group-title="beIN Sports",beIN Sports MENA English 3
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ni9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-mena-premium-1.png" group-title="beIN Sports",beIN Sports MENA Premium 1
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OC9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-mena-premium-2.png" group-title="beIN Sports",beIN Sports MENA Premium 2
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OS9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-mena-premium-3.png" group-title="beIN Sports",beIN Sports MENA Premium 3
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="beIN Sports",beIN Sports MENA 1
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTEvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-2.png" group-title="beIN Sports",beIN Sports MENA 2
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-3.png" group-title="beIN Sports",beIN Sports MENA 3
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTMvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-4.png" group-title="beIN Sports",beIN Sports MENA 4
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTQvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-5.png" group-title="beIN Sports",beIN Sports MENA 5
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="beIN Sports",beIN Sports MENA 6
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-7.png" group-title="beIN Sports",beIN Sports MENA 7
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-8.png" group-title="beIN Sports",beIN Sports MENA 8
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OC9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-9.png" group-title="beIN Sports",beIN Sports MENA 9
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OS9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" group-title="beIN Sports",beIN SPORTS XTRA 1
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA2_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" group-title="beIN Sports",beIN SPORTS XTRA 2
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00My9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-max-4-france.png" group-title="beIN Sports",beIN Sports MAX 4 France
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTQvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-max-5-france.png" group-title="beIN Sports",beIN Sports MAX 5 France
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-max-6-france.png" group-title="beIN Sports",beIN Sports MAX 6 France
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-max-7-france.png" group-title="beIN Sports",beIN Sports MAX 7 France
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-max-8-france.png" group-title="beIN Sports",beIN Sports MAX 8 France
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-max-9-france.png" group-title="beIN Sports",beIN Sports MAX 9 France
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-max-10-france.png" group-title="beIN Sports",beIN Sports MAX 10 France
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01MDAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-1-france.png" group-title="beIN Sports",beIN SPORTS 1 France
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-2-france.png" group-title="beIN Sports",beIN SPORTS 2 France
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-3-france.png" group-title="beIN Sports",beIN SPORTS 3 France
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="beIN Sports",beIN SPORTS 1 Turkey
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Mi9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-2.png" group-title="beIN Sports",beIN SPORTS 2 Turkey
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02My9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-3.png" group-title="beIN Sports",beIN SPORTS 3 Turkey
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02NC9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-4.png" group-title="beIN Sports",beIN SPORTS 4 Turkey
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Ny9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-hd.png" group-title="beIN Sports",BeIN Sports HD Qatar
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01NzgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="beIN Sports",BeIN SPORTS USA
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-en-espa.png" group-title="beIN Sports",beIN SPORTS en Español
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beINSports1.au" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="beIN Sports",beIN SPORTS Australia 1
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTEvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beINSports2.au" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-2.png" group-title="beIN Sports",beIN SPORTS Australia 2
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="beINSports3.au" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-sports-3.png" group-title="beIN Sports",beIN SPORTS Australia 3
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTMvbW9uby5tM3U4.m3u8
-
-
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> World Movies
-//========================================================================
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",AXN Movies Portugal
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium717/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",bTV Action Bulgaria
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium481/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",DSTV M-Net
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium827/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",FilmBox Premium Poland
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium568/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",FOX HD Bulgaria
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium483/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",FX USA
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium317/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",FXX USA
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium298/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",FX Movie Channel
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium381/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",The Hallmark Channel
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium320/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Hallmark Movies & Mysterie
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium296/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",HBO USA
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium321/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",HBO2 USA
-https://nijineh-lalajo.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium689/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",HBO Comedy USA
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium690/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",HBO Family USA
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium691/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",HBO Latino USA
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium692/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",HBO Signature USA
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium693/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",HBO Zone USA
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium694/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",HBO Poland
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium569/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Select UK
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium672/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Hits UK
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium673/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Greats UK
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium674/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Animation UK
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium675/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Family UK
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium676/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Action UK
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium677/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Comedy UK
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium678/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Thriller UK
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium679/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Drama UK
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium680/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Sci-Fi Horror UK
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium681/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Collection Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium859/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Uno Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium860/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Action Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium861/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Comedy Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium862/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Uno +24 Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium863/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Romance Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium864/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Family Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium865/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Due +24 Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium866/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Drama Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium867/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Movies",Sky Cinema Suspense Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
-
-#EXTINF:-1 tvg-id="1.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/KCM.png" group-logo="" group-title="World Movies",KCM
-https://nijineh-lalajo.hf.space/proxy?url=https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcmasia-sooka-dash-sooka/index.mpd
-
-
-//========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Philippines
 //========================================================================
 
@@ -4770,233 +4394,8 @@ http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Sport Europa
+//Collected by @mimipipi22 menampilkan playlist >>> TNT SPORTS
 //========================================================================
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 1 Premium
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium134/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 1 Premium P2
-https://nijineh-lalajo.hf.space/proxy?url=https://nix1-dc4new.newkso.ru/nix1-dc4/arena1premiumserbia/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 2 Premium
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 2 Premium P2
-https://nijineh-lalajo.hf.space/proxy?url=https://nix1-dc4new.newkso.ru/nix1-dc4/arena2premiumserbia/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 3 Premium
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 3 Premium
-https://nijineh-lalajo.hf.space/proxy?url=https://nix1-dc4new.newkso.ru/nix1-dc4/arena3premiumserbia/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 1 Serbia
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium429/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 1 Serbia P2
-https://nijineh-lalajo.hf.space/proxy?url=https://nix1-dc4new.newkso.ru/nix1-dc4/arenasport1serbia/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 2 Serbia
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 2 Serbia P2
-https://nijineh-lalajo.hf.space/proxy?url=https://nix1-dc4new.newkso.ru/nix1-dc4/arenasport2serbia/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 3 Serbia
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium431/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 3 Serbia P2
-https://nijineh-lalajo.hf.space/proxy?url=https://nix1-dc4new.newkso.ru/nix1-dc4/arenasport3serbia/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 4 Serbia
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium581/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 4 Serbia P2
-https://nijineh-lalajo.hf.space/proxy?url=https://nix1-dc4new.newkso.ru/nix1-dc4/arenasport4serbia/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 1 Croatia
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 2 Croatia
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 3 Croatia
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Arena Sport 4 Croatia
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium580/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Cosmote Sport 1 HD
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Cosmote Sport 2 HD
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Cosmote Sport 3 HD
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium624/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Cosmote Sport 4 HD
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Cosmote Sport 5 HD
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Cosmote Sport 6 HD
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium627/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Cosmote Sport 7 HD
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Cosmote Sport 8 HD
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium629/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Cosmote Sport 9 HD
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",DAZN 1 Bar DE
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",DAZN 2 Bar DE
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",DAZN 1 Spain
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium445/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",DAZN 2 Spain
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",DAZN 3 Spain
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",DAZN 4 Spain
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",DAZN F1 ES
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",DAZN 1 UK
-##stream-230
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",DAZN LaLiga
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",DAZN LaLiga 2
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium43/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Digi Sport 1 Romania
-https://nijineh-lalajo.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/premium400/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Digi Sport 2 Romania
-https://nijineh-lalajo.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/premium401/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Digi Sport 3 Romania
-##stream-402
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Digi Sport 4 Romania
-https://nijineh-lalajo.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/premium403/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Diema Sport Bulgaria
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium465/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Diema Sport 2 Bulgaria
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium466/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Diema Sport 3 Bulgaria
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium467/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eleven Sports 1 Poland
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium71/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eleven Sports 2 Poland
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium72/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eleven Sports 3 Poland
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium428/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eleven Sports 1 Portugal
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eleven Sports 2 Portugal
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium456/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eleven Sports 3 Portugal
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium457/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eleven Sports 4 Portugal
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium458/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eleven Sports 5 Portugal
-https://nijineh-lalajo.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/eplayereleven5/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",EuroSport 1 UK
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium41/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",EuroSport 2 UK
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium42/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",EuroSport 1 Poland
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium57/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",EuroSport 2 Poland
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium58/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",EuroSport 1 Spain
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium524/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",EuroSport 2 Spain
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",EuroSport 1 Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium878/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",EuroSport 2 Italy
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium879/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eurosport 1 Bulgaria
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium469/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eurosport 2 Bulgaria
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium470/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eurosport 1 France
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Eurosport 2 France
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Match Football 1 Russia
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium136/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Match Football 2 Russia
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium137/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Match Football 3 Russia
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium138/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Match Premier Russia
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium573/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Movistar Laliga
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium84/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Movistar Liga de Campeones
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium435/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Movistar Deportes Spain
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Movistar Deportes 2 Spain
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Movistar Deportes 3 Spain
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Movistar Deportes 4 Spain
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium527/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Movistar Golf Spain
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium528/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sport Bulgaria
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium468/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sport Serbia
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium582/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sports 1 Greece
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium631/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sports 2 Greece
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sports 3 Greece
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium633/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sports 4 Greece
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sports 5 Greece
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium635/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sports 6 Greece
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sports Premier League Greece
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium599/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sports Start Greece
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sports Prime Greece
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium638/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Nova Sports News Greece
-https://nijineh-lalajo.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium639/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Orange Sport 1 Romania
-https://nijineh-lalajo.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/premium439/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Orange Sport 2 Romania
-https://nijineh-lalajo.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/premium440/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Orange Sport 3 Romania
-##stream-441
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Orange Sport 4 Romania
-##stream-442
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Premier Sports Ireland 1
-https://nijineh-lalajo.hf.space/proxy?url=https://ddy6new.newkso.ru/ddy6/premium771/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Premier Sports Ireland 2
-https://nijineh-lalajo.hf.space/proxy?url=https://zekonew.newkso.ru/zeko/premium799/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Polsat Sport Poland
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium47/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Polsat Sport Extra Poland
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium50/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Polsat Sport News Poland
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium129/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Polsat News Poland
-https://nijineh-lalajo.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium443/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Prima Sport 1
-https://nijineh-lalajo.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/premium583/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Prima Sport 2
-https://nijineh-lalajo.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/premium584/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Prima Sport 3
-https://nijineh-lalajo.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/premium585/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",Prima Sport 4
-https://nijineh-lalajo.hf.space/proxy?url=https://wikinew.newkso.ru/wiki/premium586/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",TNT Sports 1 UK
-https://nijineh-lalajo.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",TNT Sports 2 UK
-https://nijineh-lalajo.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",TNT Sports 3 UK
-https://nijineh-lalajo.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="Sport Europa",TNT Sports 4 UK
-https://nijineh-lalajo.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="TNT SPORTS",TNT Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -5032,279 +4431,54 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pc
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Moveonjoy
+//Collected by @mimipipi22 menampilkan playlist >>> SSC SPORTS
 //========================================================================
 
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="WOLODT1.us",ABC 25 Columbia
-https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="ACCNetwork.us",ACCN (720p)
-https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="AMC.us@East",AMC East (1080p)
-https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Aspire.us",Aspire
-https://fl3.moveonjoy.com/Aspire/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="BBCAmerica.us@East",BBC America East
-https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="BBCNews.uk@NorthAmerica",BBC News North America
-https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="BET.us@East",BET East
-https://fl3.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="BETGospel.us",BET Gospel
-https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="BETHer.us@East",BET Her East
-https://fl3.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="BETJams.us",BET Jams
-https://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="BETSoul.us",BET Soul
-https://fl3.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="BigTenNetwork.us",Big Ten Network
-https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="BloombergTV.us",Bloomberg TV
-https://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Bounce.us",Bounce
-https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Bravo.us@East",Bravo East
-https://fl3.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Buzzr.us",Buzzr
-https://fl3.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="CSPAN.us",C-SPAN
-https://fl3.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="CBS.us@East",CBS East (720p)
-https://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="CBSSportsNetworkUSA.us",CBS Sports Network USA
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="CleoTV.us",Cleo TV (720p)
-https://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="CMT.us@East",CMT East
-https://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="CNBC.us",CNBC
-https://fl3.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="CNBC.us",CNBC
-https://fl5.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="ComedyCentral.us@East",Comedy Central East (720p)
-https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Comet.us",Comet (720p)
-https://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="CourtTV.us",Court TV
-https://fl3.moveonjoy.com/COURT_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="CoziTV.us",Cozi TV
-https://fl3.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Crave1.ca",Crave 1
-https://fl3.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Crave2.ca",Crave 2
-https://fl3.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Crave3.ca",Crave 3
-https://fl3.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Crave4.ca",Crave 4
-https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="CuriosityStream.us",CuriosityStream (720p)
-https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="DisneyChannel.us@East",Disney Channel East
-https://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="DisneyJunior.us@East",Disney Junior East
-https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="DisneyXD.us@West",Disney XD West (720p)
-https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="E.us@East",E! East
-https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="ESPNU.us",ESPN U (720p)
-https://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="ESPNews.us",ESPNews (720p)
-https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="FoxBusinessNetwork.us",Fox Business Network (720p)
-https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="FoxNewsChannel.us",Fox News Channel (720p)
-https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="FoxNewsChannel.us",Fox News Channel (720p)
-https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="FoxNewsChannel.us",Fox News Channel (720p)
-https://fl4.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="FoxNewsChannel.us",Fox News Channel (720p)
-https://fl5.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="FoxNewsChannel.us",Fox News Channel (720p)
-https://fl6.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="FoxSoul.us",Fox Soul
-https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="",Fox Sports 1
-https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Freeform.us@East",Free form East
-https://fl3.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Fuse.us@East",Fuse East (720p)
-https://fl3.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="FX.us@East",FX East
-https://fl5.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="FXM.us@East",FXM East
-https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="FXX.us@East",FXX East
-https://fl3.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="FYI.us@East",FYI East
-https://fl3.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="GetTV.us",GetTV (480p)
-https://fl3.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="GolfChannel.us",Golf Channel
-https://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Grit.us",Grit
-https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="HallmarkChannel.us@East",Hallmark Channel East
-https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="HallmarkDrama.us",Hallmark Drama (720p)
-https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies Mysteries East
-https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="HSN.us",HSN
-https://fl3.moveonjoy.com/HSN/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="INSP.us",INSP
-https://fl3.moveonjoy.com/INSP/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="IONPlus.us@East",ION Plus East (720p)
-https://fl3.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="IONTV.us@East",ION TV East
-https://fl3.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="KSATDT2.us",KSAT-DT2 (720p)
-https://fl3.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Lifetime.us@East",Lifetime East
-https://fl3.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="LifetimeMovies.us@East",Lifetime Movies East
-https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="LoveNature.ca",Love Nature
-https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MAVTV.us",MAV TV (720p)
-https://fl3.moveonjoy.com/MAV_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MGMPlus.us@East",MGM+ East
-https://fl3.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MGMPlusMarquee.us",MGM+ Marquee
-https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MLBNetwork.us",MLB Network
-https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MSG.us",MSG
-https://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MTV2.us@East",MTV2 (720p)
-https://fl5.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MTV2.us@East",MTV2 East
-https://fl3.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MTVClassic.us@East",MTV Classic (360p)
-https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MTVClassic.us@East",MTV Classic East (720p)
-https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MTV.us@East",MTV East
-https://fl3.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MTVLive.us",MTV Live
-https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MTVLive.us",MTV Live (720p)
-https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MTVU.us",MTVU
-https://fl3.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="MTVU.us",mtvU (480p)
-https://fl5.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Much.ca",Much (720p)
-https://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="NationalGeographic.us@East",National Geographic East
-https://fl3.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="NationalGeographicWild.us@East",National Geographic Wild East
-https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="NBATV.us",NBA TV
-https://fl3.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="NewsNation.us@East",News Nation (720p)
-https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="NFLNetwork.us",NFL Network
-https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="NFLRedZone.us",NFL RedZone
-https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="NHLNetwork.us",NHL Network (720p)
-https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="NickJr.us@East",Nick Jr East
-https://fl3.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="NickJr.us@East",Nick Jr. East (720p)
-https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="NickMusic.us",Nick Music (720p)
-https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="NickMusic.us",Nick Music (480p)
-https://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Nicktoons.us@East",Nicktoons East
-https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="OutdoorChannel.us",Outdoor Channel
-https://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="OuterMax.us@East",OuterMax East (720p)
-https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="OutsideTV.us",Outside TV
-https://fl3.moveonjoy.com/OUTSIDE_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Ovation.us",Ovation (1080p)
-https://fl3.moveonjoy.com/Ovation/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Oxygen.us@East",Oxygen East
-https://fl3.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="ParamountNetwork.us@East",Paramount Network East
-https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="PursuitChannel.us",Pursuit Channel (720p)
-https://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="QVC.us",QVC (720p)
-https://fl3.moveonjoy.com/QVC/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Reelz.us",Reelz (720p)
-https://fl3.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Revolt.us",Revolt
-https://fl3.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Showtime2.us@East",Showtime 2 East
-https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Showtime.us@East",Showtime East
-https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="ShowtimeNext.us@East",Showtime Next East
-https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Showtime.us@West",Showtime West (1080p)
-https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="ShowtimeWomen.us@East",Showtime Women East
-https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="SmithsonianChannel.us@East",Smithsonian Channel East
-https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="SportsmanChannel.us",Sportsman Channel
-https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="SportsNetNewYork.us",SportsNet New York (540p)
-https://fl3.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="StartTV.us",Start TV
-https://fl3.moveonjoy.com/Start_Tv/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Starz.us@East",Starz East
-https://fl3.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic East
-https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Starz.us@West",Starz West
-https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="SundanceTV.us@East",Sundance TV East
-https://fl3.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="Syfy.us@East",Syfy East
-https://fl3.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="TennisChannel.us",Tennis Channel
-https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="TSN1.ca",TSN1 (1080p)
-https://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="TSN2.ca",TSN2
-https://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="TSN3.ca",TSN3
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="TSN4.ca",TSN4
-https://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="TSN5.ca",TSN5
-https://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="TVLand.us@East",TV Land East
-https://fl3.moveonjoy.com/TV_Land/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="TVOne.us",TV One
-https://fl3.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="UpTV.us",Up TV (1080p)
-https://fl3.moveonjoy.com/Up_Tv/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="VH1.us@East",VH1 East
-https://fl3.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="VICETV.us",VICE TV (720p)
-https://fl3.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="WNetwork.ca@East",W Network (720p)
-https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="WeTV.us@East",We TV East
-https://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="WGNDT1.us",WGN-DT1 (720p)
-https://fl3.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="WNBCDT1.us",WNBC-DT1
-https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="WNYWDT1.us",WNYW-DT1
-https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="WorldFishingNetwork.us",World Fishing Network
-https://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Moveonjoy" tvg-id="YesNetwork.us",Yes Network
-https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC1
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC2
+https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC3
+https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC4
+https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC5
+https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC Extra 1
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC Extra 2
+https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC Extra 3
+https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="Sport Asia", SSC News
+https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
+
 
 
 
@@ -5333,32 +4507,32 @@ http://108.181.132.217:8070/live/F28312/cc1dc138/298513.ts
 http://108.181.122.179:8070/live/F28312/cc1dc138/298514.ts
 
 #EXTINF:-1  tvg-name="BOO" tvg-id="BOO.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/boo-my.png" group-title="Movies",BOO
-https://ott.udptv.org/stream/astro/boo/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/astro/boo/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Astro Showcase" tvg-id="SHOWCASE.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Showcase_%282024%29.png" group-title="Movies",Astro Showcase
-https://ott.udptv.org/stream/astro/showcasemovies/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/astro/showcasemovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Astro Cinemax" tvg-id="CINEMAX.HD.my" tvg-logo="https://i.imgur.com/YomkvVa.png" group-title="Movies",Astro Cinemax
-https://ott.udptv.org/stream/astro/astrocinemax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+http://ott.udptv.net/stream/iptv/cinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1  tvg-name="MN+" tvg-id="iptv/mn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/mn-plus-hd-in.png?raw=true" group-title="Movies",MN+
-https://ott.udptv.net/stream/iptv/mn/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/mn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="MNX" tvg-id="iptv/mnx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/mnx-hd-in.png?raw=true" group-title="Movies",MNX
-https://ott.udptv.net/stream/iptv/mnx/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/mnx/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Movies Now" tvg-id="MOVIES.NOW.HD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/movies-now-hd-in.png" group-title="Movies",Movies Now
-https://ott.udptv.net/stream/iptv/moviesnow/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/moviesnow/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-#EXTINF:-1  tvg-name="OCN Movies" tvg-id="iptv/ocnmovies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/OCN_Movies_%EB%A1%9C%EA%B3%A0.svg/300px-OCN_Movies_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Movies	",OCN Movies
-https://ott.udptv.net/stream/iptv/ocnmovies/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="OCN Movies" tvg-id="iptv/ocnmovies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/OCN_Movies_%EB%A1%9C%EA%B3%A0.svg/300px-OCN_Movies_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Movies",OCN Movies
+https://ott.udptv.net/stream/iptv/ocnmovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="OCN Movies 2" tvg-id="iptv/ocnmovies" tvg-logo="https://i.imgur.com/Aja53VI.png" group-title="Movies",OCN Movies 2
-https://ott.udptv.net/stream/iptv/ocnmovies2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/ocnmovies2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1  tvg-name="Showtime 2" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Movies",Showtime 2
-https://ott.udptv.org/stream/udptvus/showtime2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/udptvus/showtime2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Showtime Extreme" tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Movies",Showtime Extreme
-https://ott.udptv.org/stream/udptvus/showtimeextreme/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/udptvus/showtimeextreme/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Showtime Next" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Movies",Showtime Next
-https://ott.udptv.org/stream/udptvus/showtimenext/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/udptvus/showtimenext/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Showtime Showcase" tvg-id="Showtime.Showcase.HD.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="Movies",Showtime Showcase
-https://ott.udptv.org/stream/udptvus/showtimeshowcase/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/udptvus/showtimeshowcase/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Universal Movies" tvg-id="fubo/universalmovies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/300px-Universal_Pictures_logo.svg.png" group-title="Movies",Universal Movies
 https://ott.udptv.com/stream/fubo/universalmovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
@@ -5418,9 +4592,16 @@ http://ott.udptv.net/stream/iptv/warnertv/master.m3u8?u=discord.gg/civ3&p=fb3f8f
 https://ott.udptv.org/stream/astro/kplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="One TV Asia" tvg-id="ONE.HD.my" tvg-logo="https://i.imgur.com/Xv8cQh0.png" group-title="Entertainment",One TV Asia
 https://ott.udptv.net/stream/iptv/onetvasia/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="Anime x Hidive" tvg-id="plex.tv.ANIME.x.HIDIVE.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="Entertainment",Anime x Hidive
+https://ott.udptv.net/stream/iptv/animexhidive/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="Aniplus" tvg-id="Aniplus.id" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="Entertainment",Aniplus
+https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1  tvg-name="Lotus Macau" tvg-id="Lotusmacau.Prd.ph" tvg-logo="https://i.imgur.com/W1u8QdQ.png" group-title="ENTERTAINMENT",Lotus Macau
 http://ott.udptv.net/stream/iptv/lotusmacau/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+#EXTINF:-1  tvg-name="Paramount Network" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="Entertainment",Paramount Network
+https://ott.udptv.org/stream/udptvus/paramountnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="KNBC" tvg-id="udptvus/knbc" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/nbc-4-knbc-us.png?raw=true" group-title="Entertainment",KNBC
 https://ott.udptv.org/stream/udptvus/knbc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="NECN" tvg-id="New.England.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/necn-us.png" group-title="Entertainment",NECN
@@ -5462,9 +4643,9 @@ https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
 
 =========================================================== News
 
-#EXTINF:-1  tvg-name="CNN Max" tvg-id="Cnn.Hd.ph" tvg-logo="https://i.imgur.com/LsiM8kD.png" group-title="News",CNN Max FHD
+#EXTINF:-1  tvg-name="CNN Max" tvg-id="Cnn.Hd.ph" tvg-logo="https://i.imgur.com/LsiM8kD.png" group-title="News",CNN Max
 http://primestreams.tv:826/live/SF11/vulwBvtfo9/119314.ts
-https://ott.udptv.net/stream/iptv/cnnmax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/cnnmax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
@@ -5564,37 +4745,38 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 =========================================================== Sports
 
 #EXTINF:-1  tvg-name="Astro Arena" tvg-id="Astro.Arena.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-arena-my.png" group-title="Sports",Astro Arena
-https://ott.udptv.org/stream/astro/astroarena/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/astro/astroarena/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Astro Football" tvg-id="Astro.Football.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-football-my.png" group-title="Sports",Astro Football
-https://ott.udptv.org/stream/astro/astrofootball/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/astro/astrofootball/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Astro Premier Sports" tvg-id="Astro.Premier.League.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="Sports",Astro Premier Sports
-https://ott.udptv.org/stream/astro/premiersports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/astro/premiersports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Astro Sports Plus" tvg-id="Astro.Sports.Plus.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="Sports",Astro Sports Plus
-https://ott.udptv.org/stream/astro/astrosportsplus/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/astro/astrosportsplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1  tvg-name="Bein Sports 1" tvg-id="beIN.SPORTS.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports",Bein Sports 1
-https://ott.udptv.org/stream/astro/beinsports1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/astro/beinsports1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Bein Sports 2" tvg-id="beIN.SPORTS.2.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports",Bein Sports 2
-https://ott.udptv.org/stream/astro/beinsports2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/astro/beinsports2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Bein Sports 3" tvg-id="beIN.SPORTS.3.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="Sports",Bein Sports 3
-https://ott.udptv.org/stream/astro/beinsports3/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/astro/beinsports3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Bein Sports 4" tvg-id="beIN.SPORTS.4.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png" group-title="Sports",Bein Sports 4
-https://ott.udptv.net/stream/iptv/beinsports4/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/beinsports4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Bein Sports 5" tvg-id="beIN.SPORTS.5.(HD).sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="Sports",Bein Sports 5
-https://ott.udptv.net/stream/iptv/beinsports5/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/beinsports5/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Bein Sports HD" tvg-id="udptvus/beinsports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="Sports",Bein Sports HD
-https://ott.udptv.org/stream/udptvus/beinsports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/udptvus/beinsports/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
+http://ott.udptv.net/stream/iptv/truefmtv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="TSN1" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="Sports",TSN1
-https://ott.udptv.net/stream/iptv/tsn1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/tsn1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="TSN2" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png" group-title="Sports",TSN2
-https://ott.udptv.net/stream/iptv/tsn2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/tsn2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="TSN3" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png" group-title="Sports",TSN3
-https://ott.udptv.net/stream/iptv/tsn3/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/tsn3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="TSN4" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" group-title="Sports",TSN4
-https://ott.udptv.net/stream/iptv/tsn4/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/tsn4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="TSN5" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" group-title="Sports",TSN5
-https://ott.udptv.net/stream/iptv/tsn5/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/tsn5/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" group-title="Sports",CBSSN
 http://primestreams.tv:826/live/SF11/vulwBvtfo9/119316.ts
@@ -5607,7 +4789,7 @@ http://primestreams.tv:826/live/SF11/vulwBvtfo9/109152.ts
 =========================================================== China
 
 #EXTINF:-1  tvg-name="IQIYI" tvg-id="iQIYI.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/iqiyi-my.png" group-title="China",IQIYI
-https://ott.udptv.org/stream/astro/iqiyi/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.org/stream/astro/iqiyi/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/xinwenzh.jpg" group-title="China",Xinwenzh
 http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
