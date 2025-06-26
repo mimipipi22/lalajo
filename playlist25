@@ -1093,6 +1093,24 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b53
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ae0aa740bb/39e0cbc9c8e0477591d7993555146bd6.jpg" group-title="Entertainment",Movies News 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zing/drmLicense
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/2UQNzYB.png?v=8.8.4.4" group-title="Entertainment", Zing
+https://otttv.co.in/d2h/livestream/zing/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-tv/drmLicense
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/ceBQDFq.png?v=8.8.4.4" group-title="Entertainment", Zee TV
+https://otttv.co.in/d2h/livestream/zee-tv/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-cinema/drmLicense
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RArAA1PLfXc/Yazhuq-x75I/AAAAAAAABhM/ZEAGZgIIB7Ubho7CbkfsFXOEkeZNqWJGACNcBGAsYHQ/s0/gSsIODC.png?v=1.0.0.1" group-title="Entertainment",Zee Cinema
+https://otttv.co.in/d2h/livestream/zee-cinema/manifest.mpd
+
 #EXTINF:-1  tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-hz-us.png?raw=true" group-title="Entertainment",SYFY
 https://ft.fbcdntv247.cfd/memfs/7558427d-1db8-480d-a80e-bc08eefa2b6c_output_0.m3u8
 #EXTINF:-1  tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="Entertainment",CBS (WCBS)
@@ -1160,6 +1178,12 @@ https://fta3-cdn-flr.visionplus.id/out/v1/96e20532df53449ab254f765073ec866/index
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://iili.io/JmocFPn.png" group-title="Religion", EWTN 🟢
 https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mpd/EWTN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=848dfd2cd72b42baad634ea61a3b0285:42e281d95bdd33b0f0f206a9ff393011
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://gms.church/images/gms/short-white.svg" group-title="Religion", GMS 🟢
+https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
@@ -2738,8 +2762,8 @@ https://av-ch-cdn.mncnow.id/live/eds/CNBC/sa_dash/CNBC.mpd
 #EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="https://iili.io/JhksTaS.png" group-title="News", CNN International 🟢
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 
-#EXTINF:-1  tvg-name="CNN" tvg-id="Cnn.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News",CNN FHD
-http://ott.udptv.net/stream/iptv/cnn/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+#EXTINF:-1  tvg-name="CNN" tvg-id="Cnn.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News",CNN
+http://ott.udptv.net/stream/iptv/cnn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png" group-title="News", CNN US
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/cnnus.m3u8
@@ -4486,204 +4510,204 @@ https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/i
 //Collected by @mimipipi22 menampilkan playlist >>> World Sports
 //========================================================================
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA TVA SPORTS
-https://kong.pp.ua/iptv/live.php?channel=eff268e6666685b0c016a4fd7ed2b26a&expiry=1750825802&token=bb058e2d01c9fb21021ca8c06f90df54
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet East
-https://kong.pp.ua/iptv/live.php?channel=2278dfadb8c8fa9afa7884812f4bab74&expiry=1750825802&token=ae79f10c52ef8fc4e3f1201350e36127
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet One
-https://kong.pp.ua/iptv/live.php?channel=8311de3244086e1566686a65d4d6c159&expiry=1750825802&token=503fb1909cbbffc4c04c239a8bde11cd
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Ginx esports TV
-https://kong.pp.ua/iptv/live.php?channel=660bcbe9cb89ad56404ee3e45fd59b7f&expiry=1750825802&token=c8c0ad0df881e6cd9abc82078cd0f815
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet  HD
-https://kong.pp.ua/iptv/live.php?channel=59da56dad417a4185c8a4f1973883f63&expiry=1750825802&token=472158dbb2b34a599353223788a386d7
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet  HD
-https://kong.pp.ua/iptv/live.php?channel=e153f210a1a275abff2fd2db6976a5c5&expiry=1750825802&token=69fc341a8f6e050d62306c1ec59fedce
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet East HD F
-https://kong.pp.ua/iptv/live.php?channel=668edfcb1ec322a7a2a85e47b27445ae&expiry=1750825802&token=cd9b083662e4f13f7fd7d143e1063e66
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet One FHD
-https://kong.pp.ua/iptv/live.php?channel=ee7aa846775cf1e25f4aba1fb156734d&expiry=1750825802&token=134f8f8ded57679bf80ba7891474056b
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet One HD
-https://kong.pp.ua/iptv/live.php?channel=dea3cf23f8dda760e3692aa04de686e3&expiry=1750825802&token=9242cf3a81bae721193cdb622e1b1f61
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet Ontario
-https://kong.pp.ua/iptv/live.php?channel=a1d71fa2c29c4dd9536f16aded8abfc1&expiry=1750825802&token=960c4d5e7785935f60dd565eff580c6a
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet Ontario HD
-https://kong.pp.ua/iptv/live.php?channel=b56bf7861abfd59ef3af0aacbb807dc4&expiry=1750825802&token=a07c484c43f52f3f7ba9ccdd8160c5e5
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet Ontario FHD
-https://kong.pp.ua/iptv/live.php?channel=994af90d443789ff7e6c88292fba0270&expiry=1750825802&token=e958582fad65d542d3c71a2af4b6df66
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet Pacific FHD
-https://kong.pp.ua/iptv/live.php?channel=e22c18653a213848dc23ff32d9b848cc&expiry=1750825802&token=99517cc3a2c904c0aa954c1dff49a260
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet Pacific HD
-https://kong.pp.ua/iptv/live.php?channel=18124e29acc6b44724953ce24549dc60&expiry=1750825802&token=de8c757138c1cdd6125550708c8d1db6
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet West FHD
-https://kong.pp.ua/iptv/live.php?channel=3062a90ac2712331bbe291e2143252d3&expiry=1750825802&token=7d1dd083219dae279445e3288f08e6a0
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA SPORTSNET WEST
-https://kong.pp.ua/iptv/live.php?channel=7b0a3869799e6feb19021c137f39f43d&expiry=1750825802&token=ed8c291a3aec4e847b8b22dfdc8aff0c
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA Sportsnet World HD
-https://kong.pp.ua/iptv/live.php?channel=9e86cfb61e198678cd852a49bbdd69c8&expiry=1750825802&token=e92861e9a607ec9365bf788a7397b233
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CA FR TVA Sports
-https://kong.pp.ua/iptv/live.php?channel=b7c24d8fc5520e7b24eff7f7f0a3a655&expiry=1750825802&token=20c7a479be3f67ba28922775004b6f14
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US FOX Sports
-https://kong.pp.ua/iptv/live.php?channel=a22abebdf798ba8fa868dbadf0229b91&expiry=1750825802&token=e25d80e2064739428e5e6bc7934135b8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK EuroSport
-https://kong.pp.ua/iptv/live.php?channel=2ff12a14f091275043ed51cffb8e5219&expiry=1750825802&token=6679ead65a80b132c58b7591efe18aa6
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US CBS Sports Network HD
-https://kong.pp.ua/iptv/live.php?channel=736ceb517bf37a432b85e203b545c1b0&expiry=1750825802&token=26afd404d8b2f58c1558319b888a30e6
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US ESPNU College Sports
-https://kong.pp.ua/iptv/live.php?channel=e1cfa6345c8640c07a1b8aeaad1effa5&expiry=1750825802&token=501cbbb4869ebb9304c2f1e623828f18
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=6a5c2c6e28eaf679064c222a552f53ff&expiry=1750825802&token=ad4d60e139bbb44db2d814cfe86d6b7b
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=631730cec0bb3be3402c249c8bee076b&expiry=1750825802&token=8b63c20d3f47d6dae3c276232ef5974b
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CAR SPORTSMAX
-https://kong.pp.ua/iptv/live.php?channel=617db37779f923b597c3bf649d97996e&expiry=1750825802&token=d7392eec0e94eb79dabd057a11fe98fd
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=51958793cfe6e5a7a2dc6e8dbe299921&expiry=1750825802&token=bdeca06a6196477d6dead02b37ed3dee
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=7d1a0cbd574f2e33545091b836d60df6&expiry=1750825802&token=8ccd52f26b6389eef1c878c6be8b5074
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",PT SPORT TV  FHD
-https://kong.pp.ua/iptv/live.php?channel=bb9ad40ade0da255ec72cc880a376f8b&expiry=1750825802&token=8ba596db3f5eef7da06c910c5d06d1fd
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",PT SPORT TV  HD
-https://kong.pp.ua/iptv/live.php?channel=9558894011acb1da1f633944bc5d4645&expiry=1750825802&token=bbacdea80b72b19b750db0066a1fc320
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",PT SPORT TV  HD
-https://kong.pp.ua/iptv/live.php?channel=68dfeabe3cffd7813cf546208051e2f2&expiry=1750825802&token=c7e91e771e4bd15862a09e5f1fa19006
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",PT SPORT TV  FHD
-https://kong.pp.ua/iptv/live.php?channel=d29eeae29d22fc3362f0917f05855ce8&expiry=1750825802&token=7684fd459f0cb49da35fd15aa35b6477
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",PT ELEVEN SPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=260ae3d9837b0d4a8ca38b7d0c9a32d3&expiry=1750825802&token=2a913528f90074ca2f3fc924127f6d87
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",PT ELEVEN SPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=b889301f0db737fd4433af692002a573&expiry=1750825802&token=1d2118b141d426443a0fbd956257e7e6
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",PT ELEVEN SPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=df5b1470ba6abc00d5c2774c628afde4&expiry=1750825802&token=b42fb5701eb2caf1e39502a5fe33f64b
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US FOX Sports
-https://kong.pp.ua/iptv/live.php?channel=9eaac0310263d0d3c20f8b1c84903563&expiry=1750825802&token=d0f2f4a7c3a0d4a0d9121becf31758f6
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports Florida
-https://kong.pp.ua/iptv/live.php?channel=7ce0279e1be7db704f70e5a1b823e338&expiry=1750825802&token=f5d68814d3d58d4a8cb4b7835b278b97
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",Sportsnet
-https://kong.pp.ua/iptv/live.php?channel=de713332f99c89968d1b46d844eebf91&expiry=1750825802&token=5bdb80225da4020823158c48338d0aeb
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK EuroSport
-https://kong.pp.ua/iptv/live.php?channel=ccfd810388bab833496e2bbd84d2e4c1&expiry=1750825802&token=0597306344b04c5bb1b2929635acdfc5
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK Sky Sports Action
-https://kong.pp.ua/iptv/live.php?channel=0d5efd89f060cdf91ffbeb5b95c6c636&expiry=1750825802&token=e1f5e1df8e9da188b5b23cd4daf3967c
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK Sky Sports Arena
-https://kong.pp.ua/iptv/live.php?channel=f86221c992449ccd564d45375b8baf4f&expiry=1750825802&token=553f58125563637f9272fffd341e5d30
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK Sky Sports F1 FHD
-https://kong.pp.ua/iptv/live.php?channel=4bc8b05b7d3cfb2acb7b6748e9bd9e8f&expiry=1750825802&token=d00ddbca44b98de8e25d93b854c57c16
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK Sky Sports Golf FHD
-https://kong.pp.ua/iptv/live.php?channel=a3ebbcd35f5ebc300b8f4fcb9586ca28&expiry=1750825802&token=7635aa556512eb2a0ab347e3f66633e0
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK Sky Sports Main Event
-https://kong.pp.ua/iptv/live.php?channel=777aed5a74d3f11d40fbfbca8a432b7a&expiry=1750825802&token=c16205e91003ffe357d5300e83986129
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK Sky Sports Mix FHD
-https://kong.pp.ua/iptv/live.php?channel=3c864ac1d90bd414153889aa2fe3539f&expiry=1750825802&token=660a4d3d82ee3396d04419a20c6ddc98
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK Sky Sports News
-https://kong.pp.ua/iptv/live.php?channel=75fdad715352a9666b7683aa994e2a62&expiry=1750825802&token=3fe64e6ec9c3dfe5884c4d5199f4eb38
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK Sky Sports Cricket FHD
-https://kong.pp.ua/iptv/live.php?channel=1402990db67fa797ab3492ccdfc8ba66&expiry=1750825802&token=7f07095130d3dca43b7c7e9c1d7f4c21
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK Sky Sports F1
-https://kong.pp.ua/iptv/live.php?channel=6447a00537a808a1630b70fa42cdedec&expiry=1750825802&token=706147673e4d2e43736776ca174b1cba
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports Southeast
-https://kong.pp.ua/iptv/live.php?channel=806d9ecb5b7a1f5fb00131686fc798c8&expiry=1750825802&token=3e1620af0c2398d978bb1a4b86e6f7bb
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US NBC Sports Network
-https://kong.pp.ua/iptv/live.php?channel=ed0d62ceb1ccb8fa46c010f91ef7df01&expiry=1750825802&token=d4bfb9b87c15fc9e4c61338b481bdd58
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports Detroit
-https://kong.pp.ua/iptv/live.php?channel=34df14f367c4d86e90a40481b5a9744d&expiry=1750825802&token=af4d7b57216b82b239801354e5b17f1f
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports Midwest
-https://kong.pp.ua/iptv/live.php?channel=121ee1307fa786da6cec1d57f4a0931c&expiry=1750825802&token=a49976ce2a15e2be4389b8095266bcd7
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports Oklahoma
-https://kong.pp.ua/iptv/live.php?channel=31090f72b3b75bf0dadbdba8940d6a9f&expiry=1750825802&token=e574421802e8c669a90220b18b3afe52
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports Southeast
-https://kong.pp.ua/iptv/live.php?channel=26055d052c5e670bd7d81597d5d3be95&expiry=1750825802&token=bbfdb7dd1dcc24d14640a91ba3eb8068
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports Southwest
-https://kong.pp.ua/iptv/live.php?channel=90605d900466c89dec6b241225890be5&expiry=1750825802&token=dc9fdcc1125f9fb9be8e67108097806f
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports West
-https://kong.pp.ua/iptv/live.php?channel=0db22cda8673561485ee8401ae33a797&expiry=1750825802&token=b737505e25dc99a0a5b6c77d282afc07
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US FanDuel Sports Wisconsin
-https://kong.pp.ua/iptv/live.php?channel=dab1aceccdf37ff0fc4fa11123e5245b&expiry=1750825802&token=4d37967895bcd5ef47960310e3887c4c
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",PT Eleven Sports  FHD
-https://kong.pp.ua/iptv/live.php?channel=0bd1ee1dcd22bbdbdda5980b061725b1&expiry=1750825802&token=c3a32e85514218bb612527588c23983e
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports North
-https://kong.pp.ua/iptv/live.php?channel=60be623155d0f796c9fb9b03b8995d21&expiry=1750825802&token=cf56b3eedf5207b7dc17e6decc6b2fe3
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports
-https://kong.pp.ua/iptv/live.php?channel=f4e14092d890b79ac046002c68a72e79&expiry=1750825802&token=d5e7fad3a1da5a1ff783fa7b10dbdadc
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports Ohio
-https://kong.pp.ua/iptv/live.php?channel=a0c0da11430903b7eec3479cd4fae214&expiry=1750825802&token=2cad5a78acc07c05f1f63b8ee621e1a0
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US NBC Sports Bay Area
-https://kong.pp.ua/iptv/live.php?channel=fb14bd7406041d0bfeab74f66c62026e&expiry=1750825802&token=2cd09ca2e0129f8a609e3d12a41c29c0
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US NBC Sports Boston
-https://kong.pp.ua/iptv/live.php?channel=8d26f72ccd51fdc6e243bc8d9581b859&expiry=1750825802&token=04b6fa0659014cd7ed0a833bb8230366
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US NBC Sports California
-https://kong.pp.ua/iptv/live.php?channel=972a29fc8933643c6be8449e38b7a85d&expiry=1750825802&token=860efbe6f3f36a91de0621724b3f125a
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US NBC Sports Chicago
-https://kong.pp.ua/iptv/live.php?channel=ea933353832aa453da52cb41571acd8c&expiry=1750825802&token=2bdea812ffeff2af72997a0451ceffd7
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US NBC Sports Network FHD
-https://kong.pp.ua/iptv/live.php?channel=fc777c1b8b0b036faa124c22d3bc7731&expiry=1750825802&token=9ef034b975b2a617e8727f880db985a8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US NBC Sports Philly
-https://kong.pp.ua/iptv/live.php?channel=b445e40e7a4ac3009d30a464b165acbf&expiry=1750825802&token=3d5e714ebbca74297191da7e82291dd4
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US NBC Sports Washington F
-https://kong.pp.ua/iptv/live.php?channel=9528187deb2b6cd35ad8f962052555a5&expiry=1750825802&token=60c2b22bfa8fc2aefa6250774adbad67
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Spectrum SportsNet LA Dodgers HD
-https://kong.pp.ua/iptv/live.php?channel=dd3a70e909c12b7c49c23c920940899b&expiry=1750825802&token=971dc2268fb1a8d55f172f7828ca8a27
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Spectrum SportsNet Lakers FHD
-https://kong.pp.ua/iptv/live.php?channel=a98a5614c6a9b5f24d21d2ee0b0f27db&expiry=1750825802&token=448fdcc5e8e16dab352da816b511ada5
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Spectrum SportsNet Lakers FHD
-https://kong.pp.ua/iptv/live.php?channel=1edca2e074266a068a4599a9610451d8&expiry=1750825802&token=e9f496887be118e528600d7aeed48945
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Altitude Sports HD
-https://kong.pp.ua/iptv/live.php?channel=d704eaad4b4188373cdc7c37288ebb61&expiry=1750825802&token=50ae4c7098addd453bacd52846437c1d
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US CBS Sports Network HD
-https://kong.pp.ua/iptv/live.php?channel=196aa194d2bf2149e84005eea5d808b7&expiry=1750825802&token=c33929991874848a356bf0975a79d34a
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US ESPNU College Sports
-https://kong.pp.ua/iptv/live.php?channel=9c60348bb7c48fb8f33af3ac1168eb7d&expiry=1750825802&token=da8915ed847b1ee47b2ce228de78e4cb
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=f5f8616e105c2de614fe703b3155179a&expiry=1750825802&token=35f6306fbda6ed544e7113aa9db0dd52
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=678dc13a40bc92a89aec29ac9449a3f9&expiry=1750825802&token=ed04a7de9657b42752353365b60930f8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports North A
-https://kong.pp.ua/iptv/live.php?channel=84827e2abb983da746d91596e4827ea0&expiry=1750825802&token=7505e45f44c577abaa856755c09fbbb7
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports Carolinas
-https://kong.pp.ua/iptv/live.php?channel=8b0f08f7caa1891a369a2ca77e735cd3&expiry=1750825802&token=31ca34947c7fabf33362bb50b5fd9879
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports South
-https://kong.pp.ua/iptv/live.php?channel=490c53dba7ef5d680328d6d399f30fb1&expiry=1750825802&token=ea58f3dacaedc7c7f547e21de02fe560
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports South
-https://kong.pp.ua/iptv/live.php?channel=f80c55751290655726f88ddd31987fdf&expiry=1750825802&token=c45478046a9eb6b2b7622b717689b646
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Marquee Sports Network HD
-https://kong.pp.ua/iptv/live.php?channel=cd7cc83b6a033661fb7370577d6f5538&expiry=1750825802&token=73ad40b6c2328476941e8d43fec466c2
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Sportsnet New York SNY
-https://kong.pp.ua/iptv/live.php?channel=d7e46a22db988cba519d5fa29a106e38&expiry=1750825802&token=cad92b9f350c6f0d0a48cb0eb276b95f
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Sportsman Channel
-https://kong.pp.ua/iptv/live.php?channel=53faedc755edd2e38c6a9d653cf7f995&expiry=1750825802&token=afdcd2e39b7896a809869d7739130c81
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",US Bally Sports Sun
-https://kong.pp.ua/iptv/live.php?channel=b225c7981819ae7c7e7f7bfba1e4b78e&expiry=1750825802&token=a48026930507a7a7840d530132b78b95
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",CAR SPORTSMAX
-https://kong.pp.ua/iptv/live.php?channel=d649f9c2502fcdd32b85ac0671b9bbc0&expiry=1750825802&token=2bc22c6ef70885115c50d4e1c6bd16a1
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=ccb54c4e87ba9dde14a3f744853eff55&expiry=1750825802&token=455f684218d11d88e8112428d8154de5
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=08533d571d7642677d6dca892d747a59&expiry=1750825802&token=602449c08b7fe655489f11831377dbde
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK SKY SPORTS ARENA FHD
-https://kong.pp.ua/iptv/live.php?channel=47a8b2d99763f7fa2f5b7ca8d9cfc12a&expiry=1750825802&token=29fc022947c29dac7d60db349890d56d
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",UK SKY SPORTS MAIN EVENT HD
-https://kong.pp.ua/iptv/live.php?channel=05dcd932b4c4644818061dd2663832c7&expiry=1750825802&token=63b77fd4a9801fb6d18a8e3e3c9672bb
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",NSPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=8e6cad389ae41eb6a50f1374ad35bb63&expiry=1750825802&token=91ffa93c310073991fb020f6b44ffdc6
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",NSPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=77a224911cdaf6e9effae6267226bb40&expiry=1750825802&token=f0e54873a1d07235f51e2f81d40041b8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",PAY PER VIEW ESPORTES
-https://kong.pp.ua/iptv/live.php?channel=642a4a430010d987d550b15520292fa6&expiry=1750825802&token=408c632fb355a1aa4eedc3d3c5a1d099
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",SPORTV
-https://kong.pp.ua/iptv/live.php?channel=2eb68d0255f16c9b792d489b9a1843c2&expiry=1750825802&token=c9d59e6d7c4f2174f40c7e350bcde9ea
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",SPORTV  HDR
-https://kong.pp.ua/iptv/live.php?channel=204ddac9a235be06eb5fb81c25500602&expiry=1750825802&token=e78819dd0973ce89d343859f4e01b668
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",SPORTV  HDR
-https://kong.pp.ua/iptv/live.php?channel=6d098dc9cd5329bc56d2a27fc8ad9fe4&expiry=1750825802&token=7d16db32b6df3999c525fd5c5a04521f
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",SPORTV
-https://kong.pp.ua/iptv/live.php?channel=fd8c033fec0a053d93e6f471ebf7307e&expiry=1750825802&token=79ea40b467de26f051b81c2ae47baeb4
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",SPORTV  HDR
-https://kong.pp.ua/iptv/live.php?channel=af02aa8daf0802722f983071b939dd22&expiry=1750825802&token=bf5df9c6af680e496bab4baa13bec683
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",SPORTV
-https://kong.pp.ua/iptv/live.php?channel=355330742543ad3aa64c48f16743819b&expiry=1750825802&token=831a41b5443a4edb5bcf4b8678d681c8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",PREMIERE SPORTS
-https://kong.pp.ua/iptv/live.php?channel=f1a9d34ef67edf5388c04f0dba30909d&expiry=1750825802&token=b6da7d447f50f03f62f37c110fadad32
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="World Sports",FOX SPORTS
-https://kong.pp.ua/iptv/live.php?channel=a40e5be2a0393e3629cb17b5cd8c2a42&expiry=1750825802&token=fd3509dbb2f43bbee9f252e7fe75fcd5
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA TVA SPORTS
+https://kong.pp.ua/iptv/live.php?channel=eff268e6666685b0c016a4fd7ed2b26a&expiry=1750912203&token=430bfe823d0246ea6cc186389b93adc5
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet East
+https://kong.pp.ua/iptv/live.php?channel=2278dfadb8c8fa9afa7884812f4bab74&expiry=1750912203&token=7afdf8a2401492af3d7343751e59cacb
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet One
+https://kong.pp.ua/iptv/live.php?channel=8311de3244086e1566686a65d4d6c159&expiry=1750912203&token=92f934b13779e5c24882a2a42193b6ca
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Ginx esports TV
+https://kong.pp.ua/iptv/live.php?channel=660bcbe9cb89ad56404ee3e45fd59b7f&expiry=1750912203&token=5dbce0047e12ff22cb52fafbed8c2829
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet  HD
+https://kong.pp.ua/iptv/live.php?channel=59da56dad417a4185c8a4f1973883f63&expiry=1750912203&token=d71b69f5fcbe1ae3a61af93483e49713
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet  HD
+https://kong.pp.ua/iptv/live.php?channel=e153f210a1a275abff2fd2db6976a5c5&expiry=1750912203&token=fa68b88c38cf4f68708d70135549fb4d
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet East HD F
+https://kong.pp.ua/iptv/live.php?channel=668edfcb1ec322a7a2a85e47b27445ae&expiry=1750912203&token=8f530bbd12c0b844bdc584a59a9819ff
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet One FHD
+https://kong.pp.ua/iptv/live.php?channel=ee7aa846775cf1e25f4aba1fb156734d&expiry=1750912203&token=5649bc54a13e57fb7c14c83aa9cc8d52
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet One HD
+https://kong.pp.ua/iptv/live.php?channel=dea3cf23f8dda760e3692aa04de686e3&expiry=1750912203&token=e70eceff6a2c4f7481e6d13195c65ed0
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet Ontario
+https://kong.pp.ua/iptv/live.php?channel=a1d71fa2c29c4dd9536f16aded8abfc1&expiry=1750912203&token=ac5f4ca248d5dc8e5060dec8a5b94d40
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet Ontario HD
+https://kong.pp.ua/iptv/live.php?channel=b56bf7861abfd59ef3af0aacbb807dc4&expiry=1750912203&token=8857fc1b65872531cfa711a1060ee7f4
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet Ontario FHD
+https://kong.pp.ua/iptv/live.php?channel=994af90d443789ff7e6c88292fba0270&expiry=1750912203&token=d7fa8a03d52f6d063b42e1d321cd0357
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet Pacific FHD
+https://kong.pp.ua/iptv/live.php?channel=e22c18653a213848dc23ff32d9b848cc&expiry=1750912203&token=c2d1311cbab78d5beb0b5bb6c78f95f8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet Pacific HD
+https://kong.pp.ua/iptv/live.php?channel=18124e29acc6b44724953ce24549dc60&expiry=1750912203&token=f49b7c6f8d5913b9e39f4da6e6958c2c
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet West FHD
+https://kong.pp.ua/iptv/live.php?channel=3062a90ac2712331bbe291e2143252d3&expiry=1750912203&token=eb3442f26e8d8e354f5156b3cf24fee9
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA SPORTSNET WEST
+https://kong.pp.ua/iptv/live.php?channel=7b0a3869799e6feb19021c137f39f43d&expiry=1750912203&token=f7a0b7cbddd99f768fa474a1c4e39a52
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA Sportsnet World HD
+https://kong.pp.ua/iptv/live.php?channel=9e86cfb61e198678cd852a49bbdd69c8&expiry=1750912203&token=3e103c83a37fcdecfd16dc135e5f21a5
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CA FR TVA Sports
+https://kong.pp.ua/iptv/live.php?channel=b7c24d8fc5520e7b24eff7f7f0a3a655&expiry=1750912203&token=9181d5b2394c02bf8d3637d31c16cbbe
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US FOX Sports
+https://kong.pp.ua/iptv/live.php?channel=a22abebdf798ba8fa868dbadf0229b91&expiry=1750912203&token=2032dc39e95dffa0d6f4f12f84f8bf74
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK EuroSport
+https://kong.pp.ua/iptv/live.php?channel=2ff12a14f091275043ed51cffb8e5219&expiry=1750912203&token=d9b01a70b953029c4a63f64a8f1dce61
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US CBS Sports Network HD
+https://kong.pp.ua/iptv/live.php?channel=736ceb517bf37a432b85e203b545c1b0&expiry=1750912203&token=3cef347dff9ec11c162cb15d9012ec7d
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US ESPNU College Sports
+https://kong.pp.ua/iptv/live.php?channel=e1cfa6345c8640c07a1b8aeaad1effa5&expiry=1750912203&token=cf772f4000960eae6979dee6ecfc5036
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Fox Sports
+https://kong.pp.ua/iptv/live.php?channel=6a5c2c6e28eaf679064c222a552f53ff&expiry=1750912203&token=d5d12625d18cbb6a13b17619eb8cd3f4
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Fox Sports
+https://kong.pp.ua/iptv/live.php?channel=631730cec0bb3be3402c249c8bee076b&expiry=1750912203&token=4b87e359f80d52db0a43f34e5b5472c0
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CAR SPORTSMAX
+https://kong.pp.ua/iptv/live.php?channel=617db37779f923b597c3bf649d97996e&expiry=1750912203&token=5f80c959072081ef1e19455a5aa4fd7e
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",Star TV Sports
+https://kong.pp.ua/iptv/live.php?channel=51958793cfe6e5a7a2dc6e8dbe299921&expiry=1750912203&token=44da9d09d51103217d528a739d109bd0
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",Star TV Sports
+https://kong.pp.ua/iptv/live.php?channel=7d1a0cbd574f2e33545091b836d60df6&expiry=1750912203&token=091e0a51794c02c10330f2c1e3b70f07
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",PT SPORT TV  FHD
+https://kong.pp.ua/iptv/live.php?channel=bb9ad40ade0da255ec72cc880a376f8b&expiry=1750912203&token=df2b2f8931f7e7467f43b21e37b911c7
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",PT SPORT TV  HD
+https://kong.pp.ua/iptv/live.php?channel=9558894011acb1da1f633944bc5d4645&expiry=1750912203&token=7ed0b6523179f2bedaf4c99fa28d9191
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",PT SPORT TV  HD
+https://kong.pp.ua/iptv/live.php?channel=68dfeabe3cffd7813cf546208051e2f2&expiry=1750912203&token=46213c2f2aeb05124ecf6f3232e7badd
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",PT SPORT TV  FHD
+https://kong.pp.ua/iptv/live.php?channel=d29eeae29d22fc3362f0917f05855ce8&expiry=1750912203&token=48c081c9cd87ba478b0476d7ed66c375
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",PT ELEVEN SPORTS  HD
+https://kong.pp.ua/iptv/live.php?channel=260ae3d9837b0d4a8ca38b7d0c9a32d3&expiry=1750912203&token=1043eba08fdb1f0a574282209f82adac
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",PT ELEVEN SPORTS  HD
+https://kong.pp.ua/iptv/live.php?channel=b889301f0db737fd4433af692002a573&expiry=1750912203&token=006f52bdc3a192f1668276be18ef29c1
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",PT ELEVEN SPORTS  HD
+https://kong.pp.ua/iptv/live.php?channel=df5b1470ba6abc00d5c2774c628afde4&expiry=1750912203&token=aecea329cea4a218921534e54ed7b5c5
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US FOX Sports
+https://kong.pp.ua/iptv/live.php?channel=9eaac0310263d0d3c20f8b1c84903563&expiry=1750912203&token=ac8d2686f203cbdff828779d7b86d981
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports Florida
+https://kong.pp.ua/iptv/live.php?channel=7ce0279e1be7db704f70e5a1b823e338&expiry=1750912203&token=bb6a703bc8c115741b06d61127da30a2
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",Sportsnet
+https://kong.pp.ua/iptv/live.php?channel=de713332f99c89968d1b46d844eebf91&expiry=1750912203&token=dcc238e27aa700c8401910f9d3d6d5fe
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK EuroSport
+https://kong.pp.ua/iptv/live.php?channel=ccfd810388bab833496e2bbd84d2e4c1&expiry=1750912203&token=1e91020094afa3b394a1f7c2c868f184
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK Sky Sports Action
+https://kong.pp.ua/iptv/live.php?channel=0d5efd89f060cdf91ffbeb5b95c6c636&expiry=1750912203&token=67f7f62eb4b33b0f33fa314e5edc7c46
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK Sky Sports Arena
+https://kong.pp.ua/iptv/live.php?channel=f86221c992449ccd564d45375b8baf4f&expiry=1750912203&token=74d1d938e0605d2e43d66873facf1c89
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK Sky Sports F1 FHD
+https://kong.pp.ua/iptv/live.php?channel=4bc8b05b7d3cfb2acb7b6748e9bd9e8f&expiry=1750912203&token=69454270ca375bbcd583a56f61d77459
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK Sky Sports Golf FHD
+https://kong.pp.ua/iptv/live.php?channel=a3ebbcd35f5ebc300b8f4fcb9586ca28&expiry=1750912203&token=b79e5f203d2b3e65216e39dbd5e08c2c
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK Sky Sports Main Event
+https://kong.pp.ua/iptv/live.php?channel=777aed5a74d3f11d40fbfbca8a432b7a&expiry=1750912203&token=41b5cecc585e9f0bf78553884a497c19
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK Sky Sports Mix FHD
+https://kong.pp.ua/iptv/live.php?channel=3c864ac1d90bd414153889aa2fe3539f&expiry=1750912203&token=59f3a23be0655e44fd48e8263cc2ad08
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK Sky Sports News
+https://kong.pp.ua/iptv/live.php?channel=75fdad715352a9666b7683aa994e2a62&expiry=1750912203&token=f3887506feea3b9f701ae204f715fa39
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK Sky Sports Cricket FHD
+https://kong.pp.ua/iptv/live.php?channel=1402990db67fa797ab3492ccdfc8ba66&expiry=1750912203&token=50c368d850a36fa5b3b27f0c66430dbd
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK Sky Sports F1
+https://kong.pp.ua/iptv/live.php?channel=6447a00537a808a1630b70fa42cdedec&expiry=1750912203&token=16a2936473cdcae903a99afa8fc1eaa0
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports Southeast
+https://kong.pp.ua/iptv/live.php?channel=806d9ecb5b7a1f5fb00131686fc798c8&expiry=1750912203&token=9d77801b063d07fbbce851f07485f4f2
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US NBC Sports Network
+https://kong.pp.ua/iptv/live.php?channel=ed0d62ceb1ccb8fa46c010f91ef7df01&expiry=1750912203&token=7e08ddab35a65941d53adbee2e7fdea4
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports Detroit
+https://kong.pp.ua/iptv/live.php?channel=34df14f367c4d86e90a40481b5a9744d&expiry=1750912203&token=8b8db649a887fb5a6415ff477b10d59e
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports Midwest
+https://kong.pp.ua/iptv/live.php?channel=121ee1307fa786da6cec1d57f4a0931c&expiry=1750912203&token=135110b59731af542c64b859ef5858ea
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports Oklahoma
+https://kong.pp.ua/iptv/live.php?channel=31090f72b3b75bf0dadbdba8940d6a9f&expiry=1750912203&token=ac4a16006662e7e8e2f5583496517c08
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports Southeast
+https://kong.pp.ua/iptv/live.php?channel=26055d052c5e670bd7d81597d5d3be95&expiry=1750912203&token=6ba461d3d1acf9dff03d413cd8a65f1a
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports Southwest
+https://kong.pp.ua/iptv/live.php?channel=90605d900466c89dec6b241225890be5&expiry=1750912203&token=bace6a33e56e767706d9b7f0b6119332
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports West
+https://kong.pp.ua/iptv/live.php?channel=0db22cda8673561485ee8401ae33a797&expiry=1750912203&token=057133b6aa03d6f352767f0fed3b583c
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US FanDuel Sports Wisconsin
+https://kong.pp.ua/iptv/live.php?channel=dab1aceccdf37ff0fc4fa11123e5245b&expiry=1750912203&token=db31e0a1c9c272efff14297d840d66e3
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",PT Eleven Sports  FHD
+https://kong.pp.ua/iptv/live.php?channel=0bd1ee1dcd22bbdbdda5980b061725b1&expiry=1750912203&token=9482bdd5f348fbae6bb57fbaeed89311
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports North
+https://kong.pp.ua/iptv/live.php?channel=60be623155d0f796c9fb9b03b8995d21&expiry=1750912203&token=08beb3009779b19865d780c1999b43ab
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports
+https://kong.pp.ua/iptv/live.php?channel=f4e14092d890b79ac046002c68a72e79&expiry=1750912203&token=5e27fc1c18ced9ca576a76500d5bc8f3
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports Ohio
+https://kong.pp.ua/iptv/live.php?channel=a0c0da11430903b7eec3479cd4fae214&expiry=1750912203&token=f7984d79f029602651600ecadd461a4c
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US NBC Sports Bay Area
+https://kong.pp.ua/iptv/live.php?channel=fb14bd7406041d0bfeab74f66c62026e&expiry=1750912203&token=5cc6cd935d65acb873b8336ffcfcaca0
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US NBC Sports Boston
+https://kong.pp.ua/iptv/live.php?channel=8d26f72ccd51fdc6e243bc8d9581b859&expiry=1750912203&token=9ca83309817e3db9fffea737ab63073d
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US NBC Sports California
+https://kong.pp.ua/iptv/live.php?channel=972a29fc8933643c6be8449e38b7a85d&expiry=1750912203&token=05a747318753786d60b30e53dfddda80
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US NBC Sports Chicago
+https://kong.pp.ua/iptv/live.php?channel=ea933353832aa453da52cb41571acd8c&expiry=1750912203&token=0ae2bd6e5af82ebf47486aaf65673155
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US NBC Sports Network FHD
+https://kong.pp.ua/iptv/live.php?channel=fc777c1b8b0b036faa124c22d3bc7731&expiry=1750912203&token=96b45d14fabed3d5f43c6edbf1221703
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US NBC Sports Philly
+https://kong.pp.ua/iptv/live.php?channel=b445e40e7a4ac3009d30a464b165acbf&expiry=1750912203&token=b2b9e60e0f8bad680cabd67d059a0af6
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US NBC Sports Washington F
+https://kong.pp.ua/iptv/live.php?channel=9528187deb2b6cd35ad8f962052555a5&expiry=1750912203&token=dc820ef98c676f6baebb8bcfa368515a
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Spectrum SportsNet LA Dodgers HD
+https://kong.pp.ua/iptv/live.php?channel=dd3a70e909c12b7c49c23c920940899b&expiry=1750912203&token=e047bfc361d51a1bfc93894d9e42a839
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Spectrum SportsNet Lakers FHD
+https://kong.pp.ua/iptv/live.php?channel=a98a5614c6a9b5f24d21d2ee0b0f27db&expiry=1750912203&token=848a0f6f3d06e0c71ebb7187795b3e7a
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Spectrum SportsNet Lakers FHD
+https://kong.pp.ua/iptv/live.php?channel=1edca2e074266a068a4599a9610451d8&expiry=1750912203&token=446c01c20393c8a8b633d9095a049241
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Altitude Sports HD
+https://kong.pp.ua/iptv/live.php?channel=d704eaad4b4188373cdc7c37288ebb61&expiry=1750912203&token=1cb3781a7cea0229eec6b48660b268bb
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US CBS Sports Network HD
+https://kong.pp.ua/iptv/live.php?channel=196aa194d2bf2149e84005eea5d808b7&expiry=1750912203&token=ceca2047adf34ba10c9ba172504028be
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US ESPNU College Sports
+https://kong.pp.ua/iptv/live.php?channel=9c60348bb7c48fb8f33af3ac1168eb7d&expiry=1750912203&token=e6520c0080188a0e0f2ebb74928edcb0
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Fox Sports
+https://kong.pp.ua/iptv/live.php?channel=f5f8616e105c2de614fe703b3155179a&expiry=1750912203&token=571830767d6c6173a2a5f4e236acb3cf
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Fox Sports
+https://kong.pp.ua/iptv/live.php?channel=678dc13a40bc92a89aec29ac9449a3f9&expiry=1750912203&token=19e6fd6091dd1fa98fb521c9e4b42a58
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports North A
+https://kong.pp.ua/iptv/live.php?channel=84827e2abb983da746d91596e4827ea0&expiry=1750912203&token=6f09cf4fb28aaa63b45996bb6bf1b4b6
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports Carolinas
+https://kong.pp.ua/iptv/live.php?channel=8b0f08f7caa1891a369a2ca77e735cd3&expiry=1750912203&token=cc288be6b505b9829dd35eb6ec2dc7c2
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports South
+https://kong.pp.ua/iptv/live.php?channel=490c53dba7ef5d680328d6d399f30fb1&expiry=1750912203&token=8492dc751f5655a27b82a8364c28fb09
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports South
+https://kong.pp.ua/iptv/live.php?channel=f80c55751290655726f88ddd31987fdf&expiry=1750912203&token=6b932abdc335d561527632fc1f1536f1
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Marquee Sports Network HD
+https://kong.pp.ua/iptv/live.php?channel=cd7cc83b6a033661fb7370577d6f5538&expiry=1750912203&token=6578e2d3489447e2218dd56a62b54ae5
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Sportsnet New York SNY
+https://kong.pp.ua/iptv/live.php?channel=d7e46a22db988cba519d5fa29a106e38&expiry=1750912203&token=8a63f76b290eea1e1034928d87e369b3
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Sportsman Channel
+https://kong.pp.ua/iptv/live.php?channel=53faedc755edd2e38c6a9d653cf7f995&expiry=1750912203&token=ce01c8bf5f53a3cb7e81575d8b3f18b2
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",US Bally Sports Sun
+https://kong.pp.ua/iptv/live.php?channel=b225c7981819ae7c7e7f7bfba1e4b78e&expiry=1750912203&token=e063abc753e6e4bb69f7b744e7785a1a
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",CAR SPORTSMAX
+https://kong.pp.ua/iptv/live.php?channel=d649f9c2502fcdd32b85ac0671b9bbc0&expiry=1750912203&token=42e5f9cd9be4bd8912a6096d883b639b
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",Star TV Sports
+https://kong.pp.ua/iptv/live.php?channel=ccb54c4e87ba9dde14a3f744853eff55&expiry=1750912203&token=175ebfb8a4e8f972470cded95ef7ce96
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",Star TV Sports
+https://kong.pp.ua/iptv/live.php?channel=08533d571d7642677d6dca892d747a59&expiry=1750912203&token=6681197edd2ddadcc0f8c4bb4cad216e
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK SKY SPORTS ARENA FHD
+https://kong.pp.ua/iptv/live.php?channel=47a8b2d99763f7fa2f5b7ca8d9cfc12a&expiry=1750912203&token=8997597e9d9a704abd01dd1cf032b2da
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",UK SKY SPORTS MAIN EVENT HD
+https://kong.pp.ua/iptv/live.php?channel=05dcd932b4c4644818061dd2663832c7&expiry=1750912203&token=ec1a6952233fa9b374af17c6e27fd963
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",NSPORTS  HD
+https://kong.pp.ua/iptv/live.php?channel=8e6cad389ae41eb6a50f1374ad35bb63&expiry=1750912203&token=7921381f1137a20ea953e7655b42eed6
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",NSPORTS  HD
+https://kong.pp.ua/iptv/live.php?channel=77a224911cdaf6e9effae6267226bb40&expiry=1750912203&token=9a1be8e206ad09c653decccc3a28e188
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",PAY PER VIEW ESPORTES
+https://kong.pp.ua/iptv/live.php?channel=642a4a430010d987d550b15520292fa6&expiry=1750912203&token=89eb992f2c73212b57d7c3c88b723046
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",SPORTV
+https://kong.pp.ua/iptv/live.php?channel=2eb68d0255f16c9b792d489b9a1843c2&expiry=1750912203&token=74854ee1dcef0d6278eb05a0db1857bd
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",SPORTV  HDR
+https://kong.pp.ua/iptv/live.php?channel=204ddac9a235be06eb5fb81c25500602&expiry=1750912203&token=b7e41b0c344e9806a7cb87891c150dec
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",SPORTV  HDR
+https://kong.pp.ua/iptv/live.php?channel=6d098dc9cd5329bc56d2a27fc8ad9fe4&expiry=1750912203&token=2674088f41ac0ca71d9631bb6fdeb591
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",SPORTV
+https://kong.pp.ua/iptv/live.php?channel=fd8c033fec0a053d93e6f471ebf7307e&expiry=1750912203&token=8d99e37755a16c342f1181af90d09df9
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",SPORTV  HDR
+https://kong.pp.ua/iptv/live.php?channel=af02aa8daf0802722f983071b939dd22&expiry=1750912203&token=d585acf1d3f36344e5aaca5264f4d85f
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",SPORTV
+https://kong.pp.ua/iptv/live.php?channel=355330742543ad3aa64c48f16743819b&expiry=1750912203&token=66b212ccc272070ee8ea201a9ed2cfcd
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",PREMIERE SPORTS
+https://kong.pp.ua/iptv/live.php?channel=f1a9d34ef67edf5388c04f0dba30909d&expiry=1750912203&token=e1d3e8ecd819ec014601546040c7c936
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="World Sports",FOX SPORTS
+https://kong.pp.ua/iptv/live.php?channel=a40e5be2a0393e3629cb17b5cd8c2a42&expiry=1750912203&token=310d5c87ab44fe158e5839f3ca098989
 
 
 
@@ -4717,7 +4741,7 @@ https://ott.udptv.org/stream/astro/boo/master.m3u8?u=discord.gg/civ3&p=fb3f8f996
 #EXTINF:-1  tvg-name="Astro Showcase" tvg-id="SHOWCASE.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Showcase_%282024%29.png" group-title="Movies",Astro Showcase
 https://ott.udptv.org/stream/astro/showcasemovies/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Astro Cinemax" tvg-id="CINEMAX.HD.my" tvg-logo="https://i.imgur.com/YomkvVa.png" group-title="Movies",Astro Cinemax
-http://ott.udptv.net/stream/iptv/cinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+https://ott.udptv.org/stream/astro/astrocinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1  tvg-name="MN+" tvg-id="iptv/mn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/mn-plus-hd-in.png?raw=true" group-title="Movies",MN+
 https://ott.udptv.net/stream/iptv/mn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
@@ -4749,7 +4773,7 @@ https://ott.udptv.org/stream/udptvus/fx/master.m3u8?u=discord.gg/civ3&p=fb3f8f99
 #EXTINF:-1  tvg-name="FXM" tvg-id="sling/fxm" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movies",FXM
 https://ott.udptv.org/stream/udptvus/fxm/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="FXX" tvg-id="sling/fxx" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" group-title="Movies",FXX
-https://ott.udptv.org/stream/udptvus/fxx/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+https://ott.udptv.org/stream/udptvus/fxm/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="MGM+ Drive-In" tvg-id="sling/mgmdrivein" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" group-title="Movies",MGM+ Drive-In
 https://ott.udptv.org/stream/udptvus/mgmdrivein/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Paramount+ with Showtime" tvg-id="udptvus/paramountwithshowtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-plus-with-showtime-us.png?raw=true" group-title="Movies",Paramount+ with Showtime
@@ -4812,8 +4836,6 @@ https://ott.udptv.org/stream/udptvus/paramountnetwork/master.m3u8?u=discord.gg/c
 https://ott.udptv.org/stream/udptvus/knbc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="NECN" tvg-id="New.England.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/necn-us.png" group-title="Entertainment",NECN
 https://ott.udptv.com/stream/nbc/necn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1  tvg-name="Paramount Network" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="Entertainment",Paramount Network
-https://ott.udptv.org/stream/udptvus/paramountnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Syfy" tvg-id="sling/syfy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Entertainment",Syfy
 https://ott.udptv.org/stream/udptvus/syfy/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1  tvg-name="Syfy East" tvg-id="Syfy.-.Western.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-hz-us.png" group-title="Entertainment",Syfy East
