@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-07-08 15:09:00 GMT+7 "
+# (●) Last Update: 2025-07-14 15:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -1102,10 +1102,10 @@ https://ott.udptv.net/stream/iptv/ocnmovies/master.m3u8?u=discord.gg/civ4&p=b48a
 https://ott.udptv.net/stream/iptv/ocnmovies2/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1  tvg-name="BOO" tvg-id="BOO.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/boo-my.png" group-title="Movies",BOO
-https://ott.udptv.org/stream/astro/boo/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca9
+https://ott.udptv.org/stream/astro/boo/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1  tvg-name="Astro Showcase" tvg-id="SHOWCASE.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Showcase_%282024%29.png" group-title="Movies",Astro Showcase
-https://ott.udptv.org/stream/astro/showcasemovies/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930f
+https://ott.udptv.org/stream/astro/showcasemovies/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1  tvg-name="IQIYI" tvg-id="iQIYI.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/iqiyi-my.png" group-title="Movies",IQIYI
 https://ott.udptv.org/stream/astro/iqiyi/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
@@ -1401,11 +1401,12 @@ https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_158.png" group-title="Entertainment", tvN 🟢
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pluse/index.drm?id=73
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_158.png" group-title="Entertainment", tvN 🔵
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1446,13 +1447,15 @@ https://fta1-cdn-flr.visionplus.id/out/v1/1880fc1b32d3449196e80345f6cd5918/index
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="AnimaxAsia.id" tvg-name="Animax HD" tvg-logo="https://iili.io/Jmo2ycG.png" group-title="Entertainment", Animax 🟢
+https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pluse/index.drm?id=65
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="AnimaxAsia.id" tvg-name="Animax HD" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png" group-title="Entertainment", Animax 🔵
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1916,11 +1919,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="KBS Korea" tvg-name="KBS Korea" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1714465946_tvchannels_v1.jpg" group-title="TV Internasional", KBS Korea ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&userid=lite&chname=KBS_Korea
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="kbskorea" tvg-name="KBS KOREA" tvg-logo="https://i.imgur.com/KvCIAPP.png" group-title="TV Internasional", KBS Korea 🇵🇭
-http://143.44.136.110:6910/001/2/ch00000090990000001246/manifest.mpd?virtualDomain=001.live_hls.zte.com797c:8a7e801dbc275e3f4e1f43cba648906a
-
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 
@@ -2150,6 +2148,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 #EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Sports", NBA TV 🇵🇭
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
+
+#EXTINF:-1  tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="Sports",NBA TV 🇺🇸
+https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
