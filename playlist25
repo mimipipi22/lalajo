@@ -1428,6 +1428,22 @@ http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5053/default_ott
 #EXTINF: -1 tvg-id="Cinemax" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png"  group-title="HBO Group", Cinemax 🇲🇾
 http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/603/default_ott.mpd
 
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="HBO Group",HBO Plus
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+#EXTINF:-1 tvg-id="HBO Extream" tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="HBO Group",HBO Xtreme
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
+
 
 //========================================================================
 🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> Entertainment
@@ -5491,7 +5507,7 @@ http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/1008/default_ott
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="CNA" ch-number=" " tvg-name="CNA HD" group-title=Astro GO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",515 CNA HD
+#EXTINF:-1 tvg-id="CNA" ch-number=" " tvg-name="CNA HD" group-title="Astro GO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",515 CNA HD
 http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/605/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5513,7 +5529,7 @@ http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/900/default_ott.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eaBEsw1k9cN+bUXVA8uygA","kid":"2xNDVFriXd7PjfpEIvNUEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="BloombergTV" group-title=Astro GO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" ch-number="517",517 Bloomberg
+#EXTINF:-1 tvg-id="BloombergTV" group-title="Astro GO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" ch-number="517",517 Bloomberg
 http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5020/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CGTN" ch-number="503" group-title="Astro GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",503 CGTN 
