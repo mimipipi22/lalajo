@@ -116,12 +116,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://fta-idn.streamo.cfd/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/moji.jpg?raw=true" group-title="INDONESIA TV",MOJI LIVE SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#http://103.179.182.117:6768/hls/50/50.m3u8
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://iptvtree.net:8080/live/F28312/cc1dc138/298550.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
@@ -544,10 +543,10 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
 
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/flik.jpg?raw=true" group-title="MOVIES",FLIK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
 http://iptvtree.net:8080/live/F28312/cc1dc138/165095.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -980,6 +979,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
+https://tvpass.org/live/NBATV/hd
 http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/nba.m3u8
 http://filex.tv:8080//live/Home329/Sohailhome/501267.ts
@@ -2027,6 +2027,15 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="SONY MOVIES.mx" tvg-logo="https://i.ibb.co.com/Z2hPxjQ/sonymvs.png" group-title="MOVIES", SONY MOVIES
 https://live-atv-cdn.izzigo.tv/4/out/u/dash/SONY-MOVIES-HD/default.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="MOVIES",1. eTvBioskop1
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/etvbioskop1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="MOVIES",2. eTvBioskop2
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/etvbioskop2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="MOVIES",3. eTvBioskop3
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/etvbioskop3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="MOVIES",4. eTvBioskop4
+https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/etvbioskop4.m3u8
+
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [PREMIUM MOVIES] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -2097,6 +2106,11 @@ http://mains.services/live/bshorty/Zv5le07a0J/9d6ea7da-bb7d-4002-93ff-e25e9f5ca2
 http://mains.services/live/bshorty/Zv5le07a0J/14da95d4-6d96-40a1-a203-41eed7cb3116.ts
 #EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="US : PARAMOUNT NETWORK WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="ENTERTAINMENT",US : PARAMOUNT NETWORK
 http://mains.services/live/bshorty/Zv5le07a0J/ce02cbf4-ef93-47e0-b6a0-9b72a071535c.ts
+
+#EXTINF:-1  tvg-name="Syfy Eastern Feed HD" tvg-id="syfy-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-hz-us.png?raw=true" group-title="ENTERTAINMENT",Syfy Eastern Feed HD
+https://tvpass.org/live/SyfyEast/hd
+#EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="ENTERTAINMENT",Starz Eastern HD
+https://tvpass.org/live/StarzEast/hd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
@@ -2297,11 +2311,13 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/
 
 #EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="SPORTS",TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://tvpass.org/live/tsn4/sd
 https://fl7.moveonjoy.com/TSN_4/tracks-v1a1/mono.m3u8
 http://mains.services/live/bshorty/Zv5le07a0J/64074fc6-43e9-4e52-92b9-838b2f21a22c.ts
 
 #EXTINF:-1 tvg-id="TSN 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytpty1433380112.png/tiny" group-title="SPORTS",TSN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://tvpass.org/live/tsn5/hd
 https://fl7.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
 http://mains.services/live/bshorty/Zv5le07a0J/255a5c0b-98b8-48d3-96ac-2aa93ee480a5.ts
 
@@ -2769,19 +2785,24 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="==========KNOWLEDGE==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/2471/2471120.png" group-title="KNOWLEDGE",==========KNOWLEDGE==========
 https://fl3.moveonjoy.com/KNOWLEDGE/index.m3u8
 
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="NAT GEO" tvg-logo="https://8upload.com/image/67e2299a90dc2/natgeohilay.png" group-title="KNOWLEDGE",NAT GEO
+#EXTINF:-1  tvg-name="National Geographic US Eastern HD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="KNOWLEDGE",NAT GEO
+https://tvpass.org/live/NationalGeographicEast/hd
 https://maldivesn.net/hilaytv/natgeo
 
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="NAT GEO WILD" tvg-logo="https://8upload.com/image/67e2299a85a1c/wildhilay.png" group-title="KNOWLEDGE",NAT GEO WILD
+#EXTINF:-1  tvg-name="National Geographic Wild HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="KNOWLEDGE",NAT GEO WILD
+https://tvpass.org/live/NationalGeographicWildEast/hd
 https://maldivesn.net/hilaytv/natgeowild
 
-#EXTINF:-1 tvg-id="discoveryscience.mv" tvg-name="Discovery Science" tvg-logo="https://8upload.com/image/67e1e5552a517/discoverysciencehilay.png" group-title="KNOWLEDGE",DISCOVERY SCIENCE
+#EXTINF:-1  tvg-name="Science HD" tvg-id="science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="KNOWLEDGE",DISCOVERY SCIENCE
+https://tvpass.org/live/Science/hd
 https://maldivesn.net/hilaytv/discoveryscience
 
-#EXTINF:-1 tvg-id="investigationdiscovery.mv" tvg-name="Investigation Discovery" tvg-logo="https://8upload.com/image/67e1e9be79e3f/discoveryidhilay.png" group-title="KNOWLEDGE",INVESTIGATION DISCOVERY
+#EXTINF:-1  tvg-name="Investigation Discovery USA Eastern HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="KNOWLEDGE",INVESTIGATION DISCOVERY
+https://tvpass.org/live/InvestigationDiscoveryEast/hd
 https://maldivesn.net/hilaytv/investigationdiscovery
 
-#EXTINF:-1 tvg-id="discoverylife.mv" tvg-name="Discovery Life" tvg-logo="https://8upload.com/image/67e1fe350fd28/discoverylifehilay.png" group-title="KNOWLEDGE",DISCOVERY LIFE
+#EXTINF:-1 tvg-name="Discovery Life Channel HD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="KNOWLEDGE",DISCOVERY LIFE
+https://tvpass.org/live/DiscoveryLife/hd
 https://maldivesn.net/hilaytv/discoverylife
 
 
@@ -2835,6 +2856,7 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 https://maldivesn.net/hilaytv/disneyjr
 
 #EXTINF:-1 tvg-id="DisneyXD.mv" tvg-name="Disney XD" tvg-logo="https://8upload.com/image/681f402bdee16/disneyxdhilay.png" group-title="KIDS",DISNEY XD
+https://tvpass.org/live/DisneyXDEast/hd
 https://maldivesn.net/hilaytv/disneyxd
 
 #EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://8upload.com/image/681f402bc8357/nicktoonshilay.png" group-title="KIDS",NICKTOONS
@@ -2873,6 +2895,18 @@ https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="66866fc995e91900088768a5" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/66866fc995e91900088768a5/colorLogoPNG.png" group-title="MUSIC",MTV Biggest Pop
 https://jmp2.uk/plu-66866fc995e91900088768a5.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/571px-M6_logo.svg.png" group-title="MUSIC",M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/That%27s_Oldies.png/revision/latest?cb=20250207172934" group-title="MUSIC",That's Oldies
+http://193.237.220.135:55555/That's%20Dance
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBR8mCHv/That-s-Melody.png" group-title="MUSIC",That's Melody
+http://193.237.220.135:55555/That's%20Melody
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/That%27s_Rock_2025.svg/revision/latest?cb=20250820172319" group-title="MUSIC",That's Rock
+http://193.237.220.135:55555/That's%20Summer
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnxpHKJF/Clubland-2022-OSB.png" group-title="MUSIC",Clubland TV
+http://193.237.220.135:55555/Clubland%20TV
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="MUSIC", XITE 80s Flashback
 https://jmp2.uk/stvp-USBB320000647
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="MUSIC", XITE 90s Throwback
@@ -2903,9 +2937,6 @@ https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" group-title="MUSIC", Vevo Rock
 https://jmp2.uk/stvp-USBD3000145P
 https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/571px-M6_logo.svg.png" group-title="MUSIC",M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" ,Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
