@@ -979,7 +979,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://tvpass.org/live/NBATV/hd
 http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/nba.m3u8
 http://filex.tv:8080//live/Home329/Sohailhome/501267.ts
@@ -1327,7 +1326,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="WION.in" tvg-name="WION" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/wion.jpg?raw=true" group-title="NEWS",WION
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/wion.m3u8
+#https://raw.githubusercontent.com/mimipipi22/source/main/news/wion.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&userid=lite&chname=WION
 
 #EXTINF:-1 tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://github.com/mimipipi22/logo/blob/main/news/cnbcasia.jpg?raw=true" group-title="NEWS",CNBC ASIA
@@ -2108,9 +2107,9 @@ http://mains.services/live/bshorty/Zv5le07a0J/14da95d4-6d96-40a1-a203-41eed7cb31
 http://mains.services/live/bshorty/Zv5le07a0J/ce02cbf4-ef93-47e0-b6a0-9b72a071535c.ts
 
 #EXTINF:-1  tvg-name="Syfy Eastern Feed HD" tvg-id="syfy-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-hz-us.png?raw=true" group-title="ENTERTAINMENT",Syfy Eastern Feed HD
-https://tvpass.org/live/SyfyEast/hd
+#https://tvpass.org/live/SyfyEast/hd
 #EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="ENTERTAINMENT",Starz Eastern HD
-https://tvpass.org/live/StarzEast/hd
+#https://tvpass.org/live/StarzEast/hd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
@@ -2311,7 +2310,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/
 
 #EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="SPORTS",TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://tvpass.org/live/tsn4/sd
 https://fl7.moveonjoy.com/TSN_4/tracks-v1a1/mono.m3u8
 http://mains.services/live/bshorty/Zv5le07a0J/64074fc6-43e9-4e52-92b9-838b2f21a22c.ts
 
@@ -2786,23 +2784,18 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://fl3.moveonjoy.com/KNOWLEDGE/index.m3u8
 
 #EXTINF:-1  tvg-name="National Geographic US Eastern HD" tvg-id="national-geographic-us-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" group-title="KNOWLEDGE",NAT GEO
-https://tvpass.org/live/NationalGeographicEast/hd
 https://maldivesn.net/hilaytv/natgeo
 
 #EXTINF:-1  tvg-name="National Geographic Wild HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="KNOWLEDGE",NAT GEO WILD
-https://tvpass.org/live/NationalGeographicWildEast/hd
 https://maldivesn.net/hilaytv/natgeowild
 
 #EXTINF:-1  tvg-name="Science HD" tvg-id="science" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="KNOWLEDGE",DISCOVERY SCIENCE
-https://tvpass.org/live/Science/hd
 https://maldivesn.net/hilaytv/discoveryscience
 
 #EXTINF:-1  tvg-name="Investigation Discovery USA Eastern HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="KNOWLEDGE",INVESTIGATION DISCOVERY
-https://tvpass.org/live/InvestigationDiscoveryEast/hd
 https://maldivesn.net/hilaytv/investigationdiscovery
 
 #EXTINF:-1 tvg-name="Discovery Life Channel HD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="KNOWLEDGE",DISCOVERY LIFE
-https://tvpass.org/live/DiscoveryLife/hd
 https://maldivesn.net/hilaytv/discoverylife
 
 
@@ -2856,7 +2849,6 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 https://maldivesn.net/hilaytv/disneyjr
 
 #EXTINF:-1 tvg-id="DisneyXD.mv" tvg-name="Disney XD" tvg-logo="https://8upload.com/image/681f402bdee16/disneyxdhilay.png" group-title="KIDS",DISNEY XD
-https://tvpass.org/live/DisneyXDEast/hd
 https://maldivesn.net/hilaytv/disneyxd
 
 #EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://8upload.com/image/681f402bc8357/nicktoonshilay.png" group-title="KIDS",NICKTOONS
