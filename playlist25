@@ -2972,8 +2972,7 @@ https://gooo.blog/opix/genx.m3u8?id=vchina&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1
 
 #EXTINF:-1 tvg-id="Kplus.mv" tvg-name="KPOP+" tvg-logo="https://8upload.com/image/68553fc819866/kpopplushilay.png" group-title="MUSIC",KPOP+
 https://maldivesn.net/hilaytv/kpopplus
-#EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co/nP7scdQ/mnet-old.png" group-title="MUSIC",M.net
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="MUSIC", K-POP by CJ ENM
 https://jmp2.uk/stvp-US39000038W
 
@@ -2992,17 +2991,104 @@ https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="66866fc995e91900088768a5" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/66866fc995e91900088768a5/colorLogoPNG.png" group-title="MUSIC",MTV Biggest Pop
 https://jmp2.uk/plu-66866fc995e91900088768a5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/571px-M6_logo.svg.png" group-title="MUSIC",M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/premium.jpg" group-title="MUSIC",PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/That%27s_Oldies.png/revision/latest?cb=20250207172934" group-title="MUSIC",That's Oldies
-http://193.237.220.135:55555/That's%20Dance
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBR8mCHv/That-s-Melody.png" group-title="MUSIC",That's Melody
-http://193.237.220.135:55555/That's%20Melody
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/That%27s_Rock_2025.svg/revision/latest?cb=20250820172319" group-title="MUSIC",That's Rock
-http://193.237.220.135:55555/That's%20Summer
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NnxpHKJF/Clubland-2022-OSB.png" group-title="MUSIC",Clubland TV
-http://193.237.220.135:55555/Clubland%20TV
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/360tunebox.jpg" group-title="MUSIC",360 TUNEBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/mtvhits.jpg" group-title="MUSIC",MTV HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/hisi_mtv_hits/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/mtv90.jpg" group-title="MUSIC",MTV '90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_mtv_90/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/clubmtv.jpg" group-title="MUSIC",CLUB MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/mtv00.jpg" group-title="MUSIC",MTV '00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_mtv_00/playlist_cbcs.mpd
+'
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/mtv80.jpg" group-title="MUSIC",MTV '80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/ocko.jpg" group-title="MUSIC",OCKO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_ocko/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/ockoblack.jpg" group-title="MUSIC",OCKO BLACK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_ocko_black/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/ockoexpress.jpg" group-title="MUSIC",OCKO EXPRES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_ocko_expres/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/ockostar.jpg" group-title="MUSIC",OCKO STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/retromusic.jpg" group-title="MUSIC",RETRO MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/rebel.jpg" group-title="MUSIC",REBEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_rebel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/stingrayinconcerts.jpg" group-title="MUSIC",STINGRAY ICONCERTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="MUSIC", XITE 80s Flashback
 https://jmp2.uk/stvp-USBB320000647
@@ -3082,30 +3168,6 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 group-title="MUSIC" tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" ,Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="JEKA.rs" group-title="MUSIC",J.E.K.A. Muzzik (720p)
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-id="MUZZIK.rs" group-title="MUSIC",MUZZIK (720p)
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-id="ELECTRO.rs" group-title="MUSIC",Muzzik ELECTRO (720p)
-https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-#EXTINF:-1 tvg-id="FLASHBACK.rs" group-title="MUSIC",Muzzik FLASHBACK (720p)
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-id="MOBA.rs" group-title="MUSIC",Muzzik MOBA (720p)
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-id="POPSTAR.rs" group-title="MUSIC",Muzzik POP STAR (720p)
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-id="RockRoll.rs" group-title="MUSIC",Muzzik Rock&Roll (720p)
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-id="SENSE.rs" group-title="MUSIC",Muzzik SENSE (720p)
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 tvg-id="TIKTAK.rs" group-title="MUSIC",Muzzik TIKTAK (720p)
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-id="ZZTV.rs" group-title="MUSIC",Muzzik ZZ TV (720p)
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-id="SenatoTV.it" group-title="MUSIC",Senato TV (1080p)
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:-1 tvg-id="WORLDWIDEMUZZIK.rs" group-title="MUSIC",Worldwide Muzzik (720p)
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [RELIGION] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
