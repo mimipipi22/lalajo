@@ -91,7 +91,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://mimipipi22.github.io/logo/offline.m3u8
+#https://mimipipi22.github.io/logo/offline.m3u8
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
@@ -118,12 +119,13 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://fta-idn.streamo.cfd/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="INDONESIA TV",MOJI LIVE SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="INDONESIA TV",MOJI DIGITAL
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
-https://mimipipi22.github.io/logo/offline.m3u8
+#https://mimipipi22.github.io/logo/offline.m3u8
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
@@ -692,13 +694,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Chinese Drama" tvg-name="Chinese Drama" tvg-logo="https://mimipipi22.github.io/logo/entertainment/chinesedrama.jpg" group-title="ENTERTAINMENT",CHINESE DRAMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#http://103.179.182.117:6768/hls/92/92.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
@@ -717,7 +716,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnt
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Drama World" tvg-name="Drama World" tvg-logo="https://mimipipi22.github.io/logo/entertainment/dramaworld.jpg" group-title="ENTERTAINMENT",DRAMA WORLD
-https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
+https://mimipipi22.github.io/logo/offline.m3u8
+#https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
