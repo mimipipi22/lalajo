@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-10-21 11:09:00 GMT+7 "
+# (●) Last Update: 2025-10-23 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -402,6 +402,37 @@ http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbofamily/pla
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Cinemax/playlist.m3u8
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbo/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="MOVIES",HBO HITS
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="MOVIES",HBO SIGNATURE
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
@@ -1075,7 +1106,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/nbatv/playlist.m3u8
-http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/nba.m3u8
 http://filex.tv:8080//live/Home329/Sohailhome/501267.ts
 
@@ -2099,7 +2129,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/bbclifestyle.jpg" group-title="LIFESTYLE",BBC LIFESTYLE
 #https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/bbclifestyle_twn/playlist.m3u8
-http://mains.services/live/bshorty/Zv5le07a0J/2b0520b0-113a-4e8d-a3b8-d8e7b8ac8f9a.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
@@ -2381,46 +2410,73 @@ https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3140
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [PREMIUM MOVIES] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="GB : SKY CINEMA 5*" tvg-logo="http://145.239.7.84/logos/SC5star.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA 5*
-http://mains.services/live/bshorty/Zv5le07a0J/e2d27348-6402-4da0-841f-44ac41f5d748.ts
-#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="GB : SKY CINEMA ACTION" tvg-logo="http://145.239.7.84/logos/SCAction.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA ACTION
-http://mains.services/live/bshorty/Zv5le07a0J/9f764494-a742-45e1-a857-af6515cd098f.ts
-#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="GB : SKY CINEMA ANIMATION" tvg-logo="http://145.239.7.84/logos/SCAnimation.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA ANIMATION
-http://mains.services/live/bshorty/Zv5le07a0J/be8ae3e0-236e-4e31-9e1a-21faa92ad120.ts
-#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="GB : SKY CINEMA COMEDY" tvg-logo="http://145.239.7.84/logos/SCComedy.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA COMEDY
-http://mains.services/live/bshorty/Zv5le07a0J/818d9064-5aed-4847-9630-bb0cdf6677f0.ts
-#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="GB : SKY CINEMA DRAMA" tvg-logo="http://145.239.7.84/logos/SCDrama.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA DRAMA
-http://mains.services/live/bshorty/Zv5le07a0J/aee69300-87dc-4ecb-990e-a0b48bc37f24.ts
-#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="GB : SKY CINEMA FAMILY" tvg-logo="http://145.239.7.84/logos/SCFamily.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA FAMILY
-http://mains.services/live/bshorty/Zv5le07a0J/55755742-d541-45c1-ae7d-793dc1b71a69.ts
-#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="GB : SKY CINEMA GREATS" tvg-logo="http://145.239.7.84/logos/SCGreats.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA GREATS
-http://mains.services/live/bshorty/Zv5le07a0J/23d28a3d-1b05-43d4-b4ef-9414c6d7335e.ts
-#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="GB : SKY CINEMA HITS" tvg-logo="http://145.239.7.84/logos/SCHits.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA HITS
-http://mains.services/live/bshorty/Zv5le07a0J/50325fb3-2b41-44f1-903f-9baf15cad14d.ts
-#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="GB : SKY CINEMA PREMIERE" tvg-logo="http://145.239.7.84/logos/SCPremiere.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA PREMIERE
-http://mains.services/live/bshorty/Zv5le07a0J/7c001dcd-9496-431f-825c-f994e1e45ae6.ts
-#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-name="GB : SKY CINEMA SCI-FI" tvg-logo="http://145.239.7.84/logos/SCScifi.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA SCI-FI
-http://mains.services/live/bshorty/Zv5le07a0J/8531cfd2-8b1a-4e24-bb6d-9b1200e52d78.ts
-#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="GB : SKY CINEMA THRILLER" tvg-logo="http://145.239.7.84/logos/SCThriller.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA THRILLER
-http://mains.services/live/bshorty/Zv5le07a0J/efbb9e32-4b62-4a6f-b72e-4d8241a7d4db.ts
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="SKY CINEMA ACTION" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/SkyCinemaAction.uk.png" group-title="PREMIUM MOVIES",SKY CINEMA ACTION
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/10770
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/SkyCinemaComedy.uk.png" group-title="PREMIUM MOVIES",SKY CINEMA COMEDY
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/10771
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/SkyCinemaDrama.uk.png" group-title="PREMIUM MOVIES",SKY CINEMA DRAMA
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/10772
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="SKY CINEMA GREATS" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/SkyCinemaGreats.uk.png" group-title="PREMIUM MOVIES",SKY CINEMA GREATS
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/10774
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="SKY CINEMA HITS" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/SkyCinemaHits.uk.png" group-title="PREMIUM MOVIES",SKY CINEMA HITS
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/10775
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="SKY CINEMA THRILLER" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/SkyCinemaThriller.uk.png" group-title="PREMIUM MOVIES",SKY CINEMA THRILLER
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/10779
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/SkyCinemaFamily.uk.png" group-title="PREMIUM MOVIES",SKY CINEMA FAMILY
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/10773
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="SKY CINEMA PREMIERE" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/SkyCinemaPremiere.uk.png" group-title="PREMIUM MOVIES",SKY CINEMA PREMIERE
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/10776
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-name="SKY CINEMA SCI & HORROR" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/SkyCinemaSci-fiAndHorror.uk.png" group-title="PREMIUM MOVIES",SKY CINEMA SCI & HORROR
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/10777
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="SKY CINEMA SELECT" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/SkyCinemaSelect.uk.png" group-title="PREMIUM MOVIES",SKY CINEMA SELECT
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/10778
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="SKY CINEMA ANIMATION" tvg-logo="https://logo.iptveditor.com/skycinemaanimation.png" group-title="PREMIUM MOVIES",SKY CINEMA ANIMATION
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/14903
+#EXTINF:-1 tvg-id="GREAT!movies.uk" tvg-name="SKY CINEMA CHRISTMAS" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/GREAT!movies.uk.png" group-title="PREMIUM MOVIES",SKY CINEMA CHRISTMAS
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/15962
 
-
-#EXTINF:-1 tvg-id="CinemaxAction.us" tvg-name="PM : US CINEMAX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/500px-Cinemax_Action_Logo.png" group-title="PREMIUM MOVIES",PM : US CINEMAX ACTION
-http://mains.services/live/bshorty/Zv5le07a0J/30c09aca-c243-4a20-8807-08f2a395c75d.ts
-#EXTINF:-1 tvg-id="CinemaxActionPacific.us" tvg-name="PM : US CINEMAX ACTION WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/500px-Cinemax_Action_Logo.png" group-title="PREMIUM MOVIES",PM : US CINEMAX ACTION WEST
-http://mains.services/live/bshorty/Zv5le07a0J/7e9bf33e-2ae3-467c-9ab0-f0958ad0b4b4.ts
-#EXTINF:-1 tvg-id="CinemaxHitsPacific.us" tvg-name="PM : US CINEMAX HITS WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/500px-Cinemax_Hits_Logo.png" group-title="PREMIUM MOVIES",PM : US CINEMAX HITS WEST
-http://mains.services/live/bshorty/Zv5le07a0J/a1cbdf12-8d45-4abb-9a7a-0982819ddc02.ts
-#EXTINF:-1 tvg-id="CineMAXPacific.us" tvg-name="PM : US CINEMAX WEST" tvg-logo="http://icons.tw:8080/images/7921550ec34f00be0860d47b42b21c04.png" group-title="PREMIUM MOVIES",PM : US CINEMAX WEST
-http://mains.services/live/bshorty/Zv5le07a0J/bde85358-f548-42e3-9b91-24ebbd232149.ts
-#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="US : CINEMAX" tvg-logo="http://onlytimewilltell.xyz:2086/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="PREMIUM MOVIES",US : CINEMAX
-http://mains.services/live/bshorty/Zv5le07a0J/bbaca83b-132f-431e-bffd-1de99b156156.ts
-#EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="US : CINEMAX HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/500px-Cinemax_Hits_Logo.png" group-title="PREMIUM MOVIES",US : CINEMAX HITS
-http://mains.services/live/bshorty/Zv5le07a0J/8d7be64e-5196-4865-878d-67d79325c3b2.ts
-#EXTINF:-1 tvg-id="MovieMax.us" tvg-name="US : CINEMAX MOVIEMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59963_h15_ab.png" group-title="PREMIUM MOVIES",US : CINEMAX MOVIEMAX
-http://mains.services/live/bshorty/Zv5le07a0J/c1f192fb-e16c-4139-88f3-ad8f21d4ce66.ts
-#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="US : ACTIONMAX" tvg-logo="http://onlytimewilltell.xyz:2086/images/9f9c63332b19dfa33deeaf6d4a7464c2.png" group-title="PREMIUM MOVIES",US : ACTIONMAX
-http://mains.services/live/bshorty/Zv5le07a0J/2e4655de-b701-4fb0-9bf4-054d2001b0f5.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tringactiontok" tvg-name="Tring Action HD" tvg-logo="http://89.163.145.153:25461/images/7bb4c1c8719893740ad7cb8e183a3ab9.png" group-title="PREMIUM MOVIES",Tring Action HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/238
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tringsupertok" tvg-name="Tring Super HD" tvg-logo="http://89.163.145.153:25461/images/7e8375ccd51d3d8836545bbf41d83e3d.png" group-title="PREMIUM MOVIES",Tring Super HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/239
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tringlifetok" tvg-name="Tring Life HD" tvg-logo="http://89.163.145.153:25461/images/5cae74d43a7b353835514f0ae5280565.png" group-title="PREMIUM MOVIES",Tring Life HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/240
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tringcomedytok" tvg-name="Tring Comedy HD" tvg-logo="http://89.163.145.153:25461/images/417bba1fdd6ac27233db8eb973f8c679.png" group-title="PREMIUM MOVIES",Tring Comedy HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/241
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tringfantasytok" tvg-name="Tring Fantasy HD" tvg-logo="http://89.163.145.153:25461/images/f97ee3f23093afa23192e75063a45b2f.png" group-title="PREMIUM MOVIES",Tring Fantasy HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/242
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tringshqiptok" tvg-name="Tring Shqip HD" tvg-logo="http://89.163.145.153:25461/images/b9d7bef32260d7fef03846813ba2b763.png" group-title="PREMIUM MOVIES",Tring Shqip HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/243
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tringcollectiontok" tvg-name="Tring Collection HD" tvg-logo="http://89.163.145.153:25461/images/47f06d60dbc8719aa772f3f60e9497be.png" group-title="PREMIUM MOVIES",Tring Collection HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/244
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tringclassictok" tvg-name="Tring Classic HD" tvg-logo="http://89.163.145.153:25461/images/831922a9bc4225f9911a6342e44f0dd3.png" group-title="PREMIUM MOVIES",Tring Classic HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/245
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tringfamilytok" tvg-name="Tring Family HD" tvg-logo="http://89.163.145.153:25461/images/60939492c23bf78c36e60c55a0dffc5d.png" group-title="PREMIUM MOVIES",Tring Family HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/246
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Tring.Originals.al" tvg-name="Tring Original HD" tvg-logo="http://89.163.145.153:25461/images/644641b189ae554016f5f690b8e44ba0.png" group-title="PREMIUM MOVIES",Tring Original HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/247
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tringnovelastok" tvg-name="Tring Novelas HD" tvg-logo="http://89.163.145.153:25461/images/86f8eef9b29f54a5c182d52cbf3fabf0.png" group-title="PREMIUM MOVIES",Tring Novelas HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/248
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Star.al" tvg-name="Star Channel HD" tvg-logo="http://89.163.145.153:25461/images/8ff953dd97c4405234a04291dee39e0b.png" group-title="PREMIUM MOVIES",Star Channel HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/249
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Star.Life.al" tvg-name="Star Life HD" tvg-logo="http://89.163.145.153:25461/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="PREMIUM MOVIES",Star Life HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/250
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Star.Movies.al" tvg-name="Star Movies HD" tvg-logo="http://89.163.145.153:25461/images/54ce9f74c29a537363425be22e3fdaf1.png" group-title="PREMIUM MOVIES",Star Movies HD 🇦🇱
+http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/251
 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [ENTERTAINMENT] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -2429,20 +2485,19 @@ http://mains.services/live/bshorty/Zv5le07a0J/2e4655de-b701-4fb0-9bf4-054d2001b0
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="US : A&E WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="ENTERTAINMENT",US : A&E
-http://mains.services/live/bshorty/Zv5le07a0J/5908b8f8-01a7-47d0-97a2-ae543aa39972.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/257033
 #EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="US : BBC AMERICA WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/40fd83186c01e9ecf6b94cc0de4a0a21.png" group-title="ENTERTAINMENT",US : BBC AMERICA
-http://mains.services/live/bshorty/Zv5le07a0J/d78ae30f-99db-4a0f-b9f5-392b91711cab.ts
+http://hardcoremedia.xyz:80/live/fadkjokz/4950078150/129831.ts
 #EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="US : E! ENTERTAINMENT TELEVISION WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/a6ff6e3f241258033c6559e023e0cb50.png" group-title="ENTERTAINMENT",US : E! ENTERTAINMENT TV
-http://mains.services/live/bshorty/Zv5le07a0J/9d6ea7da-bb7d-4002-93ff-e25e9f5ca2c7.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/257099
 #EXTINF:-1 tvg-id="FXPacific.us" tvg-name="US : FX WEST" tvg-logo="http://onlytimewilltell.xyz:2086/images/bdf4721cef747b0d12ae91dc50e6ea37.png" group-title="ENTERTAINMENT",US : FX
-http://mains.services/live/bshorty/Zv5le07a0J/14da95d4-6d96-40a1-a203-41eed7cb3116.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/257125
 #EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="US : PARAMOUNT NETWORK WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="ENTERTAINMENT",US : PARAMOUNT NETWORK
-http://mains.services/live/bshorty/Zv5le07a0J/ce02cbf4-ef93-47e0-b6a0-9b72a071535c.ts
-
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/257226
 #EXTINF:-1  tvg-name="Syfy Eastern Feed HD" tvg-id="syfy-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-hz-us.png?raw=true" group-title="ENTERTAINMENT",Syfy Eastern Feed HD
-http://mains.services/live/bshorty/Zv5le07a0J/c7764b19-4714-4e04-9041-62b32752db00.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/257290
 #EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="ENTERTAINMENT",Starz Eastern HD
-http://mains.services/live/bshorty/Zv5le07a0J/b5771b63-1b3c-42ce-886a-a65ea33c16bd.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/257281
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/asteca7.png" group-title="ENTERTAINMENT", AZTECA 7 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko)
@@ -2996,105 +3051,28 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [WORLD SPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="NSW-SydneyFOXCRICKET.au" tvg-name="SPORTS : AU FOX SPORTS 501" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 501
-http://mains.services/live/bshorty/Zv5le07a0J/dc3f0a93-4694-4cd8-9ac0-fa8ffaac817a.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245137
 #EXTINF:-1 tvg-id="NSW-SydneyFOXLEAGUE.au" tvg-name="SPORTS : AU FOX SPORTS 502" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 502
-http://mains.services/live/bshorty/Zv5le07a0J/87aef18b-b06f-4d77-8900-af6cc0cbfe70.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245138
 #EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS503.au" tvg-name="SPORTS : AU FOX SPORTS 503" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 503
-http://mains.services/live/bshorty/Zv5le07a0J/bc007996-8f63-45c6-85ef-7e637452cb2a.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245139
 #EXTINF:-1 tvg-id="NSW-SydneyFoxFooty.au" tvg-name="SPORTS : AU FOX SPORTS 504" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 504
-http://mains.services/live/bshorty/Zv5le07a0J/eec753b1-b704-49f8-8900-06218ae4c4be.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245140
 #EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS505.au" tvg-name="SPORTS : AU FOX SPORTS 505" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 505
-http://mains.services/live/bshorty/Zv5le07a0J/c3d20372-c1d0-446b-9c1c-8182f20f6b16.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245141
 #EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTS506.au" tvg-name="SPORTS : AU FOX SPORTS 506" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 506
-http://mains.services/live/bshorty/Zv5le07a0J/47f28df9-64a7-4494-879a-a72c22354118.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245142
 #EXTINF:-1 tvg-id="NSW-SydneyFOXSPORTSMORE.au" tvg-name="SPORTS : AU FOX SPORTS 507" tvg-logo="http://onlytimewilltell.xyz:2086/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="WORLD SPORTS",SPORTS : AU FOX SPORTS 507
-http://mains.services/live/bshorty/Zv5le07a0J/c53af5c5-4bcd-4d05-8690-aa7b0009ea52.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 01" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 01
-http://mains.services/live/bshorty/Zv5le07a0J/3a3f7ae8-8967-4580-b030-4a66fea7167b.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 02" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 02
-http://mains.services/live/bshorty/Zv5le07a0J/6048d24e-681a-41ce-b7f6-0ed78c7d5f55.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 03" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 03
-http://mains.services/live/bshorty/Zv5le07a0J/6439eff4-b6a6-4d9b-abd0-9b4ea844439b.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 04" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 04
-http://mains.services/live/bshorty/Zv5le07a0J/03e6b7c2-32ff-4d7d-90a1-798a35905074.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 05" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 05
-http://mains.services/live/bshorty/Zv5le07a0J/f625580c-d706-491f-907b-2baad2c4117e.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 06" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 06
-http://mains.services/live/bshorty/Zv5le07a0J/9f04c0ed-39d9-446a-bc2a-c24d953adcab.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 07" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 07
-http://mains.services/live/bshorty/Zv5le07a0J/3e68d3de-5e71-41e0-9781-0cf763002a8c.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 08" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 08
-http://mains.services/live/bshorty/Zv5le07a0J/7e851290-f8c3-4259-8ace-e45b71ed26ab.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT 09" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT 09
-http://mains.services/live/bshorty/Zv5le07a0J/45531087-726e-49cc-a815-9ccbdd8cb59d.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : NZ SKY SPORT SELECT" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="WORLD SPORTS",SPORTS : NZ SKY SPORT SELECT
-http://mains.services/live/bshorty/Zv5le07a0J/703b63c9-b5fd-446e-a221-5f87f5ab48ec.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/245143
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="WORLD SPORTS",GB : TNT SPORTS 01
-http://mains.services/live/bshorty/Zv5le07a0J/6c5b4010-afa9-4e64-921b-263217b936da.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="WORLD SPORTS",GB : TNT SPORTS 02
-http://mains.services/live/bshorty/Zv5le07a0J/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="GB : TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="WORLD SPORTS",GB : TNT SPORTS 03
-http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258605
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="GB : TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="WORLD SPORTS",GB : TNT SPORTS 04
-http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.ts
-#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="GB : TNT SPORTS 05" tvg-logo="http://145.239.7.84/logos/TNTSports5_Logo_White_RGB_Logo.png" group-title="WORLD SPORTS",GB : TNT SPORTS 05
-http://mains.services/live/bshorty/Zv5le07a0J/92614ec7-2113-4151-bc29-3a23ade80cc7.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="WORLD SPORTS",SPORTS : ASTRO SUPERSPORT 1
-http://mains.services/live/bshorty/Zv5le07a0J/908d1263-42e6-4d4d-becb-ff4c3f2a0e2d.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="WORLD SPORTS",SPORTS : ASTRO SUPERSPORT 2
-http://mains.services/live/bshorty/Zv5le07a0J/789d04b3-af43-4185-a849-a4cbcd123660.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="WORLD SPORTS",SPORTS : ASTRO SUPERSPORT 3
-http://mains.services/live/bshorty/Zv5le07a0J/a2688b68-2f5e-4891-a26f-a61d587aae17.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 4" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="WORLD SPORTS",SPORTS : ASTRO SUPERSPORT 4
-http://mains.services/live/bshorty/Zv5le07a0J/402826aa-5119-4254-b520-13c53cb5fa4a.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 5" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="WORLD SPORTS",SPORTS : ASTRO SUPERSPORT 5
-http://mains.services/live/bshorty/Zv5le07a0J/ffcdf3f0-7fe2-4dd7-9e20-e746c902ef74.ts
-
-#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="AFRICA : SUPERSPORT ACTION" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT ACTION
-http://mains.services/live/bshorty/Zv5le07a0J/e23f2ba2-d14a-4520-94c7-270193b0fa06.ts
-#EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name="AFRICA : SUPERSPORT BLITZ" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT BLITZ
-http://mains.services/live/bshorty/Zv5le07a0J/0eb60a6b-d4bd-485f-94c1-348a88e568e4.ts
-#EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="AFRICA : SUPERSPORT CRICKET" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT CRICKET
-http://mains.services/live/bshorty/Zv5le07a0J/c9a46969-7c9f-4df4-b205-97c9742c7210.ts
-#EXTINF:-1 tvg-id="ESPN.HD.za" tvg-name="AFRICA : SUPERSPORT ESPN" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT ESPN
-http://mains.services/live/bshorty/Zv5le07a0J/54ebf0ec-5f68-4dba-a1f3-9ac4cca4a581.ts
-#EXTINF:-1 tvg-id="ESPN.2.HD.za" tvg-name="AFRICA : SUPERSPORT ESPN2" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT ESPN2
-http://mains.services/live/bshorty/Zv5le07a0J/f24c02ee-950d-4ef3-8775-28769ce54c94.ts
-#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="AFRICA : SUPERSPORT FOOTBALL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT FOOTBALL
-http://mains.services/live/bshorty/Zv5le07a0J/3b4e154f-22af-4726-95b6-a873803729f6.ts
-#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="AFRICA : SUPERSPORT GOLF" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT GOLF
-http://mains.services/live/bshorty/Zv5le07a0J/fee6ed9a-b095-43c0-a39e-a4e1a52f2883.ts
-#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="AFRICA : SUPERSPORT GRANDSTAND" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT GRANDSTAND
-http://mains.services/live/bshorty/Zv5le07a0J/f61fff81-4634-47b2-b025-905a804464cd.ts
-#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="AFRICA : SUPERSPORT LA LIGA" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT LA LIGA
-http://mains.services/live/bshorty/Zv5le07a0J/f79f9fc5-88e0-4ba2-9b52-d23c5c40fe30.ts
-#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="AFRICA : SUPERSPORT MAXIMO" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT MAXIMO
-http://mains.services/live/bshorty/Zv5le07a0J/bd3a229f-12f6-476d-8546-f1d81140d996.ts
-#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="AFRICA : SUPERSPORT MOTORSPORT" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT MOTORSPORT
-http://mains.services/live/bshorty/Zv5le07a0J/0055be7d-d03d-4857-acfc-17c4c0b42d6b.ts
-#EXTINF:-1 tvg-id="SupersportPlay.za" tvg-name="AFRICA : SUPERSPORT PLAY" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT PLAY
-http://mains.services/live/bshorty/Zv5le07a0J/f9a8d5a9-01d3-45d6-b3e3-181501075062.ts
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="AFRICA : SUPERSPORT PREMIER LEAGUE" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT PREMIER LEAGUE
-http://mains.services/live/bshorty/Zv5le07a0J/d3d180ce-c708-4ff5-9ffe-070031f1d2e7.ts
-#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="AFRICA : SUPERSPORT PSL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT PSL
-http://mains.services/live/bshorty/Zv5le07a0J/606cb2eb-b5ec-419b-964d-da707b7d7079.ts
-#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="AFRICA : SUPERSPORT RUGBY" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT RUGBY
-http://mains.services/live/bshorty/Zv5le07a0J/5175e763-031f-441f-bcc1-ac80924188b7.ts
-#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="AFRICA : SUPERSPORT TENNIS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT TENNIS
-http://mains.services/live/bshorty/Zv5le07a0J/3c0af048-a68e-49f8-8531-88afa485d326.ts
-#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="AFRICA : SUPERSPORT VARIETY 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT VARIETY 1
-http://mains.services/live/bshorty/Zv5le07a0J/97ec3f1e-eebf-43fb-a3c8-9d7d31c0fd4d.ts
-#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="AFRICA : SUPERSPORT VARIETY 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT VARIETY 2
-http://mains.services/live/bshorty/Zv5le07a0J/5308dc34-7a7f-4f88-94bf-ec1120c6cad1.ts
-#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="AFRICA : SUPERSPORT VARIETY 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT VARIETY 3
-http://mains.services/live/bshorty/Zv5le07a0J/bde137d6-10d8-4f0e-bf20-52868b443b9b.ts
-#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="AFRICA : SUPERSPORT VARIETY 4" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT VARIETY 4
-http://mains.services/live/bshorty/Zv5le07a0J/fc4dbea2-d1d4-4f03-81fe-1060db081d21.ts
-#EXTINF:-1 tvg-id="WWE.za" tvg-name="AFRICA : SUPERSPORT WWE" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1391761110ead27fc34451934e88211.png" group-title="WORLD SPORTS",SUPERSPORT WWE
-http://mains.services/live/bshorty/Zv5le07a0J/31b8af79-dc27-48a8-925d-89a13d72411e.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258610
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-rs.png?raw=true" group-title="WORLD SPORTS",ARENA SPORTS 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-1.m3u8?raw=true
@@ -3106,8 +3084,6 @@ https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-3.m3u8?raw=
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-4.m3u8?raw=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-rs.png?raw=true" group-title="WORLD SPORTS",ARENA SPORTS 5
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-5.m3u8?raw=true
-#EXTINF:-1 tvg-name="SPORTS : ARENA SPORT 06" tvg-logo="http://onlytimewilltell.xyz:2086/images/491f9ceffad0e1153214e407c9d2c691.png" group-title="WORLD SPORTS",SPORTS : ARENA SPORT 6
-http://mains.services/live/bshorty/Zv5le07a0J/17ace0c2-ee4e-495c-9eb2-afafdaa40dcd.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-rs.png?raw=true" group-title="WORLD SPORTS",ARENA PREMIUM 1
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-premium1.m3u8?raw=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-rs.png?raw=true" group-title="WORLD SPORTS",ARENA PREMIUM 2
@@ -3259,8 +3235,6 @@ https://mt01.utako.moe/js3/index.m3u8
 #EXTINF:-1 tvg-id="jsports4" tvg-name="J Sports 4" tvg-logo="https://8upload.com/image/684315533a14c/jsports4hilay.png" group-title="WORLD SPORTS",J Sports 4
 https://mt01.utako.moe/js4/index.m3u8
 
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="" tvg-logo="",SONY LIV
-https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u
 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [WORLD TV] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -3269,15 +3243,13 @@ https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyl
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="US : ABC - CA - LOS ANGELES (KABC)" tvg-logo="http://onlytimewilltell.xyz:2086/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="WORLD TV",US : ABC
-http://mains.services/live/bshorty/Zv5le07a0J/f9920e48-e327-4c55-b97a-236ee91add67.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/9774
 #EXTINF:-1 tvg-id="KCALNews.us" tvg-name="US : CBS - CA - LOS ANGELES (KCAL)" tvg-logo="http://onlytimewilltell.xyz:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="WORLD TV",US : CBS
-http://mains.services/live/bshorty/Zv5le07a0J/1b1bc622-01ed-46a1-8fc8-181840e73871.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/9864
 #EXTINF:-1 tvg-id="NBCKNBC.us" tvg-name="US: NBC - CA - LOS ANGELES (KNBC)" tvg-logo="http://onlytimewilltell.xyz:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="WORLD TV",US: NBC
-http://mains.services/live/bshorty/Zv5le07a0J/af799bef-3435-478e-9d1a-c7dacda2a672.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/10121
 #EXTINF:-1 tvg-id="FOXKTTV.us" tvg-name="US : FOX - CA - LOS ANGELES (KTTV)" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="WORLD TV",US : FOX
-http://mains.services/live/bshorty/Zv5le07a0J/4fd2e15c-b6b8-4f6b-84ab-a46689c13ddb.ts
-#EXTINF:-1 tvg-id="KCALNews.us" tvg-name="US : CW - CA - LOS ANGELES (KCAL)" tvg-logo="http://onlytimewilltell.xyz:2086/images/9af3107a066f6b0defb1cafc0499f6ed.png" group-title="WORLD TV",US : CW
-http://mains.services/live/bshorty/Zv5le07a0J/acb20240-5baf-4f27-aef8-350c06a22b52.ts
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/9995
 
 #EXTINF:-1 tvg-id="Dubaitv.ae" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-tv-ae.png" group-title="WORLD TV",Dubai TV
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
