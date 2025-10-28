@@ -207,6 +207,7 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
+http://203.77.246.58:4500/udp/239.1.1.6:5000
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
@@ -1066,6 +1067,8 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165890
 https://vidd.semar.my.id/vidreq.php?id=17938&type=dash
 https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="SPORTS",CHAMPIONS TV 1 (BACKUP)
 http://203.77.246.58:4500/udp/239.1.2.240:5000
 http://203.77.246.58:4500/udp/239.1.2.242:5000
 
@@ -1075,6 +1078,8 @@ http://203.77.246.58:4500/udp/239.1.2.242:5000
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=6686&type=drm
 https://vidd.semar.my.id/vidreq.php?id=6686&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions2.jpg" group-title="SPORTS",CHAMPIONS TV 2 (BACKUP)
 http://203.77.246.58:4500/udp/239.1.5.6:5000
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -1095,6 +1100,8 @@ https://vidd.semar.my.id/vidreq.php?id=6786&type=dash
 https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions3.jpg" group-title="SPORTS",CHAMPIONS TV 3 (BACKUP)
 http://203.77.246.58:4500/udp/239.1.5.8:5000
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1443,6 +1450,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
 http://203.77.246.58:4500/udp/239.1.5.20:5000
 http://203.77.246.58:4500/udp/239.1.2.152:5000
+http://203.77.246.58:4500/udp/239.1.2.244:5000
 #http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bbcnews/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1454,7 +1462,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/dwtv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Dw/playlist.m3u8
+http://203.77.246.58:4500/udp/239.1.2.246:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
@@ -1504,6 +1512,7 @@ https://atemeshield1-voe.sysln.id/live/eds/RussiaTodayHD/mpd/RussiaTodayHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/RussiaTodayHD/mpd/RussiaTodayHD.mpd
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000153/1024.m3u8
+http://203.77.246.58:4500/udp/239.1.2.248:5000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
@@ -4322,20 +4331,7 @@ https://proxyv2.utako.moe/ph.php?&isp=1&id=cs15
 https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11
 
 
-http://203.77.246.58:4500/udp/239.1.1.44:5000 BRTV
-http://203.77.246.58:4500/udp/239.1.2.76:5000 Cartoon
-http://203.77.246.58:4500/udp/239.1.2.34:5000 cgtn news
-http://203.77.246.58:4500/udp/239.1.2.208:5000 Qatar tv
-http://203.77.246.58:4500/udp/239.1.1.112:5000 
-http://203.77.246.58:4500/udp/239.1.1.142:5000 
-http://203.77.246.58:4500/udp/239.1.2.184:5000
-http://203.77.246.58:4500/udp/239.1.2.74:5000
-http://203.77.246.58:4500/udp/239.1.2.194:5000
-http://203.77.246.58:4500/udp/239.1.1.144:5000 V Channel
 
-
-#EXTINF:-1 group-title="MOVIES",Star Movies Gold
-https://moviethls.wns.live/hls/stream.m3u8
 
 
 
