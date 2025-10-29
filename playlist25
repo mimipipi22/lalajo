@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-10-27 11:09:00 GMT+7 "
+# (●) Last Update: 2025-10-29 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -88,7 +88,6 @@ http://filex.tv:8080//live/Home329/Sohailhome/302274.ts
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-https://spacetv.my.id/index.m3u8?id=204&type=hls|user-agent=Dalvik/2.1.0
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 http://203.77.246.58:4500/udp/239.1.1.108:5000
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
@@ -107,7 +106,6 @@ http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-https://spacetv.my.id/index.m3u8?id=205&type=hls|user-agent=Dalvik/2.1.0
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
@@ -128,7 +126,6 @@ http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="INDONESIA TV",MOJI
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-https://spacetv.my.id/index.m3u8?id=206&type=hls|user-agent=Dalvik/2.1.0
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 https://fta-idn.streamo.cfd/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
@@ -354,7 +351,8 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg", group-title="INDONESIA TV", SIN PO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://spacetv.my.id/index.m3u8?id=19046&type=hls
+https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
+#https://spacetv.my.id/index.m3u8?id=19046&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/ktv.jpg" group-title="INDONESIA TV", KTV
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
@@ -670,7 +668,7 @@ http://iptvtree.net:8080/live/F28312/cc1dc138/165095.ts
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV6" tvg-logo="https://mimipipi22.github.io/logo/international/cctv6.jpg" group-title="MOVIES",CCTV6
-http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
+http://www.hkyc.site:1991/udp/239.253.64.246:5140
 http://51.89.166.17:3002/index.php?id=cctv6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Star Movies HD.png" group-title="MOVIES",STAR MOVIES
 http://51.89.166.17:3002/index.php?id=starmovies_raj
@@ -933,10 +931,16 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc46
 #http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/catchplay_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="ENTERTAINMENT",VIUTV TAIWAN
 http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
+http://live4play.uk/livehttpplay?channel_id=20131
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV6.png" group-title="ENTERTAINMENT",VIUTV6 TAIWAN
 http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
+http://live4play.uk/livehttpplay?channel_id=20132
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TVB Entertainment.png" group-title="ENTERTAINMENT",TVB ENTERTAINMENT
 http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TVB PLUS
+http://live4play.uk/livehttpplay?channel_id=20122
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TVB PEARL
+http://live4play.uk/livehttpplay?channel_id=20125
 
 
 //========================================================================
@@ -1836,7 +1840,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/hiphiphoree.jpg" group-title="KIDS",HIP HIP HOREE!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://spacetv.my.id/index.mpd?id=7052&type=dash
+https://bitter-boa-67.deno.dev/play.mpd?id=7052&type=dash
+#https://spacetv.my.id/index.mpd?id=7052&type=dash
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2253,13 +2258,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [NASIONAL TV] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-name="==========INDONESIA TV==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/6157/6157721.png" group-title="INDONESIA TV",==========INDONESIA TV==========
+#EXTINF:-1 group-title="INDONESIA TV",▂ ▃ ▅ ▇ █ ▓ ▒ ░ INDONESIA TV ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [MOVIES] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-name="==========MOVIES==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/777/777242.png" group-title="MOVIES",==========MOVIES==========
+#EXTINF:-1 group-title="MOVIES",▂ ▃ ▅ ▇ █ ▓ ▒ ░ MOVIES ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="HBO.mx"  tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="MOVIES", HBO 🇲🇽
@@ -2534,7 +2539,7 @@ http://www.ve406.venus.fastwebserver.de:25461/DIGITALB/TRING/251
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [ENTERTAINMENT] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-name="==========ENTERTAINMENT==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/11190/11190635.png" group-title="ENTERTAINMENT",==========ENTERTAINMENT==========
+#EXTINF:-1 group-title="ENTERTAINMENT",▂ ▃ ▅ ▇ █ ▓ ▒ ░ ENTERTAINMENT ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="US : A&E WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="ENTERTAINMENT",US : A&E
@@ -2657,7 +2662,7 @@ https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [SPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-name="==========SPORTS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/5540/5540420.png" group-title="SPORTS",==========SPORTS==========
+#EXTINF:-1 group-title="SPORTS",▂ ▃ ▅ ▇ █ ▓ ▒ ░ SPORTS ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3070,9 +3075,9 @@ http://51.89.166.17:3002/index.php?id=Acricket
 http://51.89.166.17:3002/index.php?id=Agolf
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5.png" group-title="SPORTS",CCTV5
-http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
+http://www.hkyc.site:1991/udp/239.253.64.245:5140
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5%2B.png" group-title="SPORTS",CCTV5+
-http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
+http://www.hkyc.site:1991/udp/239.253.64.100:5140
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="SPORTS",ELTA SPORT 1
 http://51.89.166.17:3002/index.php?id=eltasport1_twn
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="SPORTS",ELTA SPORT 2
@@ -3294,7 +3299,7 @@ https://mt01.utako.moe/js4/index.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [WORLD TV] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-name="==========WORLD TV==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/2206/2206461.png" group-title="WORLD TV",==========WORLD TV==========
+#EXTINF:-1 group-title="WORLD TV",▂ ▃ ▅ ▇ █ ▓ ▒ ░ WORLD TV ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="US : ABC - CA - LOS ANGELES (KABC)" tvg-logo="http://onlytimewilltell.xyz:2086/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="WORLD TV",US : ABC
@@ -3399,7 +3404,7 @@ https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [NEWS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-name="==========NEWS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/2965/2965879.png" group-title="NEWS",==========NEWS==========
+#EXTINF:-1 group-title="NEWS",▂ ▃ ▅ ▇ █ ▓ ▒ ░ NEWS ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="NEWS",CNN INT
@@ -3429,8 +3434,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d6
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://play-lh.googleusercontent.com/641HH_2fGFukrNZigSrRN7dvz0K2ZxTkyM124C5MGACPXga19mTHz_2XXXI7w_UdJGs=w240-h480",AFRICANEWS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://spacetv.my.id/index.m3u8?id=12784&type=hls
-https://popmi.my.id/tes.m3u8?id=12784
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png" group-title="NEWS",ABC NEWS AUSTRALIA
@@ -3456,7 +3459,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [KNOWLEDGE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-name="==========KNOWLEDGE==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/2471/2471120.png" group-title="KNOWLEDGE",==========KNOWLEDGE==========
+#EXTINF:-1 group-title="KNOWLEDGE",▂ ▃ ▅ ▇ █ ▓ ▒ ░ KNOWLEDGE ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel.co" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="KNOWLEDGE",DISCOVERY 🇺🇸 🇨🇴
@@ -3522,7 +3525,7 @@ https://maldivesn.net/hilaytv/discoverylife
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [KIDS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-name="==========KIDS==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/1702/1702342.png" group-title="KIDS",==========KIDS==========
+#EXTINF:-1 group-title="KIDS",▂ ▃ ▅ ▇ █ ▓ ▒ ░ KIDS ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="pop" tvg-name="POP" tvg-logo="https://images.pluto.tv/channels/664c94e80120f40008b860f0/colorLogoPNG.png" group-title="KIDS",POP
@@ -3602,7 +3605,7 @@ https://maldivesn.net/hilaytv/boomerang
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [MUSIC] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-name="==========MUSIC==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/9280/9280598.png" group-title="MUSIC",==========MUSIC==========
+#EXTINF:-1 group-title="MUSIC",▂ ▃ ▅ ▇ █ ▓ ▒ ░ MUSIC ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/D12531s/univcinema.png" group-title="MUSIC", MTV '80
@@ -3628,7 +3631,8 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://github.com/mimipipi22/logo/blob/main/vidio/musica.jpg",MUSIKA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=7619
-https://spacetv.my.id/index.m3u8?id=7619&type=hls
+https://bitter-boa-67.deno.dev/play.mpd?id=7619&type=dash
+#https://spacetv.my.id/index.m3u8?id=7619&type=hls
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.opp.no/applefavicon.png",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
@@ -3822,19 +3826,21 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [RELIGION] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-name="==========RELIGION==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/11531/11531428.png" group-title="RELIGION",==========RELIGION==========
+#EXTINF:-1 group-title="RELIGION",▂ ▃ ▅ ▇ █ ▓ ▒ ░ RELIGION ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://mimipipi22.github.io/logo/vidio/ajwa-tv.jpg",AJWA TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://spacetv.my.id/index.mpd?id=7464&type=dash
-https://spacetv.my.id/index.m3u8?id=7464&type=hls
+http://bitter-boa-67.deno.dev/play.mpd?id=7464&type=dash
+#https://spacetv.my.id/index.mpd?id=7464&type=dash
+#https://spacetv.my.id/index.m3u8?id=7464&type=hls
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/vidio/daystar-tv.jpg" group-title="RELIGION",Daystar TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://spacetv.my.id/index.mpd?id=18622&type=dash
+http://bitter-boa-67.deno.dev/play.mpd?id=18622&type=dash
+#https://spacetv.my.id/index.mpd?id=18622&type=dash
 
 #EXTINF:-1 tvg-id="insantv" tvg-name="Insan TV" group-title="RELIGION" tvg-logo="https://www.insantv.com/wp-content/uploads/sites/2/2017/06/insantv.png",INSAN TV
 https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
@@ -3843,7 +3849,7 @@ https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LIFESTYLE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-name="==========LIFESTYLE==========" tvg-logo="https://cdn-icons-png.flaticon.com/128/3588/3588658.png" group-title="LIFESTYLE",==========LIFESTYLE==========
+#EXTINF:-1 group-title="LIFESTYLE",▂ ▃ ▅ ▇ █ ▓ ▒ ░ LIFESTYLE ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="Asian Food Network.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/afn.jpg" group-title="LIFESTYLE", AFN 🇹🇭
