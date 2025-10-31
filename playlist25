@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-10-30 11:09:00 GMT+7 "
+# (●) Last Update: 2025-10-31 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -92,31 +92,33 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 http://203.77.246.58:4500/udp/239.1.1.108:5000
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444140
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV DIGITAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#https://mimipipi22.github.io/logo/offline.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR DIGITAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://203.77.246.58:4500/udp/239.1.1.110:5000
-#https://mimipipi22.github.io/logo/offline.m3u8
 http://103.66.62.83:8000/play/a069/index.m3u8
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 
@@ -129,13 +131,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 https://fta-idn.streamo.cfd/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="INDONESIA TV",MOJI
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="INDONESIA TV",MOJI DIGITAL
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
-#https://mimipipi22.github.io/logo/offline.m3u8
-#http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444150.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -422,31 +425,35 @@ http://51.89.166.17:3002/index.php?id=Cinemax
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO
 http://203.77.246.58:4500/udp/239.1.3.84:5000
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbo/playlist.m3u8
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444177
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
 #EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="MOVIES",HBO HITS
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444178
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
 #EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="MOVIES",HBO SIGNATURE
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444179
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
 #EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444188
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX
-https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444180
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -954,7 +961,7 @@ http://live4play.uk/livehttpplay?channel_id=20125
 #EXTINF:-1 tvg-id="SportStars1.id" tvg-name="Sportstars 1" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="SPORTS",SPORTSTARS
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165865
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
@@ -2462,6 +2469,7 @@ https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3228
 https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3217
 #EXTINF:-1 tvg-id="and.PRIVE.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/and-prive-hd-in.png" group-title="MOVIES",&prive HD
 https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3141
+http://87.255.35.150:18494
 #EXTINF:-1 tvg-id="COLORS.INFINITY.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/colors-infinity-hd-in.png" group-title="MOVIES",Colors INFINITY HD
 https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3140
 
@@ -3879,23 +3887,25 @@ https://maldivesn.net/hilaytv/myzen4k
 //========================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MY 🇲🇾", Citra
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Citra/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=AAcitra
+http://51.89.166.17:3002/index.php?id=AAcitra1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="MY 🇲🇾",Aura
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Aura/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Aura
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="MY 🇲🇾",Rania
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rania/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Rania
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MY 🇲🇾",Oasis
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Oasis/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Oasis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="MY 🇲🇾",Ceria
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ceria/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Ceria
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MY 🇲🇾",Ria
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Ria/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Ria
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY 🇲🇾",TV3
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/TV3/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=TV3
+http://51.89.166.17:3002/index.php?id=TV3_mega
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="MY 🇲🇾",Prima
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Prima/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Prima
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png" group-title="MY 🇲🇾",Sensasi
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Sensasi/playlist.m3u8
+http://51.89.166.17:3002/index.php?id=Sensasi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="MY 🇲🇾",AEC
 http://smt.1678520.xyz/smt3.2.1.php?id=AEC
 http://php.jdshipin.com/smt.php?id=AEC
@@ -4933,6 +4943,18 @@ https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",novasport1 HD
 http://185.188.188.237:5000/live/novasport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",Nova Sport 1 HD cz
+https://176.116.105.82/Nova_Sport1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",Nova Sport 2 SK HD
+https://176.116.105.82/NovaSport2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",Nova Sport 3 SK HD
+https://176.116.105.82/NovaSport3_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",Nova Sport 4 SK HD
+https://176.116.105.82/NovaSport4_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",Nova Sport 5 SK HD
+https://176.116.105.82/NovaSport5_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",Nova Sport 6 HD cz
+https://176.116.105.82/NovaSport6_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",ct1 HD
 http://185.188.188.237:5000/live/ct1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",primazoom HD
@@ -5001,10 +5023,14 @@ http://185.188.188.237:5000/live/nova/playlist.m3u8
 http://185.188.188.237:5000/live/paramount/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",hbo HD
 http://185.188.188.237:5000/live/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",arenasport2 HD
-http://185.188.188.237:5000/live/arenasport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",Arena Sport 1 HD
+https://176.116.105.82/Arena_Sport1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",Arena Sport 2 HD
+https://176.116.105.82/Arena_Sport2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",arenasport1 HD
 http://185.188.188.237:5000/live/arenasport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",arenasport2 HD
+http://185.188.188.237:5000/live/arenasport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",minimax
 http://185.188.188.237:5000/live/minimax/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",viasatnature HD
@@ -5013,6 +5039,8 @@ http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
 http://185.188.188.237:5000/live/mtvhits/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",filmboxextra HD
 http://185.188.188.237:5000/live/filmboxextra/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",FilmBoxExtra HD cz
+https://176.116.105.82/FilmBoxExtra_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",nickjr
 http://185.188.188.237:5000/live/nickjr/playlist.m3u8
 
