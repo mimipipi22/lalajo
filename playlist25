@@ -92,14 +92,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 http://filex.tv:8080//live/Home329/Sohailhome/302274.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
-http://203.77.246.58:4500/udp/239.1.1.108:5000
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+http://203.77.246.58:4500/udp/239.1.1.108:5000
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -127,8 +127,8 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR DIGITAL
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.66.62.83:8000/play/a069/index.m3u8
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+http://103.66.62.83:8000/play/a069/index.m3u8
 http://203.77.246.58:4500/udp/239.1.1.110:5000
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -729,7 +729,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV6" tvg-logo="https://mimipipi22.github.io/logo/international/cctv6.jpg" group-title="MOVIES",CCTV6
 http://58.19.180.108:9981/stream/channelid/115694977?profile=pass
 http://www.hkyc.site:1991/udp/239.253.64.246:5140
-https://smt.858.qzz.io/Smart.php?id=cctv6
 http://51.89.166.17:3002/index.php?id=cctv6
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
@@ -746,12 +745,12 @@ http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Star Movies HD.png" group-title="MOVIES",STAR MOVIES
-https://smt.858.qzz.io/Smart.php?id=starmovies_raj
+http://gotv.k.vu/api.php?id=starmovies_raj
 http://51.89.166.17:3002/index.php?id=starmovies_raj
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影台.png" group-title="MOVIES",HOLLYWOOD MOVIES
-https://smt.858.qzz.io/Smart.php?id=hollywoodmovies_twn
+http://gotv.k.vu/api.php?id=hollywoodmovies_twn
 http://51.89.166.17:3002/index.php?id=hollywoodmovies_twn
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY.png" group-title="MOVIES",CATCHPLAY
@@ -759,17 +758,17 @@ http://51.89.166.17:3002/index.php?id=catchplay_twn
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png" group-title="MOVIES",ETTV WESTERN
-https://smt.858.qzz.io/Smart.php?id=ettvwestern
+http://gotv.k.vu/api.php??id=ettvwestern
 http://51.89.166.17:3002/index.php?id=ettvwestern
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/東森電影.png" group-title="MOVIES",ETTV MOVIES
-https://smt.858.qzz.io/Smart.php?id=ettvmovie
+http://gotv.k.vu/api.php??id=ettvmovie
 http://51.89.166.17:3002/index.php?id=ettvmovie
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="MOVIES",MEIYA MOVIES
-https://smt.858.qzz.io/Smart.php?id=meiyamovie_twn
+http://gotv.k.vu/api.php??id=meiyamovie_twn
 http://51.89.166.17:3002/index.php?id=meiyamovie_twn
 
 
@@ -882,7 +881,7 @@ http://103.66.62.83:8000/play/a03z/index.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="ENTERTAINMENT",K-PLUS
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
-https://smt.858.qzz.io/Smart.php?id=Kplus
+http://gotv.k.vu/api.php??id=Kplus
 #https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1257,6 +1256,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="https://mimipipi22.github.io/logo/sports/eurosports.jpg" group-title="SPORTS",EUROSPORT
+http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 https://mimipipi22.github.io/logo/offline.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
@@ -1289,7 +1289,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="SPORTS",W-SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-https://smt.858.qzz.io/Smart.php?id=go_assp5
+http://gotv.k.vu/api.php??id=go_assp5
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1373,7 +1373,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World (HD)" tvg-logo="https://mimipipi22.github.io/logo/international/kbsworld.jpg" group-title="WORLD TV",KBS WORLD
-https://smt.858.qzz.io/Smart.php?id=KBS
+http://125.227.210.55:17478/VideoInput/play.ts
 #https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
 #EXTINF:-1 tvg-id="KBS Korea" tvg-name="KBS Korea" tvg-logo="https://mimipipi22.github.io/logo/international/kbskorea.jpg" group-title="WORLD TV",KBS KOREA
@@ -1493,13 +1493,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="TVBS News" tvg-name="TVBS News" tvg-logo="https://mimipipi22.github.io/logo/international/tvbsnews.jpg" group-title="WORLD TV",TVBS NEWS
-https://smt.858.qzz.io/Smart.php?id=tvbs_n
+http://gotv.k.vu/api.php??id=tvbs_n
 #https://atemeshield1-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="TVBS Asia" tvg-name="TVBS Asia" tvg-logo="https://mimipipi22.github.io/logo/international/tvbsasia.jpg" group-title="WORLD TV",TVBS ASIA
-https://smt.858.qzz.io/Smart.php?id=tvbs
+http://gotv.k.vu/api.php??id=tvbs
 #https://atemeshield1-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
@@ -1557,7 +1557,7 @@ https://gooo.blog/opix/genx.m3u8?id=cetv1&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1N
 #EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="https://mimipipi22.github.io/logo/news/cnn.jpg" group-title="NEWS",CNN INT
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 https://jmp2.uk/stvp-CHBD800001D0
-https://smt.858.qzz.io/Smart.php?id=cnn_twn
+http://gotv.k.vu/api.php??id=cnn_twn
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2313,7 +2313,7 @@ http://203.77.246.58:4500/udp/239.1.5.22:5000
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/bbclifestyle.jpg" group-title="LIFESTYLE",BBC LIFESTYLE
-https://smt.858.qzz.io/Smart.php?id=bbclifestyle_twn
+http://gotv.k.vu/api.php??id=bbclifestyle_twn
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
@@ -2603,19 +2603,38 @@ https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3140
 #EXTINF:-1 group-title="ENTERTAINMENT",▂ ▃ ▅ ▇ █ ▓ ▒ ░ ENTERTAINMENT ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="US : A&E WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="ENTERTAINMENT",US : A&E
+https://e2.thetvapp.to/hls/AEEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/257033
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="US : BBC AMERICA WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/40fd83186c01e9ecf6b94cc0de4a0a21.png" group-title="ENTERTAINMENT",US : BBC AMERICA
+https://e1.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 http://hardcoremedia.xyz:80/live/fadkjokz/4950078150/129831.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="US : E! ENTERTAINMENT TELEVISION WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/a6ff6e3f241258033c6559e023e0cb50.png" group-title="ENTERTAINMENT",US : E! ENTERTAINMENT TV
+https://e1.thetvapp.to/hls/EEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/257099
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="FXPacific.us" tvg-name="US : FX WEST" tvg-logo="http://onlytimewilltell.xyz:2086/images/bdf4721cef747b0d12ae91dc50e6ea37.png" group-title="ENTERTAINMENT",US : FX
+https://e1.thetvapp.to/hls/FXEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/257125
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="US : PARAMOUNT NETWORK WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="ENTERTAINMENT",US : PARAMOUNT NETWORK
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/257226
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1  tvg-name="Syfy Eastern Feed HD" tvg-id="syfy-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-hz-us.png?raw=true" group-title="ENTERTAINMENT",Syfy Eastern Feed HD
+https://e1.thetvapp.to/hls/SyfyEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/257290
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="ENTERTAINMENT",Starz Eastern HD
+https://e1.thetvapp.to/hls/StarzEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 http://hardcoremedia.xyz:80/fadkjokz/4950078150/257281
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/asteca7.png" group-title="ENTERTAINMENT", AZTECA 7 🇲🇽
@@ -3110,112 +3129,112 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="SPORTS",ASTRO ARENA
-https://smt.858.qzz.io/Smart.php?id=Arena
+http://gotv.k.vu/api.php??id=Arena
 http://51.89.166.17:3002/index.php?id=Arena
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS",ASTRO ARENA 2
-https://smt.858.qzz.io/Smart.php?id=Arena2
+http://gotv.k.vu/api.php??id=Arena2
 http://51.89.166.17:3002/index.php?id=Arena2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS",BOLA ARENA 1
-https://smt.858.qzz.io/Smart.php?id=Bolaarena1
+http://gotv.k.vu/api.php??id=Bolaarena1
 http://51.89.166.17:3002/index.php?id=Bolaarena1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="SPORTS",BOLA ARENA 2
-https://smt.858.qzz.io/Smart.php?id=Bolaarena2
+http://gotv.k.vu/api.php??id=Bolaarena2
 http://51.89.166.17:3002/index.php?id=Bolaarena2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS",ASTRO PREMIER LEAGUE
-https://smt.858.qzz.io/Smart.php?id=go_assp1
+http://gotv.k.vu/api.php??id=go_assp1
 http://51.89.166.17:3002/index.php?id=go_assp1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="SPORTS",ASTRO PREMIER LEAGUE 2
-https://smt.858.qzz.io/Smart.php?id=go_assp2
+http://gotv.k.vu/api.php??id=go_assp2
 http://51.89.166.17:3002/index.php?id=go_assp2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS",ASTRO GRANDSTAND
-https://smt.858.qzz.io/Smart.php?id=go_assp3
+http://gotv.k.vu/api.php??id=go_assp3
 http://51.89.166.17:3002/index.php?id=go_assp3
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="SPORTS",ASTRO FOOTBALL
-https://smt.858.qzz.io/Smart.php?id=go_assp4
+http://gotv.k.vu/api.php??id=go_assp4
 http://51.89.166.17:3002/index.php?id=go_assp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",ASTRO SPORTSPLUS
-https://smt.858.qzz.io/Smart.php?id=go_sportsplus
+http://gotv.k.vu/api.php??id=go_sportsplus
 http://51.89.166.17:3002/index.php?id=go_sportsplus
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",ASTRO BADMINTON 1
-https://smt.858.qzz.io/Smart.php?id=go_badminton1
+http://gotv.k.vu/api.php??id=go_badminton1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",ASTRO BADMINTON 1
-https://smt.858.qzz.io/Smart.php?id=go_badminton2
+http://gotv.k.vu/api.php??id=go_badminton2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS",NBA TV
-https://smt.858.qzz.io/Smart.php?id=Nba
+http://gotv.k.vu/api.php??id=Nba
 http://51.89.166.17:3002/index.php?id=Nba
 http://51.89.166.17:3002/index.php?id=nbatv
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS",ASTRO CRICKET
-https://smt.858.qzz.io/Smart.php?id=Acricket
+http://gotv.k.vu/api.php??id=Acricket
 http://51.89.166.17:3002/index.php?id=Acricket
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="SPORTS",ASTRO GOLF
-https://smt.858.qzz.io/Smart.php?id=Agolf
+http://gotv.k.vu/api.php??id=Agolf
 http://51.89.166.17:3002/index.php?id=Agolf
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5.png" group-title="SPORTS",CCTV5
 http://58.19.180.108:9981/stream/channelid/908622330?profile=pass
 http://www.hkyc.site:1991/udp/239.253.64.245:5140
-https://smt.858.qzz.io/Smart.php?id=cctv5
+http://gotv.k.vu/api.php??id=cctv5
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/cctv5%2B.png" group-title="SPORTS",CCTV5+
 http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 http://www.hkyc.site:1991/udp/239.253.64.100:5140
-https://smt.858.qzz.io/Smart.php?id=cctv5plus
+http://gotv.k.vu/api.php??id=cctv5plus
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="SPORTS",ELTA SPORT 1
-https://smt.858.qzz.io/Smart.php?id=eltasport_twn
+http://gotv.k.vu/api.php??id=eltasport_twn
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="SPORTS",ELTA SPORT 2
-https://smt.858.qzz.io/Smart.php?id=eltasport2_twn
+http://gotv.k.vu/api.php??id=eltasport2_twn
 http://51.89.166.17:3002/index.php?id=eltasport2_twn
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="SPORTS",ELTA SPORT 3
-https://smt.858.qzz.io/Smart.php?id=eltasport3_twn
+http://gotv.k.vu/api.php??id=eltasport3_twn
 http://51.89.166.17:3002/index.php?id=eltasport3_twn
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-f1-uk.png" group-title="SPORTS",SKY SPORTS F1
-https://smt.858.qzz.io/Smart.php?id=tiankongf1
+http://gotv.k.vu/api.php??id=tiankongf1
 http://51.89.166.17:3002/index.php?id=tiankongf1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-cricket-uk.png" group-title="SPORTS",SKY SPORTS CRICKET
-https://smt.858.qzz.io/Smart.php?id=tiankongcricket
+http://gotv.k.vu/api.php??id=tiankongcricket
 http://51.89.166.17:3002/index.php?id=tiankongcricket
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-premier-league-uk.png" group-title="SPORTS",SKY SPORTS EPL
-https://smt.858.qzz.io/Smart.php?id=tiankongepl
+http://gotv.k.vu/api.php??id=tiankongepl
 http://51.89.166.17:3002/index.php?id=tiankongepl
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-golf-uk.png" group-title="SPORTS",SKY SPORTS GOLF
@@ -3223,16 +3242,16 @@ http://51.89.166.17:3002/index.php?id=tiankongepl
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-main-event-uk.png" group-title="SPORTS",SKY SPORTS MAIN
-https://smt.858.qzz.io/Smart.php?id=tiankongmain
+http://gotv.k.vu/api.php??id=tiankongmain
 http://51.89.166.17:3002/index.php?id=tiankongmain
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-racing-uk.png" group-title="SPORTS",SKY SPORTS RACING
-https://smt.858.qzz.io/Smart.php?id=tiankongracing
+http://gotv.k.vu/api.php??id=tiankongracing
 http://51.89.166.17:3002/index.php?id=tiankongracing
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-mix-uk.png" group-title="SPORTS",SKY SPORTS MIX
-https://smt.858.qzz.io/Smart.php?id=tiankongmix
+http://gotv.k.vu/api.php??id=tiankongmix
 http://51.89.166.17:3002/index.php?id=tiankongmix
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -3657,7 +3676,7 @@ https://maldivesn.net/hilaytv/discoverylife
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",ASIA TRAVEL
-https://smt.858.qzz.io/Smart.php?id=asiatravel_twn
+http://gotv.k.vu/api.php??id=asiatravel_twn
 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [KIDS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -4025,27 +4044,27 @@ http://51.89.166.17:3002/index.php?id=AAcitra1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="MY 🇲🇾",Aura
-https://smt.858.qzz.io/Smart.php?id=Aura
+http://gotv.k.vu/api.php??id=Aura
 http://51.89.166.17:3002/index.php?id=Aura
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="MY 🇲🇾",Rania
-https://smt.858.qzz.io/Smart.php?id=Rania
+http://gotv.k.vu/api.php??id=Rania
 http://51.89.166.17:3002/index.php?id=Rania
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MY 🇲🇾",Oasis
-https://smt.858.qzz.io/Smart.php?id=Oasis
+http://gotv.k.vu/api.php??id=Oasis
 http://51.89.166.17:3002/index.php?id=Oasis
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="MY 🇲🇾",Ceria
-https://smt.858.qzz.io/Smart.php?id=Ceria
+http://gotv.k.vu/api.php??id=Ceria
 http://51.89.166.17:3002/index.php?id=Ceria
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MY 🇲🇾",Ria
-https://smt.858.qzz.io/Smart.php?id=Ria-0
+http://gotv.k.vu/api.php??id=Ria-0
 http://51.89.166.17:3002/index.php?id=Ria
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY 🇲🇾",TV3
@@ -4054,18 +4073,18 @@ http://51.89.166.17:3002/index.php?id=TV3_mega
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="MY 🇲🇾",Prima
-https://smt.858.qzz.io/Smart.php?id=Prima-0
+http://gotv.k.vu/api.php??id=Prima-0
 http://51.89.166.17:3002/index.php?id=Prima
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png" group-title="MY 🇲🇾",Sensasi
-https://smt.858.qzz.io/Smart.php?id=Sensasi
+http://gotv.k.vu/api.php??id=Sensasi
 http://51.89.166.17:3002/index.php?id=Sensasi
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="MY 🇲🇾",AEC
 http://smt.1678520.xyz/smt3.2.1.php?id=AEC
-https://smt.858.qzz.io/Smart.php?id=AEC
+http://gotv.k.vu/api.php??id=AEC
 http://php.jdshipin.com/smt.php?id=AEC
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
@@ -4091,7 +4110,7 @@ http://php.jdshipin.com/smt.php?id=Tvbjade
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="MY 🇲🇾",TVB Asia
-https://smt.858.qzz.io/Smart.php?id=Tvbasia
+http://gotv.k.vu/api.php??id=Tvbasia
 http://51.89.166.17:3002/index.php?id=Tvbasia
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" group-title="MY 🇲🇾",TVB Entertainment
@@ -4103,13 +4122,13 @@ http://php.jdshipin.com/smt.php?id=Tvbclassic
 http://51.89.166.17:3002/index.php?id=Tvbclassic
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="MY 🇲🇾",Xing He
-https://smt.858.qzz.io/Smart.php?id=Xinhe
+http://gotv.k.vu/api.php??id=Xinhe
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="MY 🇲🇾",Qiyi
 http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-title="MY 🇲🇾",Showcase
-https://smt.858.qzz.io/Smart.php?id=Showcase
+http://gotv.k.vu/api.php??id=Showcase
 
 
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MY 🇲🇾",TV 1
