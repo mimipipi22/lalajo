@@ -3857,63 +3857,40 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc46
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="ENTERTAINMENT",VIUTV TAIWAN
-http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
-http://live4play.uk/livehttpplay?channel_id=20131
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV6.png" group-title="ENTERTAINMENT",VIUTV6 TAIWAN
-http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
-http://php.jdshipin.com/smt.php?id=viusix_twn
-http://live4play.uk/livehttpplay?channel_id=20132
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TVB Entertainment.png" group-title="ENTERTAINMENT",TVB ENTERTAINMENT
-http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TVB PLUS
-http://live4play.uk/livehttpplay?channel_id=20122
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TVB PEARL
-http://live4play.uk/livehttpplay?channel_id=20125
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TVB星河 GALAXY
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="AandENetworkPacific.us" tvg-name="US : A&E WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45619.png" group-title="ENTERTAINMENT",US : A&E
-https://e2.thetvapp.to/hls/AEEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=45619&extension=ts&play_token=LzSzSqaCLb
+https://int.klcis.cc/api/m3u/AEEast?quality=hd
+https://e1.thetvapp.to/hls/AEEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="US : BBC AMERICA WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45612.png" group-title="ENTERTAINMENT",US : BBC AMERICA
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 https://e1.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=45612&extension=ts&play_token=2wSOvPeESs
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="US : E! ENTERTAINMENT TELEVISION WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45584.png" group-title="ENTERTAINMENT",US : E! ENTERTAINMENT TV
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 https://e1.thetvapp.to/hls/EEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-https://fl61.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/playlist.m3u8
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=45584&extension=ts&play_token=PvPxm4gH2f
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="FXPacific.us" tvg-name="US : FX WEST" tvg-logo="http://51.158.145.100/picons/logos/USA/45451.png" group-title="ENTERTAINMENT",US : FX
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FX/index.m3u8
 https://e1.thetvapp.to/hls/FXEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-https://fl61.moveonjoy.com/FX/tracks-v1a1/playlist.m3u8
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=45451&extension=ts&play_token=ksdNdXV3ym
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="US : PARAMOUNT NETWORK WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45500.png" group-title="ENTERTAINMENT",US : PARAMOUNT NETWORK
-https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/playlist.m3u8
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=45500&extension=ts&play_token=hRN3Se6Q9F
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1  tvg-name="Syfy Eastern Feed HD" tvg-id="syfy-eastern-feed" tvg-logo="http://51.158.145.100/picons/logos/USA/45476.png" group-title="ENTERTAINMENT",Syfy Eastern Feed HD
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SYFY/index.m3u8
 https://e1.thetvapp.to/hls/SyfyEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-https://fl31.moveonjoy.com/SYFY/tracks-v1a1/playlist.m3u8
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=45476&extension=ts&play_token=DOhf2t6y3B
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="ENTERTAINMENT",Starz Eastern HD
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ/index.m3u8
 https://e1.thetvapp.to/hls/StarzEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
-https://fl31.moveonjoy.com/STARZ/tracks-v1a1/playlist.m3u8
-http://hardcoremedia.xyz:80/fadkjokz/4950078150/257281
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/canalclaro.png" group-title="ENTERTAINMENT",Canal Claro 🇨🇴
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
@@ -4006,6 +3983,17 @@ https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-id="tvN.HD.my" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvn-hk.png" group-title="ENTERTAINMENT",tvN 🇰🇷
 https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="ENTERTAINMENT",VIUTV TAIWAN
+http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV6.png" group-title="ENTERTAINMENT",VIUTV6 TAIWAN
+http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
+http://php.jdshipin.com/smt.php?id=viusix_twn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TVB Entertainment.png" group-title="ENTERTAINMENT",TVB ENTERTAINMENT
+http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TVB PLUS
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [SPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
