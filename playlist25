@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-12-01 11:09:00 GMT+7 "
+# (●) Last Update: 2025-12-03 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -1015,9 +1015,11 @@ https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.mpd
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
 https://smart.946985.filegear-sg.me/smart.php?id=Nba
-https://tvpass.org/live/NBATV/hd|referer=https://thetvapp.to/&origin=https://thetvapp.to
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
 
 #EXTINF:-1 tvg-id="VOLITV.ID" tvg-name="VOLI TV" tvg-logo="https://mimipipi22.github.io/logo/sports/volitv.jpg" group-title="SPORTS",VOLI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2141,6 +2143,13 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mediampd/SCTVHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV (VS+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV DIGITAL
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -3892,6 +3901,12 @@ https://e1.thetvapp.to/hls/SyfyEast/tracks-v1a1/playlist.m3u8|referer=https://r-
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ/index.m3u8
 https://e1.thetvapp.to/hls/StarzEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="ENTERTAINMENT",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPYac/.m3u8
+
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/canalclaro.png" group-title="ENTERTAINMENT",Canal Claro 🇨🇴
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4204,9 +4219,11 @@ http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://tvpass.org/live/NBATV/hd|referer=https://thetvapp.to/&origin=https://thetvapp.to
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://smart.946985.filegear-sg.me/smart.php?id=Nba
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="tvri.sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",TVRI SPORT
@@ -4681,10 +4698,12 @@ https://mimipipi22.github.io/logo/offline.m3u8
 https://smart.946985.filegear-sg.me/smart.php?id=go_badminton2
 https://mimipipi22.github.io/logo/offline.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
 https://smart.946985.filegear-sg.me/smart.php?id=Nba
-https://mimipipi22.github.io/logo/offline.m3u8
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="SPORTS",ASTRO CRICKET
@@ -8340,7 +8359,7 @@ https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 AT 🇦🇹 CH 🇨🇭", 
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 AT 🇦🇹 CH 🇨🇭", SRF Info
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
 
@@ -8681,290 +8700,435 @@ http://185.188.188.237:5000/live/nickjr/playlist.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",寰宇新聞
-http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",寰宇新聞台灣台
-http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",寰宇財經
-http://220.135.64.124:5050/4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",鏡電視新聞台
-http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",中天亞洲台
-http://220.135.64.124:5050/4gtv-4gtv109/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",中天新聞台
-http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",TVBS HD
-http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",TVBS台劇台
-http://220.135.64.124:5050/4gtv-live088/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",TVBS新聞台
-http://220.135.64.124:5050/4gtv-4gtv072/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",TVBS歡樂台
-http://220.135.64.124:5050/4gtv-4gtv068/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",TVBS精采台
-http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",TVBS綜藝台
-http://220.135.64.124:5050/4gtv-live087/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",三立iNEWS
-http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",三立iNEWS
-http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",三立綜合合
-http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",中視
-http://220.135.64.124:5050/4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",中視新聞台
-http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",中視經典台
-http://220.135.64.124:5050/4gtv-4gtv080/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",中視菁采台
-http://220.135.64.124:5050/4gtv-4gtv064/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",東森新聞
-http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",東森財經新聞
-http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",東森購物一台
-http://220.135.64.124:5050/4gtv-4gtv102/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",東森購物二台
-http://220.135.64.124:5050/4gtv-4gtv103/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",非凡商業
-http://220.135.64.124:5050/4gtv-4gtv048/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",非凡新聞
-http://220.135.64.124:5050/4gtv-4gtv010/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",台灣戲劇台
-http://220.135.64.124:5050/litv-longturn22/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",台視HD
-http://220.135.64.124:5050/4gtv-4gtv066/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",台視新聞台
-http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",台視財經台
-http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",華視
-http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",華視新聞台
-http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",民視HD
-http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",民視台灣台
-http://220.135.64.124:5050/4gtv-4gtv001/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",民視影劇
-http://220.135.64.124:5050/litv-ftv09/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",民視新聞
-http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",民視旅遊
-http://220.135.64.124:5050/litv-ftv07/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",民視第一台
-http://220.135.64.124:5050/4gtv-4gtv003/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",民視綜藝
-http://220.135.64.124:5050/4gtv-4gtv004/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",公視戲劇
-http://220.135.64.124:5050/4gtv-4gtv042/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",八大精彩
-http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",八大綜藝
-http://220.135.64.124:5050/4gtv-4gtv039/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",原住民族電視台
-http://220.135.64.124:5050/4gtv-live014/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",客家電視
-http://220.135.64.124:5050/4gtv-4gtv043/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",霹靂布袋戲
-http://220.135.64.124:5050/4gtv-live145/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",金光布袋戲
-http://220.135.64.124:5050/4gtv-live144/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",豬哥亮歌廳秀,
-http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",人間衛視
-http://220.135.64.124:5050/4gtv-live008/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",大愛二台
-http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",大愛電視
-http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",好消息
-http://220.135.64.124:5050/litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",好消息2台
-http://220.135.64.124:5050/litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",倪珍播新聞
-http://220.135.64.124:5050/nnews-zh/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",倪珍英語新聞
-http://220.135.64.124:5050/nnews-en/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",倪珍越語新聞
-http://220.135.64.124:5050/nnews-vn/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",亞洲旅遊
-http://220.135.64.124:5050/4gtv-4gtv076/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",博斯無限I
-http://220.135.64.124:5050/litv-longturn10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",博斯無限II
-http://220.135.64.124:5050/litv-longturn13/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",博斯網球
-http://220.135.64.124:5050/litv-longturn09/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",博斯運動I
-http://220.135.64.124:5050/litv-longturn07/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",博斯運動II
-http://220.135.64.124:5050/litv-longturn08/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",博斯高球I
-http://220.135.64.124:5050/litv-longturn05/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",博斯高球II
-http://220.135.64.124:5050/litv-longturn06/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",博斯魅力
-http://220.135.64.124:5050/litv-longturn04/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖天卡通台
-http://220.135.64.124:5050/4gtv-4gtv044/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖天國際
-http://220.135.64.124:5050/4gtv-4gtv063/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖天戲劇
-http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖天日本
-http://220.135.64.124:5050/4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖天映畫
-http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖天歡樂
-http://220.135.64.124:5050/4gtv-4gtv054/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖天綜合
-http://220.135.64.124:5050/4gtv-4gtv046/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖天育樂
-http://220.135.64.124:5050/4gtv-4gtv062/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖天資訊
-http://220.135.64.124:5050/4gtv-4gtv065/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖天電影
-http://220.135.64.124:5050/4gtv-4gtv061/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖洋卡通
-http://220.135.64.124:5050/4gtv-4gtv057/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",靖洋戲劇
-http://220.135.64.124:5050/4gtv-4gtv045/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",韓國娛樂台
-http://220.135.64.124:5050/4gtv-4gtv016/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",龍華偶像
-http://220.135.64.124:5050/litv-longturn12/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",龍華卡通
-http://220.135.64.124:5050/litv-longturn01/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",龍華戲劇
-http://220.135.64.124:5050/litv-longturn18/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",龍華日韓
-http://220.135.64.124:5050/litv-longturn11/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",龍華洋片
-http://220.135.64.124:5050/litv-longturn02/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",龍華經典
-http://220.135.64.124:5050/litv-longturn21/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",龍華電影
-http://220.135.64.124:5050/litv-longturn03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",國會頻道1
-http://220.135.64.124:5050/4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",國會頻道2
-http://220.135.64.124:5050/4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",幸福空間居家台
-http://220.135.64.124:5050/4gtv-live206/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",影迷數位紀實台
-http://220.135.64.124:5050/litv-ftv15/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",影迷數位電影台
-http://220.135.64.124:5050/4gtv-4gtv011/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",戲劇免費看1台
-http://220.135.64.124:5050/4gtv-live010/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",新唐人亞太台
-http://220.135.64.124:5050/4gtv-live050/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",時尚運動X
-http://220.135.64.124:5050/4gtv-4gtv014/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",智林體育
-http://220.135.64.124:5050/4gtv-4gtv101/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",歐洲光影
-http://220.135.64.124:5050/4gtv-live157/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",歷史頻道
-http://220.135.64.124:5050/4gtv-live026/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",滾動力 Rollor
-http://220.135.64.124:5050/4gtv-live012/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",第1商業台
-http://220.135.64.124:5050/4gtv-4gtv104/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",精選動漫台
-http://220.135.64.124:5050/4gtv-live024/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",經典卡通台
-http://220.135.64.124:5050/4gtv-live022/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",經典電影台
-http://220.135.64.124:5050/4gtv-live021/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",視納華仁紀實頻道
-http://220.135.64.124:5050/4gtv-4gtv013/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",車迷 TV
-http://220.135.64.124:5050/4gtv-live201/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",達文西
-http://220.135.64.124:5050/4gtv-4gtv018/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",采昌影劇
-http://220.135.64.124:5050/4gtv-4gtv049/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",電影原聲台 CMusic
-http://220.135.64.124:5050/4gtv-live031/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",amc 電影台
-http://220.135.64.124:5050/4gtv-4gtv017/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",ALJAZEERA 半島國際新聞台
-http://220.135.64.124:5050/4gtv-live157/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",Arirang TV
-http://220.135.64.124:5050/4gtv-4gtv079/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",BLOOMBERG TV
-http://220.135.64.124:5050of-/4gtv-live059/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",CI 罪案偵查頻道
-http://220.135.64.124:5050/4gtv-live027/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",Cinema World
-http://220.135.64.124:5050/4gtv-live069/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",CLASSICA 古典樂
-http://220.135.64.124:5050/4gtv-4gtv059/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",CNBC Asia 財經台
-http://220.135.64.124:5050/4gtv-live130/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",DreamWorks
-http://220.135.64.124:5050/4gtv-live017/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",DW德國之聲
-http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",ELTA娛樂
-http://220.135.64.124:5050/4gtv-4gtv070/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",ELTA生活旅遊
-http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",ELTV生活英語台
-http://220.135.64.124:5050/litv-longturn20/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",FRANCE24
-http://220.135.64.124:5050/4gtv-live146/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",FUN 4K探索娛樂
-http://220.135.64.124:5050/4gtv-live011/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",GINX Esports TV
-http://220.135.64.124:5050/4gtv-4gtv053/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",Global Trekker
-http://220.135.64.124:5050/4gtv-live112/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",HITS
-http://220.135.64.124:5050/4gtv-live620/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",INULTRA
-http://220.135.64.124:5050/4gtv-live096/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",Lifetime
-http://220.135.64.124:5050/4gtv-live029/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",LiveABC 互動英語台
-http://220.135.64.124:5050/4gtv-live030/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",LOVE NATURE
-http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",LUXE TV
-http://220.135.64.124:5050/4gtv-live121/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",MagellanTV頻道
-http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",MEZZO LIVE HD
-http://220.135.64.124:5050/4gtv-4gtv083/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",MOMO親子
-http://220.135.64.124:5050/4gtv-live107/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",MTV Live
-http://220.135.64.124:5050/4gtv-live025/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",NHK WORLD
-http://220.135.64.124:5050/4gtv-live168/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",Nick Jr.
-http://220.135.64.124:5050/4gtv-live032/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",Nickelodeon,
-http://220.135.64.124:5050/4gtv-live105/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",Pet Club TV
-http://220.135.64.124:5050/4gtv-live110/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",ROCK Action
-http://220.135.64.124:5050/4gtv-live138/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",ROCK Entertainment
-http://220.135.64.124:5050/4gtv-live080/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",SBN 全球財經台
-http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",Smart知識台
-http://220.135.64.124:5050/litv-longturn19/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",TRACE Sport Stars
-http://220.135.64.124:5050/4gtv-4gtv077/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",Trace Urban
-http://220.135.64.124:5050/4gtv-4gtv082/index.m3u8?proxy=true
-#EXTINF:-1 tvg-logo="" group-title="TW 🇹🇼",TV5MONDE Style
-http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
+#EXTINF:0 tvg-rec="3",Food Network
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1107/index.m3u8
+#EXTINF:0 tvg-rec="3",Ion Television
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/901/index.m3u8
+#EXTINF:0 tvg-rec="3",NYCTV Life
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/902/index.m3u8
+#EXTINF:0 tvg-rec="3",CBS New York
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/903/index.m3u8
+#EXTINF:0 tvg-rec="3",Hallmark Movies & Mysteries HD
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1075/index.m3u8
+#EXTINF:0 tvg-rec="3",Telemundo
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1080/index.m3u8
+#EXTINF:0 tvg-rec="3",NBC
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1081/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney XD
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1082/index.m3u8
+#EXTINF:0 tvg-rec="3",AMC US
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1083/index.m3u8
+#EXTINF:0 tvg-rec="3",HGTV HD
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1084/index.m3u8
+#EXTINF:0 tvg-rec="3",tru TV
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1085/index.m3u8
+#EXTINF:0 tvg-rec="3",MAVTV HD
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1074/index.m3u8
+#EXTINF:0 tvg-rec="3",ABC HD
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1087/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox 5 WNYW
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1086/index.m3u8
+#EXTINF:0 tvg-rec="3",My9NJ
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1088/index.m3u8
+#EXTINF:0 tvg-rec="3",MOTORTREND
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1091/index.m3u8
+#EXTINF:0 tvg-rec="3",BBC America
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1092/index.m3u8
+#EXTINF:0 tvg-rec="3",WPIX-TV
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1090/index.m3u8
+#EXTINF:0 tvg-rec="3",THIRTEEN
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1093/index.m3u8
+#EXTINF:0 tvg-rec="3",WLIW21
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1094/index.m3u8
+#EXTINF:0 tvg-rec="3",NJTV
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1095/index.m3u8
+#EXTINF:0 tvg-rec="3",MeTV
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1096/index.m3u8
+#EXTINF:0 tvg-rec="3",WMBC Digital Television
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1098/index.m3u8
+#EXTINF:0 tvg-rec="3",Univision
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1099/index.m3u8
+#EXTINF:0 tvg-rec="3",UniMÁS
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1100/index.m3u8
+#EXTINF:0 tvg-rec="3",USA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1101/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1102/index.m3u8
+#EXTINF:0 tvg-rec="3",TBS
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1103/index.m3u8
+#EXTINF:0 tvg-rec="3",TLC
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1105/index.m3u8
+#EXTINF:0 tvg-rec="3",FXM en
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1106/index.m3u8
+#EXTINF:0 tvg-rec="3",A&E
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1108/index.m3u8
+#EXTINF:0 tvg-rec="0",A&E CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6419/index.m3u8
+#EXTINF:0 tvg-rec="0",CBC St. John's
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6422/index.m3u8
+#EXTINF:0 tvg-rec="0",CTV Two Atlantic CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6423/index.m3u8
+#EXTINF:0 tvg-rec="0",NFL Network HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6424/index.m3u8
+#EXTINF:0 tvg-rec="0",ICI RDI HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6425/index.m3u8
+#EXTINF:0 tvg-rec="0",TV Ontario HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6426/index.m3u8
+#EXTINF:0 tvg-rec="0",Global Toronto HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6427/index.m3u8
+#EXTINF:0 tvg-rec="0",OMNI.1 HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6428/index.m3u8
+#EXTINF:0 tvg-rec="0",City TV Toronto HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6429/index.m3u8
+#EXTINF:0 tvg-rec="0",Yes TV HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6431/index.m3u8
+#EXTINF:0 tvg-rec="0",CHCH HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6432/index.m3u8
+#EXTINF:0 tvg-rec="0",TFO HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6433/index.m3u8
+#EXTINF:0 tvg-rec="0",OMNI.2 HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6434/index.m3u8
+#EXTINF:0 tvg-rec="0",FX HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6435/index.m3u8
+#EXTINF:0 tvg-rec="0",TCTV2 CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6437/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet ONE HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6438/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet Ontario HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6439/index.m3u8
+#EXTINF:0 tvg-rec="0",YTV HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6441/index.m3u8
+#EXTINF:0 tvg-rec="0",CBC News Network HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6442/index.m3u8
+#EXTINF:0 tvg-rec="0",W Network HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6443/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 4 HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6445/index.m3u8
+#EXTINF:0 tvg-rec="0",TLC HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6446/index.m3u8
+#EXTINF:0 tvg-rec="0",OLN HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6447/index.m3u8
+#EXTINF:0 tvg-rec="0",CMT Canada CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6448/index.m3u8
+#EXTINF:0 tvg-rec="0",Showcase HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6449/index.m3u8
+#EXTINF:0 tvg-rec="0",CTV Drama HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6450/index.m3u8
+#EXTINF:0 tvg-rec="0",Slice HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6451/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Channel HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6452/index.m3u8
+#EXTINF:0 tvg-rec="0",History HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6453/index.m3u8
+#EXTINF:0 tvg-rec="0",CTV Comedy HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6454/index.m3u8
+#EXTINF:0 tvg-rec="0",Teletoon HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6455/index.m3u8
+#EXTINF:0 tvg-rec="0",HGTV HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6456/index.m3u8
+#EXTINF:0 tvg-rec="0",Peachtree TV HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6457/index.m3u8
+#EXTINF:0 tvg-rec="0",Turner Classic Movies HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6458/index.m3u8
+#EXTINF:0 tvg-rec="0",CTV SCI-FI HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6459/index.m3u8
+#EXTINF:0 tvg-rec="0",Family HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6460/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6461/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet 360 HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6462/index.m3u8
+#EXTINF:0 tvg-rec="0",DTour HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6463/index.m3u8
+#EXTINF:0 tvg-rec="0",Food Network HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6464/index.m3u8
+#EXTINF:0 tvg-rec="0",BNN Bloomberg HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6465/index.m3u8
+#EXTINF:0 tvg-rec="0",ABC Spark CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6466/index.m3u8
+#EXTINF:0 tvg-rec="0",Vision TV CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6467/index.m3u8
+#EXTINF:0 tvg-rec="0",CTV News Channel HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6468/index.m3u8
+#EXTINF:0 tvg-rec="0",E! Entertainment HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6469/index.m3u8
+#EXTINF:0 tvg-rec="0",FXX HDTV CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6470/index.m3u8
+#EXTINF:0 tvg-rec="0",Treehouse HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6471/index.m3u8
+#EXTINF:0 tvg-rec="0",NatGeo Wild HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6473/index.m3u8
+#EXTINF:0 tvg-rec="0",Family Jr. HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6474/index.m3u8
+#EXTINF:0 tvg-rec="0",OWN HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6475/index.m3u8
+#EXTINF:0 tvg-rec="0",Game TV CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6476/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet East HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6477/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet West HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6478/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportsnet Pacific HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6479/index.m3u8
+#EXTINF:0 tvg-rec="0",NFL Network HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6480/index.m3u8
+#EXTINF:0 tvg-rec="0",Golf Channel HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6481/index.m3u8
+#EXTINF:0 tvg-rec="0",CNBC Canada CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6482/index.m3u8
+#EXTINF:0 tvg-rec="0",Headline News HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6483/index.m3u8
+#EXTINF:0 tvg-rec="0",Lifetime HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6484/index.m3u8
+#EXTINF:0 tvg-rec="0",NatGeo HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6485/index.m3u8
+#EXTINF:0 tvg-rec="0",MovieTime HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6486/index.m3u8
+#EXTINF:0 tvg-rec="0",DIY Network CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6488/index.m3u8
+#EXTINF:0 tvg-rec="0",Disney Junior CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6489/index.m3u8
+#EXTINF:0 tvg-rec="0",Disney Channel HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6490/index.m3u8
+#EXTINF:0 tvg-rec="0",NBA TV Canada CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6491/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 2 HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6492/index.m3u8
+#EXTINF:0 tvg-rec="0",CPAC English CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6494/index.m3u8
+#EXTINF:0 tvg-rec="0",Makeful CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6495/index.m3u8
+#EXTINF:0 tvg-rec="0",CTV Toronto CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6496/index.m3u8
+#EXTINF:0 tvg-rec="0",CBC Toronto CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6497/index.m3u8
+#EXTINF:0 tvg-rec="0",CNN CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6499/index.m3u8
+#EXTINF:0 tvg-rec="0",HLN CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6500/index.m3u8
+#EXTINF:0 tvg-rec="0",CP 24 CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6501/index.m3u8
+#EXTINF:0 tvg-rec="0",Treehouse TV CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6502/index.m3u8
+#EXTINF:0 tvg-rec="0",Disney XD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6503/index.m3u8
+#EXTINF:0 tvg-rec="0",Nickelodeon CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6504/index.m3u8
+#EXTINF:0 tvg-rec="0",NBC Buffalo CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6505/index.m3u8
+#EXTINF:0 tvg-rec="0",Crime + Investigation CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6506/index.m3u8
+#EXTINF:0 tvg-rec="0",ABC Buffalo CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6507/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoon Network CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6508/index.m3u8
+#EXTINF:0 tvg-rec="0",Turner Classic Movies CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6509/index.m3u8
+#EXTINF:0 tvg-rec="0",AMC CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6510/index.m3u8
+#EXTINF:0 tvg-rec="0",TVA Montreal CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6511/index.m3u8
+#EXTINF:0 tvg-rec="0",MLB Network HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6512/index.m3u8
+#EXTINF:0 tvg-rec="0",CBC Toronto HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6513/index.m3u8
+#EXTINF:0 tvg-rec="0",ICI Radio-Canada Télé CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6515/index.m3u8
+#EXTINF:0 tvg-rec="0",WNLO Buffalo CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6517/index.m3u8
+#EXTINF:0 tvg-rec="0",PBS Buffalo CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6518/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX Buffalo CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6519/index.m3u8
+#EXTINF:0 tvg-rec="0",History Television CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6520/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 1 HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6521/index.m3u8
+#EXTINF:0 tvg-rec="0",TSN 3 HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6522/index.m3u8
+#EXTINF:0 tvg-rec="0",CPAC French CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6523/index.m3u8
+#EXTINF:0 tvg-rec="0",TLC CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6524/index.m3u8
+#EXTINF:0 tvg-rec="0",HGTV Canada CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6525/index.m3u8
+#EXTINF:0 tvg-rec="0",Showcase CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6526/index.m3u8
+#EXTINF:0 tvg-rec="0",Peachtree CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6527/index.m3u8
+#EXTINF:0 tvg-rec="0",ICI RDI CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6530/index.m3u8
+#EXTINF:0 tvg-rec="0",TV5 CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6531/index.m3u8
+#EXTINF:0 tvg-rec="0",Unis TV HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6532/index.m3u8
+#EXTINF:0 tvg-rec="0",CBS Buffalo HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6534/index.m3u8
+#EXTINF:0 tvg-rec="0",NBC Buffalo HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6535/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX Buffalo HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6537/index.m3u8
+#EXTINF:0 tvg-rec="0",CNN HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6538/index.m3u8
+#EXTINF:0 tvg-rec="0",Adult Swim HD CA
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/6540/index.m3u8
+#EXTINF:0 tvg-rec="0",NHL Network US
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/7225/index.m3u8
+#EXTINF:0 tvg-rec="0",NBA TV HD US
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/7226/index.m3u8
+#EXTINF:0 tvg-rec="0",MSG US
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/7325/index.m3u8
+#EXTINF:0 tvg-rec="0",MSG 2 US
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/7326/index.m3u8
+#EXTINF:0 tvg-rec="0",AT&T SPORTSNET HD
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/11107/index.m3u8
+#EXTINF:0 tvg-rec="0",SPECTRUM SPORTSNET
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/11108/index.m3u8
+#EXTINF:0 tvg-rec="0",NESN HD
+#EXTGRP:CA 🇨🇦  US 🇺🇸
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/11109/index.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
