@@ -1052,7 +1052,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
-http://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 http://156.239.254.7:5555/smt.php?id=Nba
 
 #EXTINF:-1 tvg-id="VOLITV.ID" tvg-name="VOLI TV" tvg-logo="https://mimipipi22.github.io/logo/sports/volitv.jpg" group-title="SPORTS",VOLI TV
@@ -1071,6 +1071,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="SPORTS",W-SPORTS
 http://156.239.254.7:5555/smt.php?id=go_assp5
+http://156.239.254.7:5555/smt.php?id=go_assp5&proxy=true
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -3829,8 +3830,8 @@ https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36 
 #EXTINF:-1 tvg-id="496.mytv" tvg-logo="https://mimipipi22.github.io/logo/entertainment/dramaworld.jpg" group-title="ENTERTAINMENT",DRAMA CHANNEL (BACKUP)
-https://mimipipi22.github.io/logo/offline.m3u8
-http://tr.simotvgold.com/play/live.php?mac=A0:BB:3E:01:65:3F&stream=1919453&extension=ts&play_token=b62p2cxAQV
+#https://mimipipi22.github.io/logo/offline.m3u8
+#http://tr.simotvgold.com/play/live.php?mac=A0:BB:3E:01:65:3F&stream=1919453&extension=ts&play_token=b62p2cxAQV
 https://slive.mana2.my/DramaChannel/index.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -3962,32 +3963,32 @@ https://e1.thetvapp.to/hls/AEEast/tracks-v1a1/playlist.m3u8|referer=https://r-st
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="US : BBC AMERICA WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45612.png" group-title="ENTERTAINMENT",US : BBC AMERICA
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 https://e1.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="US : E! ENTERTAINMENT TELEVISION WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45584.png" group-title="ENTERTAINMENT",US : E! ENTERTAINMENT TV
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 https://e1.thetvapp.to/hls/EEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="FXPacific.us" tvg-name="US : FX WEST" tvg-logo="http://51.158.145.100/picons/logos/USA/45451.png" group-title="ENTERTAINMENT",US : FX
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/FX/index.m3u8
+https://fl1.moveonjoy.com/FX/index.m3u8
 https://e1.thetvapp.to/hls/FXEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="US : PARAMOUNT NETWORK WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45500.png" group-title="ENTERTAINMENT",US : PARAMOUNT NETWORK
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1  tvg-name="Syfy Eastern Feed HD" tvg-id="syfy-eastern-feed" tvg-logo="http://51.158.145.100/picons/logos/USA/45476.png" group-title="ENTERTAINMENT",Syfy Eastern Feed HD
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SYFY/index.m3u8
+https://fl1.moveonjoy.com/SYFY/index.m3u8
 https://e1.thetvapp.to/hls/SyfyEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1  tvg-name="Starz Eastern HD" tvg-id="starz-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="ENTERTAINMENT",Starz Eastern HD
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ/index.m3u8
+https://fl1.moveonjoy.com/STARZ/index.m3u8
 https://e1.thetvapp.to/hls/StarzEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot.com
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="ENTERTAINMENT",TNT (PXL)
@@ -5825,6 +5826,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://mimipipi22.github.io/logo/news/cnbcasia.jpg" group-title="NEWS",CNBC ASIA (MOVEONJOY)
+https://fl1.moveonjoy.com/CNBC/index.m3u8
 https://fl31.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -6550,8 +6552,7 @@ https://maldivesn.net/hilaytv/popup
 https://jmp2.uk/plu-664c951df99922000842870c.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonnetwork.mv" tvg-name="Cartoon Network US" tvg-logo="https://8upload.com/image/68063548097dd/cnhilay.png" group-title="KIDS",CN US
-https://fl30.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-https://maldivesn.net/hilaytv/cartoonnetwork
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="sensicaljr.mv" tvg-name="Sensical Jr" tvg-logo="https://8upload.com/image/68247b8a9e355/sensicaljrhilay.png" group-title="KIDS",SENSICAL JR
 https://maldivesn.net/hilaytv/sensicaljr
@@ -7330,7 +7331,7 @@ https://i.mjh.nz/.r/discovery-hgtv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="FoodNetwork.id" tvg-name="Food Network" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/foodnetwork.jpg" group-title="LIFESTYLE",FOOD NETWORK (MVJ)
-https://fl31.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.ts.m3u8
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
@@ -7348,7 +7349,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/tlc.jpg" group-title="LIFESTYLE",TLC (MVJ)
-https://fl61.moveonjoy.com/TLC/tracks-v1a1/mono.ts.m3u8
+https://fl1.moveonjoy.com/TLC/index.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
