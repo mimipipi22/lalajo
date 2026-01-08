@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-01-07 11:09:00 GMT+7 "
+# (●) Last Update: 2026-01-08 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -184,6 +184,7 @@ https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/beritasatu.jpg" group-title="INDONESIA TV",BERITASATU
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=303eeb13aee345d3b04d6a407b4ff199:cdf924eb0f1b5017ac590f4f70f00a53
@@ -2444,7 +2445,7 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",STAR MOVIES
+#EXTINF:-1 tvg-logo="https://logo.catvod.com/Star Movies HD.png" group-title="MOVIES",STAR MOVIES
 https://live.catvod.com/live.php?id=starmovies_raj
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9F_ME-A3fvVS5AFn8EJrhDHkZ8aItOZKyg&s" group-title="MOVIES",3rsSINEPINOY
@@ -3188,17 +3189,17 @@ https://live.catvod.com/live.php?id=go_assp4
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",ASTRO SPORTSPLUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.catvod.com/Astro Sports Plus.png" group-title="SPORTS",ASTRO SPORTSPLUS
 https://live.catvod.com/live.php?id=go_sportsplus
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",ASTRO BADMINTON 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.catvod.com/Astro Badminton 1.png" group-title="SPORTS",ASTRO BADMINTON 1
 https://live.catvod.com/live.php?id=go_badminton1
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",ASTRO BADMINTON 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.catvod.com/Astro Badminton 2.png" group-title="SPORTS",ASTRO BADMINTON 2
 https://live.catvod.com/live.php?id=go_badminton2
 https://mimipipi22.github.io/logo/offline.m3u8
 
@@ -3284,7 +3285,7 @@ http://178.33.239.54:8080/507/index.m3u8
 https://live.catvod.com/live.php?id=tiankongmix
 https://mimipipi22.github.io/logo/offline.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",SKY SPORTS NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.catvod.com/SKYSPORTS News.png" group-title="SPORTS",SKY SPORTS NEWS
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9314/index.m3u8
 http://178.33.239.54:8080/506/index.m3u8
 https://live.catvod.com/live.php?id=tiankongracing
@@ -4944,14 +4945,23 @@ https://maldivesn.net/hilaytv/kpopplus
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="MUSIC", K-POP by CJ ENM
 https://jmp2.uk/stvp-US39000038W
 
+#EXTVLCOPT:http-referer=https://mic-indo.com/live/
 #EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" group-title="MUSIC", MIC
+https://mic.siar.us/mic/live/mic.m3u8
 https://mic.siar.us/mic/live/playlist.m3u8
-http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",CHANNEL 1
+http://tv.casindo.org/hls/17/17.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",CHANNEL 2
+http://tv.casindo.org/hls/18/18.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",CHANNEL 3
+http://tv.casindo.org/hls/13/13.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://github.com/mimipipi22/logo/blob/main/vidio/musica.jpg",MUSIKA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=7619
 https://bitter-boa-67.deno.dev/play.mpd?id=7619&type=dash
-#https://spacetv.my.id/index.m3u8?id=7619&type=hls
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.opp.no/applefavicon.png",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
@@ -4973,44 +4983,23 @@ https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mtvhits.jpg" group-title="MUSIC",MTV HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash3.antik.sk/stream/hisi_mtv_hits/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mtv90.jpg" group-title="MUSIC",MTV '90
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_mtv_90/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/clubmtv.jpg" group-title="MUSIC",CLUB MTV
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mb-sexy.jpg" group-title="MUSIC",MUSIX BOX SEXY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
-https://dash3.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
+https://dash4.antik.sk/live/mb_sexy/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mtv00.jpg" group-title="MUSIC",MTV '00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_mtv_00/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mtv80.jpg" group-title="MUSIC",MTV '80
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mb-hits.jpg" group-title="MUSIC",MUSIX BOX HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
-https://dash3.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
+https://dash3.antik.sk/live/mb_hits/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/mb-classic.jpg" group-title="MUSIC",MUSIX BOX CLASSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/mb_classic/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/ocko.jpg" group-title="MUSIC",OCKO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
