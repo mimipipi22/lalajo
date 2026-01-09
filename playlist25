@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-01-08 11:09:00 GMT+7 "
+# (●) Last Update: 2026-01-09 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -1317,6 +1317,23 @@ http://gooo.blog/opix/genx.m3u8?id=guangdongtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJI
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=cetv1&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png",Zhejiang Qianjiang 浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png",Zhejiang Economy 浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png",Zhejiang People's Livelihood 浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://i.imgur.com/puBiuLK.jpeg",Zhejiang Records 之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png",Zhejiang Education 浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png",Zhejiang Children 浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png",Zhejiang International 浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png",Zhejiang News 浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 
 
 //========================================================================
@@ -2750,15 +2767,16 @@ https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/in
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="ENTERTAINMENT",VIUTV TAIWAN
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+#http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+#http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/VIUTV6.png" group-title="ENTERTAINMENT",VIUTV6 TAIWAN
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
-http://php.jdshipin.com/smt.php?id=viusix_twn
+#http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#http://php.jdshipin.com/smt.php?id=viusix_twn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TVB Entertainment.png" group-title="ENTERTAINMENT",TVB ENTERTAINMENT
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+#http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TVB PLUS
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
+#http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
 http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
 
 
@@ -5409,50 +5427,53 @@ https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="MY 🇲🇾",AEC
-http://smt.1678520.xyz/smt3.2.1.php?id=AEC
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+https://o11.163189.xyz/stream/live/aec/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="MY 🇲🇾",AOD
-http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+https://o11.163189.xyz/stream/live/aod/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="MY 🇲🇾",Hua Hee
-http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+https://mimipipi22.github.io/logo/offline.m3u8
+#http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
+#http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="MY 🇲🇾",QJ
-http://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+https://o11.163189.xyz/stream/live/qj/
+#http://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+#http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="MY 🇲🇾",TVB Jade
-http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+https://o11.163189.xyz/stream/tvb/fct/
+https://o11.163189.xyz/stream/live/jade/
+#http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
+#http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="MY 🇲🇾",TVB Asia
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" group-title="MY 🇲🇾",TVB Entertainment
-http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+#http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+#http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="MY 🇲🇾",TVBClassic
-http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+#http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+#http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="MY 🇲🇾",Xing He
-http://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#http://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
+#http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="MY 🇲🇾",Qiyi
-http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+https://o11.163189.xyz/stream/live/iqiyi/
+#http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+#http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-title="MY 🇲🇾",Showcase
-https://live.catvod.com/live.php?id=Showcase
+#https://live.catvod.com/live.php?id=Showcase
 https://mimipipi22.github.io/logo/offline.m3u8
 
 
@@ -6434,76 +6455,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/ind
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TVB News Channel
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jade Channel
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jade Channel
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Glamorous Jade Channel
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Pearl Channel
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TVB PLUS
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TVB Galaxy
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Millennium Classic Channel
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TVB Entertainment News Channel
-http://smt.veryfast.filegear-sg.me/smt3 .2.1.php?id=Tvbentertainment
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Phoenix Chinese
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Phoenix News
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Phoenix Hong Kong
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",HOY 77
-http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",HOY 78
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hoycaijing_twn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",ViuTV
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",ViuTV6
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",RTHK31
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",RTHK32
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32 _twn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",iQiyi
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Meiya Movie Channel
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Celestial Channel
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Celestial Classics
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",8TV
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Astro AOD
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Astro AEC
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Astro QJ
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Astro Huanxi Channel
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Longhua Cinema
-http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Longhua Classics
-http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Longhua Cartoon
-http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Longhua Idol
-http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Longhua Japanese & Korean
-http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Longhua Drama
-http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Longhua Foreign Films
-http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",CTV News
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TVBS
@@ -7361,6 +7312,158 @@ http://yp.qqqtv.top/bc/bc.php?id=CCTV-17+%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91&au
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-4+%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85+%E6%AC%A7%E6%B4%B2&auth=66615415
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV",CCTV-4 中文国际 美洲
 http://yp.qqqtv.top/bc/bc.php?id=CCTV-4+%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85+%E7%BE%8E%E6%B4%B2&auth=66615415
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/204393941/eb24bf06559f6833b9d6e413b49abedb94993779" group-title="▶ VOD VIU", Love Clinique
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234513&quality=s240p&product_id=2576995&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166234510/1166235143/e995772c3f8cac3c4df6be1805caeb638817c94f" group-title="▶ VOD VIU", Office
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234510&quality=s240p&product_id=2576989&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1897725856/6741b96ea87dc591f28eabf7a401fb1e2624b8d4" group-title="▶ VOD VIU", The Accidental Detective
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166212435&quality=s240p&product_id=2407924&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/984906000/9ab905ec94abe2ac16dbd53d77537b5da57dee65" group-title="▶ VOD VIU", Return of the Mafia
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234512&quality=s240p&product_id=2576998&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/4226015141/a0938bdeb7edd6922ebb54757a9508948d215092" group-title="▶ VOD VIU", Code Name: Jackal
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166234511&quality=s240p&product_id=2576992&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1581662655/7ad1153fd4be35ce66ea1e8b60a9ca235e2660da" group-title="▶ VOD VIU", Handsome Guys Movie
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166233531&quality=s240p&product_id=2572262&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2737472757/a704e2a592f9bda3a330f00a8946efff6ea90355" group-title="▶ VOD VIU", The Bad Guys: Reign of Chaos
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166233533&quality=s240p&product_id=2572259&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166229450/1166232271/32993e5e0d48adda873a0cf530b678afcb51c45d" group-title="▶ VOD VIU", Pilot
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166229450&quality=s240p&product_id=2553320&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166229449/1166231018/26fa853a47d5df6d8c80f295942cf871d7d5c82e" group-title="▶ VOD VIU", Escape
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166229449&quality=s240p&product_id=2553315&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/376549311/9f78e3c48be663d470e17fb20b3d158ae4ddda8c" group-title="▶ VOD VIU", Mama
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166229731&quality=s240p&product_id=2554208&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166229451/1166230225/05d5f707191e89125ccb051834d47807742ebf45" group-title="▶ VOD VIU", Sori: Voice From The Heart
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166229451&quality=s240p&product_id=2553324&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166223065/1166227485/eb97758b5775a8d0624ecab119f98b6e80b8f24e" group-title="▶ VOD VIU", The Roundup: Punishment
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166223065&quality=s240p&product_id=2525584&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166223070/1166227481/e60c3621b4d03109954dfc231180d750235360e7" group-title="▶ VOD VIU", Drive
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166223070&quality=s240p&product_id=2526145&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166223109/1166225328/8ee3b6df5632d06e3794d972351ea2e16c50d2ad" group-title="▶ VOD VIU", The Pirates
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166223109&quality=s240p&product_id=2526150&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2283186222/472f5890b5db6efea3812a37142d098c10f8606a" group-title="▶ VOD VIU", The Fatal Encounter
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166221340&quality=s240p&product_id=2518886&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/779028039/84919400e95ab0837e96732520bd23908c30f1c0" group-title="▶ VOD VIU", The Following
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166221235&quality=s240p&product_id=2517942&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3805937862/625067b8c115fc60bda4951e80b39233dbcdaccb" group-title="▶ VOD VIU", Citizen of A Kind
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166221234&quality=s240p&product_id=2518857&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/991436112/5f67a48c01be456df0b5fc00e51326ba505605d2" group-title="▶ VOD VIU", Memories of the Sword
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166221344&quality=s240p&product_id=2518456&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1165728491/1165751756/8754fb8a39e5ad36e1aea995e0f547d0ec775c3e" group-title="▶ VOD VIU", Veteran
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1165728491&quality=s240p&product_id=1784830
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166199490/1166201126/4c12815df66aff1b6f04fd83c9db042e9c156702" group-title="▶ VOD VIU", Race to Freedom: Um Bok Dong
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166199490&quality=s240p&product_id=2359987&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2163520633/14c43e9a2f71f80bb18fdc362738993dce899c63" group-title="▶ VOD VIU", Exhuma
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166214923&quality=s240p&product_id=2428484&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166214921/1166220284/90958c6d62f43131c576917cbc3615bb52f7e1d2" group-title="▶ VOD VIU", Bottom of the Water
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166214921&quality=s240p&product_id=2428476&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1344725207/26aec5aebe944d3e4dbe64f6d182f181277e00cc" group-title="▶ VOD VIU", Love My Scent
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166212426&quality=s240p&product_id=2407570&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2633366886/66bd18324296dc1a322e9158b0b2f200561d7121" group-title="▶ VOD VIU", The Boys
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166212425&quality=s240p&product_id=2407562&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1063284376/442962aef447f2f1013faf881a177ae849451a55" group-title="▶ VOD VIU", Miracle in Cell No.7
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166212427&quality=s240p&product_id=2407566&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1163684872/1163695360/f9f0c7dbcfef8f3b217215226f56995990994621" group-title="▶ VOD VIU", Train to Busan
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166212480&quality=s240p&product_id=2415348&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3902725545/9cd293959fe7b4b8131cfbe3868b4efddd27fda9" group-title="▶ VOD VIU", 12.12: The Day
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166208391&quality=s240p&product_id=2399631&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166208386/1166211088/8ebf888be17f49da9687d71b831f68ec1377c4a8" group-title="▶ VOD VIU", Noryang: Deadly Sea
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166208386&quality=s240p&product_id=2396832&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/808273927/d5661f59f71ea18cd3cd34f5c292204f0d8fe3c8" group-title="▶ VOD VIU", Steel Rain: Summit
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166208390&quality=s240p&product_id=2399627&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166203993/1166204197/467f682040390e9835f42ff983fec307f07c461e" group-title="▶ VOD VIU", Deadman
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166203993&quality=s240p&product_id=2379509&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166203992/1166204194/5038bd4ffd4263802c7116d654106960c6dc1851" group-title="▶ VOD VIU", Where Would You Like To Go?
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166203992&quality=s240p&product_id=2379501&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3766122105/a7e39d7c22c3c32b88e3c510604280306a0dfa24" group-title="▶ VOD VIU", The Tiger
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166203994&quality=s240p&product_id=2379505&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2995806963/9276a842cd333f4b4cbf79999202c56cbb89f150" group-title="▶ VOD VIU", Our Season
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166199489&quality=s240p&product_id=2359960&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166199482/1166200175/402f1b546a8652b50f4c160d13eb2838aee9f4e2" group-title="▶ VOD VIU", Joseon Chefs
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166199482&quality=s240p&product_id=2359966&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1161063199/60ffa39cb9fa55fc649b34c9fb13e8265e1cb7d9" group-title="▶ VOD VIU", Missing You
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166198215&quality=s240p&product_id=2357347&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/4207491442/b8db2224a01c941a46814354397fbfae7b333cd0" group-title="▶ VOD VIU", Love Reset
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166195908&quality=s240p&product_id=2352580&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166191383/1166192281/14a79d08e1c4c1e6c66cb6f53c8d8a460dae7295" group-title="▶ VOD VIU", Dr. Cheon and the Lost Talisman
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166191383&quality=s240p&product_id=2337738&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/3744962170/e4d890af5b258c61f705295efdbcc1d270284f80" group-title="▶ VOD VIU", Single in Seoul
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166184171&quality=s240p&product_id=2315450&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1145155086/604699929d366d4cddf58a7ed87a212ca2907f77" group-title="▶ VOD VIU", Smugglers
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166179209&quality=s240p&product_id=2302064&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2019087394/8d8f4645a4e577f43e9bb5f07658b1cf4248b4a7" group-title="▶ VOD VIU", Sleep
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166171734&quality=s240p&product_id=2282679&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/1197163074/012900255d6f88a9cedfac004a05b454dc0b3722" group-title="▶ VOD VIU", The Roundup: No Way Out
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166166392&quality=s240p&product_id=2269474&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/31109125/352f83ce82c33904373fcd58fae1da5c0b7c8cd4" group-title="▶ VOD VIU", My Worst Neighbor
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166157653&quality=s240p&product_id=2253006&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166124325/1166132617/f8f40333b4d5ef1352de7bc01d918f80dbb60de3" group-title="▶ VOD VIU", Deep Trap
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166124325&quality=s240p&product_id=2170913&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166124042/1166125532/4d820737f7560b2118a3a8bc94430d0a20f42543" group-title="▶ VOD VIU", Decibel
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166124042&quality=s240p&product_id=2169576&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166107893/1166114409/765924c03b8dfd1a1efc1a4e735db6f0948f4423" group-title="▶ VOD VIU", Confidential Assignment 2: International
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166107893&quality=s240p&product_id=2125495&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166083010/1166086656/8ce5815cde94000dd6e38b44fb78ec313baa3751" group-title="▶ VOD VIU", Emergency Declaration
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166083010&quality=s240p&product_id=2058857&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166083013/1166088674/67c87a788165cd3f6f9bce2cdf1695d43e5d1408" group-title="▶ VOD VIU", The Goblin
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166083013&quality=s240p&product_id=2058779&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1164061646/1164077208/e3b4a064ee9622f09d45ff8c308709e22521ae22" group-title="▶ VOD VIU", Confidential Assignment
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1164061646&quality=s240p&product_id=1785031&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166055956/1166067763/f82d1176991267d4d6b293c936cb395928178fd4" group-title="▶ VOD VIU", Mourning Grave
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166055956&quality=s240p&product_id=1784504&lang=Malay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166073881/1166082022/aa9232507b54d9f9c2f7ebac1712082f6a9705e1" group-title="▶ VOD VIU", The Witch: Part 2. The Other One
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166073881&quality=s240p&product_id=1784476&lang=Malay
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
