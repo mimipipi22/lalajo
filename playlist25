@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-01-13 11:09:00 GMT+7 "
+# (●) Last Update: 2026-01-14 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -2633,29 +2633,51 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPYac/.
 #KODIPROP:inputstream.adaptive.license_key=ae5d967526f90c80102fab021e3dd282:226f3cfc4f00e03dbe39e2a88760293f
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CANAL_CLARO_HD)/manifest.mpd
 
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
+#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://i.ibb.co.com/Kj5gRmgZ/andtv.png" group-title="ENTERTAINMENT",&TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Kj5gRmgZ/andtv.png" group-title="ENTERTAINMENT", &TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Kj5gRmgZ/andtv.png" group-title="ENTERTAINMENT",&TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://i.ibb.co.com/0cCnnT4/andpictures.png" group-title="ENTERTAINMENT",&PICTURES HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/0cCnnT4/andpictures.png" group-title="ENTERTAINMENT", &PICTURES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/0cCnnT4/andpictures.png" group-title="ENTERTAINMENT",&PICTURES SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/B2TwSY4x/zeeetv.png" group-title="ENTERTAINMENT", Z TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/B2TwSY4x/zeeetv.png" group-title="ENTERTAINMENT",Z TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://i.ibb.co.com/B2TwSY4x/zeeetv.png" group-title="ENTERTAINMENT",Z TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Ykzc1gk/zeecinema.png" group-title="ENTERTAINMENT", Z Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Ykzc1gk/zeecinema.png" group-title="ENTERTAINMENT",Z Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XUCpAyOPStmKu-0Yd9Tj0Q","kid":"9WvqrJ8SRhaHLHQcnOT6Tg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Ykzc1gk/zeecinema.png" group-title="ENTERTAINMENT",Z Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Ykzc1gk/zeecinema.png" group-title="ENTERTAINMENT", Z Cinema (Backup)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Ykzc1gk/zeecinema.png" group-title="ENTERTAINMENT",Z Cinema SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2664,9 +2686,29 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HD6fzl8BRUK-nNH3SRgSBA","kid":"QCNhNFd3TL63GmLDOZcOYw"}],"type":"temporary"}
+#EXTINF:1 tvg-id="Zee Anmol" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347.png" group-title="ENTERTAINMENT",Zee Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="ENTERTAINMENT", Zee Anmol Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"-fiy4wcERYuNuESihc4yvg","kid":"8PsU7r5HSmq3TIMB1VpyJA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Zing" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="ENTERTAINMENT",Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PD6NAln3SPGDD3E6dpdg5w","kid":"nXoZF+4yRNGYGTzdH/H+rg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="ENTERTAINMENT",Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ne9DFfAAQBmjcFvLPPMMow","kid":"hu3snjt9QEKk1KHKFPhH7g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Zoom" tvg-name="ZOOM" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="ENTERTAINMENT",ZOOM
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="ENTERTAINMENT",Hum TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2674,9 +2716,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=83404dd4292fec9e27173696f6e42dee&key=a9dd477034d4fb2e7e5dc7c21ce73fed
 https://live2.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
 
-#EXTINF:-1 tvg-id="zeeone" tvg-name="Z One" tvg-logo="https://8upload.com/image/68729f0b484f9/zeeonehilay.png" group-title="ENTERTAINMENT",Z One
-https://jmp2.uk/stvp-GBBD1100013BJ
-https://maldivesn.net/hilaytv/zeeworld
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="74" tvg-chno="621" tvg-name="star-vision" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/star-vision.png" group-title="ENTERTAINMENT", STAR VISION
 #KODIPROP:inputstream=inputstream.adaptive
@@ -6306,148 +6346,6 @@ http://185.188.188.237:5000/live/nickjr/playlist.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",CTV News
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TVBS
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TVBS Highlights
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TVBS Variety Channel
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TVBS Drama Channel
-https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E5%8F%B0%E5%8A%87%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",CTS
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Indigenous Television
-https://4gtv.946985.filegear-sg .me/playlist?channel=%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E9%9B%BB%E8%A6%96%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Hakka TV
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AE%A2%E5%AE%B6%E9%9B%BB%E8 %A6%96%E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Zhu Geliang's Cabaret Show
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%B1%AC%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%BB%B3%E7%A7%80
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jin Guang Puppet Show
-https://4gtv.946985.filegear-sg.me/p laylist?channel=%E9%87%91%E5%85%89%E5%B8%83%E8%A2%8B%E6%88%B2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Pili Puppet Show
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9C%B9%E9%9D%82%E5%B8%83%E8%A2%8B%E6%88%B2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Good news
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Good news 2
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Love It All 2
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E4%BA%8C%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Asian Tourism
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Korean Entertainment Channel KMTV
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",KMTV Happy Space Home
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%96%93%E5%B1%85%E5%AE%B6%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Zhilin Sports
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Fashion Sports X
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jingtian Comprehensive
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jingtian Japan
-https://4gtv.946985.filegear r-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jingtian International KLT
-https://4gtv.946985.filegear-sg.me/playlist?channel=KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jingtian News
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A%E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jingtian Fun Nice TV
-https://4gtv.946985.filegear-sg.me/playlist?channel=Nice%20TV%20%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82%E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jing Tian Entertainment
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jing Tian Drama
-https://4gtv.946985.filegear-sg.me/playlist st?channel=%E9%9D%96%E5%A4%A9%E6%88%B2%E5%8A%87%E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jingtian Films
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%95%AB 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jingtian Cartoon
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jingyang Cartoon Nice Bingo
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Jingyang Drama
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E6%B4%8B%E6%88%B2%E5%8A%87% E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Caichang Film and Television
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%87%87%E6%98%8C%E5%BD%B1%E5%8 A%87%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Longhua Cinema
-http://hls-pull-wicketpw.speedws.com/live/IpPvbrMRv3mmh9SqiPKggS5PTD0kDpl7ak7v0IYr5UdKor379J.flv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",amc movies
-https://4gtv.946985.filegear-sg.me/playlist?channel=amc%E9%9B%BB%E5%BD%B1%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",CinemaWorld
-https://4gtv.946985.filegear-sg.me/playlist?channel=CinemaWorld
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",My Cinema Europe HD
-https://4gtv.946985.filegear-sg.me/playlist?channel=My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AD%90%E6%B4%B2%E9%9B%BB%E5%BD%B1 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Original Soundtrack (CMusic)
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9B%BB%E5%BD%B1%E5%8E%9F%E8%81%B2%E5%8F%B0CMusic 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Crime Investigation Channel
-https://4gtv.946985.filegear-sg.me/playlist?channel=CI%20%E7%BD%AA%E6%A1%88%E5%81%B5%E6%9F%A5%E9%A0%BB%E9%81%93 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Visionary Warren Documentary Channel
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%A6%96% E7%B4%8D%E8%8F%AF%E4%BB%81%E7%B4%80%E5%AF%A6%E9%A0%BB%E9%81%93 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Digital Documentary for Film Fans
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E7%B4%80%E5%AF%A6%E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",ALJAZEERA
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8D% 8A%E5%B3%B6%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",ARIRANG Channel
-https://4gtv.946985.filegear-sg.me/playlist?channel=ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A0%BB%E9%81%93
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Bloomberg TV
-https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",CLASSICA
-https://4gtv.946985.filegear-sg.me/playlist?channel=CLASSICA%20%E5%8F%A4%E5%85%B8%E6%A8%82
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",CNBC Asia
-https://4gtv.946985.filegear-sg.me/playlist?channel=CNBC%20Asia%20%E8%B2%A1%E7%B6%93%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",DA VINCI
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",DreamWorks
-https://4gtv.946985.filegear-sg.me/playlist?channel=DreamWorks%20%E5%A4%A2%E5%B7%A5%E5%BB%A0%E5%8B%95%E7%95%AB
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",DW Deutsche Welle
-https://4gtv.946985.filegear-sg.me/playlist?channel=DW%E5 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",ELTA Entertainment
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%A8%9B%E6%A8%82%E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",ELTA Lifestyle & Travel
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",FESTIVAL 4K
-https://4gtv.946985.filegear-sg.me/playlist?channel=fun%E6%8E%A2%E7%B4%A2%E5%A8%9B%E6%A8%82%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",FRANCE24
-https://4gtv.946985.filegear-sg.me/playlist?channel=FRANCE24%20%E8%8B%B1%E6%96%87%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",GINX Esports TV
-https://4gtv.946985.filegear-sg.me/playlist?channel=GINX%20Esports%20TV
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",History
-https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",HITS
-https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",INULTRA
-https://4gtv.946985.filegear-sg.me/playlist?channel=INULTRA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Lifetime
-https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Love Nature
-https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",LUXE TV Channel
-https://4gtv.946985.filegear-sg.me/playlist?channel=LUXE%20TV%20Channel
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",MagellanTV
-https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",M+车迷TV
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%BB%8A%E8%BF%B7TV
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Mezzo Live 
-https://4gtv.946985.filegear-sg.me/playlist?channel=Mezzo%20Live%20HD
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",MTV Live
-https://4gtv.946985.filegear-sg.me/playlist?channel=MTV%20Live%20HD%20%E9%9F%B3%E6%A8%82%E9%A0%BB%E9%81%93
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",NHK WORLD
-https://4gtv.946985.filegear-sg.me/playlist?channel=NHK%20WORLD-JAPAN
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",Pet Club TV
-https://4gtv.946985.filegear-sg.me/playlist?channel=Pet%20Club%20TV
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",ROCK ENTERTAINMENT
-https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Entertainment
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",ROCK Action
-https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Action
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",rollor
-https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%BB%BE%E5%8B%95%E5%8A%9Brollor
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TAIWAN+
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TRACE Urban
-https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Urban
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TRACE Sport Stars
-https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Sport%20Stars
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹🇼",TV5MONDE STYLE HD 生活时尚
-https://4gtv.946985.filegear-sg.me/playlist?channel=TV5MONDE%20STYLE%20HD%20%E7%94%9F%E6%B4%BB%E6%99%82%E5%B0%9A
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -6753,375 +6651,318 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-# --- USA | ENTERTAINMENT (184) ---
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8EGduW0GaVNWcdnUd7ULO2NLcjsM-RWLOQ&s" group-title="USA | ENTERTAINMENT",USA BET x Tyler Perry Comedy
-http://vocotv.pro/live/nowak1/nowak1/794730.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TWN_LOGO_1.png" group-title="USA | ENTERTAINMENT",USA The Word Network
-http://vocotv.pro/live/nowak1/nowak1/794072.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0dcdc1c519e1f78b74fb7d5147a81707.png" group-title="USA | ENTERTAINMENT",USA Laff More
-http://vocotv.pro/live/nowak1/nowak1/622239.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="USA | ENTERTAINMENT",USA ABC
-http://vocotv.pro/live/nowak1/nowak1/1281.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" group-title="USA | ENTERTAINMENT",USA CBS
-http://vocotv.pro/live/nowak1/nowak1/253197.m3u8
-#EXTINF:-1 tvg-logo="https://farm8.staticflickr.com/7915/46516027895_d72f7ee41f_n.jpg" group-title="USA | ENTERTAINMENT",USA FOX
-http://vocotv.pro/live/nowak1/nowak1/253196.m3u8
-#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/12/nbc-new-logo-2022.jpg" group-title="USA | ENTERTAINMENT",USA NBC
-http://vocotv.pro/live/nowak1/nowak1/253198.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/The_CW_2024.svg/revision/latest?cb=20240129132950" group-title="USA | ENTERTAINMENT",USA CW
-http://vocotv.pro/live/nowak1/nowak1/253199.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/A%26E_2013.svg/revision/latest?cb=20250722162127" group-title="USA | ENTERTAINMENT",USA A&E East
-http://vocotv.pro/live/nowak1/nowak1/517.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/AWE_2013.svg/revision/latest?cb=20240725220217" group-title="USA | ENTERTAINMENT",USA AWE
-http://vocotv.pro/live/nowak1/nowak1/504.m3u8
-#EXTINF:-1 tvg-logo="https://www.pcwebopaedia.com/wp-content/uploads/2022/09/we_tv_logo-1.webp" group-title="USA | ENTERTAINMENT",USA All Reality WE tv
-http://vocotv.pro/live/nowak1/nowak1/516.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2013/05/accnetworklogo.png" group-title="USA | ENTERTAINMENT",USA ACC Network
-http://vocotv.pro/live/nowak1/nowak1/355.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/AccuWeather_2020.svg/revision/latest?cb=20201226183005" group-title="USA | ENTERTAINMENT",USA AccuWeather
-http://vocotv.pro/live/nowak1/nowak1/515.m3u8
-#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Name-Logos/Afro-design-china-name.png" group-title="USA | ENTERTAINMENT",USA AFROLAND
-http://vocotv.pro/live/nowak1/nowak1/513.m3u8
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="USA | ENTERTAINMENT",USA AMC
-http://vocotv.pro/live/nowak1/nowak1/511.m3u8
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="USA | ENTERTAINMENT",USA AMC West
-http://vocotv.pro/live/nowak1/nowak1/295775.m3u8
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="USA | ENTERTAINMENT",USA AMC+
-http://vocotv.pro/live/nowak1/nowak1/510.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Antenna_TV_2022.svg/revision/latest?cb=20221203024109" group-title="USA | ENTERTAINMENT",US Antenna
-http://vocotv.pro/live/nowak1/nowak1/506.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6b/2d/d3/6b2dd3639e8d8260b584fb040f0987ce.png" group-title="USA | ENTERTAINMENT",USA Aspire
-http://vocotv.pro/live/nowak1/nowak1/505.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/AXS_TV.svg/revision/latest?cb=20171230230650" group-title="USA | ENTERTAINMENT",USA AXS TV
-http://vocotv.pro/live/nowak1/nowak1/503.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/8bdc0a760490ca729fa9d4711ca70893.png" group-title="USA | ENTERTAINMENT",USA Magnolia Network
-http://vocotv.pro/live/nowak1/nowak1/256896.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alabama_Crimson_Tide_logo.svg/600px-Alabama_Crimson_Tide_logo.svg.png" group-title="USA | ENTERTAINMENT",USA Beach TV - Myrtle Beach - Grand Strand
-http://vocotv.pro/live/nowak1/nowak1/502.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61bK5WdNTtL.png" group-title="USA | ENTERTAINMENT",USA Beach TV Key West - Florida Keys
-http://vocotv.pro/live/nowak1/nowak1/501.m3u8
-#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/6d5e545bee6564778e2c368d8420945d.jpeg" group-title="USA | ENTERTAINMENT",USA Beach TV Panama City
-http://vocotv.pro/live/nowak1/nowak1/500.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/BET_2021.svg/revision/latest?cb=20250725134553" group-title="USA | ENTERTAINMENT",USA BET East
-http://vocotv.pro/live/nowak1/nowak1/498.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/264-2641514_bet-her-bet-presents-love-and-happiness-an.png" group-title="USA | ENTERTAINMENT",USA BET HER
-http://vocotv.pro/live/nowak1/nowak1/497.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/BET_%282010%29.svg/revision/latest?cb=20180501090730" group-title="USA | ENTERTAINMENT",USA BET West
-http://vocotv.pro/live/nowak1/nowak1/496.m3u8
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" group-title="USA | ENTERTAINMENT",USA BOUNCE TV
-http://vocotv.pro/live/nowak1/nowak1/495.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Bravo_2024.svg/revision/latest/scale-to-width-down/63?cb=20240508041547" group-title="USA | ENTERTAINMENT",USA Bravo East
-http://vocotv.pro/live/nowak1/nowak1/494.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BUZZR-2021.svg/revision/latest?cb=20210602044359" group-title="USA | ENTERTAINMENT",USA Buzzr
-http://vocotv.pro/live/nowak1/nowak1/493.m3u8
-#EXTINF:-1 tvg-logo="https://cars.tv/files/2018/09/cropped-CARS_LOGO.png" group-title="USA | ENTERTAINMENT",USA Cars TV
-http://vocotv.pro/live/nowak1/nowak1/492.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Charge%21_2020.svg/revision/latest?cb=20200412195114" group-title="USA | ENTERTAINMENT",USA Charge!
-http://vocotv.pro/live/nowak1/nowak1/490.m3u8
-#EXTINF:-1 tvg-logo="https://urban1.com/wp-content/uploads/2018/11/LK_CLEO_Logo_Yellowi-760x365.jpg" group-title="USA | ENTERTAINMENT",USA Cleo TV
-http://vocotv.pro/live/nowak1/nowak1/487.m3u8
-#EXTINF:-1 tvg-logo="https://theahl.com/wp-content/uploads/sites/3/2021/05/utica21_64.png" group-title="USA | ENTERTAINMENT",USA Comet
-http://vocotv.pro/live/nowak1/nowak1/483.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/CMT_logo.svg/revision/latest?cb=20151127152654" group-title="USA | ENTERTAINMENT",USA CMT
-http://vocotv.pro/live/nowak1/nowak1/295937.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/CMT_logo.svg/revision/latest?cb=20151127152654" group-title="USA | ENTERTAINMENT",USA CMT West
-http://vocotv.pro/live/nowak1/nowak1/295773.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png" group-title="USA | ENTERTAINMENT",USA Court TV
-http://vocotv.pro/live/nowak1/nowak1/481.m3u8
-#EXTINF:-1 tvg-logo="https://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png" group-title="USA | ENTERTAINMENT",USA ION Mystery
-http://vocotv.pro/live/nowak1/nowak1/346.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Cozi_TV_2018.svg/revision/latest?cb=20190815160615" group-title="USA | ENTERTAINMENT",USA Cozi TV
-http://vocotv.pro/live/nowak1/nowak1/480.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ce/56/bc/ce56bc4a81aa429c1aeb9964e07e47f9.png" group-title="USA | ENTERTAINMENT",USA DABL
-http://vocotv.pro/live/nowak1/nowak1/478.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Comedy_Central_2018.svg/revision/latest?cb=20191223064712" group-title="USA | ENTERTAINMENT",USA Comedy Central
-http://vocotv.pro/live/nowak1/nowak1/295936.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Comedy_Central_2018.svg/revision/latest?cb=20191223064712" group-title="USA | ENTERTAINMENT",USA Comedy Central West
-http://vocotv.pro/live/nowak1/nowak1/486.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Catchy_Comedy_logo.svg" group-title="USA | ENTERTAINMENT",USA Catchy Comedy
-http://vocotv.pro/live/nowak1/nowak1/477.m3u8
-#EXTINF:-1 tvg-logo="https://dcist.com/wp-content/uploads/sites/3/2011/12/12.12.2011_dccan-thumb-640xauto-681415.png" group-title="USA | ENTERTAINMENT",USA District of Columbia Network
-http://vocotv.pro/live/nowak1/nowak1/466.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/8bdc0a760490ca729fa9d4711ca70893.png" group-title="USA | ENTERTAINMENT",USA Magnolia Network
-http://vocotv.pro/live/nowak1/nowak1/465.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/DOGTV_2021.svg/revision/latest?cb=20220503163054" group-title="USA | ENTERTAINMENT",USA Dog TV
-http://vocotv.pro/live/nowak1/nowak1/463.m3u8
-#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/fe8c3d20037b450936173c4026f2746eded348b1.png" group-title="USA | ENTERTAINMENT",USA Dove Channel
-http://vocotv.pro/live/nowak1/nowak1/462.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/E%21_%282012%29.svg/revision/latest?cb=20210104232934" group-title="USA | ENTERTAINMENT",USA E! East
-http://vocotv.pro/live/nowak1/nowak1/461.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/E%21_%282012%29.svg/revision/latest?cb=20210104232934" group-title="USA | ENTERTAINMENT",USA E! West
-http://vocotv.pro/live/nowak1/nowak1/460.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FETV_color.svg/revision/latest?cb=20221101211815" group-title="USA | ENTERTAINMENT",USA FETV
-http://vocotv.pro/live/nowak1/nowak1/459.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/1019px-Food_Network.svg.png" group-title="USA | ENTERTAINMENT",USA Food Network East
-http://vocotv.pro/live/nowak1/nowak1/458.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="USA | ENTERTAINMENT",USA Food Network West
-http://vocotv.pro/live/nowak1/nowak1/457.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Freeform_2022.svg/revision/latest?cb=20250821180823" group-title="USA | ENTERTAINMENT",USA Freeform
-http://vocotv.pro/live/nowak1/nowak1/453.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Freeform_2022.svg/revision/latest?cb=20250821180823" group-title="USA | ENTERTAINMENT",USA Freeform West
-http://vocotv.pro/live/nowak1/nowak1/452.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Fuse_2015.svg/revision/latest?cb=20200428185746" group-title="USA | ENTERTAINMENT",USA Fuse TV
-http://vocotv.pro/live/nowak1/nowak1/450.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1280px-FYI%2C_logo.svg.png" group-title="USA | ENTERTAINMENT",USA FYI
-http://vocotv.pro/live/nowak1/nowak1/448.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/6/66/GetTV-logo.png" group-title="USA | ENTERTAINMENT",USA GET TV
-http://vocotv.pro/live/nowak1/nowak1/447.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6cUjTs0ifGs/Ukob__xwRpI/AAAAAAAAcHo/M74JeQQm60s/s376/Great+American+Country+logo+2013.png" group-title="USA | ENTERTAINMENT",USA Great American Adventures
-http://vocotv.pro/live/nowak1/nowak1/446.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/10/Great-American-Living-channel-1014x570.jpg" group-title="USA | ENTERTAINMENT",USA Great American Faith & Living
-http://vocotv.pro/live/nowak1/nowak1/294920.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/GRIT_TV_Logo.svg/revision/latest?cb=20220930152354" group-title="USA | ENTERTAINMENT",USA Grit TV
-http://vocotv.pro/live/nowak1/nowak1/445.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="USA | ENTERTAINMENT",USA GSN
-http://vocotv.pro/live/nowak1/nowak1/444.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/1200px-Gusto_logo.svg.png" group-title="USA | ENTERTAINMENT",USA Gusto
-http://vocotv.pro/live/nowak1/nowak1/442.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Hallmark_Channel_2022.svg/revision/latest?cb=20220921173602" group-title="USA | ENTERTAINMENT",USA Hallmark Channel East
-http://vocotv.pro/live/nowak1/nowak1/441.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Hallmark_Channel_2022.svg/revision/latest?cb=20220921173602" group-title="USA | ENTERTAINMENT",USA Hallmark Family
-http://vocotv.pro/live/nowak1/nowak1/440.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Hallmark_Channel_2022.svg/revision/latest?cb=20220921173602" group-title="USA | ENTERTAINMENT",USA Hallmark West
-http://vocotv.pro/live/nowak1/nowak1/439.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Hallmark_Channel_2022.svg/revision/latest?cb=20220921173602" group-title="USA | ENTERTAINMENT",USA Hallmark Mystery
-http://vocotv.pro/live/nowak1/nowak1/438.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/heroesicons.png" group-title="USA | ENTERTAINMENT",USA Heroes & Icons
-http://vocotv.pro/live/nowak1/nowak1/437.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" group-title="USA | ENTERTAINMENT",USA HGTV East
-http://vocotv.pro/live/nowak1/nowak1/436.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" group-title="USA | ENTERTAINMENT",USA HGTV West
-http://vocotv.pro/live/nowak1/nowak1/435.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/203-2038423_history-channel-logo-png-history-channel-logo-2018.png" group-title="USA | ENTERTAINMENT",USA History
-http://vocotv.pro/live/nowak1/nowak1/434.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/HSN_2018.svg/revision/latest?cb=20221114164739" group-title="USA | ENTERTAINMENT",USA HSN
-http://vocotv.pro/live/nowak1/nowak1/432.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/HSN_2018.svg/revision/latest?cb=20221114164739" group-title="USA | ENTERTAINMENT",USA HSN 2
-http://vocotv.pro/live/nowak1/nowak1/431.m3u8
-#EXTINF:-1 tvg-logo="https://thoibaonganhang.vn/stores/news_dataimages/thanhlm/022020/21/11/2711_ifc.png" group-title="USA | ENTERTAINMENT",USA IFC
-http://vocotv.pro/live/nowak1/nowak1/428.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest?cb=20240302050750" group-title="USA | ENTERTAINMENT",USA History & Warfare Now
-http://vocotv.pro/live/nowak1/nowak1/427.m3u8
-#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/287236/inspiron-squarelogo-1441868676507.png" group-title="USA | ENTERTAINMENT",USA INSP
-http://vocotv.pro/live/nowak1/nowak1/426.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/423.png" group-title="USA | ENTERTAINMENT",USA| ION PLUS
-http://vocotv.pro/live/nowak1/nowak1/343.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/423.png" group-title="USA | ENTERTAINMENT",USA ION Television
-http://vocotv.pro/live/nowak1/nowak1/342.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/423.png" group-title="USA | ENTERTAINMENT",USA ION Television West
-http://vocotv.pro/live/nowak1/nowak1/341.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Jewelry_television_logo.png/revision/latest?cb=20230824200213" group-title="USA | ENTERTAINMENT",USA Jewelry Television
-http://vocotv.pro/live/nowak1/nowak1/424.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/justice-central.png" group-title="USA | ENTERTAINMENT",USA Justice Central
-http://vocotv.pro/live/nowak1/nowak1/423.m3u8
-#EXTINF:-1 tvg-logo="https://www.phoenixfamily.org/img/logo.png" group-title="USA | ENTERTAINMENT",USA KTVK 3TV Arizona's Family Phoenix
-http://vocotv.pro/live/nowak1/nowak1/422.m3u8
-#EXTINF:-1 tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-LAFF.png" group-title="USA | ENTERTAINMENT",USA Laff TV
-http://vocotv.pro/live/nowak1/nowak1/421.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/551px-CIopening.jpg/revision/latest?cb=20120305024538" group-title="USA | ENTERTAINMENT",USA Law And Crime
-http://vocotv.pro/live/nowak1/nowak1/420.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509" group-title="USA | ENTERTAINMENT",USA Lifetime East
-http://vocotv.pro/live/nowak1/nowak1/419.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509" group-title="USA | ENTERTAINMENT",USA Lifetime Movie East LMN
-http://vocotv.pro/live/nowak1/nowak1/418.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509" group-title="USA | ENTERTAINMENT",USA Lifetime Movie West
-http://vocotv.pro/live/nowak1/nowak1/291121.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509" group-title="USA | ENTERTAINMENT",USA Lifetime West
-http://vocotv.pro/live/nowak1/nowak1/295793.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509" group-title="USA | ENTERTAINMENT",USA Lifetime Real Women
-http://vocotv.pro/live/nowak1/nowak1/417.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYpqQ-ECMMhjv8Jg7wAjw1uUqk7MbJoV7vlUNrUWyeERD1RU6tPjShTCfx7XLaOAXKg&usqp=CAU" group-title="USA | ENTERTAINMENT",USA Logo East
-http://vocotv.pro/live/nowak1/nowak1/416.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Racer_Network_2025.png/revision/latest?cb=20250415083445" group-title="USA | ENTERTAINMENT",USA MAVTV
-http://vocotv.pro/live/nowak1/nowak1/415.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/MeTV_logo_2014.svg/revision/latest?cb=20230908224241" group-title="USA | ENTERTAINMENT",USA MeTV KAZA
-http://vocotv.pro/live/nowak1/nowak1/345.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/MeTV_logo_2014.svg/revision/latest?cb=20230908224241" group-title="USA | ENTERTAINMENT",USA MeTV Network
-http://vocotv.pro/live/nowak1/nowak1/344.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/MeTV_logo_2014.svg/revision/latest?cb=20230908224241" group-title="USA | ENTERTAINMENT",USA MeTV Plus
-http://vocotv.pro/live/nowak1/nowak1/414.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Metro-Goldwyn-Mayer_2021.png/revision/latest/scale-to-width-down/78?cb=20240425213720" group-title="USA | ENTERTAINMENT",USA MGM
-http://vocotv.pro/live/nowak1/nowak1/413.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/motortrend.png" group-title="USA | ENTERTAINMENT",USA MotorTrend
-http://vocotv.pro/live/nowak1/nowak1/410.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/NGWild.png" group-title="USA | ENTERTAINMENT",USA Nat Geo Wild East
-http://vocotv.pro/live/nowak1/nowak1/406.m3u8
-#EXTINF:-1 tvg-logo="https://bassanglermag.com/wp-content/uploads/Outdoor-Channel.png" group-title="USA | ENTERTAINMENT",USA Outdoor Channel
-http://vocotv.pro/live/nowak1/nowak1/404.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2f/b5/5a/2fb55a1d356652daa2d53fdbf708d360.png" group-title="USA | ENTERTAINMENT",USA Outside TV
-http://vocotv.pro/live/nowak1/nowak1/403.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Outsidetv_logo_2016.png/revision/latest?cb=20210315043708" group-title="USA | ENTERTAINMENT",USA Outside TV +
-http://vocotv.pro/live/nowak1/nowak1/402.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png" group-title="USA | ENTERTAINMENT",USA OWN
-http://vocotv.pro/live/nowak1/nowak1/405.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Oxygen_2017.svg/revision/latest?cb=20170801131103" group-title="USA | ENTERTAINMENT",USA Oxygen East
-http://vocotv.pro/live/nowak1/nowak1/399.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Oxygen_2017.svg/revision/latest?cb=20170801131103" group-title="USA | ENTERTAINMENT",USA Oxygen West
-http://vocotv.pro/live/nowak1/nowak1/398.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="USA | ENTERTAINMENT",USA Paramount Network
-http://vocotv.pro/live/nowak1/nowak1/397.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Pop.svg/revision/latest/scale-to-width-down/78?cb=20210208153330" group-title="USA | ENTERTAINMENT",USA POP
-http://vocotv.pro/live/nowak1/nowak1/491.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Pursuit_Channel_Logo_Cropped.jpg" group-title="USA | ENTERTAINMENT",USA Pursuit
-http://vocotv.pro/live/nowak1/nowak1/393.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Qvc_logo.svg/756px-Qvc_logo.svg.png" group-title="USA | ENTERTAINMENT",USA QVC
-http://vocotv.pro/live/nowak1/nowak1/392.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/QVC2_2019_II.svg/revision/latest/scale-to-width-down/78?cb=20221126070911" group-title="USA | ENTERTAINMENT",USA QVC 2
-http://vocotv.pro/live/nowak1/nowak1/391.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/QVC3_2019_II.svg/revision/latest?cb=20221126073929" group-title="USA | ENTERTAINMENT",USA | QVC3
-http://vocotv.pro/live/nowak1/nowak1/636602.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="USA | ENTERTAINMENT",USA RAI Italia
-http://vocotv.pro/live/nowak1/nowak1/390.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Reelz_2022.svg/revision/latest/scale-to-width-down/300?cb=20230818191634" group-title="USA | ENTERTAINMENT",USA Reelz
-http://vocotv.pro/live/nowak1/nowak1/389.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/retroplex.png" group-title="USA | ENTERTAINMENT",USA RetroPlex East
-http://vocotv.pro/live/nowak1/nowak1/388.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/retroplex.png" group-title="USA | ENTERTAINMENT",USA RetroPlex West
-http://vocotv.pro/live/nowak1/nowak1/387.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Revolt_2020.svg/revision/latest/scale-to-width-down/300?cb=20210726151020" group-title="USA | ENTERTAINMENT",USA Revolt
-http://vocotv.pro/live/nowak1/nowak1/386.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/RFD_TV.svg/revision/latest/scale-to-width-down/300?cb=20170703024039" group-title="USA | ENTERTAINMENT",USA RFD TV
-http://vocotv.pro/live/nowak1/nowak1/385.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Ride_-_%28TV_series%29_logo.png/revision/latest?cb=20161224002232" group-title="USA | ENTERTAINMENT",USA Ride TV
-http://vocotv.pro/live/nowak1/nowak1/384.m3u8
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20180328005444/en/648598/23/ShortsTV_Logo_Black_3000px.jpg" group-title="USA | ENTERTAINMENT",USA Shorts TV
-http://vocotv.pro/live/nowak1/nowak1/383.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Start_TV.svg/revision/latest?cb=20180914081955" group-title="USA | ENTERTAINMENT",USA Start TV
-http://vocotv.pro/live/nowak1/nowak1/380.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Start_TV.svg/revision/latest?cb=20180914081955" group-title="USA | ENTERTAINMENT",USA Start TV
-http://vocotv.pro/live/nowak1/nowak1/339.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1280px-FYI%2C_logo.svg.png" group-title="USA | ENTERTAINMENT",USA FYI West
-http://vocotv.pro/live/nowak1/nowak1/295770.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21Z0Lk1PsKL.png" group-title="USA | ENTERTAINMENT",USA Syfy East
-http://vocotv.pro/live/nowak1/nowak1/379.m3u8
-#EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/04/syfy-logo.png" group-title="USA | ENTERTAINMENT",USA Syfy West
-http://vocotv.pro/live/nowak1/nowak1/378.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Tastemade_2018.svg/revision/latest?cb=20211026210358" group-title="USA | ENTERTAINMENT",USA Tastemade
-http://vocotv.pro/live/nowak1/nowak1/377.m3u8
-#EXTINF:-1 tvg-logo="https://thecwtc.com/resources/media/ba7cba73-6daf-416c-ab9d-622cc4ab616e-jumbo1x1_TBDTV.jpg?1485961678682" group-title="USA | ENTERTAINMENT",USA  ROAR (TBD)
-http://vocotv.pro/live/nowak1/nowak1/376.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/TBN-Logo.svg/1280px-TBN-Logo.svg.png" group-title="USA | ENTERTAINMENT",USA TBN
-http://vocotv.pro/live/nowak1/nowak1/375.m3u8
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="USA | ENTERTAINMENT",USA TBS East
-http://vocotv.pro/live/nowak1/nowak1/374.m3u8
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="USA | ENTERTAINMENT",USA TBS West
-http://vocotv.pro/live/nowak1/nowak1/373.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_tcm_m.png" group-title="USA | ENTERTAINMENT",USA TCM
-http://vocotv.pro/live/nowak1/nowak1/372.m3u8
-#EXTINF:-1 tvg-logo="https://epmgaa.media.clients.ellingtoncms.com/img/photos/2013/07/25/OWN_t580.jpg" group-title="USA | ENTERTAINMENT",USA OWN West
-http://vocotv.pro/live/nowak1/nowak1/295794.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/The_Cowboy_Channel.png" group-title="USA | ENTERTAINMENT",USA The Cowboy Channel
-http://vocotv.pro/live/nowak1/nowak1/371.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/The_Film_Detective_logo.png" group-title="USA | ENTERTAINMENT",USA The Film Detective
-http://vocotv.pro/live/nowak1/nowak1/370.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA | ENTERTAINMENT",USA The Weather Channel
-http://vocotv.pro/live/nowak1/nowak1/369.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="USA | ENTERTAINMENT",USA TLC East
-http://vocotv.pro/live/nowak1/nowak1/368.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA | ENTERTAINMENT",USA TLC West
-http://vocotv.pro/live/nowak1/nowak1/367.m3u8
-#EXTINF:-1 tvg-logo="https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png" group-title="USA | ENTERTAINMENT",US CBS (WKMG) Orlando
-http://vocotv.pro/live/nowak1/nowak1/366.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/d6/a1/4ed6a1e8d124b87726c4b7ce1f57c6ad.png" group-title="USA | ENTERTAINMENT",USA TNT
-http://vocotv.pro/live/nowak1/nowak1/365.m3u8
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/TNT_logo.png" group-title="USA | ENTERTAINMENT",USA TNT West
-http://vocotv.pro/live/nowak1/nowak1/364.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1289172232946749441/2y84aana_400x400.jpg" group-title="USA | ENTERTAINMENT",USA True Crime Now
-http://vocotv.pro/live/nowak1/nowak1/338.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41nIBBJlSlL.png" group-title="USA | ENTERTAINMENT",USA truTV East
-http://vocotv.pro/live/nowak1/nowak1/361.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA | ENTERTAINMENT",USA TV Land
-http://vocotv.pro/live/nowak1/nowak1/358.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/809/244/png-transparent-tvone-television-batu-logo-streaming-media-others.png" group-title="USA | ENTERTAINMENT",USA TV One
-http://vocotv.pro/live/nowak1/nowak1/359.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Upmoji-orange.png/200px-Upmoji-orange.png" group-title="USA | ENTERTAINMENT",USA UP TV
-http://vocotv.pro/live/nowak1/nowak1/356.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1604812613/USA_PR_AVATAR.png" group-title="USA | ENTERTAINMENT",USA Usa Network
-http://vocotv.pro/live/nowak1/nowak1/353.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/USA_Network_logo_original.svg/1280px-USA_Network_logo_original.svg.png" group-title="USA | ENTERTAINMENT",USA USA Network West
-http://vocotv.pro/live/nowak1/nowak1/354.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/1920px-Vice_TV_logo.svg.png" group-title="USA | ENTERTAINMENT",USA Vice
-http://vocotv.pro/live/nowak1/nowak1/352.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Wapa_Am%C3%A9rica_new.svg/revision/latest?cb=20250110004139" group-title="USA | ENTERTAINMENT",USA Wapa America
-http://vocotv.pro/live/nowak1/nowak1/351.m3u8
-#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/we-tv/b126c60d30-1616530708/we-tv-banner.png" group-title="USA | ENTERTAINMENT",USA We TV
-http://vocotv.pro/live/nowak1/nowak1/350.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/6/221/full/kbzgpcg1efl3ckze0a40g8jjs.png" group-title="USA | ENTERTAINMENT",USA WGN 9 Chicago
-http://vocotv.pro/live/nowak1/nowak1/349.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Free-speech-tv-logo.svg/revision/latest?cb=20180302065549" group-title="USA | ENTERTAINMENT",USA FX West
-http://vocotv.pro/live/nowak1/nowak1/295771.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="USA | ENTERTAINMENT",USA GSN West
-http://vocotv.pro/live/nowak1/nowak1/295769.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYpqQ-ECMMhjv8Jg7wAjw1uUqk7MbJoV7vlUNrUWyeERD1RU6tPjShTCfx7XLaOAXKg&usqp=CAU" group-title="USA | ENTERTAINMENT",USA Logo West
-http://vocotv.pro/live/nowak1/nowak1/295767.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/203-2038423_history-channel-logo-png-history-channel-logo-2018.png" group-title="USA | ENTERTAINMENT",USA History West
-http://vocotv.pro/live/nowak1/nowak1/295768.m3u8
-#EXTINF:-1 tvg-logo="https://static01.nyt.com/images/2012/03/21/business/media/gsn-logo-decoder/gsn-logo-decoder-articleInline.jpg" group-title="USA | ENTERTAINMENT",USA Game Show GSN
-http://vocotv.pro/live/nowak1/nowak1/232513.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Bravo_2024.svg/revision/latest/scale-to-width-down/63?cb=20240508041547" group-title="USA | ENTERTAINMENT",USA Bravo West
-http://vocotv.pro/live/nowak1/nowak1/295774.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Free-speech-tv-logo.svg/revision/latest?cb=20180302065549" group-title="USA | ENTERTAINMENT",USA Free Speech TV
-http://vocotv.pro/live/nowak1/nowak1/295790.m3u8
-#EXTINF:-1 tvg-logo="https://assets.isu.pub/document-structure/230320103541-f3abeb1831f11d8a5098fcfce0397410/v1/768dc21ee28fc4e292e0d9b1547fdd1a.jpeg" group-title="USA | ENTERTAINMENT",USA Victory Channel
-http://vocotv.pro/live/nowak1/nowak1/295777.m3u8
-#EXTINF:-1 tvg-logo="https://www.heroesbibletrivia.org/wp-content/uploads/2022/02/hope-Channel-1024x576.jpg" group-title="USA | ENTERTAINMENT",USA Hope Channel
-http://vocotv.pro/live/nowak1/nowak1/295423.m3u8
-#EXTINF:-1 tvg-logo="https://cdn5.vectorstock.com/i/1000x1000/41/39/monogram-letters-initial-logo-design-akc-vector-28284139.jpg" group-title="USA | ENTERTAINMENT",USA AKC TV
-http://vocotv.pro/live/nowak1/nowak1/295360.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f31cbf24-ed02-4bd5-85fc-e0185479a421/Alien-Nation2000x3000__1_.jpg" group-title="USA | ENTERTAINMENT",USA | Alien Nation by DUST
-http://vocotv.pro/live/nowak1/nowak1/636636.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest?cb=20210828042411" group-title="USA | ENTERTAINMENT",USA | Arirang TV
-http://vocotv.pro/live/nowak1/nowak1/636633.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/664a3047c2cf479b9ee6c94c68057cfd6c9787764fd5dbfb1f3f6c3d4eb0d949.png" group-title="USA | ENTERTAINMENT",USA | AT HOME with family handyman
-http://vocotv.pro/live/nowak1/nowak1/636632.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Bob_Ross.png/revision/latest?cb=20221105154623" group-title="USA | ENTERTAINMENT",USA | Bob Ross Channel
-http://vocotv.pro/live/nowak1/nowak1/636631.m3u8
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042018/untitled-2_14.png" group-title="USA | ENTERTAINMENT",USA | Dog Whisperer
-http://vocotv.pro/live/nowak1/nowak1/636627.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2023/10/image001-2.png?w=681&h=383&crop=1" group-title="USA | ENTERTAINMENT",USA | Ebony TV
-http://vocotv.pro/live/nowak1/nowak1/636626.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Failarmy.svg/revision/latest?cb=20200106164932" group-title="USA | ENTERTAINMENT",USA | Fail Army
-http://vocotv.pro/live/nowak1/nowak1/636623.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Fox-Soul-logo-network.png/220px-Fox-Soul-logo-network.png" group-title="USA | ENTERTAINMENT",USA | FOX Soul
-http://vocotv.pro/live/nowak1/nowak1/636622.m3u8
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F372bce94-1a57-41c5-b2cf-821006b7c124%2FHerSphere_3840X2160_Horizontal.jpg" group-title="USA | ENTERTAINMENT",USA | HerSphere
-http://vocotv.pro/live/nowak1/nowak1/636620.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/AHSlogo.png/revision/latest?cb=20220716143731" group-title="USA | ENTERTAINMENT",USA | Horror by Alter
-http://vocotv.pro/live/nowak1/nowak1/636618.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/b895fefb-21ad-4322-8f14-7c6ec54a095e/-/preview/1000x1000/-/resize/1200/InFast_portrait-red.jpg" group-title="USA | ENTERTAINMENT",USA | INFAST
-http://vocotv.pro/live/nowak1/nowak1/636617.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Jewelry_television_logo.png/revision/latest?cb=20230824200213" group-title="USA | ENTERTAINMENT",USA | Jewelry Television
-http://vocotv.pro/live/nowak1/nowak1/636615.m3u8
-#EXTINF:-1 tvg-logo="https://javelindc.com/wp-content/uploads/2021/02/Meateater-logo-300x145.png" group-title="USA | ENTERTAINMENT",USA | MeatEater
-http://vocotv.pro/live/nowak1/nowak1/636613.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Merit_Street_2024.svg/800px-Merit_Street_2024.svg.png" group-title="USA | ENTERTAINMENT",USA | Merit Street
-http://vocotv.pro/live/nowak1/nowak1/636612.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Pet_Network.png/revision/latest?cb=20121118184138" group-title="USA | ENTERTAINMENT",USA | The Pet Collective
-http://vocotv.pro/live/nowak1/nowak1/636606.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b9f830b119ada7a125dbcd7776df530bceb1808ef3386cb7f67dee896ff2fe26.png" group-title="USA | ENTERTAINMENT",USA | PowerNation
-http://vocotv.pro/live/nowak1/nowak1/636603.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Tastemade_2018.svg/revision/latest?cb=20211026210358" group-title="USA | ENTERTAINMENT",USA | Tastemade Home
-http://vocotv.pro/live/nowak1/nowak1/636597.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Tastemade_2018.svg/revision/latest?cb=20211026210358" group-title="USA | ENTERTAINMENT",USA | Tastemade Travel
-http://vocotv.pro/live/nowak1/nowak1/636596.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Shop_LC_Logo.svg/800px-Shop_LC_Logo.svg.png?20230930164636" group-title="USA | ENTERTAINMENT",USA | Shop LC
-http://vocotv.pro/live/nowak1/nowak1/636638.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/nosey-vod-us.png" group-title="USA | ENTERTAINMENT",USA Nosey
-http://vocotv.pro/live/nowak1/nowak1/636637.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="USA | ENTERTAINMENT",USA TV Land West
-http://vocotv.pro/live/nowak1/nowak1/642569.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/1920px-Vice_TV_logo.svg.png" group-title="USA | ENTERTAINMENT",USA Vice West
-http://vocotv.pro/live/nowak1/nowak1/642567.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/1920px-IFC_2018_logo.svg.png" group-title="USA | ENTERTAINMENT",USA IFC West
-http://vocotv.pro/live/nowak1/nowak1/642563.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="USA | ENTERTAINMENT",USA Paramount Network West
-http://vocotv.pro/live/nowak1/nowak1/290741.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/A%26E_2013.svg/revision/latest?cb=20250722162127" group-title="USA | ENTERTAINMENT",USA A&E West
-http://vocotv.pro/live/nowak1/nowak1/290748.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51jGK8IjTcL.png" group-title="USA | ENTERTAINMENT",USA Earthx Tv
-http://vocotv.pro/live/nowak1/nowak1/291112.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Pop.svg/revision/latest/scale-to-width-down/78?cb=20210208153330" group-title="USA | ENTERTAINMENT",USA POP West
-http://vocotv.pro/live/nowak1/nowak1/293037.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA A&E UHD
+http://supersonictv.live:8080/611366/682256/22040
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA ABC WPLG UHD
+http://supersonictv.live:8080/611366/682256/22041
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA AMC UHD
+http://supersonictv.live:8080/611366/682256/22042
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA: ADULT SWIM
+http://supersonictv.live:8080/611366/682256/22043
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA American Heroes
+http://supersonictv.live:8080/611366/682256/22044
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Animal Planet East UHD
+http://supersonictv.live:8080/611366/682256/22045
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Animal Planet West LHD
+http://supersonictv.live:8080/611366/682256/22046
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",[]USA ANTENNA TV
+http://supersonictv.live:8080/611366/682256/22047
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Aspire
+http://supersonictv.live:8080/611366/682256/22048
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA AWE
+http://supersonictv.live:8080/611366/682256/22049
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA AXS TV
+http://supersonictv.live:8080/611366/682256/22050
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BBC America UHD
+http://supersonictv.live:8080/611366/682256/22051
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET UHD
+http://supersonictv.live:8080/611366/682256/22052
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET HER
+http://supersonictv.live:8080/611366/682256/22053
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET Jams
+http://supersonictv.live:8080/611366/682256/22054
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET SOUL
+http://supersonictv.live:8080/611366/682256/22055
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET Gospel
+http://supersonictv.live:8080/611366/682256/22056
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET West
+http://supersonictv.live:8080/611366/682256/22057
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BOUNCE TV
+http://supersonictv.live:8080/611366/682256/22058
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Bravo East UHD
+http://supersonictv.live:8080/611366/682256/22059
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Bravo West LHD
+http://supersonictv.live:8080/611366/682256/22060
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BUZZR
+http://supersonictv.live:8080/611366/682256/22061
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA CBS UHD
+http://supersonictv.live:8080/611366/682256/22062
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA CMT UHD
+http://supersonictv.live:8080/611366/682256/22063
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA CNBC UHD
+http://supersonictv.live:8080/611366/682256/22064
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Comedy Central East UHD
+http://supersonictv.live:8080/611366/682256/22065
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Comet
+http://supersonictv.live:8080/611366/682256/22066
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Cooking Channel
+http://supersonictv.live:8080/611366/682256/22067
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA COURT TV
+http://supersonictv.live:8080/611366/682256/22068
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA: COWBOY CHANNEL
+http://supersonictv.live:8080/611366/682256/22069
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA COZI TV LHD
+http://supersonictv.live:8080/611366/682256/22070
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Crime & Investigation
+http://supersonictv.live:8080/611366/682256/22071
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Destination America UHD
+http://supersonictv.live:8080/611366/682256/22073
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Discovery Channel UHD
+http://supersonictv.live:8080/611366/682256/22074
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Discovery Life UHD
+http://supersonictv.live:8080/611366/682256/22075
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Discovery Family
+http://supersonictv.live:8080/611366/682256/22076
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Discovery Science
+http://supersonictv.live:8080/611366/682256/22077
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",[USA] DISCOVERY VELOCITY
+http://supersonictv.live:8080/611366/682256/22078
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Discovery West LHD
+http://supersonictv.live:8080/611366/682256/22079
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA DIY Network UHD
+http://supersonictv.live:8080/611366/682256/22080
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA E! East UHD
+http://supersonictv.live:8080/611366/682256/22081
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA E! West LHD
+http://supersonictv.live:8080/611366/682256/22082
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Food Network East LHD
+http://supersonictv.live:8080/611366/682256/22084
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Food Network West LHD
+http://supersonictv.live:8080/611366/682256/22085
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Fox UHD
+http://supersonictv.live:8080/611366/682256/22086
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Fox Life Latin
+http://supersonictv.live:8080/611366/682256/22087
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Fuse TV
+http://supersonictv.live:8080/611366/682256/22089
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Fusion LHD
+http://supersonictv.live:8080/611366/682256/22090
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FX East UHD
+http://supersonictv.live:8080/611366/682256/22091
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FX West LHD
+http://supersonictv.live:8080/611366/682256/22092
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FXM UHD
+http://supersonictv.live:8080/611366/682256/22093
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FXX East UHD
+http://supersonictv.live:8080/611366/682256/22094
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FXX West LHD
+http://supersonictv.live:8080/611366/682256/22095
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FYI
+http://supersonictv.live:8080/611366/682256/22096
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Galavision
+http://supersonictv.live:8080/611366/682256/22097
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Game Show Network UHD
+http://supersonictv.live:8080/611366/682256/22098
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA GET TV
+http://supersonictv.live:8080/611366/682256/22099
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Grit TV
+http://supersonictv.live:8080/611366/682256/22100
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA HGTV East UHD
+http://supersonictv.live:8080/611366/682256/22101
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Heroes & Icons
+http://supersonictv.live:8080/611366/682256/22102
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA HGTV West LHD
+http://supersonictv.live:8080/611366/682256/22103
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA History UHD
+http://supersonictv.live:8080/611366/682256/22104
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA HLN UHD
+http://supersonictv.live:8080/611366/682256/22107
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA IFC LHD
+http://supersonictv.live:8080/611366/682256/22108
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA INSP
+http://supersonictv.live:8080/611366/682256/22109
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Investigation Discovery East UHD
+http://supersonictv.live:8080/611366/682256/22110
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Investigation Discovery West LHD
+http://supersonictv.live:8080/611366/682256/22111
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA JUSTICE CENTRAL
+http://supersonictv.live:8080/611366/682256/22112
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA LAFF
+http://supersonictv.live:8080/611366/682256/22113
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Law And Crime
+http://supersonictv.live:8080/611366/682256/22114
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Lifetime East UHD
+http://supersonictv.live:8080/611366/682256/22115
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA LOGO
+http://supersonictv.live:8080/611366/682256/22116
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA MAVTV
+http://supersonictv.live:8080/611366/682256/22117
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA ME TV (KYAZ)
+http://supersonictv.live:8080/611366/682256/22118
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA MotorTrend UHD
+http://supersonictv.live:8080/611366/682256/22119
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA MTV UHD
+http://supersonictv.live:8080/611366/682256/22120
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA NASA TV
+http://supersonictv.live:8080/611366/682256/22121
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Nat Geo WILD
+http://supersonictv.live:8080/611366/682256/22122
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA National Geographic East UHD
+http://supersonictv.live:8080/611366/682256/22123
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA National Geographic West LHD
+http://supersonictv.live:8080/611366/682256/22124
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA National Geographic Wild East UHD
+http://supersonictv.live:8080/611366/682256/22125
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA NBC UHD
+http://supersonictv.live:8080/611366/682256/22126
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Neon
+http://supersonictv.live:8080/611366/682256/22127
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Network West LHD
+http://supersonictv.live:8080/611366/682256/22129
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA OWN East UHD
+http://supersonictv.live:8080/611366/682256/22130
+#EXTINF:-1,USA Outdoor Channel
+http://supersonictv.live:8080/611366/682256/22131
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Outside TV
+http://supersonictv.live:8080/611366/682256/22132
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Ovation
+http://supersonictv.live:8080/611366/682256/22133
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Oxygen East UHD
+http://supersonictv.live:8080/611366/682256/22134
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Oxygen West LHD
+http://supersonictv.live:8080/611366/682256/22135
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA POP
+http://supersonictv.live:8080/611366/682256/22139
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Pursuit
+http://supersonictv.live:8080/611366/682256/22140
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA QVC
+http://supersonictv.live:8080/611366/682256/22141
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",[USA] Reelz
+http://supersonictv.live:8080/611366/682256/22142
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Revolt
+http://supersonictv.live:8080/611366/682256/22143
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Ride TV
+http://supersonictv.live:8080/611366/682256/22144
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Science UHD
+http://supersonictv.live:8080/611366/682256/22145
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA: RFD-TV
+http://supersonictv.live:8080/611366/682256/22146
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA SHORTS TV
+http://supersonictv.live:8080/611366/682256/22147
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Smithsonian Channel LHD
+http://supersonictv.live:8080/611366/682256/22148
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA: SPORTSMAN CHANNEL
+http://supersonictv.live:8080/611366/682256/22149
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA SNY LHD
+http://supersonictv.live:8080/611366/682256/22150
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Sundance TV LHD
+http://supersonictv.live:8080/611366/682256/22152
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Tastemade LHD
+http://supersonictv.live:8080/611366/682256/22153
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TBS East UHD
+http://supersonictv.live:8080/611366/682256/22154
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TBS West LHD
+http://supersonictv.live:8080/611366/682256/22155
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TCM
+http://supersonictv.live:8080/611366/682256/22156
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TLC UHD
+http://supersonictv.live:8080/611366/682256/22157
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TLC West
+http://supersonictv.live:8080/611366/682256/22158
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TNT East UHD
+http://supersonictv.live:8080/611366/682256/22159
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TNT Pacific
+http://supersonictv.live:8080/611366/682256/22160
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TNT West LHD
+http://supersonictv.live:8080/611366/682256/22161
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Travel East UHD
+http://supersonictv.live:8080/611366/682256/22162
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Travel West
+http://supersonictv.live:8080/611366/682256/22163
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TruTV East UHD
+http://supersonictv.live:8080/611366/682256/22164
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA truTV West LHD
+http://supersonictv.live:8080/611366/682256/22165
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TV One
+http://supersonictv.live:8080/611366/682256/22166
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TVG Network
+http://supersonictv.live:8080/611366/682256/22167
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TVG 2 Network
+http://supersonictv.live:8080/611366/682256/22168
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TVLand UHD
+http://supersonictv.live:8080/611366/682256/22169
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Universo
+http://supersonictv.live:8080/611366/682256/22170
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Universo West LHD
+http://supersonictv.live:8080/611366/682256/22171
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Univision East UHD
+http://supersonictv.live:8080/611366/682256/22173
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Network East UHD
+http://supersonictv.live:8080/611366/682256/22174
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA USA NETWORK (WEST)
+http://supersonictv.live:8080/611366/682256/22175
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Usa Network Pacific
+http://supersonictv.live:8080/611366/682256/22176
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA UFC Network
+http://supersonictv.live:8080/611366/682256/22177
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA VH1 UHD
+http://supersonictv.live:8080/611366/682256/22178
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA VH1 CLASSIC
+http://supersonictv.live:8080/611366/682256/22179
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Viceland
+http://supersonictv.live:8080/611366/682256/22180
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Wapa America
+http://supersonictv.live:8080/611366/682256/22181
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA WE TV LHD
+http://supersonictv.live:8080/611366/682256/22182
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA World Fishing Network
+http://supersonictv.live:8080/611366/682256/22183
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA: WGN AMERICA
+http://supersonictv.live:8080/611366/682256/22184
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA WWE Network UHD
+http://supersonictv.live:8080/611366/682256/22185
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA WPIX
+http://supersonictv.live:8080/611366/682256/22186
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Cars TV
+http://supersonictv.live:8080/611366/682256/47729
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Comedy TV
+http://supersonictv.live:8080/611366/682256/47730
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Court TV Mystery
+http://supersonictv.live:8080/611366/682256/47731
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Dog TV
+http://supersonictv.live:8080/611366/682256/47732
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA GSN UHD
+http://supersonictv.live:8080/611366/682256/47733
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Hunt Channel
+http://supersonictv.live:8080/611366/682256/47734
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",[USA] Info Wars
+http://supersonictv.live:8080/611366/682256/47735
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Lifetime Real Women
+http://supersonictv.live:8080/611366/682256/47736
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA National Geographic People
+http://supersonictv.live:8080/611366/682256/47738
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA People TV
+http://supersonictv.live:8080/611366/682256/47739
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA QVC 2
+http://supersonictv.live:8080/611366/682256/47740
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TBD TV
+http://supersonictv.live:8080/611366/682256/47741
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA The Film Detective
+http://supersonictv.live:8080/611366/682256/47742
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TMZ
+http://supersonictv.live:8080/611366/682256/47743
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA UP TV
+http://supersonictv.live:8080/611366/682256/47744
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Z Classic
+http://supersonictv.live:8080/611366/682256/47745
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA EWTN
+http://supersonictv.live:8080/611366/682256/67835
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",WWE Network SD
+http://supersonictv.live:8080/611366/682256/71163
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA AMC+
+http://supersonictv.live:8080/611366/682256/77252
+#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA AMC Presents
+http://supersonictv.live:8080/611366/682256/77253
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
