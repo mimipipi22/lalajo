@@ -1562,6 +1562,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mediampd/CGTNDo
 #EXTINF:-1 tvg-id="Crime.Investigation.id" tvg-name="Crime Investigation" tvg-logo="https://mimipipi22.github.io/logo/knowledge/crimeinvestigation.jpg" group-title="KNOWLEDGE",CRIME INVESTIGATION
 https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/CrimeInvestigationHD.mpd
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="KNOWLEDGE",DISCOVERY CHANNEL
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4271dec5b6794650872dc915fe10fdeb:0e64ddadd1cbd079f98c597fc01c06bf
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+
 #EXTINF:-1 tvg-id="Discovery.Channel.id" tvg-name="Discovery Channel HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -4554,34 +4561,49 @@ https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="WORLD TV", GMA 7
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON O2TV 🇻🇳
-https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON Cine 🇻🇳
-https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON Vie DRAMAS 🇻🇳
-https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON BiBi 🇻🇳
-https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON KIDS 🇻🇳
-https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON Vie Giải Trí 🇻🇳
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="WORLD TV" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON Movies 🇻🇳
+#EXTINF:-1 tvg-id="onphimviet" group-title="WORLD TV" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="onmovies" group-title="WORLD TV" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON E Channel 🇻🇳
+#EXTINF:-1 tvg-id="onechannel" group-title="WORLD TV" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON Style TV 🇻🇳
-https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON Music 🇻🇳
-https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON Trending TV 🇻🇳
-https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON VFamily 🇻🇳
-https://freem3u.xyz/api/live/play.m3u8?vid=187
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",On Life 🇻🇳
-https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",ON Info TV 🇻🇳
+#EXTINF:-1 tvg-id="ono2tv" group-title="WORLD TV" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 tvg-id="onbibi" group-title="WORLD TV" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 tvg-id="oninfotv" group-title="WORLD TV" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
 https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 tvg-id="oncine" group-title="WORLD TV" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 tvg-id="onstyle" group-title="WORLD TV" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 tvg-id="onmusic" group-title="WORLD TV" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 tvg-id="ontrending" group-title="WORLD TV" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 tvg-id="onviedramas" group-title="WORLD TV" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 tvg-id="onvfamily" group-title="WORLD TV" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:-1 tvg-id="onkids" group-title="WORLD TV" tvg-logo="https://i.ibb.co/mq65M0Y/On-kids.jpg",ON KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 tvg-id="onlife" group-title="WORLD TV" tvg-logo="https://i.ibb.co/QXk7C6G/On-life.jpg",On Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Window NT 10.0; Win64; x64)
+https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [NEWS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -7253,128 +7275,6 @@ http://supersonictv.live:8080/611366/682256/77252
 http://supersonictv.live:8080/611366/682256/77253
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CM HOLLYWOOD PREMIERE 1 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438487&extension=ts&play_token=wlFAoX3nXn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CM HOLLYWOOD PREMIERE 2 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438486&extension=ts&play_token=OdWbIra4L1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CM HOLLYWOOD PREMIERE 3 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438485&extension=ts&play_token=lBYroPZ25c
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CM HOLLYWOOD PREMIERE 4 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438484&extension=ts&play_token=RlQfy5ez8g
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CM HOLLYWOOD PREMIERE 5 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438483&extension=ts&play_token=ccozubudCz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CM HOLLYWOOD PREMIERE 6 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438482&extension=ts&play_token=duyAGbWu07
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CM HOLLYWOOD PREMIERE 7 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438481&extension=ts&play_token=qXxp6FiPaU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CM HOLLYWOOD PREMIERE 8 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438480&extension=ts&play_token=lPfqSEjglz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CM HOLLYWOOD PREMIERE 9 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438479&extension=ts&play_token=vGlWDON3zF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",C HOLLYWOOD PREMIERE 10 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438478&extension=ts&play_token=UHknK96c04
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 1 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438477&extension=ts&play_token=sG5pm24lMP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 2 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438476&extension=ts&play_token=rnz4MLRKWh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 3 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438475&extension=ts&play_token=DNyAoQzc9u
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 4 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438474&extension=ts&play_token=slByqtQiPQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 5 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438473&extension=ts&play_token=MzhfIo4pwa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 6 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438472&extension=ts&play_token=m18BVxGdX6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 7 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438471&extension=ts&play_token=1DVXd4qF01
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 8 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438470&extension=ts&play_token=pG16uc0oY3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 9 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438469&extension=ts&play_token=bPvkwRvlAB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 10 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438468&extension=ts&play_token=4ga2981mg1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 11 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438467&extension=ts&play_token=fEZjfjlDZA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 12 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438466&extension=ts&play_token=mrcdCon38t
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 13 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438465&extension=ts&play_token=IGXZrtHxfM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 14 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438464&extension=ts&play_token=WNM2I5XZPj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 15 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438463&extension=ts&play_token=epURCU4Qs9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 16 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438462&extension=ts&play_token=AZK6fcqjpm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 17 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438461&extension=ts&play_token=2DZoTVXtTy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 18 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438460&extension=ts&play_token=DWi1W6r3wS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 19 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438459&extension=ts&play_token=9T2e5Ab4aG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 20 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438458&extension=ts&play_token=eHqlyQbO3j
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 21 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438457&extension=ts&play_token=Iqd6ZJM8EV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 22 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438456&extension=ts&play_token=72Q3bb9M6k
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 23 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438455&extension=ts&play_token=FxF6bOrQ8o
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 24 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438454&extension=ts&play_token=IxuBZcPCEK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 25 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438453&extension=ts&play_token=BISKG2muuF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 26 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438452&extension=ts&play_token=Jsgl0derlD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 27 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438451&extension=ts&play_token=ky2DMQrS1e
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 28 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438450&extension=ts&play_token=yxhkIw8Pa1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 29 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438449&extension=ts&play_token=mXYtrIhRVk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 30 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438448&extension=ts&play_token=r2pahrmHUA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 31 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438447&extension=ts&play_token=8hRdpb55fd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 32 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438446&extension=ts&play_token=3hWzV9It68
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 33 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438445&extension=ts&play_token=67llZxY4QY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 34 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438444&extension=ts&play_token=AKGONOqFH8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 35 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438443&extension=ts&play_token=myUZisPO0z
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 36 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438442&extension=ts&play_token=zQoyfd8LI4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 37 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438441&extension=ts&play_token=U1h3EJMEZZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 38 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438440&extension=ts&play_token=1PNk3v8nS5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 39 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438439&extension=ts&play_token=P1GZBXXTDb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 40 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438438&extension=ts&play_token=2rCpsu5UMn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 41 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438437&extension=ts&play_token=sWjFG173Eu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 42 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438436&extension=ts&play_token=VL7FK7g6xj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 43 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438435&extension=ts&play_token=lkc1zjkAOs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 44 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438434&extension=ts&play_token=Wdx0a4k1qy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 45 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438433&extension=ts&play_token=tEcteDCOFe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 46 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438432&extension=ts&play_token=CXFU9ks5rF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 47 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438431&extension=ts&play_token=qFBR3etz4j
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 48 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438430&extension=ts&play_token=sRDtaFqOxS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 49 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438429&extension=ts&play_token=Ol4isFb9II
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIAHOLLYWOOD.png" group-title="CINEMANIA",CINEMANIA HOLLYWOOD 50 FHD
-http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1438428&extension=ts&play_token=y9uaNdwVk4
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="CINEMANIA",HBOMAX ORIGINAL 1 ᴴᴰ
 http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095496&extension=ts&play_token=F5Mzf7zGsF
