@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-02-04 11:09:00 GMT+7 "
+# (●) Last Update: 2026-02-09 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -1137,6 +1137,7 @@ https://mimipipi22.github.io/logo/offline.m3u8
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+http://202.169.224.202:8800/udp/239.1.2.3:1234
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
 #EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="SPORTS",TVRI SPORT
@@ -1733,6 +1734,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+http://202.169.224.202:8800/udp/239.9.1.39:1234
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1743,7 +1745,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/hiphiphoree.jpg" group-title="KIDS",HIP HIP HOREE!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##http://202.169.224.202:8800/udp/239.9.1.28:1234
+http://202.169.224.202:8800/udp/239.9.1.28:1234
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1907,6 +1909,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/a8f14e34c687494fb1454b88742db085/index
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Citra.Muslim.id" tvg-name="Citra Muslim" tvg-logo="https://mimipipi22.github.io/logo/religion/citramuslim.jpg" group-title="RELIGION",CITRA MUSLIM
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
+http://202.169.224.202:8800/udp/239.9.1.14:1234
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2028,6 +2031,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Asian.Food.Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/afn.jpg" group-title="LIFESTYLE",AFN
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
+http://202.169.224.202:8800/udp/239.9.1.5:1234
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
@@ -4553,9 +4557,76 @@ http://67.220.67.246:2347/livehttpplay?channel_id=20704
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV",ASTRO Happy Stage
 http://67.220.67.246:2347/livehttpplay?channel_id=20705
 
-
 #EXTINF:-1 tvg-logo="" group-title="WORLD TV",PHOENIX INFO
 https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="WORLD TV",CCTV1
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="WORLD TV",CCTV2
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="WORLD TV",CCTV3
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="WORLD TV",CCTV4
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="WORLD TV",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="WORLD TV",CCTV5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="WORLD TV",CCTV6
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="WORLD TV",CCTV7
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="WORLD TV",CCTV8
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="WORLD TV",CCTV9
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="WORLD TV",CCTV10
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="WORLD TV",CCTV11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="WORLD TV",CCTV12
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="WORLD TV",CCTV13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="WORLD TV",CCTV14
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="WORLD TV",CCTV15
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="WORLD TV",CCTV16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="WORLD TV",CCTV17
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="WORLD TV",CCTV Weapon Technology
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV", CCTV Health and Wellness
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTV Billiards
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTV First Theater
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTV Fengyun Theater
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTV Nostalgia Theater
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTV Sports Football
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTV Sports Music
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTV World Geography
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTV TV Guide
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTV Weapon Technology
+http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTB Golf & Tennis
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTV Cultural Masterpieces
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV",CCTV Women's Fashion
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -5376,6 +5447,10 @@ https://mimipipi22.github.io/logo/offline.m3u8
 http://bitter-boa-67.deno.dev/play.mpd?id=7464&type=dash
 #https://spacetv.my.id/index.mpd?id=7464&type=dash
 #https://spacetv.my.id/index.m3u8?id=7464&type=hls
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="RELIGION",FATWA TV
+http://202.169.224.202:8800/udp/239.3.1.6:1234
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/vidio/daystar-tv.jpg" group-title="RELIGION",Daystar TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -6969,318 +7044,313 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA A&E UHD
-http://supersonictv.live:8080/611366/682256/22040
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA ABC WPLG UHD
-http://supersonictv.live:8080/611366/682256/22041
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA AMC UHD
-http://supersonictv.live:8080/611366/682256/22042
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA: ADULT SWIM
-http://supersonictv.live:8080/611366/682256/22043
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA American Heroes
-http://supersonictv.live:8080/611366/682256/22044
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Animal Planet East UHD
-http://supersonictv.live:8080/611366/682256/22045
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Animal Planet West LHD
-http://supersonictv.live:8080/611366/682256/22046
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",[]USA ANTENNA TV
-http://supersonictv.live:8080/611366/682256/22047
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Aspire
-http://supersonictv.live:8080/611366/682256/22048
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA AWE
-http://supersonictv.live:8080/611366/682256/22049
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA AXS TV
-http://supersonictv.live:8080/611366/682256/22050
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BBC America UHD
-http://supersonictv.live:8080/611366/682256/22051
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET UHD
-http://supersonictv.live:8080/611366/682256/22052
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET HER
-http://supersonictv.live:8080/611366/682256/22053
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET Jams
-http://supersonictv.live:8080/611366/682256/22054
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET SOUL
-http://supersonictv.live:8080/611366/682256/22055
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET Gospel
-http://supersonictv.live:8080/611366/682256/22056
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BET West
-http://supersonictv.live:8080/611366/682256/22057
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BOUNCE TV
-http://supersonictv.live:8080/611366/682256/22058
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Bravo East UHD
-http://supersonictv.live:8080/611366/682256/22059
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Bravo West LHD
-http://supersonictv.live:8080/611366/682256/22060
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA BUZZR
-http://supersonictv.live:8080/611366/682256/22061
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA CBS UHD
-http://supersonictv.live:8080/611366/682256/22062
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA CMT UHD
-http://supersonictv.live:8080/611366/682256/22063
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA CNBC UHD
-http://supersonictv.live:8080/611366/682256/22064
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Comedy Central East UHD
-http://supersonictv.live:8080/611366/682256/22065
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Comet
-http://supersonictv.live:8080/611366/682256/22066
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Cooking Channel
-http://supersonictv.live:8080/611366/682256/22067
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA COURT TV
-http://supersonictv.live:8080/611366/682256/22068
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA: COWBOY CHANNEL
-http://supersonictv.live:8080/611366/682256/22069
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA COZI TV LHD
-http://supersonictv.live:8080/611366/682256/22070
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Crime & Investigation
-http://supersonictv.live:8080/611366/682256/22071
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Destination America UHD
-http://supersonictv.live:8080/611366/682256/22073
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Discovery Channel UHD
-http://supersonictv.live:8080/611366/682256/22074
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Discovery Life UHD
-http://supersonictv.live:8080/611366/682256/22075
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Discovery Family
-http://supersonictv.live:8080/611366/682256/22076
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Discovery Science
-http://supersonictv.live:8080/611366/682256/22077
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",[USA] DISCOVERY VELOCITY
-http://supersonictv.live:8080/611366/682256/22078
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Discovery West LHD
-http://supersonictv.live:8080/611366/682256/22079
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA DIY Network UHD
-http://supersonictv.live:8080/611366/682256/22080
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA E! East UHD
-http://supersonictv.live:8080/611366/682256/22081
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA E! West LHD
-http://supersonictv.live:8080/611366/682256/22082
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Food Network East LHD
-http://supersonictv.live:8080/611366/682256/22084
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Food Network West LHD
-http://supersonictv.live:8080/611366/682256/22085
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Fox UHD
-http://supersonictv.live:8080/611366/682256/22086
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Fox Life Latin
-http://supersonictv.live:8080/611366/682256/22087
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Fuse TV
-http://supersonictv.live:8080/611366/682256/22089
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Fusion LHD
-http://supersonictv.live:8080/611366/682256/22090
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FX East UHD
-http://supersonictv.live:8080/611366/682256/22091
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FX West LHD
-http://supersonictv.live:8080/611366/682256/22092
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FXM UHD
-http://supersonictv.live:8080/611366/682256/22093
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FXX East UHD
-http://supersonictv.live:8080/611366/682256/22094
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FXX West LHD
-http://supersonictv.live:8080/611366/682256/22095
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA FYI
-http://supersonictv.live:8080/611366/682256/22096
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Galavision
-http://supersonictv.live:8080/611366/682256/22097
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Game Show Network UHD
-http://supersonictv.live:8080/611366/682256/22098
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA GET TV
-http://supersonictv.live:8080/611366/682256/22099
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Grit TV
-http://supersonictv.live:8080/611366/682256/22100
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA HGTV East UHD
-http://supersonictv.live:8080/611366/682256/22101
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Heroes & Icons
-http://supersonictv.live:8080/611366/682256/22102
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA HGTV West LHD
-http://supersonictv.live:8080/611366/682256/22103
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA History UHD
-http://supersonictv.live:8080/611366/682256/22104
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA HLN UHD
-http://supersonictv.live:8080/611366/682256/22107
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA IFC LHD
-http://supersonictv.live:8080/611366/682256/22108
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA INSP
-http://supersonictv.live:8080/611366/682256/22109
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Investigation Discovery East UHD
-http://supersonictv.live:8080/611366/682256/22110
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Investigation Discovery West LHD
-http://supersonictv.live:8080/611366/682256/22111
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA JUSTICE CENTRAL
-http://supersonictv.live:8080/611366/682256/22112
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA LAFF
-http://supersonictv.live:8080/611366/682256/22113
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Law And Crime
-http://supersonictv.live:8080/611366/682256/22114
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Lifetime East UHD
-http://supersonictv.live:8080/611366/682256/22115
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA LOGO
-http://supersonictv.live:8080/611366/682256/22116
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA MAVTV
-http://supersonictv.live:8080/611366/682256/22117
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA ME TV (KYAZ)
-http://supersonictv.live:8080/611366/682256/22118
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA MotorTrend UHD
-http://supersonictv.live:8080/611366/682256/22119
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA MTV UHD
-http://supersonictv.live:8080/611366/682256/22120
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA NASA TV
-http://supersonictv.live:8080/611366/682256/22121
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Nat Geo WILD
-http://supersonictv.live:8080/611366/682256/22122
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA National Geographic East UHD
-http://supersonictv.live:8080/611366/682256/22123
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA National Geographic West LHD
-http://supersonictv.live:8080/611366/682256/22124
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA National Geographic Wild East UHD
-http://supersonictv.live:8080/611366/682256/22125
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA NBC UHD
-http://supersonictv.live:8080/611366/682256/22126
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Neon
-http://supersonictv.live:8080/611366/682256/22127
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Network West LHD
-http://supersonictv.live:8080/611366/682256/22129
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA OWN East UHD
-http://supersonictv.live:8080/611366/682256/22130
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Outdoor Channel
-http://supersonictv.live:8080/611366/682256/22131
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Outside TV
-http://supersonictv.live:8080/611366/682256/22132
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Ovation
-http://supersonictv.live:8080/611366/682256/22133
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Oxygen East UHD
-http://supersonictv.live:8080/611366/682256/22134
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Oxygen West LHD
-http://supersonictv.live:8080/611366/682256/22135
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA POP
-http://supersonictv.live:8080/611366/682256/22139
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Pursuit
-http://supersonictv.live:8080/611366/682256/22140
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA QVC
-http://supersonictv.live:8080/611366/682256/22141
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",[USA] Reelz
-http://supersonictv.live:8080/611366/682256/22142
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Revolt
-http://supersonictv.live:8080/611366/682256/22143
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Ride TV
-http://supersonictv.live:8080/611366/682256/22144
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Science UHD
-http://supersonictv.live:8080/611366/682256/22145
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA: RFD-TV
-http://supersonictv.live:8080/611366/682256/22146
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA SHORTS TV
-http://supersonictv.live:8080/611366/682256/22147
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Smithsonian Channel LHD
-http://supersonictv.live:8080/611366/682256/22148
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA: SPORTSMAN CHANNEL
-http://supersonictv.live:8080/611366/682256/22149
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA SNY LHD
-http://supersonictv.live:8080/611366/682256/22150
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Sundance TV LHD
-http://supersonictv.live:8080/611366/682256/22152
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Tastemade LHD
-http://supersonictv.live:8080/611366/682256/22153
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TBS East UHD
-http://supersonictv.live:8080/611366/682256/22154
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TBS West LHD
-http://supersonictv.live:8080/611366/682256/22155
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TCM
-http://supersonictv.live:8080/611366/682256/22156
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TLC UHD
-http://supersonictv.live:8080/611366/682256/22157
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TLC West
-http://supersonictv.live:8080/611366/682256/22158
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TNT East UHD
-http://supersonictv.live:8080/611366/682256/22159
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TNT Pacific
-http://supersonictv.live:8080/611366/682256/22160
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TNT West LHD
-http://supersonictv.live:8080/611366/682256/22161
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Travel East UHD
-http://supersonictv.live:8080/611366/682256/22162
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Travel West
-http://supersonictv.live:8080/611366/682256/22163
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TruTV East UHD
-http://supersonictv.live:8080/611366/682256/22164
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA truTV West LHD
-http://supersonictv.live:8080/611366/682256/22165
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TV One
-http://supersonictv.live:8080/611366/682256/22166
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TVG Network
-http://supersonictv.live:8080/611366/682256/22167
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TVG 2 Network
-http://supersonictv.live:8080/611366/682256/22168
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TVLand UHD
-http://supersonictv.live:8080/611366/682256/22169
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Universo
-http://supersonictv.live:8080/611366/682256/22170
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Universo West LHD
-http://supersonictv.live:8080/611366/682256/22171
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Univision East UHD
-http://supersonictv.live:8080/611366/682256/22173
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Network East UHD
-http://supersonictv.live:8080/611366/682256/22174
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA USA NETWORK (WEST)
-http://supersonictv.live:8080/611366/682256/22175
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Usa Network Pacific
-http://supersonictv.live:8080/611366/682256/22176
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA UFC Network
-http://supersonictv.live:8080/611366/682256/22177
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA VH1 UHD
-http://supersonictv.live:8080/611366/682256/22178
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA VH1 CLASSIC
-http://supersonictv.live:8080/611366/682256/22179
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Viceland
-http://supersonictv.live:8080/611366/682256/22180
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Wapa America
-http://supersonictv.live:8080/611366/682256/22181
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA WE TV LHD
-http://supersonictv.live:8080/611366/682256/22182
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA World Fishing Network
-http://supersonictv.live:8080/611366/682256/22183
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA: WGN AMERICA
-http://supersonictv.live:8080/611366/682256/22184
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA WWE Network UHD
-http://supersonictv.live:8080/611366/682256/22185
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA WPIX
-http://supersonictv.live:8080/611366/682256/22186
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Cars TV
-http://supersonictv.live:8080/611366/682256/47729
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Comedy TV
-http://supersonictv.live:8080/611366/682256/47730
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Court TV Mystery
-http://supersonictv.live:8080/611366/682256/47731
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Dog TV
-http://supersonictv.live:8080/611366/682256/47732
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA GSN UHD
-http://supersonictv.live:8080/611366/682256/47733
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Hunt Channel
-http://supersonictv.live:8080/611366/682256/47734
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",[USA] Info Wars
-http://supersonictv.live:8080/611366/682256/47735
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Lifetime Real Women
-http://supersonictv.live:8080/611366/682256/47736
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA National Geographic People
-http://supersonictv.live:8080/611366/682256/47738
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA People TV
-http://supersonictv.live:8080/611366/682256/47739
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA QVC 2
-http://supersonictv.live:8080/611366/682256/47740
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TBD TV
-http://supersonictv.live:8080/611366/682256/47741
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA The Film Detective
-http://supersonictv.live:8080/611366/682256/47742
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA TMZ
-http://supersonictv.live:8080/611366/682256/47743
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA UP TV
-http://supersonictv.live:8080/611366/682256/47744
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA Z Classic
-http://supersonictv.live:8080/611366/682256/47745
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA EWTN
-http://supersonictv.live:8080/611366/682256/67835
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",WWE Network SD
-http://supersonictv.live:8080/611366/682256/71163
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA AMC+
-http://supersonictv.live:8080/611366/682256/77252
-#EXTINF:-1 tvg-logo="" group-title="USA 🇺🇸",USA AMC Presents
-http://supersonictv.live:8080/611366/682256/77253
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/bf3ed883-db9f-40d0-afaa-77ca71911e24" group-title="USA Channels 🇺🇸",Cinemax Action HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=4067
+https://dtv.vingt.qzz.io/dtv/4067/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/577da2f8-1c59-4297-8956-c24d30b1d967" group-title="USA Channels 🇺🇸",Cinemax East HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8214
+https://dtv.vingt.qzz.io/dtv/8214/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/45cdfc9d-1228-4b50-8987-7c82db99f1ba" group-title="USA Channels 🇺🇸",Cinemax Hits HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=4066
+https://dtv.vingt.qzz.io/dtv/4066/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/0e9a6483-c7e1-4cb1-9e51-dda1ead5b966" group-title="USA Channels 🇺🇸",Cinemax West HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8267
+https://dtv.vingt.qzz.io/dtv/8267/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/6a2752b0-1ce4-494f-9788-7931e8222025" group-title="USA Channels 🇺🇸",Cinemáx HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3340
+https://dtv.vingt.qzz.io/dtv/3340/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/5070bc2e-dd69-4dee-98b4-a4c5e3b1fd7b" group-title="USA Channels 🇺🇸",Comedy Central HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3035
+https://dtv.vingt.qzz.io/dtv/3035/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/6aec9a4e-7824-4869-b75f-fb1c648d207e" group-title="USA Channels 🇺🇸",Comedy Central West HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2598
+https://dtv.vingt.qzz.io/dtv/2598/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/97c42c68-6aca-4e70-8368-381efcb10cbf" group-title="USA Channels 🇺🇸",Fuse HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=365
+https://dtv.vingt.qzz.io/dtv/365/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/af2ab375-0902-4865-acb5-61df66acca5b" group-title="USA Channels 🇺🇸",FX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8208
+https://dtv.vingt.qzz.io/dtv/8208/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/d7088b74-3db2-4672-825e-6c7cb8ff41ec" group-title="USA Channels 🇺🇸",FX Movie Channel HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=310
+https://dtv.vingt.qzz.io/dtv/310/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/d48f198b-6a0f-4d53-9749-222e38f8847b" group-title="USA Channels 🇺🇸",FXX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8138
+https://dtv.vingt.qzz.io/dtv/8138/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/d1dd879a-5790-454f-9104-39432f4859c6" group-title="USA Channels 🇺🇸",Lifetime HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3780
+https://dtv.vingt.qzz.io/dtv/3780/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/01d53c03-2779-480d-a5cc-635c8acede24" group-title="USA Channels 🇺🇸",Lionsgate Collection
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001618
+https://dtv.vingt.qzz.io/dtv/1001618/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/18ee6c13-d93a-4f79-bd02-21bd18b052a3" group-title="USA Channels 🇺🇸",Nickelodeon East HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8274
+https://dtv.vingt.qzz.io/dtv/8274/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/41a3b6f2-8fbd-416d-9c61-b150d4006711" group-title="USA Channels 🇺🇸",Nicktoons
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=302
+https://dtv.vingt.qzz.io/dtv/302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/35132820-6521-4eb9-9ccf-1dd42de1a5c3" group-title="USA Channels 🇺🇸",Paramount Network HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8245
+https://dtv.vingt.qzz.io/dtv/8245/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/0bba36e4-7802-43c0-ad3f-cc0ff064a518" group-title="USA Channels 🇺🇸",Paramount+ with SHOWTIME EAST HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1968
+https://dtv.vingt.qzz.io/dtv/1968/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/a78c644e-08a0-47d7-ada2-9d0251f556e8" group-title="USA Channels 🇺🇸",Paramount+ with SHOWTIME WEST HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8234
+https://dtv.vingt.qzz.io/dtv/8234/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/23e1c6f4-81ce-4cbd-948b-93619740b339" group-title="USA Channels 🇺🇸",SHOWTIME 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8252
+https://dtv.vingt.qzz.io/dtv/8252/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/a0652edf-0255-4cd0-b19a-3593673ea6f8" group-title="USA Channels 🇺🇸",Showtime Extreme HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=4263
+https://dtv.vingt.qzz.io/dtv/4263/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/6d7bde13-2992-4f23-8b3d-ec02eaa17d4f" group-title="USA Channels 🇺🇸",Showtime FamilyZone HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3705
+https://dtv.vingt.qzz.io/dtv/3705/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/4128313f-fce9-474d-b5fe-c709c4e1e07d" group-title="USA Channels 🇺🇸",Showtime Next HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3782
+https://dtv.vingt.qzz.io/dtv/3782/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/463bedb2-ce78-4c4e-9c3b-9b13fdee54cd" group-title="USA Channels 🇺🇸",Showtime Showcase HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=4224
+https://dtv.vingt.qzz.io/dtv/4224/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/42d7c5c9-84fb-4a90-b2b6-624e4cf46637" group-title="USA Channels 🇺🇸",STARZ Encore Action HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=6219
+https://dtv.vingt.qzz.io/dtv/6219/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/ecf02663-f12d-4e5b-954e-fcc64ed4c295" group-title="USA Channels 🇺🇸",STARZ Encore Black
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=531
+https://dtv.vingt.qzz.io/dtv/531/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/69429991-b95f-4bef-8d71-ff6ba44d1824" group-title="USA Channels 🇺🇸",STARZ Encore Classic
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=528
+https://dtv.vingt.qzz.io/dtv/528/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/f25513f5-3685-40aa-a172-c07265006b5b" group-title="USA Channels 🇺🇸",STARZ Encore Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=533
+https://dtv.vingt.qzz.io/dtv/533/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/676e4861-8f11-40d9-9285-a78455472b29" group-title="USA Channels 🇺🇸",STARZ Encore HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3777
+https://dtv.vingt.qzz.io/dtv/3777/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/0e89f29b-17a7-4e9e-8edd-bbe2de49cb56" group-title="USA Channels 🇺🇸",STARZ Encore Suspense
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=530
+https://dtv.vingt.qzz.io/dtv/530/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/3db92850-0314-4bd9-a517-7af91523d3ea" group-title="USA Channels 🇺🇸",STARZ Encore West
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=527
+https://dtv.vingt.qzz.io/dtv/527/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/c40a0cb8-8717-46e0-9920-c17cf6f5e124" group-title="USA Channels 🇺🇸",STARZ Encore Westerns
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=529
+https://dtv.vingt.qzz.io/dtv/529/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/ce82713c-0896-4d7a-a0f2-771ade24ec10" group-title="USA Channels 🇺🇸",Stories by AMC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001744
+https://dtv.vingt.qzz.io/dtv/1001744/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/f859a25e-eb37-4fde-bc34-612d415b8bb2" group-title="USA Channels 🇺🇸",SYFYHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8268
+https://dtv.vingt.qzz.io/dtv/8268/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/86528a42-ae4e-405c-8fae-c567c1ed70df" group-title="USA Channels 🇺🇸",TBS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8254
+https://dtv.vingt.qzz.io/dtv/8254/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/385801f7-606a-457d-8116-e1a73cf77484" group-title="USA Channels 🇺🇸",TBS West HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2603
+https://dtv.vingt.qzz.io/dtv/2603/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/d920e05c-e03f-449c-962a-a16bea9fb5a3" group-title="USA Channels 🇺🇸",TeenNick
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3504
+https://dtv.vingt.qzz.io/dtv/3504/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/3c10db4e-98ac-40c0-a301-661504f60588" group-title="USA Channels 🇺🇸",TNT HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1966
+https://dtv.vingt.qzz.io/dtv/1966/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/fb089f4f-0b1a-481c-adb1-d624884f51f2" group-title="USA Channels 🇺🇸",TNT West HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2602
+https://dtv.vingt.qzz.io/dtv/2602/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/1b10de5e-3e3b-488f-9740-bec197244114" group-title="USA Channels 🇺🇸",truTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1363
+https://dtv.vingt.qzz.io/dtv/1363/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/94f6ccab-c0c4-4011-b060-5f7205dc8528" group-title="USA Channels 🇺🇸",TUDN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2016
+https://dtv.vingt.qzz.io/dtv/2016/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/a22a1e02-fb9b-4d64-b9e8-2ce5eac89d6d" group-title="USA Channels 🇺🇸",TV Land HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=6213
+https://dtv.vingt.qzz.io/dtv/6213/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/214a502e-c54a-4b61-8904-b4ce37c1e38a" group-title="USA Channels 🇺🇸",USA Network HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8273
+https://dtv.vingt.qzz.io/dtv/8273/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/42fb56a2-5a5a-456c-8846-71f0941d0ea5" group-title="USA Channels 🇺🇸",Willow 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1003292
+https://dtv.vingt.qzz.io/dtv/1003292/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/c17cd3d2-0549-44f3-845b-0f39eb194ce4" group-title="USA Channels 🇺🇸",Willow HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3291
+https://dtv.vingt.qzz.io/dtv/3291/master.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
