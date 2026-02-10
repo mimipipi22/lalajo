@@ -1351,11 +1351,13 @@ https://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 #KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="TV5Monde.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/international/tv5monde.jpg" group-title="WORLD TV",TV5 MONDE ASIE
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/index.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mediampd/TV5Monde.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/TV5Monde/mediampd/TV5Monde.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/international/tv5mondeinfo.jpg" group-title="WORLD TV",TV5 MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
@@ -2539,7 +2541,8 @@ https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/Star Movies HD.png" group-title="MOVIES",STAR MOVIES
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=starmovies_raj
+http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&extension=ts&stream=1116488
+##http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=starmovies_raj
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9F_ME-A3fvVS5AFn8EJrhDHkZ8aItOZKyg&s" group-title="MOVIES",3rsSINEPINOY
 https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
@@ -4715,6 +4718,46 @@ http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 #EXTINF:-1 group-title="WORLD TV",CCTV Women's Fashion
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-name="Dragon TV" tvg-logo="https://live.fanmingming.cn/tv/Dragon TV.png" group-title="WORLD TV",Dragon TV
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="Jiangsu TV" tvg-logo="https://live.fanmingming.cn/tv/Jiangsu TV.png" group-title="WORLD TV",Jiangsu TV
+http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="Zhejiang TV" tvg-logo="https://live.fanmingming.cn/tv/浙卫视.png" group-title="WORLD TV",Zhejiang TV
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Beijing TV" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="WORLD TV",Beijing TV
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Shandong TV" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="WORLD TV",Shandong TV
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="WORLD TV",Sichuan TV
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="WORLD TV",Guangdong TV
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Shenzhen TV" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="WORLD TV",Shenzhen TV
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Heilongjiang TV" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="WORLD TV",Heilongjiang TV
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Jilin TV" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="WORLD TV",Jilin TV
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-name="Tianjin TV" tvg-logo="https://live.fanmingming.cn/tv/Tianjin TV.png" group-title="WORLD TV",Tianjin TV
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Hubei TV" tvg-logo="https://live.fanmingming.cn/tv/Hubei TV.png" group-title="WORLD TV",Hubei TV
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Jiangxi TV" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="WORLD TV",Jiangxi TV
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="WORLD TV", Shaanxi TV
+http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Guizhou TV" tvg-logo="https://live.fanmingming.cn/tv/Guizhou TV.png" group-title="WORLD TV",Guizhou TV
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Yunnan TV" tvg-logo="https://live.fanmingming.cn/tv/Yunnan TV.png" group-title="WORLD TV",Yunnan TV
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Guizhou TV" tvg-logo="https://live.fanmingming.cn/tv/Guizhou TV.png" group-title="WORLD TV",Guizhou TV
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Guangxi TV" tvg-logo="https://live.fanmingming.cn/tv/Guangxi TV.png" group-title="WORLD TV",Guangxi TV
+http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="Southeast TV" tvg-logo="https://live.fanmingming.cn/tv/Southeast TV.png" group-title="WORLD TV",Southeast TV
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
