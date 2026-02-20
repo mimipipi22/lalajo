@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-02-19 11:09:00 GMT+7 "
+# (●) Last Update: 2026-02-20 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -4849,6 +4849,8 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-r2.thebrag.com/mw/uploads/2023/03/Sky-News-3.jpg" group-title="NEWS",SKY NEWS NOW
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-r2.thebrag.com/mw/uploads/2023/03/Sky-News-3.jpg" group-title="NEWS",SKY UK
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
 https://jmp2.uk/stvp-USBB52000022Q
@@ -6733,12 +6735,126 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 http://slive.mana2.my/Tv6/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="MY 🇲🇾",NTV7
-http://103.209.159.198:8278/NTV7/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fc944fd715487ebee7f19eec4a3e88e1
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="MY 🇲🇾",TV8
-http://103.209.159.198:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="MY 🇲🇾",TV9
-http://103.209.159.198:8278/TV9/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=016e330c761512c534ea1b11ae0521d2
+#EXTINF:-1 tvg-id="107.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530" group-title="MY 🇲🇾",DidikTV KPM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Didik
+
+#EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9C66E114-6607-4EB2-9F11-DE0F25C161EE/0-16x9.png?width=530" group-title="MY 🇲🇾",8TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=8TV
+
+#EXTINF:-1 tvg-id="109.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=530" group-title="MY 🇲🇾",TV9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV9
+
+#EXTINF:-1 tvg-id="113.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1CE8DFF2-DF3E-4EFD-8D01-3D261D0890DD/0-16x9.png?width=530" group-title="MY 🇲🇾",Salam HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Salam
+https://service.samproject.my.id/unifi/Salam.mpd
+
+#EXTINF:-1 tvg-id="114.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F4935E21-02B4-4697-BEC4-671EB6034217/0-16x9.png?width=530" group-title="MY 🇲🇾",TV AlHijrah HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3665ce09fcb49229602d45d1d5be4d4:eb122760bbad018974689ce1372bce26
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=TVAL
+
+#EXTINF:-1 tvg-id="118.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=530" group-title="MY 🇲🇾",Inspirasi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Inspirasi
+https://service.samproject.my.id/unifi/Inspirasi.mpd
+
+#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=530" group-title="MY 🇲🇾",DEGUP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=DEGUP
+https://service.samproject.my.id/unifi/DEGUP.mpd
+
+#EXTINF:-1 tvg-id="121.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=530" group-title="MY 🇲🇾",SIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=SIAR
+https://service.samproject.my.id/unifi/SIAR.mpd
+
+#EXTINF:-1 tvg-id="122.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/2BE028DB-08C8-437F-BB78-93DEC3F03786/0-16x9.png?width=530" group-title="MY 🇲🇾",TVS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe6c43961ea8401e8e8bc211b1197961:b9ce7dc616a3987e2b8900ce44735b07
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=TVS
+
+#EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530" group-title="MY 🇲🇾",Dunia Sinema HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=DuniaSin
+https://service.samproject.my.id/unifi/DuniaSin.mpd
+
+#EXTINF:-1 tvg-id="141.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530" group-title="MY 🇲🇾",Pesona HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Pesona
+https://service.samproject.my.id/unifi/Pesona.mpd
+
+#EXTINF:-1 tvg-id="337.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/DD728749-B762-4F91-81F8-EA1016F97EF3/0-16x9.png?width=530" group-title="MY 🇲🇾",Zee Thirai
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd7282e920e5437a9b1f01bc6f81795c:99763370f0763b0f7119aab091cc70c8
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=ZeeThi
+
+#EXTINF:-1 tvg-id="303.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/BD814A07-3CF5-4686-B552-31FF782BB8F7/0-16x9.png?width=530" group-title="MY 🇲🇾",Sony YAY!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=582e9e382cb0495886afbabdbdb6fbf7:c0f550839b235443724cd007392b6e40
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=SonyYay
+https://service.samproject.my.id/unifi/SonyYay.mpd
+
+#EXTINF:-1 tvg-id="339.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/0331DB51-F701-463B-8C3D-67595A11BA8E/0-16x9.png?width=530" group-title="MY 🇲🇾",Zee Tamil HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e1831ba6f946568bdea62e67ca7317:f02c40d2006e036104f7726116861d7c
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=ZeeTamil
+
+#EXTINF:-1 tvg-id="338.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/80C77245-57B4-4DA8-8C30-4A0A2DB30D1B/0-16x9.png?width=530" group-title="MY 🇲🇾",Zee Cinema HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=22fdfcf5cb304eb6b2ebbecbca9c9d10:b7c4f0ab8bc0bd4deabe73cf75dfa537
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=ZeeCinema
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="MY 🇲🇾",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
@@ -6782,7 +6898,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 group-title="MY 🇲🇾" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sooka_Lawak_Sentral.png/640px-Sooka_Lawak_Sentral.png",LAWAK SENTRAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
-#EXTINF:-1, group-title="MY 🇲🇾" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png",DRAMA HEBAT
+#EXTINF:-1 group-title="MY 🇲🇾" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png",DRAMA HEBAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 #EXTINF:-1 tvg-id="" group-title="MY 🇲🇾" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",OH MY CERIA!
