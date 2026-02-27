@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-02-26 11:09:00 GMT+7 "
+# (●) Last Update: 2026-02-27 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -2229,6 +2229,9 @@ https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 group-title="ENTERTAINMENT",▂ ▃ ▅ ▇ █ ▓ ▒ ░ ENTERTAINMENT ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
+#EXTINF:-1 tvg-chno="11" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="ENTERTAINMENT",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="converge_cinemaworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vbSjb17-tobIRRVvzdiDREB-hJRO3zCHNA&s" group-title="ENTERTAINMENT",Cinemaworld 🇻🇳
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3355,26 +3358,39 @@ https://mimipipi22.github.io/logo/offline.m3u8
 #KODIPROP:inputstream.adaptive.license_key=92759381324a4a029bfdd8735ad838be:44d1cb234f114db40a31ce7371a042d4
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560909/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlytimewilltell.xyz:2086/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="WORLD TV",WABC (New York) ABC East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlytimewilltell.xyz:2086/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="WORLD TV",ABC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://stream.cammonitorplus.net/1813/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 http://supersonictv.live:8080/864072/196529/71676
 https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 https://e1.thetvapp.to/hls/WABCDT1/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlytimewilltell.xyz:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="WORLD TV",WCBS (New York) CBS East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlytimewilltell.xyz:2086/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="WORLD TV",ABC 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://stream.cammonitorplus.net/1814/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlytimewilltell.xyz:2086/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="WORLD TV",KMBC ABC 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://stream.cammonitorplus.net/1790/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlytimewilltell.xyz:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="WORLD TV",CBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://stream.cammonitorplus.net/1810/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 http://supersonictv.live:8080/864072/196529/71677
 https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
 https://e1.thetvapp.to/hls/WCBSDT1/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlytimewilltell.xyz:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="WORLD TV",WNBC (New York) NBC East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlytimewilltell.xyz:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="WORLD TV", NBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://stream.cammonitorplus.net/1842/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+http://stream.cammonitorplus.net/1812/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 http://supersonictv.live:8080/864072/196529/71679
 https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
 https://e1.thetvapp.to/hls/WNBCDT1/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="WORLD TV",WNYW (New York) FOX East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlytimewilltell.xyz:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="WORLD TV",FOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://stream.cammonitorplus.net/1772/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 http://supersonictv.live:8080/864072/196529/71678
 https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8
 https://e1.thetvapp.to/hls/WNYWDT1/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot
