@@ -2226,7 +2226,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_219/lg_channels/img/channel_logo/default/channel_logo.png" group-title="MOVIES",New Kmovies
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/source/kmovies.m3u8
 
 #EXTINF:-1 player-buffer="2" tvg-id="288.unifi" ch-number="288" tvg-name="HiYah" tvg-logo="https://get.perfecttv.net/logo/hiyah.png" group-title="MOVIES",Hi-Yah
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
@@ -2286,7 +2286,6 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_hd/default/index.mpd
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPYac/.m3u8
-
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -4302,18 +4301,17 @@ https://cdnone.vivamax.net/video/P02237_FF_FM_MECHANIC RESURRECTION/dash/hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=a97de619e5834e6da10c9bab768fc626:1452d46b8ecd87b38310ce90d4f5209f
 https://ocnmovies2-drm2-mcdn.tving.com/ocnmovies2_drm/live5000.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_234/lg_channels/img/channel_logo/default/channel_logo.png" group-title="EXTRAS",K-Drama
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/source/kdrama.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_008/lg_channels/img/channel_logo/default/channel_logo.png" group-title="EXTRAS",K-Drama+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://stream-us-east-1.getpublica.com/cl/260305d6khtsd5pjtrik8oahn0/1280x720_2142899_0_f.m3u8?i=586_425
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-drama%2B&channel_id=newid_008&mpf=c064f5f4-39af1962-156384b1&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=474ab4cb-5d47aa0a-84d0cbca-2a3730a6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/source/kdramaplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_009/lg_channels/img/default/channel_logo/channel_logo.png" group-title="EXTRAS",NEW KMOVIES
-https://stream-us-east-1.getpublica.com/cl/260305d6khuoign792mhuv94l0/1280x720_2230800_0_f.m3u8?i=586_595
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_009&mpf=b763c562-39af1962-52b174c4&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=00594230-f203384d-ebcd3217-8573a2e1&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/source/kmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_040/lg_channels/img/channel_logo/default/channel_logo.png" group-title="EXTRAS",@K-MUSIC
-https://stream-us-east-1.getpublica.com/cl/260305d6khvc1gpp5t1jif7atg/1280x720_2230800_0_f.m3u8?i=586_5468
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=%40k-music&channel_id=newid_040&mpf=aad3b8c2-39af1962-170d8a8e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=bae6e858-318865f3-1c09cb62-46f8ff5f&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/source/kmusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ActionHits_ChannelLogo_Horizontal.png" group-title="EXTRAS",Sony One | Action HITS
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
@@ -4343,6 +4341,13 @@ https://minsk-cache07t.voka.tv/live/6002-req_offset_28000000-req_window_0-1k_v5.
 https://minsk-cache07t.voka.tv/live/6003-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EXTRAS", VIP Serial HD
 https://minsk-cache07t.voka.tv/live/6004-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EXTRAS",TV1000
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=WoTe5_sOGZKSROZL-80Bdw&e=1773595460&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EXTRAS",TV1000 Action
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=kkDofz4ySaJxV3vcYh8JQg&e=1773595493&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EXTRAS",viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=c3-6_XA6KiCYQtKqzL42Og&e=1773595478&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 
 //========================================================================
@@ -5092,40 +5097,57 @@ http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV1
+http://58.245.255.38:8888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV2
+http://58.245.255.38:8888/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV3
+http://58.245.255.38:8888/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV4
+http://58.245.255.38:8888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV5
+http://58.245.255.38:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV6
+http://58.245.255.38:8888/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV7
+http://58.245.255.38:8888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV8
+http://58.245.255.38:8888/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV9
+http://58.245.255.38:8888/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV10
+http://58.245.255.38:8888/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV11
+http://58.245.255.38:8888/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV12
+http://58.245.255.38:8888/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV13
+http://58.245.255.38:8888/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV14
+http://58.245.255.38:8888/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV15
+http://58.245.255.38:8888/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV16
+http://58.245.255.38:8888/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV17
+http://58.245.255.38:8888/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV Weapon Technology
@@ -10247,6 +10269,186 @@ http://151.80.18.177:86/Canal_J_HD/index.m3u8
 http://151.80.18.177:86/LCI_HD/index.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 group-title="TRIAL",REN TV
+https://a3569457567-s70378.cdn.ngenix.net/ren_tv/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",NTV Pravo
+https://a3569457567-s70378.cdn.ngenix.net/ntv_pravo/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",NTV Serial
+https://a3569457567-s70378.cdn.ngenix.net/ntv_serial/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",National geographic
+https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Terra
+https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Ocean TV
+https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Tochka Russian Federation
+https://a3569457567-s70378.cdn.ngenix.net/hd_life/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",History
+https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",H2
+https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Wild
+https://a3569457567-s70378.cdn.ngenix.net/dikiy/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",RTG HD
+https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",DocuBox
+https://a3569457567-s70378.cdn.ngenix.net/docubox/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Galaxy
+https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Through the Eyes of a Tourist
+https://a3569457567-s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Travel+Adventure
+https://a3569457567-s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",The explorers
+https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Viasat Explore
+https://a3569457567-s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Viasat History
+https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Viasat Nature
+https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",365 Days
+https://a3569457567-s70378.cdn.ngenix.net/365_dney_tv/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Hollywood HD
+https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Amedia 1
+https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Amedia 2
+https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Amedia Hit
+https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Amedia Premium HD
+https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Bloomberg
+https://a3569457567-s70378.cdn.ngenix.net/bloomberg/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Shoghakat
+https://a3569457567-s70378.cdn.ngenix.net/shoghakat/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",.sci-fi
+https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",.Black
+https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Telecafe
+https://a3569457567-s70378.cdn.ngenix.net/telecafe/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Indian Cinema
+https://a3569457567-s70378.cdn.ngenix.net/india_tv/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",India
+https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Our New Cinema
+https://a3569457567-s70378.cdn.ngenix.net/nashe_novoe_kino/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Horror Movie
+https://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Film Series
+https://a3569457567-s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Film Date
+https://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Cinema House Premium
+https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
+
+#EXTINF:-1 group-title="TRIAL",TV3
+https://a3569457567-s70378.cdn.ngenix.net/tv_3/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",TV XXI
+https://a3569457567-s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",VIP Comedy
+https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",VIP Megahit
+https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",VIP Premiere
+https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",VIP Serial
+https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Vremia
+https://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",India
+#EXTINF:-1 group-title="TRIAL",Dom Kino
+https://a3569457567-s70378.cdn.ngenix.net/dom_kino/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Euronews
+https://a3569457567-s70378.cdn.ngenix.net/euronews/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Eurokino
+https://a3569457567-s70378.cdn.ngenix.net/evrokino/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",World of the Series
+https://a3569457567-s70378.cdn.ngenix.net/mir_seriala/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",FashionBox
+https://a3569457567-s70378.cdn.ngenix.net/fashion_box/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Filmbox
+https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Filmbox Arthouse
+https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Flixsnip
+https://a3569457567-s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Fox life
+https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Illusion+
+https://a3569457567-s70378.cdn.ngenix.net/illusion_plus/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Zoopark
+https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",h1
+https://a3569457567-s70378.cdn.ngenix.net/h1/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",h2
+https://a3569457567-s70378.cdn.ngenix.net/h2/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Izvestia
+https://a3569457567-s70378.cdn.ngenix.net/izvestiya/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Live
+https://a3569457567-s70378.cdn.ngenix.net/jivi/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",kinoman
+https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",KVN TV
+https://a3569457567-s70378.cdn.ngenix.net/kvn_tv/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Mir 24
+https://a3569457567-s70378.cdn.ngenix.net/mir_24/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Mir
+https://a3569457567-s70378.cdn.ngenix.net/mir/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Nostalgia
+https://a3569457567-s70378.cdn.ngenix.net/nostalgia/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",RBC
+https://a3569457567-s70378.cdn.ngenix.net/rbc/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",RTVI
+https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",shant serial
+https://a3569457567-s70378.cdn.ngenix.net/shant_serial/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",shant premium
+https://a3569457567-s70378.cdn.ngenix.net/shant_premium/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Dar21
+https://a3569457567-s70378.cdn.ngenix.net/dar21/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Mezzo
+https://a3569457567-s70378.cdn.ngenix.net/mezzo/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Muzzone
+https://a3569457567-s70378.cdn.ngenix.net/muzzone/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Shant Music
+https://a3569457567-s70378.cdn.ngenix.net/shant_music/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Baby TV
+https://a3569457567-s70378.cdn.ngenix.net/baby_tv/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Tiji
+https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",STS Kids
+https://a3569457567-s70378.cdn.ngenix.net/ctc_kids/1/index.m3u8
+
+#EXTINF:-1 group-title="TRIAL",Nickelodeon
+https://a3569457567-s70378.cdn.ngenix.net/nickelodeon/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Nicktoons
+https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Malysh
+https://a3569457567-s70378.cdn.ngenix.net/malish/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Gulli Girl
+https://a3569457567-s70378.cdn.ngenix.net/gulli/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Carousel
+https://a3569457567-s70378.cdn.ngenix.net/karusel/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Da Vinci
+https://a3569457567-s70378.cdn.ngenix.net/da_vinci/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Children's world
+https://a3569457567-s70378.cdn.ngenix.net/detskij_mir/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",UFC
+https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Viasat sport
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Boxing TV
+https://a3569457567-s70378.cdn.ngenix.net/boks_tv/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Match! Planet
+https://a3569457567-s70378.cdn.ngenix.net/match_planeta/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",KHL
+https://a3569457567-s70378.cdn.ngenix.net/kxl/1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",MMA-TV.com
+https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 
 
 
