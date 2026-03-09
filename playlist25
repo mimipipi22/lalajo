@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-03-05 11:09:00 GMT+7 "
+# (●) Last Update: 2026-03-09 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -168,7 +168,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/cnbcid.jpg" group-title="INDONESIA TV",CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBC.Indonesia.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/cnbcid.jpg" group-title="INDONESIA TV",	NESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SEA.Today.id" tvg-name="" tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="INDONESIA TV",SEA TODAY
@@ -209,6 +209,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/bntv.jpg" group-title="INDONESIA TV",BN TV
+#EXTVLCOPT:http-referrer=https://youtv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 
@@ -218,10 +219,16 @@ https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="JTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jtv.jpg" group-title="INDONESIA TV",JTV
 https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jawapost.jpg" group-title="INDONESIA TV",JAWAPOST TV
+http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8
+http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
+http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/magna.jpg" group-title="INDONESIA TV",MAGNA
@@ -1526,6 +1533,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelH
 #EXTINF:-1 tvg-id="Jakarta GlobeNews" tvg-name="Jakarta GlobeNews" tvg-logo="https://mimipipi22.github.io/logo/news/jakartaglobe.jpg" group-title="NEWS",JAKARTA GLOBE CHANNEL
 https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
+https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Astro.Awani.HD.my" tvg-name="Astro Awani" tvg-logo="https://mimipipi22.github.io/logo/news/astroawani.jpg" group-title="NEWS" ,ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -2267,6 +2275,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&url=https://www.asiancrush.com&genre=Documentary,Independent,Sci-Fi%20&%20Fantasy,Kids%20&%20Family,Drama,Romance,Comedy,Action%20&%20Adventure,Sports&ic=&us_privacy=1YNN&gdpr=0&gdpr_consent=0&did=vir_webe2f1f1c449b2b43d72e1a991a25f2666&dnt=1&coppa=0
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="ENTERTAINMENT",TNT MX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="ENTERTAINMENT",TNT (PXL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -4319,6 +4332,17 @@ https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/
 https://rasinetworks.in/live/rasimovieshd/index.mpd
 #EXTINF: -1  tvg-name="Rasi Hollywood" group-title="EXTRAS" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240408_0942518224615220455317164.png",Rasi Hollywood 
 https://rasinetworks.in/live/rasihollywoodhd/index.mpd
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EXTRAS", VIP Premiere
+https://minsk-cache07t.voka.tv/live/6001-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EXTRAS", VIP Megahit
+https://minsk-cache07t.voka.tv/live/6002-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EXTRAS", VIP Comedy
+https://minsk-cache07t.voka.tv/live/6003-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EXTRAS", VIP Serial HD
+https://minsk-cache07t.voka.tv/live/6004-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 
 //========================================================================
@@ -9880,6 +9904,351 @@ https://stream.heartline.co.id:8443/radio_yaski_stereo
 https://live.youngstersradio.com/listen/youngsters/stream
 #EXTINF:-1 group-title="RADIO INDONESIA" tvg-logo="https://z999fm.com/img/logo2.png",ID | Z 99.9 FM
 https://svara-stream.radioddns.net/jakarta_z999fm_aac
+
+
+//========================================================================
+🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> TEST
+//========================================================================
+
+#EXTINF:-1 group-title="TRIAL",USA_BEIN
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_HALLMARK
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_HBO2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_HBO_ZONE
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_LMN
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_STARZ
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_VICETV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_WE_TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_BTN
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_BOOMERANG
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_CARTOON_NETWORK
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_COMEDY_CENTRAL
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_COOKING
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_CRIME_INVESTIGATION
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
+#EXTINF:-1 group-title="TRIAL",USA_DISCOVERY
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="TRIAL",
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_DISNEY_XD
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="TRIAL",USA_FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+
+#EXTINF:-1 group-title="TRIAL",accnetwork
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 group-title="TRIAL",amc
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 group-title="TRIAL",animalplanet
+http://23.239.31.26:8989/animalplanet/index.m3u8
+#EXTINF:-1 group-title="TRIAL",axstv
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 group-title="TRIAL",BET
+http://212.102.60.231/BET/index.m3u8
+
+#EXTINF:-1 group-title="TRIAL",tlc
+http://89.105.221.127/tlc/mpegts?token=test
+#EXTINF:-1 group-title="TRIAL",Disney
+http://89.105.221.127/Disney/index.m3u8?token=test
+#EXTINF:-1 group-title="TRIAL",MLBNetwork
+http://89.105.221.127/MLBNetwork/mpegts?token=test
+#EXTINF:-1 group-title="TRIAL",HallmarkMM/
+http://89.105.221.127/HallmarkMM/index.m3u8?token=test
+#EXTINF:-1 group-title="TRIAL",TravelChannel
+http://89.105.221.127/TravelChannel/index.m3u8?token=test
+#EXTINF:-1 group-title="TRIAL",MeTV
+http://89.105.221.127/MeTV/index.m3u8?token=test
+#EXTINF:-1 group-title="TRIAL",AxsTV
+http://89.105.221.127/AxsTV/index.m3u8?token=test
+#EXTINF:-1 group-title="TRIAL",
+http://89.105.221.127/Oxygen/index.m3u8?token=test
+#EXTINF:-1 group-title="TRIAL",Oxygen
+http://89.105.221.127/nhl/index.m3u8?token=test
+#EXTINF:-1 group-title="TRIAL",MLBNetwork
+http://89.105.221.127/MLBNetwork/index.m3u8?token=test
+#EXTINF:-1 group-title="TRIAL",MSNBC
+http://89.105.221.127/MSNBC/index.m3u8?token=test
+#EXTINF:-1 group-title="TRIAL",FXMovies
+http://89.105.221.127/FXMovies/index.m3u8?token=test
+
+#EXTINF:-1 group-title="TRIAL",AandE
+http://41.205.93.154/AandE/index.m3u8
+#EXTINF:-1 group-title="TRIAL",LIFETIME
+http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="TRIAL",ABC
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 group-title="TRIAL",BETHER
+http://41.205.93.154/BETHER/index.m3u8
+#EXTINF:-1 group-title="TRIAL",BET
+http://89.105.221.127/BET/index.m3u8?token=test
+#EXTINF:-1 group-title="TRIAL",FOX49
+http://41.205.93.154/FOX49/index.m3u8
+#EXTINF:-1 group-title="TRIAL",NICKTOONS
+http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="TRIAL",CNBC
+http://41.205.93.154/CNBC/index.m3u8
+
+#EXTINF:-1 group-title="TRIAL",BOUNCE_TV
+http://212.102.60.231/BOUNCE_TV/index.m3u8
+
+#EXTINF:-1 group-title="TRIAL",bravo
+http://104.255.88.155/bravo/index.m3u8
+#EXTINF:-1 group-title="TRIAL",sundance
+http://104.255.88.155/sundance/index.m3u8
+#EXTINF:-1 group-title="TRIAL",paramount
+http://104.255.88.155/paramount/index.m3u8
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 group-title="TRIAL",3tv
+http://84.17.50.102/3tv/index.m3u8
+#EXTINF:-1 group-title="TRIAL",6ter HD
+http://84.17.50.102/6ter/index.m3u8
+#EXTINF:-1 group-title="TRIAL",7tv
+http://84.17.50.102/7tv/index.m3u8
+#EXTINF:-1 group-title="TRIAL",amc
+http://84.17.50.102/amc/index.m3u8
+#EXTINF:-1 group-title="TRIAL",animalplanet
+http://84.17.50.102/animalplanet/index.m3u8
+#EXTINF:-1 group-title="TRIAL",arte HD
+http://84.17.50.102/arte/index.m3u8
+#EXTINF:-1 group-title="TRIAL",bbcnews
+http://84.17.50.102/bbcnews/index.m3u8
+#EXTINF:-1 group-title="TRIAL",bfmtv HD
+http://84.17.50.102/bfmtv/index.m3u8
+#EXTINF:-1 group-title="TRIAL",bravo
+http://84.17.50.102/bravo/index.m3u8
+#EXTINF:-1 group-title="TRIAL",cartoonnetwork
+http://84.17.50.102/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="TRIAL",cbs
+http://84.17.50.102/cbs/index.m3u8
+#EXTINF:-1 group-title="TRIAL",cherie25
+http://84.17.50.102/cherie25/index.m3u8
+#EXTINF:-1 group-title="TRIAL",cnn
+http://84.17.50.102/cnn/index.m3u8
+#EXTINF:-1 group-title="TRIAL",cstar HD
+http://84.17.50.102/cstar/index.m3u8
+#EXTINF:-1 group-title="TRIAL",discovery
+http://84.17.50.102/discovery/index.m3u8
+#EXTINF:-1 group-title="TRIAL",disneychannel
+http://84.17.50.102/disneychannel/index.m3u8
+#EXTINF:-1 group-title="TRIAL",disneyjunior
+http://84.17.50.102/disneyjunior/index.m3u8
+#EXTINF:-1 group-title="TRIAL",disneyxd
+http://84.17.50.102/disneyxd/index.m3u8
+#EXTINF:-1 group-title="TRIAL",e
+http://84.17.50.102/e/index.m3u8
+#EXTINF:-1 group-title="TRIAL",espn HD
+http://84.17.50.102/espn/index.m3u8
+#EXTINF:-1 group-title="TRIAL",euronews HD
+http://84.17.50.102/euronews/index.m3u8
+#EXTINF:-1 group-title="TRIAL",foodnetwork
+http://84.17.50.102/foodnetwork/index.m3u8
+#EXTINF:-1 group-title="TRIAL",fox
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 group-title="TRIAL",foxnews
+http://84.17.50.102/foxnews/index.m3u8
+#EXTINF:-1 group-title="TRIAL",france2 HD
+http://84.17.50.102/france2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",france3 HD
+http://84.17.50.102/france3/index.m3u8
+#EXTINF:-1 group-title="TRIAL",france4 HD
+http://84.17.50.102/france4/index.m3u8
+#EXTINF:-1 group-title="TRIAL",france5 HD
+http://84.17.50.102/france5/index.m3u8
+#EXTINF:-1 group-title="TRIAL",gtv
+http://84.17.50.102/gtv/index.m3u8
+#EXTINF:-1 group-title="TRIAL",gulli
+http://84.17.50.102/gulli/index.m3u8
+#EXTINF:-1 group-title="TRIAL",hgtv
+http://84.17.50.102/hgtv/index.m3u8
+#EXTINF:-1 group-title="TRIAL",history
+http://84.17.50.102/history/index.m3u8
+#EXTINF:-1 group-title="TRIAL",i24news
+http://84.17.50.102/i24news/index.m3u8
+#EXTINF:-1 group-title="TRIAL",k24
+http://84.17.50.102/k24/index.m3u8
+#EXTINF:-1 group-title="TRIAL",mtv
+http://84.17.50.102/mtv/index.m3u8
+#EXTINF:-1 group-title="TRIAL",natgeowild HD
+http://84.17.50.102/natgeowild/index.m3u8
+#EXTINF:-1 group-title="TRIAL",nationalgeographic
+http://84.17.50.102/nationalgeographic/index.m3u8
+#EXTINF:-1 group-title="TRIAL",nbatv
+http://84.17.50.102/nbatv/index.m3u8
+#EXTINF:-1 group-title="TRIAL",nhkworld
+http://84.17.50.102/nhkworld/index.m3u8
+#EXTINF:-1 group-title="TRIAL",nickelodeon
+http://84.17.50.102/nickelodeon/index.m3u8
+#EXTINF:-1 group-title="TRIAL",nickjr
+http://84.17.50.102/nickjr/index.m3u8
+#EXTINF:-1 group-title="TRIAL",nicktoons
+http://84.17.50.102/nicktoons/index.m3u8
+#EXTINF:-1 group-title="TRIAL",realityking HD
+http://84.17.50.102/realityking/index.m3u8
+#EXTINF:-1 group-title="TRIAL",rmcdecouverte HD
+http://84.17.50.102/rmcdecouverte/index.m3u8
+#EXTINF:-1 group-title="TRIAL",rtd
+http://84.17.50.102/rtd/index.m3u8
+#EXTINF:-1 group-title="TRIAL",rtg HD
+http://84.17.50.102/rtg/index.m3u8
+#EXTINF:-1 group-title="TRIAL",rtl9 HD
+http://84.17.50.102/rtl9/index.m3u8
+#EXTINF:-1 group-title="TRIAL",rts1 HD
+http://84.17.50.102/rts1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",rts2 HD
+http://84.17.50.102/rts2/index.m3u8
+#EXTINF:-1 group-title="TRIAL",russiatoday HD
+http://84.17.50.102/russiatoday/index.m3u8
+#EXTINF:-1 group-title="TRIAL",starz
+http://84.17.50.102/starz/index.m3u8
+#EXTINF:-1 group-title="TRIAL",tf1 HD
+http://84.17.50.102/tf1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",tiji
+http://84.17.50.102/tiji/index.m3u8
+#EXTINF:-1 group-title="TRIAL",tlc
+http://84.17.50.102/tlc/index.m3u8
+#EXTINF:-1 group-title="TRIAL",tmc
+http://84.17.50.102/tmc/index.m3u8
+#EXTINF:-1 group-title="TRIAL",tnt
+http://84.17.50.102/tnt/index.m3u8
+#EXTINF:-1 group-title="TRIAL",travel
+http://84.17.50.102/travel/index.m3u8
+#EXTINF:-1 group-title="TRIAL",tv3
+http://84.17.50.102/tv3/index.m3u8
+#EXTINF:-1 group-title="TRIAL",vh1
+http://84.17.50.102/vh1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",w9
+http://84.17.50.102/w9/index.m3u8
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 group-title="TRIAL",France 2 HD
+http://151.80.18.177:86/France_2_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",France 3 HD
+http://151.80.18.177:86/France_3_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",France 4 HD
+http://151.80.18.177:86/France_4_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",France 5 HD
+http://151.80.18.177:86/France_5_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Canal+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Canal+ Cinema HD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Canal+ Family
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Comedie+ HD
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",13EME RUE
+http://151.80.18.177:86/13_Eme_Rue_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",TCM Cinema
+http://151.80.18.177:86/TCM_Cinema_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Serie Club
+http://151.80.18.177:86/Serie_Club_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Cine+ Famiz
+http://151.80.18.177:86/Cine+_Famiz_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Cine+ Emotion HD
+http://151.80.18.177:86/Cine+_Emotion_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Cine+ Classic
+http://151.80.18.177:86/Cine+_Classic_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",ARTE HD
+http://151.80.18.177:86/ARTE_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Paris Premiere HD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",AB1 HD
+http://151.80.18.177:86/AB1/index.m3u8
+#EXTINF:-1 group-title="TRIAL",RTL 9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1 group-title="TRIAL",TF1 HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Teva HD
+http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Animaux
+http://151.80.18.177:86/Animaux/index.m3u8
+#EXTINF:-1 group-title="TRIAL",National Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Discovery HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",RMC DECOUVERDE
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Planete+
+http://151.80.18.177:86/Planete+_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Planete+ A&E
+http://151.80.18.177:86/Planete+_AE_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Planete+ CI
+http://151.80.18.177:86/Planete+_CI_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",6TER HD
+http://151.80.18.177:86/6ter/index.m3u8
+#EXTINF:-1 group-title="TRIAL",M6 HD
+http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",W9 HD
+http://151.80.18.177:86/W9_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",NRJ12 HD
+http://151.80.18.177:86/NRJ_12_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",TRACE URBAN
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",D17 CSTAR HD
+http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Infosport+
+http://151.80.18.177:86/Infosport+_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Teletoon+ HD
+http://151.80.18.177:86/Teletoon+_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Piwi+
+http://151.80.18.177:86/Piwi+_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Disney HD
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Disney JR HD
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Tiji HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",Canal J
+http://151.80.18.177:86/Canal_J_HD/index.m3u8
+#EXTINF:-1 group-title="TRIAL",LCI HD
+http://151.80.18.177:86/LCI_HD/index.m3u8
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
