@@ -2,7 +2,7 @@
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-01-01 11:09:00 GMT+7 "
+# (●) Last Update: 2026-01-06 11:09:00 GMT+7 "
 # (●) Service: Playlist25
 # (●) Total Channels: Null
 
@@ -555,7 +555,8 @@ https://tv.iill.top/4gtv/4gtv-live124
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="Celestial Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/celestialmovies.jpg" group-title="MOVIES",CELESTIAL MOVIES
-https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+##https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
@@ -602,11 +603,11 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index
 #EXTINF:-1 tvg-id="ZBioskop.id" tvg-name="Z Bioskop" tvg-logo="https://mimipipi22.github.io/logo/movies/zbioskop.jpg" group-title="MOVIES",Z BIOSKOP
 https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Citra.Bioskop.id" tvg-name="Citra Bioskop" tvg-logo="https://mimipipi22.github.io/logo/movies/citrabioskop.jpg" group-title="MOVIES",CITRA BIOSKOP
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
+##https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
 http://202.169.224.202:8800/udp/239.9.1.15:1234
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -792,8 +793,8 @@ https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-id="Maxstream.id" tvg-name="Maxstream" tvg-logo="https://mimipipi22.github.io/logo/entertainment/maxstream.jpg" group-title="ENTERTAINMENT",MAXSTREAM
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -804,13 +805,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/pdBP8nkd/ezgif-8520dcdbeeb04407.png",MAX EATS
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg",MAX EATS
 https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/c4d2g52Y/ezgif-89bcd41b153d08ab.png",MAX STREAK
-https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
@@ -894,10 +890,12 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
 #EXTINF:-1 tvg-id="Sportstars.3.id" tvg-name="Sportstars 3" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars3.jpg" group-title="SPORTS",SPORTSTARS 3
-##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 ##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 ##https://fta4-cdn-flr.visionplus.id/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 
@@ -1151,6 +1149,11 @@ https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIU
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Prambors.id" tvg-name="Prambors" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="SPORTS",MAX SPORT
 https://cdn10jtedge.indihometv.com/atm/DASH/useesport/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg",MAX STREAK
+https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="WSport.my" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="SPORTS",W-SPORTS
@@ -2229,8 +2232,7 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/Star Movies HD.png" group-title="MOVIES",STAR MOVIES
-http://107.175.220.4:11799/starmovies_raj/playlist.m3u8
-##http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=starmovies_raj
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/starmovies/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9F_ME-A3fvVS5AFn8EJrhDHkZ8aItOZKyg&s" group-title="MOVIES",3rsSINEPINOY
 https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
@@ -2721,6 +2723,18 @@ https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://spstr.abntv.live/hls/psstream.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/330px-UNIVERSO_LOGO_color_black.png" group-title="LIGA BOLA DUNIA",UNIVERSO EAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/330px-UNIVERSO_LOGO_color_black.png" group-title="LIGA BOLA DUNIA",UNIVERSO WEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -9118,8 +9132,245 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> DRAGON SPORTS
+🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> LATIN
 //========================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",HBO
+https://canaiss.fazoeli.co.za/fontes/smart/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",HBO 2
+https://canaiss.fazoeli.co.za/fontes/smart/hbo2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",HBO Family
+https://canaiss.fazoeli.co.za/fontes/smart/hbofamily.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",HBO Mundi
+https://canaiss.fazoeli.co.za/fontes/smart/hbomundi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",HBO Pop
+https://canaiss.fazoeli.co.za/fontes/smart/hbopop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",HBO Xtreme
+https://canaiss.fazoeli.co.za/fontes/smart/hboxtreme.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",HBO Plus
+https://canaiss.fazoeli.co.za/fontes/smart/hboplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",TCM
+https://canaiss.fazoeli.co.za/fontes/smart/tcm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Space
+https://canaiss.fazoeli.co.za/fontes/smart/space.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Cinemax
+https://canaiss.fazoeli.co.za/fontes/smart/cinemax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Megapix
+https://canaiss.fazoeli.co.za/fontes/smart/megapix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Studio Universal
+https://canaiss.fazoeli.co.za/fontes/smart/studiouniversal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Curta!
+https://canaiss.fazoeli.co.za/fontes/smart/curta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Telecine Fun
+https://canaiss.fazoeli.co.za/fontes/smart/telecinefun.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Telecine Touch
+https://canaiss.fazoeli.co.za/fontes/smart/telecinetouch.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Telecine Cult
+https://canaiss.fazoeli.co.za/fontes/smart/telecinecult.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Telecine Action
+https://canaiss.fazoeli.co.za/fontes/smart/telecineaction.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Telecine Premium
+https://canaiss.fazoeli.co.za/fontes/smart/telecinepremium.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Telecine Pipoca
+https://canaiss.fazoeli.co.za/fontes/smart/telecinepipoca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Warner Channel
+https://canaiss.fazoeli.co.za/fontes/smart/warnerchannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",TNT
+https://canaiss.fazoeli.co.za/fontes/smart/tnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",TNT Novelas
+https://canaiss.fazoeli.co.za/fontes/smart/tntnovelas.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",AXN
+https://canaiss.fazoeli.co.za/fontes/smart/axn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Sony Channel
+https://canaiss.fazoeli.co.za/fontes/smart/sonychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Universal TV
+https://canaiss.fazoeli.co.za/fontes/smart/universaltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",A&E
+https://canaiss.fazoeli.co.za/fontes/smart/ae.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",TNT Series
+https://canaiss.fazoeli.co.za/fontes/smart/tntseries.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",AMC
+https://canaiss.fazoeli.co.za/fontes/smart/amc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Gloob
+https://canaiss.fazoeli.co.za/fontes/smart/gloob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Cartoon Network
+https://canaiss.fazoeli.co.za/fontes/smart/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Cartoonito
+https://canaiss.fazoeli.co.za/fontes/smart/cartoonito.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Discovery Kids
+https://canaiss.fazoeli.co.za/fontes/smart/discoverykids.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",24h Simpsons
+https://canaiss.fazoeli.co.za/fontes/smart/24h_simpsons.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",24h Dragon Ball
+https://canaiss.fazoeli.co.za/fontes/smart/24h_dragonball.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",24h Todo Mundo Odeia o Chris
+https://canaiss.fazoeli.co.za/fontes/smart/24h_odeiachris.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Adult Swim
+https://canaiss.fazoeli.co.za/fontes/smart/adultswim.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Nickelodeon
+https://canaiss.fazoeli.co.za/fontes/smart/nickelodeon.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Discovery Channel
+https://canaiss.fazoeli.co.za/fontes/smart/discoverychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Animal Planet
+https://canaiss.fazoeli.co.za/fontes/smart/animalplanet.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",History
+https://canaiss.fazoeli.co.za/fontes/smart/history.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",History 2
+https://canaiss.fazoeli.co.za/fontes/smart/history2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Food Network
+https://canaiss.fazoeli.co.za/fontes/smart/foodnetwork.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",TLC
+https://canaiss.fazoeli.co.za/fontes/smart/tlc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",HGTV
+https://canaiss.fazoeli.co.za/fontes/smart/hgtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Discovery H&H
+https://canaiss.fazoeli.co.za/fontes/smart/discoveryhh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Investigation Discovery
+https://canaiss.fazoeli.co.za/fontes/smart/discoveryid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Discovery Science
+https://canaiss.fazoeli.co.za/fontes/smart/discoveryscience.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Discovery World
+https://canaiss.fazoeli.co.za/fontes/smart/discoveryworld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Discovery Turbo
+https://canaiss.fazoeli.co.za/fontes/smart/discoveryturbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BBB CAN 1
+https://canaiss.fazoeli.co.za/fontes/smart/bbb1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BBB CAN 2
+https://canaiss.fazoeli.co.za/fontes/smart/bbb2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BBB CAN 3
+https://canaiss.fazoeli.co.za/fontes/smart/bbb3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BBB CAN 4
+https://canaiss.fazoeli.co.za/fontes/smart/bbb4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BBB CAN 5
+https://canaiss.fazoeli.co.za/fontes/smart/bbb5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BBB CAN 6
+https://canaiss.fazoeli.co.za/fontes/smart/bbb6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BBB CAN 7
+https://canaiss.fazoeli.co.za/fontes/smart/bbb7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BBB CAN 8
+https://canaiss.fazoeli.co.za/fontes/smart/bbb8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BBB CAN 9
+https://canaiss.fazoeli.co.za/fontes/smart/bbb9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BBB CAN 10
+https://canaiss.fazoeli.co.za/fontes/smart/bbb10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BBB Mosaico
+https://canaiss.fazoeli.co.za/fontes/smart/bbbmosaico.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Multishow
+https://canaiss.fazoeli.co.za/fontes/smart/multishow.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",BIS
+https://canaiss.fazoeli.co.za/fontes/smart/bis.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Viva
+https://canaiss.fazoeli.co.za/fontes/smart/viva.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",OFF
+https://canaiss.fazoeli.co.za/fontes/smart/off.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",GNT
+https://canaiss.fazoeli.co.za/fontes/smart/gnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Arte 1
+https://canaiss.fazoeli.co.za/fontes/smart/arte1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",TV Cultura
+https://canaiss.fazoeli.co.za/fontes/smart/cultura.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Globo News
+https://canaiss.fazoeli.co.za/fontes/smart/globonews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",CNN Brasil
+https://canaiss.fazoeli.co.za/fontes/smart/cnnbrasil.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Band News
+https://canaiss.fazoeli.co.za/fontes/smart/bandnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Record News
+https://canaiss.fazoeli.co.za/fontes/smart/recordnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Globo SP
+https://canaiss.fazoeli.co.za/fontes/smart/globosp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Globo RJ
+https://canaiss.fazoeli.co.za/fontes/smart/globorj.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Globo MG
+https://canaiss.fazoeli.co.za/fontes/smart/globomg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Globo RS
+https://canaiss.fazoeli.co.za/fontes/smart/globors.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",SBT
+https://canaiss.fazoeli.co.za/fontes/smart/sbt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Band
+https://canaiss.fazoeli.co.za/fontes/smart/band.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Record TV
+https://canaiss.fazoeli.co.za/fontes/smart/record.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",RedeTV!
+https://canaiss.fazoeli.co.za/fontes/smart/redetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",TV Brasil
+https://canaiss.fazoeli.co.za/fontes/smart/tvbrasil.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",TV Aparecida
+https://canaiss.fazoeli.co.za/fontes/smart/aparecida.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Globo ES
+https://canaiss.fazoeli.co.za/fontes/smart/globoes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",TV Gazeta
+https://canaiss.fazoeli.co.za/fontes/smart/tvgazeta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Globo AM
+https://canaiss.fazoeli.co.za/fontes/smart/globoam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",SporTV
+https://canaiss.fazoeli.co.za/fontes/smart/sportv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",SporTV 2
+https://canaiss.fazoeli.co.za/fontes/smart/sportv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",SporTV 3
+https://canaiss.fazoeli.co.za/fontes/smart/sportv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",SporTV 1 pt
+https://canaiss.fazoeli.co.za/fontes/smart/pt_sportv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",SporTV 1 pt
+https://canaiss.fazoeli.co.za/fontes/smart/pt_sportv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",SporTV 3 pt
+https://canaiss.fazoeli.co.za/fontes/smart/pt_sportv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",SporTV 4 pt
+https://canaiss.fazoeli.co.za/fontes/smart/pt_sportv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",SporTV 5 pt
+https://canaiss.fazoeli.co.za/fontes/smart/pt_sportv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",SporTV 6 pt
+https://canaiss.fazoeli.co.za/fontes/smart/pt_sportv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",SporTV 7 pt
+https://canaiss.fazoeli.co.za/fontes/smart/pt_sportv7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Dazn Eleven 1 pt
+https://canaiss.fazoeli.co.za/fontes/smart/pt_eleven3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Dazn Eleven 2 pt
+https://canaiss.fazoeli.co.za/fontes/smart/pt_eleven2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Dazn Eleven 3 pt
+https://canaiss.fazoeli.co.za/fontes/smart/pt_eleven3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",ESPN
+https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",ESPN 2
+https://canaiss.fazoeli.co.za/fontes/smart/espn2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",ESPN 3
+https://canaiss.fazoeli.co.za/fontes/smart/espn3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",ESPN 4
+https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",ESPN 5
+https://canaiss.fazoeli.co.za/fontes/smart/espn5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",ESPN 6
+https://canaiss.fazoeli.co.za/fontes/smart/espn6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Premiere
+https://canaiss.fazoeli.co.za/fontes/smart/premiere.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Premiere 2
+https://canaiss.fazoeli.co.za/fontes/smart/premiere2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Premiere 3
+https://canaiss.fazoeli.co.za/fontes/smart/premiere3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Premiere 4
+https://canaiss.fazoeli.co.za/fontes/smart/premiere4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Premiere 5
+https://canaiss.fazoeli.co.za/fontes/smart/premiere5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Premiere 6
+https://canaiss.fazoeli.co.za/fontes/smart/premiere6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Premiere 7
+https://canaiss.fazoeli.co.za/fontes/smart/premiere7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Premiere 8
+https://canaiss.fazoeli.co.za/fontes/smart/premiere8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Combate
+https://canaiss.fazoeli.co.za/fontes/smart/combate.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Band Sports
+https://canaiss.fazoeli.co.za/fontes/smart/bandsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Benfica TV pt
+https://canaiss.fazoeli.co.za/fontes/smart/pt_benficatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Caze 1
+https://canaiss.fazoeli.co.za/fontes/smart/caze1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",XSports
+https://canaiss.fazoeli.co.za/fontes/smart/xsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Playboy TV
+https://canaiss.fazoeli.co.za/fontes/smart/playboy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Sexy Hot
+https://canaiss.fazoeli.co.za/fontes/smart/sexyhot.m3u8
 
 
 
