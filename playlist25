@@ -3669,14 +3669,25 @@ https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",MBC2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
-https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+#EXTINF:-1 tvg-id="mbc action" tvg-name="mbc action" tvg-logo="" group-title="WORLD TV",MBC ACTION
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="WORLD TV",MBC Max HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+#EXTINF:-1 tvg-id="mbc 2" tvg-name="mbc 2" tvg-logo="" group-title="WORLD TV",MBC 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+#EXTINF:-1 tvg-id="mbc max" tvg-name="mbc max" tvg-logo="" group-title="WORLD TV",MBC MAX
+#https://neacdnpop3-edge02.aws.playco.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd
 https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
@@ -9467,11 +9478,6 @@ https://canaiss.fazoeli.co.za/fontes/smart/pt_benficatv.m3u8
 https://canaiss.fazoeli.co.za/fontes/smart/caze1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",XSports
 https://canaiss.fazoeli.co.za/fontes/smart/xsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Playboy TV
-https://canaiss.fazoeli.co.za/fontes/smart/playboy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATIN",Sexy Hot
-https://canaiss.fazoeli.co.za/fontes/smart/sexyhot.m3u8
-
 
 
 //========================================================================
