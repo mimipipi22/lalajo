@@ -1303,8 +1303,9 @@ http://212.102.60.231/NBA_TV/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pidio.becek.workers.dev/21178.drm
-https://pidio.becek.workers.dev/21178.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21178&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=21178&type=dash
+#https://pidio.becek.workers.dev/21178.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
